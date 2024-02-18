@@ -6,8 +6,8 @@ A growing collection of data scrapers that collect information about the locatio
 |Company|Locations*|Formats|
 |:---  |---: |:---  |
 |[Abercrombie & Fitch](https://github.com/stiles/locations/tree/main/abercrombie-fitch)|223|[CSV](https://github.com/stiles/locations/blob/main/abercrombie-fitch/data/processed/abercrombie_fitch_locations.csv), [GeoJSON](https://github.com/stiles/locations/blob/main/abercrombie-fitch/data/processed/abercrombie_fitch_locations.geojson)|
-|[Aldi](https://github.com/stiles/locations/tree/main/apple-stores)|2,357|[CSV](), [GeoJSON]()|
-|[Apple Stores](https://github.com/stiles/locations/tree/main/apple-stores)|526|[CSV](), [GeoJSON]()|
+|[Aldi](https://github.com/stiles/locations/tree/main/aldi)|2,362|[CSV](https://github.com/stiles/locations/blob/main/aldi/data/processed/aldi_locations.csv), [GeoJSON](https://github.com/stiles/locations/blob/main/aldi/data/processed/aldi_locations.geojson)|
+|[Apple Stores](https://github.com/stiles/locations/tree/main/apple-stores)|526|[CSV](https://github.com/stiles/locations/blob/main/apple-stores/data/processed/apple_store_locations.csv), [GeoJSON](https://github.com/stiles/locations/blob/main/apple-stores/data/processed/apple_store_locations.geojson)|
 |[Au Bon Pain](https://github.com/stiles/locations/tree/main/au-bon-pain)|71|[CSV](), [GeoJSON]()|
 |[Bank of America](https://github.com/stiles/locations/tree/main/bank-of-america)|6,066|[CSV](), [GeoJSON]()|
 |[Carl's Jr.](https://github.com/stiles/locations/tree/main/carls-jr)|1,026|[CSV](), [GeoJSON]()|

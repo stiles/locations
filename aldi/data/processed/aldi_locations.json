@@ -1274,6 +1274,26 @@
         "url":"https:\/\/stores.aldi.us\/ne\/lincoln\/8701-s-28th-street"
     },
     {
+        "store_id":"U4273",
+        "store_no":"81",
+        "longitude":"-96.68175925908517",
+        "latitude":"40.723945622438734",
+        "address":"477 VFW Memorial Drive",
+        "city":"St. Robert",
+        "state":"MO",
+        "zipcode":"65584",
+        "opened":"03\/13\/2024",
+        "timezone":"America\/Chicago",
+        "tags":[
+            "Parking Lot",
+            "Beer",
+            "Wine",
+            "Curbside",
+            "Delivery"
+        ],
+        "url":"https:\/\/stores.aldi.us\/mo\/st.-robert\/477-vfw-memorial-drive"
+    },
+    {
         "store_id":"U0892",
         "store_no":"40",
         "longitude":"-95.94357030233368",
@@ -3098,7 +3118,7 @@
         "longitude":"-90.33968836069107",
         "latitude":"38.51423738350061",
         "address":"11185 South Towne Square",
-        "city":"St. Louis",
+        "city":"Green Park",
         "state":"MO",
         "zipcode":"63123",
         "opened":"11\/4\/2021",
@@ -3110,7 +3130,7 @@
             "Curbside",
             "Delivery"
         ],
-        "url":"https:\/\/stores.aldi.us\/mo\/st.-louis\/11185-south-towne-square"
+        "url":"https:\/\/stores.aldi.us\/mo\/green-park\/11185-south-towne-square"
     },
     {
         "store_id":"U1539",
@@ -3705,20 +3725,16 @@
         "store_no":"65",
         "longitude":"-89.930916",
         "latitude":"38.5194822",
-        "address":"1805 Carlyle Avenue",
+        "address":"1805 Carlyle Ave",
         "city":"Belleville",
         "state":"IL",
         "zipcode":"62221",
         "opened":"02\/14\/2024",
         "timezone":"America\/Chicago",
         "tags":[
-            "Parking Lot",
-            "Beer",
-            "Wine",
-            "Curbside",
-            "Delivery"
+            "Parking Lot"
         ],
-        "url":"https:\/\/stores.aldi.us\/il\/belleville\/1805-carlyle-avenue"
+        "url":"https:\/\/stores.aldi.us\/il\/belleville\/1805-carlyle-ave"
     },
     {
         "store_id":"U2845",
@@ -7194,8 +7210,8 @@
     {
         "store_id":"U4240",
         "store_no":"89",
-        "longitude":"-88.18189129999999",
-        "latitude":"41.9876359",
+        "longitude":"-88.1819771",
+        "latitude":"41.9878113",
         "address":"200 E Devon",
         "city":"Bartlett",
         "state":"IL",
@@ -7694,7 +7710,7 @@
         "address":"13145 Lagrange Road",
         "city":"Orland Park",
         "state":"IL",
-        "zipcode":"60467",
+        "zipcode":"60462",
         "opened":"11\/17\/2016",
         "timezone":"America\/Chicago",
         "tags":[
@@ -9380,6 +9396,23 @@
         "url":"https:\/\/stores.aldi.us\/il\/chicago\/800-n-kedzie-ave"
     },
     {
+        "store_id":"U4136",
+        "store_no":"83",
+        "longitude":"-87.70844731006036",
+        "latitude":"41.8967428553107",
+        "address":"3930 N. Kilpatrick",
+        "city":"Chicago",
+        "state":"IL",
+        "zipcode":"60641",
+        "opened":"03\/07\/2024",
+        "timezone":"America\/Chicago",
+        "tags":[
+            "Parking Lot",
+            "Delivery"
+        ],
+        "url":"https:\/\/stores.aldi.us\/il\/chicago\/3930-n-kilpatrick"
+    },
+    {
         "store_id":"U0505",
         "store_no":"30",
         "longitude":"-87.72877194802277",
@@ -10808,7 +10841,7 @@
         "longitude":"-93.16410772745645",
         "latitude":"45.15416826713355",
         "address":"10216 Lexington Ave NE",
-        "city":"Blaine",
+        "city":"Circle Pines",
         "state":"MN",
         "zipcode":"55014",
         "opened":"12\/10\/2015",
@@ -10818,7 +10851,7 @@
             "Curbside",
             "Delivery"
         ],
-        "url":"https:\/\/stores.aldi.us\/mn\/blaine\/10216-lexington-ave-ne"
+        "url":"https:\/\/stores.aldi.us\/mn\/circle-pines\/10216-lexington-ave-ne"
     },
     {
         "store_id":"U2789",
@@ -11394,6 +11427,8 @@
         "timezone":"America\/Chicago",
         "tags":[
             "Parking Lot",
+            "Beer",
+            "Wine",
             "Curbside",
             "Delivery"
         ],
@@ -12854,6 +12889,7 @@
             "Parking Lot",
             "Beer",
             "Wine",
+            "Curbside",
             "Delivery"
         ],
         "url":"https:\/\/stores.aldi.us\/in\/greenwood\/1595-us-31-s"
@@ -16627,10 +16663,10 @@
     {
         "store_id":"U1289",
         "store_no":"41",
-        "longitude":"-84.4208281",
-        "latitude":"39.2527399",
+        "longitude":"-84.4208550453186",
+        "latitude":"39.252515208444336",
         "address":"10400 Reading Rd",
-        "city":"Evendale",
+        "city":"Cincinnati",
         "state":"OH",
         "zipcode":"45241",
         "opened":"9\/27\/2007",
@@ -16641,7 +16677,7 @@
             "Wine",
             "Delivery"
         ],
-        "url":"https:\/\/stores.aldi.us\/oh\/evendale\/10400-reading-rd"
+        "url":"https:\/\/stores.aldi.us\/oh\/cincinnati\/10400-reading-rd"
     },
     {
         "store_id":"U0738",
@@ -16756,6 +16792,26 @@
             "Delivery"
         ],
         "url":"https:\/\/stores.aldi.us\/tx\/abilene\/4765-southwest-dr"
+    },
+    {
+        "store_id":"U4218",
+        "store_no":"102",
+        "longitude":"-99.7867034391837",
+        "latitude":"32.40617329234974",
+        "address":"14050 Edgerton Ave.",
+        "city":"Cedar Springs",
+        "state":"MI",
+        "zipcode":"49319",
+        "opened":"03\/20\/2024",
+        "timezone":"America\/Detroit",
+        "tags":[
+            "Parking Lot",
+            "Beer",
+            "Wine",
+            "Curbside",
+            "Delivery"
+        ],
+        "url":"https:\/\/stores.aldi.us\/mi\/cedar-springs\/14050-edgerton-ave"
     },
     {
         "store_id":"U1794",
@@ -19271,6 +19327,26 @@
         "url":"https:\/\/stores.aldi.us\/oh\/columbus\/2395-silver-dr"
     },
     {
+        "store_id":"U2832",
+        "store_no":"24",
+        "longitude":"-82.99542725086212",
+        "latitude":"40.01268945749977",
+        "address":"3235 Owen Rd",
+        "city":"Fenton",
+        "state":"MI",
+        "zipcode":"48430",
+        "opened":"03\/20\/2024",
+        "timezone":"America\/Detroit",
+        "tags":[
+            "Parking Lot",
+            "Beer",
+            "Wine",
+            "Curbside",
+            "Delivery"
+        ],
+        "url":"https:\/\/stores.aldi.us\/mi\/fenton\/3235-owen-rd"
+    },
+    {
         "store_id":"U3178",
         "store_no":"33",
         "longitude":"-82.9738090329443",
@@ -20087,6 +20163,7 @@
             "Parking Lot",
             "Beer",
             "Wine",
+            "Curbside",
             "Delivery"
         ],
         "url":"https:\/\/stores.aldi.us\/mi\/dearborn-heights\/24130-van-born"
@@ -20408,6 +20485,25 @@
         "url":"https:\/\/stores.aldi.us\/mi\/lincoln-park\/1200-southfield-road"
     },
     {
+        "store_id":"U4112",
+        "store_no":"164",
+        "longitude":"-83.17476085055205",
+        "latitude":"42.2504322504288",
+        "address":"24 West highlands Dr.",
+        "city":"East Ellijay",
+        "state":"GA",
+        "zipcode":"30540",
+        "opened":"03\/27\/2024",
+        "timezone":"America\/New_York",
+        "tags":[
+            "Parking Lot",
+            "Beer",
+            "Wine",
+            "Delivery"
+        ],
+        "url":"https:\/\/stores.aldi.us\/ga\/east-ellijay\/24-west-highlands-dr"
+    },
+    {
         "store_id":"U2446",
         "store_no":"73",
         "longitude":"-95.4095815",
@@ -20416,7 +20512,7 @@
         "city":"Houston",
         "state":"TX",
         "zipcode":"77037",
-        "opened":"12\/15\/2021",
+        "opened":"03\/27\/2024",
         "timezone":"America\/Chicago",
         "tags":[
             "Parking Lot",
@@ -22543,25 +22639,6 @@
         "url":"https:\/\/stores.aldi.us\/la\/metairie\/8855-veteran-39-s-blvd"
     },
     {
-        "store_id":"U0094",
-        "store_no":"59",
-        "longitude":"-82.11265600344144",
-        "latitude":"41.344561727157085",
-        "address":"426 Oberlin Rd., OH",
-        "city":"Elyria",
-        "state":"OH",
-        "zipcode":"44035",
-        "opened":"8\/18\/1988",
-        "timezone":"America\/New_York",
-        "tags":[
-            "Parking Lot",
-            "Beer",
-            "Wine",
-            "Delivery"
-        ],
-        "url":"https:\/\/stores.aldi.us\/oh\/elyria\/426-oberlin-rd--oh"
-    },
-    {
         "store_id":"U1341",
         "store_no":"57",
         "longitude":"-84.3103963136673",
@@ -23602,7 +23679,7 @@
         "longitude":"-84.32287798093063",
         "latitude":"33.44189432020225",
         "address":"11499 Tara Blvd",
-        "city":"Lovejoy",
+        "city":"Hampton",
         "state":"GA",
         "zipcode":"30228",
         "opened":"8\/05\/2020",
@@ -23613,7 +23690,7 @@
             "Wine",
             "Delivery"
         ],
-        "url":"https:\/\/stores.aldi.us\/ga\/lovejoy\/11499-tara-blvd"
+        "url":"https:\/\/stores.aldi.us\/ga\/hampton\/11499-tara-blvd"
     },
     {
         "store_id":"U2216",
@@ -24530,6 +24607,7 @@
         "opened":"05\/31\/2023",
         "timezone":"America\/New_York",
         "tags":[
+            "Parking Lot",
             "Beer",
             "Wine",
             "Curbside",
@@ -24646,6 +24724,7 @@
         "opened":"05\/17\/2023",
         "timezone":"America\/New_York",
         "tags":[
+            "Parking Lot",
             "Beer",
             "Wine",
             "Curbside",
@@ -24746,7 +24825,9 @@
         "tags":[
             "Parking Lot",
             "Beer",
-            "Wine"
+            "Wine",
+            "Curbside",
+            "Delivery"
         ],
         "url":"https:\/\/stores.aldi.us\/oh\/canton\/3715-harmont-ave-ne"
     },
@@ -24900,6 +24981,7 @@
         "opened":"08\/23\/2023",
         "timezone":"America\/New_York",
         "tags":[
+            "Parking Lot",
             "Beer",
             "Wine",
             "Curbside",
@@ -26612,7 +26694,7 @@
         "longitude":"-79.98414781349175",
         "latitude":"40.34242504862718",
         "address":"5239 Brownsville Rd",
-        "city":"Baldwin Boro",
+        "city":"Baldwin",
         "state":"PA",
         "zipcode":"15236",
         "opened":"8\/27\/2015",
@@ -26622,7 +26704,7 @@
             "Curbside",
             "Delivery"
         ],
-        "url":"https:\/\/stores.aldi.us\/pa\/baldwin-boro\/5239-brownsville-rd"
+        "url":"https:\/\/stores.aldi.us\/pa\/baldwin\/5239-brownsville-rd"
     },
     {
         "store_id":"U2507",
@@ -28079,6 +28161,26 @@
         "url":"https:\/\/stores.aldi.us\/sc\/irmo\/1169-dutch-fork-rd"
     },
     {
+        "store_id":"U4158",
+        "store_no":"141",
+        "longitude":"-81.224049",
+        "latitude":"34.1254231",
+        "address":"1805 W. U.S. Hwy. 82",
+        "city":"Tifton",
+        "state":"GA",
+        "zipcode":"31793",
+        "opened":"03\/20\/2024",
+        "timezone":"America\/New_York",
+        "tags":[
+            "Parking Lot",
+            "Beer",
+            "Wine",
+            "Curbside",
+            "Delivery"
+        ],
+        "url":"https:\/\/stores.aldi.us\/ga\/tifton\/1805-w-u-s-hwy-82"
+    },
+    {
         "store_id":"U1535",
         "store_no":"105",
         "longitude":"-80.63489583433748",
@@ -29392,7 +29494,7 @@
         "city":"Hillsborough",
         "state":"NC",
         "zipcode":"27278",
-        "opened":"02\/14\/2024",
+        "opened":"03\/13\/2024",
         "timezone":"America\/New_York",
         "tags":[
             "Parking Lot",
@@ -30764,7 +30866,7 @@
         "longitude":"-77.62724727729442",
         "latitude":"43.0863310744571",
         "address":"615 Jefferson Rd",
-        "city":"Henrietta",
+        "city":"Rochester",
         "state":"NY",
         "zipcode":"14623",
         "opened":"1\/16\/2003",
@@ -30775,7 +30877,7 @@
             "Curbside",
             "Delivery"
         ],
-        "url":"https:\/\/stores.aldi.us\/ny\/henrietta\/615-jefferson-rd"
+        "url":"https:\/\/stores.aldi.us\/ny\/rochester\/615-jefferson-rd"
     },
     {
         "store_id":"U0670",
@@ -34720,8 +34822,8 @@
     {
         "store_id":"U2685",
         "store_no":"59",
-        "longitude":"-76.230976",
-        "latitude":"36.91726",
+        "longitude":"-76.2308048",
+        "latitude":"36.9174813",
         "address":"1600 E. Little Creek Rd.",
         "city":"Norfolk",
         "state":"VA",
@@ -34888,9 +34990,9 @@
     {
         "store_id":"U2416",
         "store_no":"63",
-        "longitude":"-75.84090137154058",
-        "latitude":"42.92709962040282",
-        "address":"2349 State Route 20",
+        "longitude":"-75.83870190844542",
+        "latitude":"42.92401037214409",
+        "address":"120 Nelson St",
         "city":"Cazenovia",
         "state":"NY",
         "zipcode":"13035",
@@ -34902,14 +35004,14 @@
             "Curbside",
             "Delivery"
         ],
-        "url":"https:\/\/stores.aldi.us\/ny\/cazenovia\/2349-state-route-20"
+        "url":"https:\/\/stores.aldi.us\/ny\/cazenovia\/120-nelson-st"
     },
     {
         "store_id":"U2277",
         "store_no":"113",
         "longitude":"-81.21960609221105",
         "latitude":"29.4752414826644",
-        "address":"5095 State Hwy 100 East",
+        "address":"5095 E State Highway 100",
         "city":"Palm Coast",
         "state":"FL",
         "zipcode":"32164",
@@ -34922,7 +35024,7 @@
             "Curbside",
             "Delivery"
         ],
-        "url":"https:\/\/stores.aldi.us\/fl\/palm-coast\/5095-state-hwy-100-east"
+        "url":"https:\/\/stores.aldi.us\/fl\/palm-coast\/5095-e-state-highway-100"
     },
     {
         "store_id":"U2513",
@@ -36699,9 +36801,9 @@
     {
         "store_id":"U4100",
         "store_no":"171",
-        "longitude":"-111.98514238235634",
-        "latitude":"33.59853188340564",
-        "address":"4555 E. Cactus Road",
+        "longitude":"-111.98520960569611",
+        "latitude":"33.59855705857884",
+        "address":"4553 E. Cactus Road",
         "city":"Phoenix",
         "state":"AZ",
         "zipcode":"85032",
@@ -36709,10 +36811,12 @@
         "timezone":"America\/Phoenix",
         "tags":[
             "Parking Lot",
+            "Beer",
+            "Wine",
             "Curbside",
             "Delivery"
         ],
-        "url":"https:\/\/stores.aldi.us\/az\/phoenix\/4555-e-cactus-road"
+        "url":"https:\/\/stores.aldi.us\/az\/phoenix\/4553-e-cactus-road"
     },
     {
         "store_id":"U2189",
@@ -37873,7 +37977,7 @@
         "longitude":"-74.76190179613863",
         "latitude":"40.24606651770413",
         "address":"1605 N Olden Ave",
-        "city":"Trenton",
+        "city":"Ewing",
         "state":"NJ",
         "zipcode":"08638",
         "opened":"5\/01\/1997",
@@ -37883,7 +37987,7 @@
             "Curbside",
             "Delivery"
         ],
-        "url":"https:\/\/stores.aldi.us\/nj\/trenton\/1605-n-olden-ave"
+        "url":"https:\/\/stores.aldi.us\/nj\/ewing\/1605-n-olden-ave"
     },
     {
         "store_id":"U2082",
@@ -37967,7 +38071,7 @@
         "longitude":"-112.1836527",
         "latitude":"33.3766417",
         "address":"5775 W. Baseline Rd",
-        "city":"Laveen",
+        "city":"Laveen Village",
         "state":"AZ",
         "zipcode":"85339",
         "opened":"2\/2\/2022",
@@ -37979,7 +38083,7 @@
             "Curbside",
             "Delivery"
         ],
-        "url":"https:\/\/stores.aldi.us\/az\/laveen\/5775-w-baseline-rd"
+        "url":"https:\/\/stores.aldi.us\/az\/laveen-village\/5775-w-baseline-rd"
     },
     {
         "store_id":"U2648",
@@ -39860,7 +39964,7 @@
         "longitude":"-80.64699399303751",
         "latitude":"28.077201634026768",
         "address":"1539 W New Haven Ave",
-        "city":"West Melbourne",
+        "city":"Melbourne",
         "state":"FL",
         "zipcode":"32904",
         "opened":"9\/21\/2022",
@@ -39872,7 +39976,7 @@
             "Curbside",
             "Delivery"
         ],
-        "url":"https:\/\/stores.aldi.us\/fl\/west-melbourne\/1539-w-new-haven-ave"
+        "url":"https:\/\/stores.aldi.us\/fl\/melbourne\/1539-w-new-haven-ave"
     },
     {
         "store_id":"U3140",
@@ -39970,10 +40074,10 @@
     {
         "store_id":"U2830",
         "store_no":"16",
-        "longitude":"-73.76777022245425",
-        "latitude":"42.255363212639296",
+        "longitude":"-73.76867858895493",
+        "latitude":"42.25537171977358",
         "address":"157 Fairview Ave",
-        "city":"Greenport",
+        "city":"Hudson",
         "state":"NY",
         "zipcode":"12534",
         "opened":"5\/11\/2022",
@@ -39983,7 +40087,7 @@
             "Curbside",
             "Delivery"
         ],
-        "url":"https:\/\/stores.aldi.us\/ny\/greenport\/157-fairview-ave"
+        "url":"https:\/\/stores.aldi.us\/ny\/hudson\/157-fairview-ave"
     },
     {
         "store_id":"U0731",
@@ -41770,7 +41874,7 @@
         "city":"Gardner",
         "state":"MA",
         "zipcode":"01440",
-        "opened":"03\/13\/2024",
+        "opened":"04\/03\/2024",
         "timezone":"America\/New_York",
         "tags":[
             "Parking Lot",
@@ -41789,7 +41893,7 @@
         "city":"Lake Worth",
         "state":"FL",
         "zipcode":"33463",
-        "opened":"03\/13\/2024",
+        "opened":"04\/03\/2024",
         "timezone":"America\/New_York",
         "tags":[
             "Parking Lot",
@@ -42559,7 +42663,7 @@
         "longitude":"-80.29172816931151",
         "latitude":"25.922070113547615",
         "address":"16367 NW 57th Ave",
-        "city":"Miami Gardens",
+        "city":"Miami Lakes",
         "state":"FL",
         "zipcode":"33014",
         "opened":"9\/01\/2016",
@@ -42571,7 +42675,7 @@
             "Curbside",
             "Delivery"
         ],
-        "url":"https:\/\/stores.aldi.us\/fl\/miami-gardens\/16367-nw-57th-ave"
+        "url":"https:\/\/stores.aldi.us\/fl\/miami-lakes\/16367-nw-57th-ave"
     },
     {
         "store_id":"U1683",
@@ -42840,7 +42944,7 @@
         "longitude":"-71.20138508829116",
         "latitude":"42.15573515370596",
         "address":"70 Boston Providence Tpke",
-        "city":"Walpole",
+        "city":"East Walpole",
         "state":"MA",
         "zipcode":"02032",
         "opened":"12\/21\/2021",
@@ -42850,7 +42954,7 @@
             "Curbside",
             "Delivery"
         ],
-        "url":"https:\/\/stores.aldi.us\/ma\/walpole\/70-boston-providence-tpke"
+        "url":"https:\/\/stores.aldi.us\/ma\/east-walpole\/70-boston-providence-tpke"
     },
     {
         "store_id":"U2397",
@@ -43057,7 +43161,7 @@
         "longitude":"-80.37424931049681",
         "latitude":"25.536244118896178",
         "address":"11300 SW 248th St",
-        "city":"Miami",
+        "city":"Homestead",
         "state":"FL",
         "zipcode":"33032",
         "opened":"11\/19\/2020",
@@ -43069,7 +43173,7 @@
             "Curbside",
             "Delivery"
         ],
-        "url":"https:\/\/stores.aldi.us\/fl\/miami\/11300-sw-248th-st"
+        "url":"https:\/\/stores.aldi.us\/fl\/homestead\/11300-sw-248th-st"
     },
     {
         "store_id":"U2005",
@@ -43772,7 +43876,7 @@
         "longitude":"-117.54637054678082",
         "latitude":"33.97341306423279",
         "address":"6365 Pats Ranch Rd",
-        "city":"Mira Loma",
+        "city":"Jurupa Valley",
         "state":"CA",
         "zipcode":"91752",
         "opened":"12\/08\/22",
@@ -43784,7 +43888,7 @@
             "Curbside",
             "Delivery"
         ],
-        "url":"https:\/\/stores.aldi.us\/ca\/mira-loma\/6365-pats-ranch-rd"
+        "url":"https:\/\/stores.aldi.us\/ca\/jurupa-valley\/6365-pats-ranch-rd"
     },
     {
         "store_id":"U2633",
@@ -44882,7 +44986,7 @@
         "address":"5190 Stockdale Hwy",
         "city":"Bakersfield",
         "state":"CA",
-        "zipcode":"93307",
+        "zipcode":"93309",
         "opened":"6\/8\/2020",
         "timezone":"America\/Los_Angeles",
         "tags":[
