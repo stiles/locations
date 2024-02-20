@@ -13,6 +13,7 @@ A growing collection of data scrapers that collect information about the locatio
 |[Carl's Jr.](https://github.com/stiles/locations/tree/main/carls-jr)|1,026|[CSV](), [GeoJSON]()|
 |[Chick-Fil-A](https://github.com/stiles/locations/tree/main/chick-fil-a)|2,896|[CSV](), [GeoJSON]()|
 |[Chili's](https://github.com/stiles/locations/tree/main/chilis)|1,229|[CSV](), [GeoJSON]()|
+|[Chipotle](https://github.com/stiles/locations/tree/main/chipotle)|3,385|[CSV](), [GeoJSON]()|
 |[Cracker Barrel](https://github.com/stiles/locations/tree/main/cracker-barrel)|662|[CSV](), [GeoJSON]()|
 |[Del Taco](https://github.com/stiles/locations/tree/main/del-taco)|328|[CSV](), [GeoJSON]()|
 |[Dunkin Donuts](https://github.com/stiles/locations/tree/main/dunkin-donuts)|tk|[CSV](), [GeoJSON]()|
