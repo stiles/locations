@@ -5,16 +5,16 @@ A growing collection of data scrapers that collect information about the locatio
 
 |Company|Locations*|Formats|
 |:---  |---: |:---  |
-|[Abercrombie & Fitch](https://github.com/stiles/locations/tree/main/abercrombie-fitch)|223|[CSV](https://github.com/stiles/locations/blob/main/abercrombie-fitch/data/processed/abercrombie_fitch_locations.csv), [GeoJSON](https://github.com/stiles/locations/blob/main/abercrombie-fitch/data/processed/abercrombie_fitch_locations.geojson)|
+|[Abercrombie & Fitch](https://github.com/stiles/locations/tree/main/abercrombie-fitch)|221|[CSV](https://github.com/stiles/locations/blob/main/abercrombie-fitch/data/processed/abercrombie_fitch_locations.csv), [GeoJSON](https://github.com/stiles/locations/blob/main/abercrombie-fitch/data/processed/abercrombie_fitch_locations.geojson)|
 |[Aldi](https://github.com/stiles/locations/tree/main/aldi)|2,362|[CSV](https://github.com/stiles/locations/blob/main/aldi/data/processed/aldi_locations.csv), [GeoJSON](https://github.com/stiles/locations/blob/main/aldi/data/processed/aldi_locations.geojson)|
 |[Apple Stores](https://github.com/stiles/locations/tree/main/apple-stores)|526|[CSV](https://github.com/stiles/locations/blob/main/apple-stores/data/processed/apple_store_locations.csv), [GeoJSON](https://github.com/stiles/locations/blob/main/apple-stores/data/processed/apple_store_locations.geojson)|
 |[Au Bon Pain](https://github.com/stiles/locations/tree/main/au-bon-pain)|71|[CSV](), [GeoJSON]()|
 |[Bank of America](https://github.com/stiles/locations/tree/main/bank-of-america)|6,066|[CSV](), [GeoJSON]()|
 |[Carl's Jr.](https://github.com/stiles/locations/tree/main/carls-jr)|1,026|[CSV](), [GeoJSON]()|
-|[Chick-Fil-A](https://github.com/stiles/locations/tree/main/chick-fil-a)|tk|[CSV](), [GeoJSON]()|
-|[Chili's](https://github.com/stiles/locations/tree/main/chilis)|tk|[CSV](), [GeoJSON]()|
-|[Cracker Barrel](https://github.com/stiles/locations/tree/main/cracker-barrel)|tk|[CSV](), [GeoJSON]()|
-|[Del Taco](https://github.com/stiles/locations/tree/main/del-taco)|tk|[CSV](), [GeoJSON]()|
+|[Chick-Fil-A](https://github.com/stiles/locations/tree/main/chick-fil-a)|2,896|[CSV](), [GeoJSON]()|
+|[Chili's](https://github.com/stiles/locations/tree/main/chilis)|1,229|[CSV](), [GeoJSON]()|
+|[Cracker Barrel](https://github.com/stiles/locations/tree/main/cracker-barrel)|662|[CSV](), [GeoJSON]()|
+|[Del Taco](https://github.com/stiles/locations/tree/main/del-taco)|328|[CSV](), [GeoJSON]()|
 |[Dunkin Donuts](https://github.com/stiles/locations/tree/main/dunkin-donuts)|tk|[CSV](), [GeoJSON]()|
 |[El Pollo Loco](https://github.com/stiles/locations/tree/main/el-pollo-loco)|tk|[CSV](), [GeoJSON]()|
 |[Hardee's](https://github.com/stiles/locations/tree/main/hardies)|1,419|[CSV](), [GeoJSON]()|
@@ -34,6 +34,7 @@ A growing collection of data scrapers that collect information about the locatio
 |[Sephora](https://github.com/stiles/locations/tree/main/sephora)|tk|[CSV](), [GeoJSON]()|
 |[Shake Shack](https://github.com/stiles/locations/tree/main/shake-shack)|tk|[CSV](), [GeoJSON]()|
 |[Starbucks](https://github.com/stiles/locations/tree/main/starbucks)|16,288|[CSV](), [GeoJSON]()|
+|[Taco Bell](https://github.com/stiles/locations/tree/main/taco-bell)|7,148|[CSV](), [GeoJSON]()|
 |[TCBY](https://github.com/stiles/locations/tree/main/tcby)|135|[CSV](), [GeoJSON]()|
 |[Torchy's Tacos](https://github.com/stiles/locations/tree/main/torchys-tacos)|124|[CSV](), [GeoJSON]()|
 |[Trader Joe's](https://github.com/stiles/locations/tree/main/trader-joes)|tk|[CSV](), [GeoJSON]()|
@@ -49,7 +50,7 @@ A growing collection of data scrapers that collect information about the locatio
 ---
 
 ## Installation
-The notebooks in this repo require Python 3.9 and Jupyer Lab. A virtual environment, such as [`pipenv`](https://pipenv.pypa.io/en/latest/), is reccommended. 
+The notebooks in this repo require Python 3.10 and Jupyer Lab. A virtual environment, such as [`pipenv`](https://pipenv.pypa.io/en/latest/), is reccommended. 
 
 To get stated, clone the repo and navigate into it using the terminal. 
 

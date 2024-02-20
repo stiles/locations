@@ -102,7 +102,6 @@ Chili's,Torrance,(310) 792-9012,21835 Hawthorne Blvd.,Torrance,CA,90503,33.82915
 Chili's,Capitola Mall,(831) 462-1813,1855 41st Avenue,Capitola,CA,95010,36.9760514,-121.9663821,https://www.chilis.com/locations/us/california/capitola/capitola-mall/,California
 Chili's,Blossom Hill,(408) 266-4800,5650 Almaden Expwy.,San Jose,CA,95118,37.2499407,-121.8746548,https://www.chilis.com/locations/us/california/san-jose/blossom-hill/,California
 Chili's,Morgan Hill,(408) 779-4152,1039 Cochrane Road,Morgan Hill,CA,95037,37.155154,-121.6499701,https://www.chilis.com/locations/us/california/morgan-hill/morgan-hill/,California
-Chili's,Gilroy,(408) 842-4000,850 Renz Lane,Gilroy,CA,95020,37.0045643,-121.5531726,https://www.chilis.com/locations/us/california/gilroy/gilroy/,California
 Chili's,Boronda Crossings,(831) 444-9113,1940 N Davis Rd,Salinas,CA,93907,36.7197281,-121.6669026,https://www.chilis.com/locations/us/california/salinas/boronda-crossings/,California
 Chili's,Manhattan Beach,(310) 546-5847,"2620 N. Sepulveda Blvd,",Manhattan Beach,CA,90266,33.8953898,-118.3942446,https://www.chilis.com/locations/us/california/manhattan-beach/manhattan-beach/,California
 Chili's,Chico,(530) 345-1687,1908 E. 20th St.,Chico,CA,95928,39.728122,-121.808645,https://www.chilis.com/locations/us/california/chico/chico/,California
@@ -376,7 +375,7 @@ Chili's,Albany,(229) 432-1035,2821 Ledo Rd.,Albany,GA,31707,31.622991,-84.212875
 Chili's,Johns Creek,(770) 814-2377,11720 Medlock Bridge Rd.,Johns Creek,GA,30097,34.0662494,-84.1700067,https://www.chilis.com/locations/us/georgia/johns-creek/johns-creek/,Georgia
 Chili's,Gwinnett,(770) 497-1536,3520 Gwinnett Place Dr.,Duluth,GA,30096,33.956237,-84.1291919,https://www.chilis.com/locations/us/georgia/duluth/gwinnett/,Georgia
 Chili's,Cumming,(678) 947-3165,874 Buford Rd.,Cumming,GA,30041,34.1818565,-84.1349769,https://www.chilis.com/locations/us/georgia/cumming/cumming/,Georgia
-Chili's,Toco Hills,(404) 325-8680,2133 Lavista Rd. NE,Atlanta,GA,30329,33.8163518,-84.3157451,https://www.chilis.com/locations/us/georgia/atlanta/toco-hills/,Georgia
+Chili's,Toco Hills,(404) 325-8680,2133 Lavista Rd. Northeast,Atlanta,GA,30329,33.8163518,-84.3157451,https://www.chilis.com/locations/us/georgia/atlanta/toco-hills/,Georgia
 Chili's,Lawrenceville,(770) 513-0970,947 Lawrenceville Suwanee Rd.,Lawrenceville,GA,30043,33.9719275,-84.01745,https://www.chilis.com/locations/us/georgia/lawrenceville/lawrenceville/,Georgia
 Chili's,Mall of Georgia,(770) 945-7667,3215 Buford Dr.,Buford,GA,30519,34.063092,-83.98983,https://www.chilis.com/locations/us/georgia/buford/mall-of-georgia/,Georgia
 Chili's,Snellville,(770) 978-6568,4031 Hwy 78,Lilburn,GA,30047,33.837746,-84.070004,https://www.chilis.com/locations/us/georgia/lilburn/snellville/,Georgia
@@ -440,6 +439,7 @@ Chili's,Chicago T3  Too,(773) 377-7800,P.O. Box 66048,Chicago,IL,60666,41.976388
 Chili's,Chicago T2 Too,(773) 377-7800,Chicago O&#39;Hare Airport,Chicago,IL,60666,41.9746213,-87.9059907,https://www.chilis.com/locations/us/illinois/chicago/chicago-t2-too/,Illinois
 Chili's,Chicago TG Too,(773) 377-7800,O&#39; Hare Airport - HMS Host,CHICAGO,IL,60666,41.9740025,-87.9033496,https://www.chilis.com/locations/us/illinois/chicago/chicago-tg-too/,Illinois
 Chili's,Skokie,(847) 679-1425,5435 Touhy,Skokie,IL,60077,42.011562,-87.764281,https://www.chilis.com/locations/us/illinois/skokie/skokie/,Illinois
+Chili's,Melrose Park,(630) 259-8614,915 W Melrose Park,Melrose Park,IL,60160,41.908592,-87.846788,https://www.chilis.com/locations/us/illinois/melrose-park/melrose-park/,Illinois
 Chili's,Evanston,(847) 328-9068,1765 Maple Avenue,Evanston,IL,60201,42.04981,-87.684456,https://www.chilis.com/locations/us/illinois/evanston/evanston/,Illinois
 Chili's,Waukegan,(847) 689-0540,890 S. Waukegan,Waukegan,IL,60085,42.343779,-87.895673,https://www.chilis.com/locations/us/illinois/waukegan/waukegan/,Illinois
 Chili's,Gurnee Mills,(847) 855-1025,6030 Grand Ave.,Gurnee,IL,60031,42.383847,-87.9546,https://www.chilis.com/locations/us/illinois/gurnee/gurnee-mills/,Illinois
@@ -636,7 +636,6 @@ Chili's,Flint,(810) 720-0170,4125 Miller Rd.,Flint,MI,48507,42.981636,-83.755869
 Chili's,Fort Gratiot,(810) 385-1103,4305 24th Ave,Fort Gratiot,MI,48059,43.033533,-82.457198,https://www.chilis.com/locations/us/michigan/fort-gratiot/fort-gratiot/,Michigan
 Chili's,Norton Shores,(231) 780-5441,3583 Henry St.,Norton Shores,MI,49441,43.18872,-86.264143,https://www.chilis.com/locations/us/michigan/norton-shores/norton-shores/,Michigan
 Chili's,Okemos,(517) 347-7188,5055 Marsh Rd.,Okemos,MI,48864,42.727048,-84.41538,https://www.chilis.com/locations/us/michigan/okemos/okemos/,Michigan
-Chili's,St. Joseph MI,(269) 983-5518,1275 Hilltop Road,ST. JOSEPH,MI,49085,42.080278,-86.484978,https://www.chilis.com/locations/us/michigan/st-joseph/st-joseph-mi/,Michigan
 Chili's,Saginaw,(989) 797-4470,4363 Bay Rd.,Saginaw,MI,48603,43.47054,-83.976192,https://www.chilis.com/locations/us/michigan/saginaw/saginaw/,Michigan
 Chili's,Traverse City,(231) 929-0200,2670 Crossing Circle,Traverse City,MI,49684,44.726068,-85.637143,https://www.chilis.com/locations/us/michigan/traverse-city/traverse-city/,Michigan
 Chili's,Wyoming MI,(616) 261-9733,770 54th St. SW,Wyoming,MI,49509,42.865521,-85.683093,https://www.chilis.com/locations/us/michigan/wyoming/wyoming-mi/,Michigan
@@ -679,7 +678,7 @@ Chili's,St. Joseph,(816) 279-5750,5105 N. Belt Hwy,St. Joseph,MO,64506,39.813245
 Chili's,Wentzville,(636) 324-3890,1590 Wentzville Pkwy,Wentzville,MO,63385,38.822701,-90.874352,https://www.chilis.com/locations/us/missouri/wentzville/wentzville/,Missouri
 Chili's,Great Falls,(406) 452-6700,1420 Market Place Dr STE A,Great Falls,MT,59404,47.481469,-111.339013,https://www.chilis.com/locations/us/montana/great-falls/great-falls/,Montana
 Chili's,Helena,(406) 442-3500,2790 North Washington Street,Helena,MT,59602,46.613302,-112.005325,https://www.chilis.com/locations/us/montana/helena/helena/,Montana
-Chili's,LaVista,(402) 592-4900,8373 Barmettler Dr.,La Vista,NE,68128,41.180909,-96.042504,https://www.chilis.com/locations/us/nebraska/la-vista/lavista/,Nebraska
+Chili's,"La Vista, Nebraska",(402) 592-4900,8373 Barmettler Dr.,La Vista,NE,68128,41.180909,-96.042504,https://www.chilis.com/locations/us/nebraska/la-vista/la-vista-nebraska/,Nebraska
 Chili's,Omaha I,(402) 333-6303,3202 S. 143rd Plaza,Omaha,NE,68144,41.229542,-96.137984,https://www.chilis.com/locations/us/nebraska/omaha/omaha-i/,Nebraska
 Chili's,Lincoln,(402) 420-2800,6730 South 27th St.,Lincoln,NE,68512,40.742104,-96.681833,https://www.chilis.com/locations/us/nebraska/lincoln/lincoln/,Nebraska
 Chili's,Scottsbluff,(308) 633-1580,826 W 36th Street,Scottsbluff,NE,69361,41.881811,-103.674993,https://www.chilis.com/locations/us/nebraska/scottsbluff/scottsbluff/,Nebraska
@@ -944,7 +943,6 @@ Chili's,Cookeville,(931) 372-0014,1428 Interstate Dr.,Cookeville,TN,38501,36.137
 Chili's,Middle TN State,(615) 867-2855,755 NW Broad St.,Murfreesboro,TN,37129,35.8515753,-86.4012376,https://www.chilis.com/locations/us/tennessee/murfreesboro/middle-tn-state/,Tennessee
 Chili's,Gallatin,(615) 230-8267,600 Village Green Drive,Gallatin,TN,37066,36.3765826,-86.4730297,https://www.chilis.com/locations/us/tennessee/gallatin/gallatin/,Tennessee
 Chili's,Lebanon,(615) 443-7121,909 S. Hartmann Dr.,Lebanon,TN,37090,36.1877914,-86.3253127,https://www.chilis.com/locations/us/tennessee/lebanon/lebanon/,Tennessee
-Chili's,45 Bypass,(731) 660-4440,2200 Emporium Dr.,Jackson,TN,38305,35.6693924,-88.8535773,https://www.chilis.com/locations/us/tennessee/jackson/45-bypass/,Tennessee
 Chili's,Johnson City,(423) 283-4229,3040 Franklin Ter,Johnson City,TN,37604,36.3532304,-82.3995674,https://www.chilis.com/locations/us/tennessee/johnson-city/johnson-city/,Tennessee
 Chili's,Kingsport,(423) 246-4173,1921 N. Eastman,Kingsport,TN,37660,36.5444602,-82.5180361,https://www.chilis.com/locations/us/tennessee/kingsport/kingsport/,Tennessee
 Chili's,Bristol,(276) 466-1088,368 Market Center,Bristol,VA,24202,36.6326257,-82.122576,https://www.chilis.com/locations/us/virginia/bristol/bristol/,Virginia

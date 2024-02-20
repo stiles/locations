@@ -1340,19 +1340,6 @@
     },
     {
         "brand":"Chili's",
-        "location_name":"Gilroy",
-        "phone":"(408) 842-4000",
-        "street":"850 Renz Lane",
-        "city":"Gilroy",
-        "state":"CA",
-        "zip":"95020",
-        "latitude":37.0045643,
-        "longitude":-121.5531726,
-        "url":"https:\/\/www.chilis.com\/locations\/us\/california\/gilroy\/gilroy\/",
-        "state_name":"California"
-    },
-    {
-        "brand":"Chili's",
         "location_name":"Boronda Crossings",
         "phone":"(831) 444-9113",
         "street":"1940 N Davis Rd",
@@ -4904,7 +4891,7 @@
         "brand":"Chili's",
         "location_name":"Toco Hills",
         "phone":"(404) 325-8680",
-        "street":"2133 Lavista Rd. NE",
+        "street":"2133 Lavista Rd. Northeast",
         "city":"Atlanta",
         "state":"GA",
         "zip":"30329",
@@ -5730,6 +5717,19 @@
         "latitude":42.011562,
         "longitude":-87.764281,
         "url":"https:\/\/www.chilis.com\/locations\/us\/illinois\/skokie\/skokie\/",
+        "state_name":"Illinois"
+    },
+    {
+        "brand":"Chili's",
+        "location_name":"Melrose Park",
+        "phone":"(630) 259-8614",
+        "street":"915 W Melrose Park",
+        "city":"Melrose Park",
+        "state":"IL",
+        "zip":"60160",
+        "latitude":41.908592,
+        "longitude":-87.846788,
+        "url":"https:\/\/www.chilis.com\/locations\/us\/illinois\/melrose-park\/melrose-park\/",
         "state_name":"Illinois"
     },
     {
@@ -8282,19 +8282,6 @@
     },
     {
         "brand":"Chili's",
-        "location_name":"St. Joseph MI",
-        "phone":"(269) 983-5518",
-        "street":"1275 Hilltop Road",
-        "city":"ST. JOSEPH",
-        "state":"MI",
-        "zip":"49085",
-        "latitude":42.080278,
-        "longitude":-86.484978,
-        "url":"https:\/\/www.chilis.com\/locations\/us\/michigan\/st-joseph\/st-joseph-mi\/",
-        "state_name":"Michigan"
-    },
-    {
-        "brand":"Chili's",
         "location_name":"Saginaw",
         "phone":"(989) 797-4470",
         "street":"4363 Bay Rd.",
@@ -8841,7 +8828,7 @@
     },
     {
         "brand":"Chili's",
-        "location_name":"LaVista",
+        "location_name":"La Vista, Nebraska",
         "phone":"(402) 592-4900",
         "street":"8373 Barmettler Dr.",
         "city":"La Vista",
@@ -8849,7 +8836,7 @@
         "zip":"68128",
         "latitude":41.180909,
         "longitude":-96.042504,
-        "url":"https:\/\/www.chilis.com\/locations\/us\/nebraska\/la-vista\/lavista\/",
+        "url":"https:\/\/www.chilis.com\/locations\/us\/nebraska\/la-vista\/la-vista-nebraska\/",
         "state_name":"Nebraska"
     },
     {
@@ -12282,19 +12269,6 @@
         "latitude":36.1877914,
         "longitude":-86.3253127,
         "url":"https:\/\/www.chilis.com\/locations\/us\/tennessee\/lebanon\/lebanon\/",
-        "state_name":"Tennessee"
-    },
-    {
-        "brand":"Chili's",
-        "location_name":"45 Bypass",
-        "phone":"(731) 660-4440",
-        "street":"2200 Emporium Dr.",
-        "city":"Jackson",
-        "state":"TN",
-        "zip":"38305",
-        "latitude":35.6693924,
-        "longitude":-88.8535773,
-        "url":"https:\/\/www.chilis.com\/locations\/us\/tennessee\/jackson\/45-bypass\/",
         "state_name":"Tennessee"
     },
     {

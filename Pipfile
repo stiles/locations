@@ -25,6 +25,7 @@ black = {extras = ["jupyter"], version = "*"}
 jupyter-black = "*"
 tqdm = "*"
 pyarrow = "*"
+us = "*"
 
 [dev-packages]
 
