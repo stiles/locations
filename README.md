@@ -45,7 +45,7 @@ A growing collection of data scrapers for collecting location information about 
 |[Vons](https://github.com/stiles/locations/tree/main/vons)|tk|[CSV](), [GeoJSON]()|
 |[Wahoo's](https://github.com/stiles/locations/tree/main/wahoos)|46|[CSV](), [GeoJSON]()|
 |[Wendy's](https://github.com/stiles/locations/tree/main/wendys)|6,150|[CSV](), [GeoJSON]()|
-|[Whataburger](https://github.com/stiles/locations/tree/main/whataburger)|tk|[CSV](), [GeoJSON]()|
+|[Whataburger](https://github.com/stiles/locations/tree/main/whataburger)|1,014|[CSV](), [GeoJSON]()|
 |[Wienerschnitzel](https://github.com/stiles/locations/tree/main/wienerschnitzel)|320|[CSV](), [GeoJSON]()|
 
 *This repo is a *slow* work in progress, and I make no guarantees about the accuracy of the data collected here. Please [let me know](mailto:mattstiles@gmail.com) if you have questions or concerns — or if there's a company you'd like to see on this list.
