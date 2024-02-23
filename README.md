@@ -16,11 +16,11 @@ A growing collection of data scrapers for collecting location information about 
 |[Chipotle](https://github.com/stiles/locations/tree/main/chipotle)|3,385|[CSV](), [GeoJSON]()|
 |[Cracker Barrel](https://github.com/stiles/locations/tree/main/cracker-barrel)|662|[CSV](), [GeoJSON]()|
 |[Del Taco](https://github.com/stiles/locations/tree/main/del-taco)|328|[CSV](), [GeoJSON]()|
-|[Dunkin Donuts](https://github.com/stiles/locations/tree/main/dunkin-donuts)|tk|[CSV](), [GeoJSON]()|
-|[El Pollo Loco](https://github.com/stiles/locations/tree/main/el-pollo-loco)|tk|[CSV](), [GeoJSON]()|
+|[Dunkin Donuts](https://github.com/stiles/locations/tree/main/dunkin-donuts)|9,538|[CSV](), [GeoJSON]()|
+|[El Pollo Loco](https://github.com/stiles/locations/tree/main/el-pollo-loco)|500|[CSV](), [GeoJSON]()|
 |[Hardee's](https://github.com/stiles/locations/tree/main/hardies)|1,419|[CSV](), [GeoJSON]()|
-|[Hollister](https://github.com/stiles/locations/tree/main/hollister)|tk|[CSV](), [GeoJSON]()|
-|[In-N-Out Burger](https://github.com/stiles/locations/tree/main/in-n-out)|tk|[CSV](), [GeoJSON]()|
+|[Hollister](https://github.com/stiles/locations/tree/main/hollister)|104|[CSV](), [GeoJSON]()|
+|[In-N-Out Burger](https://github.com/stiles/locations/tree/main/in-n-out)|401|[CSV](), [GeoJSON]()|
 |[Jared](https://github.com/stiles/locations/tree/main/jared)|tk|[CSV](), [GeoJSON]()|
 |[JCPenney](https://github.com/stiles/locations/tree/main/jcpenney)|663|[CSV](), [GeoJSON]()|
 |[Krispy Kreme](https://github.com/stiles/locations/tree/main/krispy-kreme)|tk|[CSV](), [GeoJSON]()|
