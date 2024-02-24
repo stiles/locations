@@ -29,13 +29,15 @@ A growing collection of data scrapers for collecting location information about 
 |[Macy's](https://github.com/stiles/locations/tree/main/macys)|520|[CSV](), [GeoJSON]()|
 |[Menchies](https://github.com/stiles/locations/tree/main/menchies)|tk|[CSV](), [GeoJSON]()|
 |[Nike Stores](https://github.com/stiles/locations/tree/main/nike-stores)|tk|[CSV](), [GeoJSON]()|
-|[Pei Wei](https://github.com/stiles/locations/tree/main/pei-wei)|121|[CSV](), [GeoJSON]()|
+|[PetSmart](https://github.com/stiles/locations/tree/main/petsmart)|121|[CSV](), [GeoJSON]()|
+|[Pei Wei](https://github.com/stiles/locations/tree/main/pei-wei)|1,544|[CSV](), [GeoJSON]()|
 |[Pinkberry](https://github.com/stiles/locations/tree/main/pinkberry)|tk|[CSV](), [GeoJSON]()|
 |[Pizza Hut](https://github.com/stiles/locations/tree/main/pizza-hut)|5,204|[CSV](), [GeoJSON]()|
 |[Ralphs](https://github.com/stiles/locations/tree/main/ralphs)|tk|[CSV](), [GeoJSON]()|
 |[Safeway](https://github.com/stiles/locations/tree/main/safeway)|tk|[CSV](), [GeoJSON]()|
 |[Sephora](https://github.com/stiles/locations/tree/main/sephora)|tk|[CSV](), [GeoJSON]()|
 |[Shake Shack](https://github.com/stiles/locations/tree/main/shake-shack)|tk|[CSV](), [GeoJSON]()|
+|[Sonic](https://github.com/stiles/locations/tree/main/sonic)|3,529|[CSV](), [GeoJSON]()|
 |[Starbucks](https://github.com/stiles/locations/tree/main/starbucks)|16,288|[CSV](), [GeoJSON]()|
 |[Taco Bell](https://github.com/stiles/locations/tree/main/taco-bell)|7,148|[CSV](), [GeoJSON]()|
 |[TCBY](https://github.com/stiles/locations/tree/main/tcby)|135|[CSV](), [GeoJSON]()|
