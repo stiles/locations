@@ -28,6 +28,7 @@ storeid,latitude,longitude,address,city,state,statename,zip,phone,locationtype
 15079,37.4424531,-122.1705008,"680 Stanford Shopping Ctr, Ste 14",Palo Alto,CA,California,94304,(650) 322-6030,Mall
 15304,37.6239079,-122.3815924,"SFO International Airport, Terminal 2 Boarding Area D, Quick Serve, Sector 8, Space 9-D.2.350, ",San Francisco,CA,California,94128,(650) 821-8211,Airport
 15083,38.4240368,-121.4167761,"7405 Laguna Blvd, Ste 160",Elk Grove,CA,California,95758,(916) 683-3292,Street Front
+15431,38.6503768,-121.0685131,"4311 Town Center Blvd, Ste 440",El Dorado Hills,CA,California,95762,() -,Strip Mall
 15097,38.6490366,-121.1187213,"280 Palladio Pkwy, Ste 933",Folsom,CA,California,95630,(916) 983-3550,Street Front
 15081,38.5957511,-121.4162368,"2100 Arden Way, Ste 195",Sacramento,CA,California,95825,(916) 921-5852,Street Front
 15417,38.5703192,-121.4902511,1716 15th St,Sacramento,CA,California,95814,(916) 954-0220,Street Front
@@ -47,9 +48,7 @@ storeid,latitude,longitude,address,city,state,statename,zip,phone,locationtype
 15346,32.898088,-97.0337141,"International Pkwy, DFW Airport, Terminal A Gate 28",Dallas,TX,Texas,75261,(469) 865-1300,Airport
 15347,32.898088,-97.0337141,"International Pkwy, DFW Airport, Terminal A Gate 18",Dallas,TX,Texas,75261,(469) 865-1300,Airport
 15350,33.0474585,-96.828584,"3310 Dallas Parkway, #117",Plano,TX,Texas,75093,(972) 378-5644,Strip Mall
-15411,33.1279727,-96.6587213,"190 E Stacy Rd, Ste 1424",Allen,TX,Texas,75002,,Mall
-15147,29.7397946,-95.4631754,"5085 Westheimer Rd, ",Houston,TX,Texas,77056,(713) 877-8902,Mall
-15153,29.7420824,-95.44285,"3838 Westheimer Rd, ",Houston,TX,Texas,77027,(713) 622-3401,Street Front
+15411,33.1279727,-96.6587213,"190 E Stacy Rd, Ste 1424",Allen,TX,Texas,75002,(972) 678-2852,Mall
 15130,42.2403679,-83.7475749,"100 Briarwood Circle, Kiosk No. K134",Ann Arbor,MI,Michigan,48108,(734) 222-4700,Mall
 15359,42.4899334,-83.4759009,"27500 Novi Rd., STE 103",Novi,MI,Michigan,48377,(248) 277-4393,Mall
 15330,42.2253803,-83.3415334,"Detroit Metropolitan Wayne County Airport, McNamara Terminal,, ",Detroit,MI,Michigan,48242,(734) 955-1227,Airport

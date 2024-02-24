@@ -348,6 +348,18 @@
         "locationtype":"Street Front"
     },
     {
+        "storeid":15431,
+        "latitude":38.6503768,
+        "longitude":-121.0685131,
+        "address":"4311 Town Center Blvd, Ste 440",
+        "city":"El Dorado Hills",
+        "state":"CA",
+        "statename":"California",
+        "zip":"95762",
+        "phone":"() -",
+        "locationtype":"Strip Mall"
+    },
+    {
         "storeid":15097,
         "latitude":38.6490366,
         "longitude":-121.1187213,
@@ -584,32 +596,8 @@
         "state":"TX",
         "statename":"Texas",
         "zip":"75002",
-        "phone":"",
+        "phone":"(972) 678-2852",
         "locationtype":"Mall"
-    },
-    {
-        "storeid":15147,
-        "latitude":29.7397946,
-        "longitude":-95.4631754,
-        "address":"5085 Westheimer Rd, ",
-        "city":"Houston",
-        "state":"TX",
-        "statename":"Texas",
-        "zip":"77056",
-        "phone":"(713) 877-8902",
-        "locationtype":"Mall"
-    },
-    {
-        "storeid":15153,
-        "latitude":29.7420824,
-        "longitude":-95.44285,
-        "address":"3838 Westheimer Rd, ",
-        "city":"Houston",
-        "state":"TX",
-        "statename":"Texas",
-        "zip":"77027",
-        "phone":"(713) 622-3401",
-        "locationtype":"Street Front"
     },
     {
         "storeid":15130,

@@ -22,17 +22,17 @@ A growing collection of data scrapers for collecting location information about 
 |[Hardee's](https://github.com/stiles/locations/tree/main/hardies)|1,419|[CSV](), [GeoJSON]()|
 |[Hollister](https://github.com/stiles/locations/tree/main/hollister)|104|[CSV](), [GeoJSON]()|
 |[In-N-Out Burger](https://github.com/stiles/locations/tree/main/in-n-out)|401|[CSV](), [GeoJSON]()|
-|[Jared](https://github.com/stiles/locations/tree/main/jared)|tk|[CSV](), [GeoJSON]()|
+|[Jared](https://github.com/stiles/locations/tree/main/jared)|234|[CSV](), [GeoJSON]()|
 |[JCPenney](https://github.com/stiles/locations/tree/main/jcpenney)|663|[CSV](), [GeoJSON]()|
-|[Krispy Kreme](https://github.com/stiles/locations/tree/main/krispy-kreme)|tk|[CSV](), [GeoJSON]()|
+|[Krispy Kreme](https://github.com/stiles/locations/tree/main/krispy-kreme)|4,646|[CSV](), [GeoJSON]()|
 |[Kroger](https://github.com/stiles/locations/tree/main/kroger)|1,244|[CSV](), [GeoJSON]()|
-|[Kung Fu Tea](https://github.com/stiles/locations/tree/main/kung-fu-tea)|tk|[CSV](), [GeoJSON]()|
+|[Kung Fu Tea](https://github.com/stiles/locations/tree/main/kung-fu-tea)|425|[CSV](), [GeoJSON]()|
 |[Macy's](https://github.com/stiles/locations/tree/main/macys)|520|[CSV](), [GeoJSON]()|
-|[Menchies](https://github.com/stiles/locations/tree/main/menchies)|tk|[CSV](), [GeoJSON]()|
-|[Nike Stores](https://github.com/stiles/locations/tree/main/nike-stores)|tk|[CSV](), [GeoJSON]()|
+|[Menchies](https://github.com/stiles/locations/tree/main/menchies)|324|[CSV](), [GeoJSON]()|
+|[Nike Stores](https://github.com/stiles/locations/tree/main/nike-stores)|295|[CSV](), [GeoJSON]()|
 |[PetSmart](https://github.com/stiles/locations/tree/main/petsmart)|121|[CSV](), [GeoJSON]()|
 |[Pei Wei](https://github.com/stiles/locations/tree/main/pei-wei)|1,544|[CSV](), [GeoJSON]()|
-|[Pinkberry](https://github.com/stiles/locations/tree/main/pinkberry)|tk|[CSV](), [GeoJSON]()|
+|[Pinkberry](https://github.com/stiles/locations/tree/main/pinkberry)|70|[CSV](), [GeoJSON]()|
 |[Pizza Hut](https://github.com/stiles/locations/tree/main/pizza-hut)|5,204|[CSV](), [GeoJSON]()|
 |[Publix](https://github.com/stiles/locations/tree/main/publix)|1,407|[CSV](), [GeoJSON]()|
 |[Ralphs](https://github.com/stiles/locations/tree/main/ralphs)|tk|[CSV](), [GeoJSON]()|
