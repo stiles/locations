@@ -1,5 +1,5 @@
 # Locations
-A growing collection of data scrapers for collecting location information about popular stores, restaurants and other consumer sites.
+A growing collection of data scrapers for collecting location information about popular stores, restaurants and other consumer sites in the United States.
 
 ![starbucks locations](starbucks/visuals/visualization.png)
 
