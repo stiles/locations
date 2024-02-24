@@ -33,6 +33,7 @@ A growing collection of data scrapers for collecting location information about 
 |[Pei Wei](https://github.com/stiles/locations/tree/main/pei-wei)|1,544|[CSV](), [GeoJSON]()|
 |[Pinkberry](https://github.com/stiles/locations/tree/main/pinkberry)|tk|[CSV](), [GeoJSON]()|
 |[Pizza Hut](https://github.com/stiles/locations/tree/main/pizza-hut)|5,204|[CSV](), [GeoJSON]()|
+|[Publix](https://github.com/stiles/locations/tree/main/publix)|1,407|[CSV](), [GeoJSON]()|
 |[Ralphs](https://github.com/stiles/locations/tree/main/ralphs)|tk|[CSV](), [GeoJSON]()|
 |[Safeway](https://github.com/stiles/locations/tree/main/safeway)|tk|[CSV](), [GeoJSON]()|
 |[Sephora](https://github.com/stiles/locations/tree/main/sephora)|tk|[CSV](), [GeoJSON]()|
