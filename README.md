@@ -37,18 +37,18 @@ A growing collection of data scrapers for collecting location information about 
 |[Pinkberry](https://github.com/stiles/locations/tree/main/pinkberry)|70|[CSV](), [GeoJSON]()|
 |[Pizza Hut](https://github.com/stiles/locations/tree/main/pizza-hut)|5,204|[CSV](), [GeoJSON]()|
 |[Publix](https://github.com/stiles/locations/tree/main/publix)|1,407|[CSV](), [GeoJSON]()|
-|[Ralphs](https://github.com/stiles/locations/tree/main/ralphs)|tk|[CSV](), [GeoJSON]()|
-|[Safeway](https://github.com/stiles/locations/tree/main/safeway)|tk|[CSV](), [GeoJSON]()|
-|[Sephora](https://github.com/stiles/locations/tree/main/sephora)|tk|[CSV](), [GeoJSON]()|
-|[Shake Shack](https://github.com/stiles/locations/tree/main/shake-shack)|tk|[CSV](), [GeoJSON]()|
+<!-- |[Ralphs](https://github.com/stiles/locations/tree/main/ralphs)|tk|[CSV](), [GeoJSON]()| -->
+|[Safeway](https://github.com/stiles/locations/tree/main/safeway)|865|[CSV](), [GeoJSON]()|
+|[Sephora](https://github.com/stiles/locations/tree/main/sephora)|1,602|[CSV](), [GeoJSON]()|
+<!-- |[Shake Shack](https://github.com/stiles/locations/tree/main/shake-shack)|tk|[CSV](), [GeoJSON]()| -->
 |[Sonic](https://github.com/stiles/locations/tree/main/sonic)|3,529|[CSV](), [GeoJSON]()|
 |[Starbucks](https://github.com/stiles/locations/tree/main/starbucks)|16,288|[CSV](), [GeoJSON]()|
 |[Taco Bell](https://github.com/stiles/locations/tree/main/taco-bell)|7,148|[CSV](), [GeoJSON]()|
 |[TCBY](https://github.com/stiles/locations/tree/main/tcby)|135|[CSV](), [GeoJSON]()|
 |[Torchy's Tacos](https://github.com/stiles/locations/tree/main/torchys-tacos)|124|[CSV](), [GeoJSON]()|
-|[Trader Joe's](https://github.com/stiles/locations/tree/main/trader-joes)|tk|[CSV](), [GeoJSON]()|
-|[Ulta](https://github.com/stiles/locations/tree/main/ulta)|tk|[CSV](), [GeoJSON]()|
-|[Vons](https://github.com/stiles/locations/tree/main/vons)|tk|[CSV](), [GeoJSON]()|
+|[Trader Joe's](https://github.com/stiles/locations/tree/main/trader-joes)|558|[CSV](), [GeoJSON]()|
+|[Ulta](https://github.com/stiles/locations/tree/main/ulta)|1,411|[CSV](), [GeoJSON]()|
+|[Vons](https://github.com/stiles/locations/tree/main/vons)|186|[CSV](), [GeoJSON]()|
 |[Wahoo's](https://github.com/stiles/locations/tree/main/wahoos)|46|[CSV](), [GeoJSON]()|
 |[Walgreens](https://github.com/stiles/locations/tree/main/walgreens)|8,446|[CSV](), [GeoJSON]()|
 |[Wendy's](https://github.com/stiles/locations/tree/main/wendys)|6,150|[CSV](), [GeoJSON]()|
