@@ -37,10 +37,8 @@ A growing collection of data scrapers for collecting location information about 
 |[Pinkberry](https://github.com/stiles/locations/tree/main/pinkberry)|70|[CSV](), [GeoJSON]()|
 |[Pizza Hut](https://github.com/stiles/locations/tree/main/pizza-hut)|5,204|[CSV](), [GeoJSON]()|
 |[Publix](https://github.com/stiles/locations/tree/main/publix)|1,407|[CSV](), [GeoJSON]()|
-<!-- |[Ralphs](https://github.com/stiles/locations/tree/main/ralphs)|tk|[CSV](), [GeoJSON]()| -->
 |[Safeway](https://github.com/stiles/locations/tree/main/safeway)|865|[CSV](), [GeoJSON]()|
 |[Sephora](https://github.com/stiles/locations/tree/main/sephora)|1,602|[CSV](), [GeoJSON]()|
-<!-- |[Shake Shack](https://github.com/stiles/locations/tree/main/shake-shack)|tk|[CSV](), [GeoJSON]()| -->
 |[Sonic](https://github.com/stiles/locations/tree/main/sonic)|3,529|[CSV](), [GeoJSON]()|
 |[Starbucks](https://github.com/stiles/locations/tree/main/starbucks)|16,288|[CSV](), [GeoJSON]()|
 |[Taco Bell](https://github.com/stiles/locations/tree/main/taco-bell)|7,148|[CSV](), [GeoJSON]()|
