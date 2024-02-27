@@ -8,6 +8,7 @@ A growing collection of data scrapers for collecting location information about 
 |[Abercrombie & Fitch](https://github.com/stiles/locations/tree/main/abercrombie-fitch)|221|[CSV](https://github.com/stiles/locations/blob/main/abercrombie-fitch/data/processed/abercrombie_fitch_locations.csv), [GeoJSON](https://github.com/stiles/locations/blob/main/abercrombie-fitch/data/processed/abercrombie_fitch_locations.geojson)|
 |[Aldi](https://github.com/stiles/locations/tree/main/aldi)|2,362|[CSV](https://github.com/stiles/locations/blob/main/aldi/data/processed/aldi_locations.csv), [GeoJSON](https://github.com/stiles/locations/blob/main/aldi/data/processed/aldi_locations.geojson)|
 |[Apple Stores](https://github.com/stiles/locations/tree/main/apple-stores)|526|[CSV](https://github.com/stiles/locations/blob/main/apple-stores/data/processed/apple_store_locations.csv), [GeoJSON](https://github.com/stiles/locations/blob/main/apple-stores/data/processed/apple_store_locations.geojson)|
+|[Arby's](https://github.com/stiles/locations/tree/main/arbys)|3,388|[CSV](), [GeoJSON]()|
 |[Au Bon Pain](https://github.com/stiles/locations/tree/main/au-bon-pain)|71|[CSV](), [GeoJSON]()|
 |[Bank of America](https://github.com/stiles/locations/tree/main/bank-of-america)|6,066|[CSV](), [GeoJSON]()|
 |[Carl's Jr.](https://github.com/stiles/locations/tree/main/carls-jr)|1,026|[CSV](), [GeoJSON]()|
@@ -19,6 +20,7 @@ A growing collection of data scrapers for collecting location information about 
 |[Del Taco](https://github.com/stiles/locations/tree/main/del-taco)|328|[CSV](), [GeoJSON]()|
 |[Dunkin Donuts](https://github.com/stiles/locations/tree/main/dunkin-donuts)|9,538|[CSV](), [GeoJSON]()|
 |[El Pollo Loco](https://github.com/stiles/locations/tree/main/el-pollo-loco)|500|[CSV](), [GeoJSON]()|
+|[Giant](https://github.com/stiles/locations/tree/main/giant)|165|[CSV](), [GeoJSON]()|
 |[Hardee's](https://github.com/stiles/locations/tree/main/hardies)|1,419|[CSV](), [GeoJSON]()|
 |[Hollister](https://github.com/stiles/locations/tree/main/hollister)|104|[CSV](), [GeoJSON]()|
 |[In-N-Out Burger](https://github.com/stiles/locations/tree/main/in-n-out)|401|[CSV](), [GeoJSON]()|
@@ -48,6 +50,7 @@ A growing collection of data scrapers for collecting location information about 
 |[Ulta](https://github.com/stiles/locations/tree/main/ulta)|tk|[CSV](), [GeoJSON]()|
 |[Vons](https://github.com/stiles/locations/tree/main/vons)|tk|[CSV](), [GeoJSON]()|
 |[Wahoo's](https://github.com/stiles/locations/tree/main/wahoos)|46|[CSV](), [GeoJSON]()|
+|[Walgreens](https://github.com/stiles/locations/tree/main/walgreens)|8,446|[CSV](), [GeoJSON]()|
 |[Wendy's](https://github.com/stiles/locations/tree/main/wendys)|6,150|[CSV](), [GeoJSON]()|
 |[Whataburger](https://github.com/stiles/locations/tree/main/whataburger)|1,014|[CSV](), [GeoJSON]()|
 |[Wienerschnitzel](https://github.com/stiles/locations/tree/main/wienerschnitzel)|320|[CSV](), [GeoJSON]()|
