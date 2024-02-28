@@ -26,6 +26,7 @@ jupyter-black = "*"
 tqdm = "*"
 pyarrow = "*"
 us = "*"
+osmnx = "*"
 
 [dev-packages]
 

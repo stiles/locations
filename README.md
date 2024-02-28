@@ -3,7 +3,7 @@ A growing collection of data scrapers for collecting location information about 
 
 ![starbucks locations](starbucks/visuals/visualization.png)
 
-|Company|Locations*|Formats|
+|Company|Locations*|Formats (tk)|
 |:---  |---: |:---  |
 |[Abercrombie & Fitch](https://github.com/stiles/locations/tree/main/abercrombie-fitch)|221|[CSV](https://github.com/stiles/locations/blob/main/abercrombie-fitch/data/processed/abercrombie_fitch_locations.csv), [GeoJSON](https://github.com/stiles/locations/blob/main/abercrombie-fitch/data/processed/abercrombie_fitch_locations.geojson)|
 |[Aldi](https://github.com/stiles/locations/tree/main/aldi)|2,362|[CSV](https://github.com/stiles/locations/blob/main/aldi/data/processed/aldi_locations.csv), [GeoJSON](https://github.com/stiles/locations/blob/main/aldi/data/processed/aldi_locations.geojson)|
@@ -17,6 +17,7 @@ A growing collection of data scrapers for collecting location information about 
 |[Chipotle](https://github.com/stiles/locations/tree/main/chipotle)|3,385|[CSV](), [GeoJSON]()|
 |[Costco](https://github.com/stiles/locations/tree/main/costco)|588|[CSV](), [GeoJSON]()|
 |[Cracker Barrel](https://github.com/stiles/locations/tree/main/cracker-barrel)|662|[CSV](), [GeoJSON]()|
+|[CVS](https://github.com/stiles/locations/tree/main/cvs)|9,333|[CSV](), [GeoJSON]()|
 |[Del Taco](https://github.com/stiles/locations/tree/main/del-taco)|328|[CSV](), [GeoJSON]()|
 |[Dunkin Donuts](https://github.com/stiles/locations/tree/main/dunkin-donuts)|9,538|[CSV](), [GeoJSON]()|
 |[El Pollo Loco](https://github.com/stiles/locations/tree/main/el-pollo-loco)|500|[CSV](), [GeoJSON]()|
