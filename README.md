@@ -5,6 +5,7 @@ A growing collection of data scrapers for collecting location information about 
 
 |Company|Locations*|Formats (tk)|
 |:---  |---: |:---  |
+|[99 Ranch Market](https://github.com/stiles/locations/tree/main/99ranch)|62|[CSV](), [GeoJSON]()|
 |[Abercrombie & Fitch](https://github.com/stiles/locations/tree/main/abercrombie-fitch)|221|[CSV](https://github.com/stiles/locations/blob/main/abercrombie-fitch/data/processed/abercrombie_fitch_locations.csv), [GeoJSON](https://github.com/stiles/locations/blob/main/abercrombie-fitch/data/processed/abercrombie_fitch_locations.geojson)|
 |[Aldi](https://github.com/stiles/locations/tree/main/aldi)|2,362|[CSV](https://github.com/stiles/locations/blob/main/aldi/data/processed/aldi_locations.csv), [GeoJSON](https://github.com/stiles/locations/blob/main/aldi/data/processed/aldi_locations.geojson)|
 |[Apple Stores](https://github.com/stiles/locations/tree/main/apple-stores)|526|[CSV](https://github.com/stiles/locations/blob/main/apple-stores/data/processed/apple_store_locations.csv), [GeoJSON](https://github.com/stiles/locations/blob/main/apple-stores/data/processed/apple_store_locations.geojson)|

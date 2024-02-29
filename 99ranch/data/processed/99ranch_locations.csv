@@ -1,0 +1,63 @@
+store_number,store_name,state,city,street,zip,longitude,latitude,timeZone,state_name,brand
+1255,Westwood,CA,Los Angeles,1360 Westwood Blvd,90024,-118.441905700000,34.055985800000,America/Los_Angeles,California,99 Ranch Market
+1006,Gardena,CA,Gardena,1340 Artesia Blvd,90248,-118.297151500000,33.872055000000,America/Los_Angeles,California,99 Ranch Market
+1808,Torrance,CA,Torrance,19100 Harborgate Way,90501,-118.303001700000,33.857125700000,America/Los_Angeles,California,99 Ranch Market
+1013,Van Nuys,CA,Van Nuys,6450 Sepulveda Blvd,91411,-118.465335900000,34.188030900000,America/Los_Angeles,California,99 Ranch Market
+1012,Monterey Park,CA,Monterey Park,771 W Garvey Ave,91754,-118.133740900000,34.063652400000,America/Los_Angeles,California,99 Ranch Market
+1038,Alhambra,CA,Alhambra,345 E Main St,91801,-118.123788900000,34.097604900000,America/Los_Angeles,California,99 Ranch Market
+1208,San Gabriel,CA,San Gabriel,140 W Valley Blvd #150,91776,-118.101555400000,34.078010600000,America/Los_Angeles,California,99 Ranch Market
+1017,Artesia,CA,Artesia,17713 Pioneer Blvd,90701,-118.082913300000,33.869670200000,America/Los_Angeles,California,99 Ranch Market
+1007,Arcadia,CA,Arcadia,1300 S Golden W Ave,91007,-118.058950500000,34.124003900000,America/Los_Angeles,California,99 Ranch Market
+1257,Santa Anita,CA,Arcadia,400 S Baldwin Ave Suite#1000,91007,-118.051589000000,34.134700300000,America/Los_Angeles,California,99 Ranch Market
+1018,Hacienda Heights,CA,Hacienda Heights,1625 S Azusa Ave,91745,-117.933412800000,33.993028500000,America/Los_Angeles,California,99 Ranch Market
+1005,Anaheim,CA,Anaheim,651 N Euclid St,92801,-117.943664100000,33.841125500000,America/Los_Angeles,California,99 Ranch Market
+1003,Rowland Heights,CA,Rowland Heights,1015 S Nogales St,91748,-117.890715800000,33.996690000000,America/Los_Angeles,California,99 Ranch Market
+1231,Chino Hills,CA,Chino Hills,2959 Chino Ave,91709,-117.740998500000,34.009608900000,America/Los_Angeles,California,99 Ranch Market
+1052,Chino,CA,Chino,4024 Grand Ave,91710,-117.716294000000,33.999303100000,America/Los_Angeles,California,99 Ranch Market
+1009,Irvine (Culver Dr.),CA,Irvine,15333 Culver Dr #800,92604,-117.798444600000,33.696356500000,America/Los_Angeles,California,99 Ranch Market
+1219,Irvine (Walnut Ave),CA,Irvine,5402 Walnut Ave,92604,-117.769679900000,33.690459900000,America/Los_Angeles,California,99 Ranch Market
+1035,Rancho Cucamonga,CA,Rancho Cucamonga,9775 Base Line Rd,91730,-117.591863600000,34.120119900000,America/Los_Angeles,California,99 Ranch Market
+1256,Eastvale,CA,Eastvale,4956 Hamner Ave,91752,-117.555891700000,33.998714400000,America/Los_Angeles,California,99 Ranch Market
+1036,Corona,CA,Corona,430 N McKinley St,92879,-117.521537400000,33.888713600000,America/Los_Angeles,California,99 Ranch Market
+1039,San Diego (Balboa Ave),CA,San Diego,5950 Balboa Ave,92111,-117.176959400000,32.821638000000,America/Los_Angeles,California,99 Ranch Market
+1016,San Diego (Clairemon Mesa Blvd),CA,San Diego,7330 Clairemont Mesa Blvd,92111,-117.160757600000,32.833557600000,America/Los_Angeles,California,99 Ranch Market
+1051,Chula Vista,CA,Chula Vista,505 Telegraph Canyon Rd,91910,-117.040514700000,32.629458000000,America/Los_Angeles,California,99 Ranch Market
+1032,Las Vegas (Spring Mountain Rd),NV,Las Vegas,4155 W Spring Mountain Rd,89102,-115.195231500000,36.125488800000,America/Los_Angeles,Nevada,99 Ranch Market
+1037,Las Vegas (Maryland Pkwy),NV,Las Vegas,3768 S Maryland Pkwy,89119,-115.135461800000,36.121022900000,America/Los_Angeles,Nevada,99 Ranch Market
+1702,"Blossom Hill, San Jose",CA,San Jose,925 Blossom Hill Rd,95123,-121.861402000000,37.251731500000,America/Los_Angeles,California,99 Ranch Market
+1761,Hostetter,CA,San Jose,1688 Hostetter Rd Unit E,95131,-121.883612700000,37.386891100000,America/Los_Angeles,California,99 Ranch Market
+1779,Cupertino (DeAnza Blvd),CA,Cupertino,10425 S De Anza Blvd,95014,-122.033524200000,37.316897800000,America/Los_Angeles,California,99 Ranch Market
+1768,Cupertino (North Wolfe Rd),CA,Cupertino,10983 N Wolfe Rd,95014,-122.015460300000,37.336582500000,America/Los_Angeles,California,99 Ranch Market
+1766,Milpitas,CA,Milpitas,338 Barber Ln,95035,-121.916950500000,37.422847900000,America/Los_Angeles,California,99 Ranch Market
+1772,Mountain View,CA,Mountain View,1350 Grant Rd,94040,-122.076422300000,37.376892800000,America/Los_Angeles,California,99 Ranch Market
+1701,Fremont (Mission Blvd),CA,Fremont,46551 Mission Blvd,94539,-121.929551600000,37.492069400000,America/Los_Angeles,California,99 Ranch Market
+1783,Newark,CA,Newark,35219 Newark Blvd B,94560,-122.046899500000,37.547560000000,America/Los_Angeles,California,99 Ranch Market
+1688,Pleasanton(Stoneridge Dr),CA,Pleasanton,2701 Stoneridge Dr,94588,-121.850078700000,37.695493600000,America/Los_Angeles,California,99 Ranch Market
+1762,Fermont (Fremont Blvd),CA,Fremont,34444 Fremont Blvd,94555,-122.039262500000,37.575324900000,America/Los_Angeles,California,99 Ranch Market
+1775,Pleasanton (Rosewood Dr),CA,Pleasanton,4299 Rosewood Dr,94588,-121.873274300000,37.699301900000,America/Los_Angeles,California,99 Ranch Market
+1771,Dublin,CA,Dublin,7333 Regional St,94568,-121.934100600000,37.706333100000,America/Los_Angeles,California,99 Ranch Market
+1782,Foster City,CA,Foster City,1070 Foster City Blvd,94404,-122.257070900000,37.553563800000,America/Los_Angeles,California,99 Ranch Market
+1773,Concord,CA,Concord,1795 Willow Pass Rd,94520,-122.038698900000,37.975037800000,America/Los_Angeles,California,99 Ranch Market
+1769,Daly City,CA,Daly City,250 Skyline Plaza,94015,-122.488423000000,37.681936000000,America/Los_Angeles,California,99 Ranch Market
+1781,Richmond,CA,Richmond,3288 Pierce St,94804,-122.307712500000,37.898365000000,America/Los_Angeles,California,99 Ranch Market
+1776,Sacramento,CA,Sacramento,4220 Florin Rd,95823,-121.456902700000,38.494721200000,America/Los_Angeles,California,99 Ranch Market
+1686,Folsom,CA,Folsom,25000 Blue Ravine Rd,95630,-121.125105200000,38.690552300000,America/Los_Angeles,California,99 Ranch Market
+1053,Chandler,AZ,Chandler,1920 W Chandler Blvd,85224,-111.874930800000,33.307467500000,America/Los_Angeles,Arizona,99 Ranch Market
+1693,Beaverton,OR,Beaverton,8155 SW Hall Blvd,97008,-122.796691300000,45.460295400000,America/Los_Angeles,Oregon,99 Ranch Market
+1791,Kent,WA,Kent,18230 E Valley Hwy #100,98032,-122.220225500000,47.438785200000,America/Los_Angeles,Washington,99 Ranch Market
+1792,Edmonds,WA,Edmonds,22511 Hwy 99 #108,98026,-122.333507100000,47.794853400000,America/Los_Angeles,Washington,99 Ranch Market
+1107,Austin,TX,Austin,6929 Airport Blvd,78752,-97.718205600000,30.338656300000,America/Chicago,Texas,99 Ranch Market
+1105,Carrollton,TX,Carrollton,2532 Old Denton Rd,75006,-96.908929200000,32.980671400000,America/Chicago,Texas,99 Ranch Market
+1108,Frisco,TX,Frisco,9292 Warren Pkwy,75035,-96.802697800000,33.110080300000,America/Chicago,Texas,99 Ranch Market
+1102,Plano,TX,Plano,131 W Spring Creek Pkwy,75023,-96.695388100000,33.057450200000,America/Chicago,Texas,99 Ranch Market
+1106,Katy,TX,Katy,569 S Mason Rd,77450,-95.750142200000,29.775670800000,America/Chicago,Texas,99 Ranch Market
+1109,Westheimer,TX,Houston,12230 Westheimer Rd,77077,-95.595619400000,29.737558700000,America/Chicago,Texas,99 Ranch Market
+1103,Sugar Land,TX,Sugar Land,3430 Hwy 6,77478,-95.599553000000,29.588520600000,America/Chicago,Texas,99 Ranch Market
+1101,Houston,TX,Houston,1005 Blalock Rd,77055,-95.523437300000,29.785501400000,America/Chicago,Texas,99 Ranch Market
+1622,Fairfax,VA,Fairfax,10780 Fairfax Blvd,22030,-77.316496200000,38.856360500000,America/New_York,Virginia,99 Ranch Market
+1621,Gaithersburg,MD,Gaithersburg,110 Odendhal Ave,20877,-77.206113900000,39.150043200000,America/New_York,Maryland,99 Ranch Market
+1601,Edison,NJ,Edison,561 US-1,08817,-74.396553500000,40.506742300000,America/New_York,New Jersey,99 Ranch Market
+1602,Jersey City,NJ,Jersey City,420 Grand St,07302,-74.052231700000,40.718732300000,America/New_York,New Jersey,99 Ranch Market
+1603,Hackensack,NJ,Hackensack,450 Hackensack Ave,07601,-74.028383900000,40.908899400000,America/New_York,New Jersey,99 Ranch Market
+1606,Westbury,NY,Westbury,1500 Old Country Rd,11590,-73.595602400000,40.746472200000,America/New_York,New York,99 Ranch Market
+1605,Quincy,MA,Quincy,475 Hancock St,02171,-71.023556700000,42.270410100000,America/New_York,Massachusetts,99 Ranch Market
