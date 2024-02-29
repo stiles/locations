@@ -1,0 +1,81 @@
+store_id,store_name,latitude,longitude,phone,street,city,state,zip,state_name,brand
+59,Arcadia,34.13165100,-118.06573800,626-241-9300,1101 Huntington,Arcadia,CA,91007,California,Hmart
+66,Katy,29.79384000,-95.77806000,832-234-0340 ,23119 Colonial,Katy,TX,77449,Texas,Hmart
+79,Mesa,33.41363600,-111.87249600,480–207–4560,1919 Main,Mesa,AZ,85201,Arizona,Hmart
+85,Flushing - Northern 144,40.76474210,-73.82054010,718-412-5100,144-74 Northern,Flushing,NY,11354,New York,Hmart
+88,Philadelphia,40.04500770,-75.11750370,267-338-1700,6201 Front,Philadelphia,PA,19120,Pennsylvania,Hmart
+89,Little Ferry,40.85588720,-74.03350080,201-426-2060,260 Bergen,Little Ferry,NJ,07643,New Jersey,Hmart
+97,San Francisco,37.71038490,-122.46762820,650-993-7450,3995 Alemany,San Francisco,CA,94132,California,Hmart
+101,Flushing - Roosevelt,40.76118000,-73.82492000,917-563-3270,142-41 Roosevelt,Flushing,NY,11354,New York,Hmart
+104,Pearl City,21.39432000,-157.96887200,(808) 800-3420,850 Kamehameha,Pearl City,HI,96782,Hawaii,Hmart
+107,Quincy,42.23806000,-70.98406000,857-392-5029,101 Falls,Quincy,MA,02169,Massachusetts,Hmart
+110,Irvine (WestPark),33.68328000,-117.81319000,949 - 265-8585,3825 Alton,Irvine,CA,92606,California,Hmart
+122,Long Island City ,40.75222000,-73.91497000,718-489-8580,48-18 Northern,Queens,NY,11101,New York,Hmart
+128,Irvine (NorthPark),33.72317000,-117.77176000,949-739-7474,3931 Irvine,,CA,92602,California,Hmart
+131,American Dream,40.80961000,-74.06782000,201-559-3888,1 American Dream,East Rutherford,NJ,07073,New Jersey,Hmart
+132,Brookline,42.34618610,-71.10822630,617-991-2949,1028 Beacon,Brookline,MA,02446,Massachusetts,Hmart
+135,Woodside,40.74528100,-73.90528100,718-280-9995,59-18 Woodside,Queens,NY,11377,New York,Hmart
+10,Buena Park,33.88672900,-117.99533700,714-249-7070,5111 Beach,Buena Park,CA,90621,California,Hmart
+52,Lakewood,33.84707500,-118.08269600,562-303-9810,20137 Pioneer,Lakewood,CA,90715,California,Hmart
+5,Diamond Bar,33.97421400,-117.83963700,909-839-0300,2825 Diamond Bar,Diamond Bar,CA,91765,California,Hmart
+12,Garden Grove,33.77483400,-117.97643500,714-534-4113,8911 Garden Grove,Garden Grove,CA,92844,California,Hmart
+13,Irvine,33.68921400,-117.83445100,949-833-0111,2600 Alton,Irvine,CA,92606,California,Hmart
+4,LA Madang,34.06270100,-118.30947200,213-235-9560,621 Western,Los Angeles,CA,90005,California,Hmart
+82,LA City Center,34.06327500,-118.29861300,213-235-1917,3500 6th,Los Angeles,CA,90020,California,Hmart
+6,San Diego,32.91100500,-117.14803100,858-577-0060,9440 Mira Mesa,San Diego,CA,92126,California,Hmart
+76,San Diego Balboa,32.82190000,-117.15726900,(858) 836-9230,7725 Balboa,San Diego,CA,92111,California,Hmart
+56,San Jose - De Anza,37.30417900,-122.03365300,408-418-1601,1179 De Anza,San Jose,CA,95129,California,Hmart
+63,San Jose - Oakland,37.38375700,-121.89459700,408-599-5440 ,1710 Oakland,San Jose,CA,95131,California,Hmart
+51,Torrance,33.80782900,-118.36053400,310-974-6880,4340 PACIFIC,COAST HWYTORRANCE,CA,90505,California,Hmart
+9,Doraville,33.90789700,-84.28816000,770-986-2300,6035 Peachtree,Bldg BDoraville,GA,30360,Georgia,Hmart
+72,LA K-Town,34.05540000,-118.30839700,213-235-1666,928 Western,Los Angeles,CA,90006,California,Hmart
+14,Duluth,33.96993000,-84.14323000,678-543-4000,2550 Pleasant Hill,Duluth,GA,30096,Georgia,Hmart
+15,Johns Creek,34.04534400,-84.17777600,678-317-0240,10820 Abbotts Bridge,Johns Creek,GA,30097,Georgia,Hmart
+16,Riverdale,33.58276200,-84.41292600,678-435-0909,6335 85,Riverdale,GA,30274,Georgia,Hmart
+17,Suwanee,34.02200000,-84.04486900,770-932-9511,2700 Lawrenceville Suwanee,Suwanee,GA,30024,Georgia,Hmart
+60,Chicago,41.87760300,-87.64469600,312-966-4666,711 Jackson,Chicago,IL,60661,Illinois,Hmart
+18,Glenview,42.09152200,-87.87414900,847-510-6222,3385 Milwaukee,Northbrook,IL,60062,Illinois,Hmart
+19,Niles,42.02303700,-87.80133400,847-581-1212,801 Civic Center,Niles,IL,,Illinois,Hmart
+20,Naperville,41.79756000,-88.12254200,630-778-9800,1295 Ogden,Naperville,IL,,Illinois,Hmart
+21,Schaumburg,42.05099400,-88.07771100,847-781-0289,34 Golf,Schaumburg,IL,60173,Illinois,Hmart
+26,Burlington,42.47320200,-71.20861900,781-221-4570,3 Old Concord,Burlington,MA,01803,Massachusetts,Hmart
+27,Cambridge,42.36501400,-71.10266000,857-209-2747,581 Massachusetts,Cambridge,MA,02139,Massachusetts,Hmart
+22,Catonsville,39.28243200,-76.75535000,443-612-9020,800 Rolling,Catonsville,MD,21228,Maryland,Hmart
+23,Ellicott City,39.28085300,-76.81644500,443-574-3456,3301 Ridge,Ellicott City,MD,21043,Maryland,Hmart
+58,Frederick,39.41874000,-77.44659300,240-566-1405,1063 Patrick,Frederick,MD,21702,Maryland,Hmart
+24,Gaithersburg,39.15402900,-77.19808700,301-355-7499,9639 Lost Knife,Gaithersburg,MD,20877,Maryland,Hmart
+25,Wheaton,39.05236700,-77.04958900,301-942-5071,12015 Georgia,Wheaton,MD,20902,Maryland,Hmart
+28,Troy,42.56565700,-83.09021600,248-689-2222,2963 Big Beaver,Troy,MI,,Michigan,Hmart
+55,Cary,35.78921600,-78.84865400,919-535-5900,1961 High House,Cary,NC,27519,North Carolina,Hmart
+62,Paramus,40.91578800,-74.07149100,201-708-2820,60 17,Paramus,NJ,07652,New Jersey,Hmart
+34,Cherry Hill,39.90775500,-74.97696400,856-489-4611,1720 70,Cherry Hill,NJ,08003,New Jersey,Hmart
+35,Edison,40.51365700,-74.40786600,732-339-1530,1761 27 (Lincoln,Edison,NJ,08817,New Jersey,Hmart
+7,Fort Lee,40.86108900,-73.97098400,201-947-7800,112 Linwood,Fort Lee,NJ,07024,New Jersey,Hmart
+36,Fort Lee - H Mart Fresh,40.84566800,-73.97966900,201-944-9009,1379 16th,St. Fort Lee,NJ,07024,New Jersey,Hmart
+37,Leonia,40.86144000,-73.98774600,201-720-7005,315 Broad,Leonia,NJ,07605,New Jersey,Hmart
+3,Ridgefield,40.82460500,-74.01065400,201-943-9600,321 Broad,Ridgefield,NJ,07657,New Jersey,Hmart
+1,Bayside,40.75387700,-73.78105200,718-229-7400,46-40 Francis Lewis,Bayside,NY,11361,New York,Hmart
+2,Flushing - Goowha,40.75916600,-73.82562400,718-961-0999,142-06 41st,Flushing,NY,11355,New York,Hmart
+29,Flushing - Northern 156,40.76399600,-73.80897900,718-888-0005,156-40 Northern,Flushing,NY,11354,New York,Hmart
+30,Flushing - Union,40.77196900,-73.82659500,718-445-5656,29-02 Union,Flushing,NY,11354,New York,Hmart
+31,Great Neck,40.77492900,-73.73270600,516-482-3113,495 Great Neck,Great Neck,NY,11021,New York,Hmart
+32,Hartsdale,41.02987100,-73.79042300,914-448-8888,371 Central,Hartsdale,NY,10530,New York,Hmart
+53,Jericho,40.78084400,-73.53277400,516-513-5050  ,336 Broadway,Jericho,NY,11753,New York,Hmart
+33,Williston Park,40.75436100,-73.65633300,516-699-0270,400 Hillside,Williston Park,NY,11596,New York,Hmart
+57,Yonkers,40.96159900,-73.84118400,914-500-6550,1789 Central Park,Yonkers,NY,10710-2839,New York,Hmart
+39,Elkins Park,40.06289000,-75.13695900,215-782-1801,7320 Old York,Elkins Park,PA,19027,Pennsylvania,Hmart
+40,Levittown,40.16569300,-74.87605200,215-949-1003,1138 Bristol Oxford Valley,Levittown,PA,,Pennsylvania,Hmart
+41,Upper Darby,39.96127400,-75.26284900,610-734-1001,7050 Terminal,Upper Darby,PA,19082,Pennsylvania,Hmart
+61,Austin,30.47945700,-97.79913500,737-717-6900,11301 Lakeline,Austin,Tx,78717,,Hmart
+73,Kaka’ako,21.30002760,-157.86037840,808-219-0924,458 Keawe,Honolulu,HI,96813,Hawaii,Hmart
+42,Carrollton,32.98562000,-96.91151000,972-323-9700,2625 Old Denton,Carrollton,TX,75007,Texas,Hmart
+43,Houston Blalock,29.79278300,-95.52078700,713-468-0606,1302 Blalock,Houston,TX,77055,Texas,Hmart
+44,Houston Bellaire,29.70616200,-95.55407000,713-270-1110,9896 Bellaire,Houston,TX,77036,Texas,Hmart
+45,Plano,33.03978300,-96.69704100,972-881-0300,3320 K,Plano,TX,75074,Texas,Hmart
+46,Annandale,38.82614300,-77.21394300,703-914-4222,7885 Heritage,Annandale,VA,22003,Virginia,Hmart
+54,Burke,38.79567100,-77.27212100,703-621-2345,9550 Burke,Burke,VA,22015,Virginia,Hmart
+47,Centreville,38.83772500,-77.42711800,703-830-6180,13818 Braddock,Centreville,VA,20121,Virginia,Hmart
+48,Falls Church,38.87445300,-77.22497300,703-573-6300,8103 Lee,HighwayFalls Church,VA,22042,Virginia,Hmart
+49,Fairfax,38.85270800,-77.32364400,703-896-4640,11200 Fairfax,Fairfax,VA,22030,Virginia,Hmart
+50,Manassas,38.76302200,-77.45765600,571-358-3400,8819 Centreville,Manassas,VA,20110,Virginia,Hmart
+69,Herndon,38.96296100,-77.40042800,571-346-7330,1228 Elden,Herndon,VA,20170,Virginia,Hmart

@@ -27,6 +27,7 @@ tqdm = "*"
 pyarrow = "*"
 us = "*"
 osmnx = "*"
+usaddress = "*"
 
 [dev-packages]
 

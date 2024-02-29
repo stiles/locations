@@ -23,6 +23,7 @@ A growing collection of data scrapers for collecting location information about 
 |[El Pollo Loco](https://github.com/stiles/locations/tree/main/el-pollo-loco)|500|[CSV](), [GeoJSON]()|
 |[Giant](https://github.com/stiles/locations/tree/main/giant)|165|[CSV](), [GeoJSON]()|
 |[Hardee's](https://github.com/stiles/locations/tree/main/hardies)|1,419|[CSV](), [GeoJSON]()|
+|[Hmart](https://github.com/stiles/locations/tree/main/hmart)|80|[CSV](), [GeoJSON]()|
 |[Hollister](https://github.com/stiles/locations/tree/main/hollister)|104|[CSV](), [GeoJSON]()|
 |[In-N-Out Burger](https://github.com/stiles/locations/tree/main/in-n-out)|401|[CSV](), [GeoJSON]()|
 |[Jared](https://github.com/stiles/locations/tree/main/jared)|234|[CSV](), [GeoJSON]()|
