@@ -28,6 +28,7 @@ pyarrow = "*"
 us = "*"
 osmnx = "*"
 usaddress = "*"
+selenium = "*"
 
 [dev-packages]
 
