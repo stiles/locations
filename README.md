@@ -44,6 +44,7 @@ A growing collection of data scrapers for collecting location information about 
 |[Safeway](https://github.com/stiles/locations/tree/main/safeway)|865|[CSV](), [GeoJSON]()|
 |[Sephora](https://github.com/stiles/locations/tree/main/sephora)|1,602|[CSV](), [GeoJSON]()|
 |[Sonic](https://github.com/stiles/locations/tree/main/sonic)|3,529|[CSV](), [GeoJSON]()|
+|[Shipley Do-Nuts](https://github.com/stiles/locations/tree/main/shipley)|374|[CSV](), [GeoJSON]()|
 |[Starbucks](https://github.com/stiles/locations/tree/main/starbucks)|16,288|[CSV](), [GeoJSON]()|
 |[Taco Bell](https://github.com/stiles/locations/tree/main/taco-bell)|7,148|[CSV](), [GeoJSON]()|
 |[TCBY](https://github.com/stiles/locations/tree/main/tcby)|135|[CSV](), [GeoJSON]()|
