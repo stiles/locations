@@ -1,69 +1,99 @@
+![starbucks locations](starbucks/visuals/visualization.png)
+
 # Locations
 A growing collection of data scrapers for collecting location information about popular stores, restaurants and other consumer sites in the United States.
 
-![starbucks locations](starbucks/visuals/visualization.png)
+---
 
-|Company|Locations*|Formats (tk)|
-|:---  |---: |:---  |
-|[99 Ranch Market](https://github.com/stiles/locations/tree/main/99ranch)|62|[CSV](), [GeoJSON]()|
-|[Abercrombie & Fitch](https://github.com/stiles/locations/tree/main/abercrombie-fitch)|221|[CSV](https://github.com/stiles/locations/blob/main/abercrombie-fitch/data/processed/abercrombie_fitch_locations.csv), [GeoJSON](https://github.com/stiles/locations/blob/main/abercrombie-fitch/data/processed/abercrombie_fitch_locations.geojson)|
-|[Aldi](https://github.com/stiles/locations/tree/main/aldi)|2,362|[CSV](https://github.com/stiles/locations/blob/main/aldi/data/processed/aldi_locations.csv), [GeoJSON](https://github.com/stiles/locations/blob/main/aldi/data/processed/aldi_locations.geojson)|
-|[Apple Stores](https://github.com/stiles/locations/tree/main/apple-stores)|526|[CSV](https://github.com/stiles/locations/blob/main/apple-stores/data/processed/apple_store_locations.csv), [GeoJSON](https://github.com/stiles/locations/blob/main/apple-stores/data/processed/apple_store_locations.geojson)|
-|[Arby's](https://github.com/stiles/locations/tree/main/arbys)|3,388|[CSV](), [GeoJSON]()|
-|[Au Bon Pain](https://github.com/stiles/locations/tree/main/au-bon-pain)|71|[CSV](), [GeoJSON]()|
-|[Bank of America](https://github.com/stiles/locations/tree/main/bank-of-america)|6,066|[CSV](), [GeoJSON]()|
-|[Carl's Jr.](https://github.com/stiles/locations/tree/main/carls-jr)|1,026|[CSV](), [GeoJSON]()|
-|[Chick-Fil-A](https://github.com/stiles/locations/tree/main/chick-fil-a)|2,896|[CSV](), [GeoJSON]()|
-|[Chili's](https://github.com/stiles/locations/tree/main/chilis)|1,229|[CSV](), [GeoJSON]()|
-|[Chipotle](https://github.com/stiles/locations/tree/main/chipotle)|3,385|[CSV](), [GeoJSON]()|
-|[Costco](https://github.com/stiles/locations/tree/main/costco)|588|[CSV](), [GeoJSON]()|
-|[Cracker Barrel](https://github.com/stiles/locations/tree/main/cracker-barrel)|662|[CSV](), [GeoJSON]()|
-|[CVS](https://github.com/stiles/locations/tree/main/cvs)|9,333|[CSV](), [GeoJSON]()|
-|[Del Taco](https://github.com/stiles/locations/tree/main/del-taco)|328|[CSV](), [GeoJSON]()|
-|[DSW](https://github.com/stiles/locations/tree/main/dsw)|439|[CSV](), [GeoJSON]()|
-|[Dunkin Donuts](https://github.com/stiles/locations/tree/main/dunkin-donuts)|9,538|[CSV](), [GeoJSON]()|
-|[El Pollo Loco](https://github.com/stiles/locations/tree/main/el-pollo-loco)|500|[CSV](), [GeoJSON]()|
-|[Giant](https://github.com/stiles/locations/tree/main/giant)|165|[CSV](), [GeoJSON]()|
-|[Hardee's](https://github.com/stiles/locations/tree/main/hardies)|1,419|[CSV](), [GeoJSON]()|
-|[Hmart](https://github.com/stiles/locations/tree/main/hmart)|80|[CSV](), [GeoJSON]()|
-|[Hollister](https://github.com/stiles/locations/tree/main/hollister)|104|[CSV](), [GeoJSON]()|
-|[Home Depot](https://github.com/stiles/locations/tree/main/home-depot)|2,002|[CSV](), [GeoJSON]()|
-|[In-N-Out Burger](https://github.com/stiles/locations/tree/main/in-n-out)|401|[CSV](), [GeoJSON]()|
-|[Jared](https://github.com/stiles/locations/tree/main/jared)|234|[CSV](), [GeoJSON]()|
-|[JCPenney](https://github.com/stiles/locations/tree/main/jcpenney)|663|[CSV](), [GeoJSON]()|
-|[Krispy Kreme](https://github.com/stiles/locations/tree/main/krispy-kreme)|4,646|[CSV](), [GeoJSON]()|
-|[Kroger](https://github.com/stiles/locations/tree/main/kroger)|1,244|[CSV](), [GeoJSON]()|
-|[Kung Fu Tea](https://github.com/stiles/locations/tree/main/kung-fu-tea)|425|[CSV](), [GeoJSON]()|
-|[Macy's](https://github.com/stiles/locations/tree/main/macys)|520|[CSV](), [GeoJSON]()|
-|[Menchies](https://github.com/stiles/locations/tree/main/menchies)|324|[CSV](), [GeoJSON]()|
-|[Nike Stores](https://github.com/stiles/locations/tree/main/nike-stores)|295|[CSV](), [GeoJSON]()|
-|[PetSmart](https://github.com/stiles/locations/tree/main/petsmart)|121|[CSV](), [GeoJSON]()|
-|[Pei Wei](https://github.com/stiles/locations/tree/main/pei-wei)|1,544|[CSV](), [GeoJSON]()|
-|[Pinkberry](https://github.com/stiles/locations/tree/main/pinkberry)|70|[CSV](), [GeoJSON]()|
-|[Pizza Hut](https://github.com/stiles/locations/tree/main/pizza-hut)|5,204|[CSV](), [GeoJSON]()|
-|[Publix](https://github.com/stiles/locations/tree/main/publix)|1,407|[CSV](), [GeoJSON]()|
-|[Safeway](https://github.com/stiles/locations/tree/main/safeway)|865|[CSV](), [GeoJSON]()|
-|[Sephora](https://github.com/stiles/locations/tree/main/sephora)|1,602|[CSV](), [GeoJSON]()|
-|[Sonic](https://github.com/stiles/locations/tree/main/sonic)|3,529|[CSV](), [GeoJSON]()|
-|[Shipley Do-Nuts](https://github.com/stiles/locations/tree/main/shipley)|374|[CSV](), [GeoJSON]()|
-|[Starbucks](https://github.com/stiles/locations/tree/main/starbucks)|16,288|[CSV](), [GeoJSON]()|
-|[Taco Bell](https://github.com/stiles/locations/tree/main/taco-bell)|7,148|[CSV](), [GeoJSON]()|
-|[TCBY](https://github.com/stiles/locations/tree/main/tcby)|135|[CSV](), [GeoJSON]()|
-|[Torchy's Tacos](https://github.com/stiles/locations/tree/main/torchys-tacos)|124|[CSV](), [GeoJSON]()|
-|[Trader Joe's](https://github.com/stiles/locations/tree/main/trader-joes)|558|[CSV](), [GeoJSON]()|
-|[Ulta](https://github.com/stiles/locations/tree/main/ulta)|1,411|[CSV](), [GeoJSON]()|
-|[Vons](https://github.com/stiles/locations/tree/main/vons)|186|[CSV](), [GeoJSON]()|
-|[Wahoo's](https://github.com/stiles/locations/tree/main/wahoos)|46|[CSV](), [GeoJSON]()|
-|[Walgreens](https://github.com/stiles/locations/tree/main/walgreens)|8,446|[CSV](), [GeoJSON]()|
-|[Wendy's](https://github.com/stiles/locations/tree/main/wendys)|6,150|[CSV](), [GeoJSON]()|
-|[Whataburger](https://github.com/stiles/locations/tree/main/whataburger)|1,014|[CSV](), [GeoJSON]()|
-|[Wienerschnitzel](https://github.com/stiles/locations/tree/main/wienerschnitzel)|320|[CSV](), [GeoJSON]()|
+### Collection summary
 
-*This repo is a *slow* work in progress, and I make no guarantees about the accuracy of the data collected here. Please [let me know](mailto:mattstiles@gmail.com) if you have questions or concerns — or if there's a company you'd like to see on this list.
+| Company category                  | Companies |    Locations |
+| ------------------------- | ----: | -----: |
+| Banking                   |     1 |  6,066 |
+| Beauty Products           |     2 |  3,013 |
+| Casual Dining             |     3 |  2,012 |
+| Clothing & Accessories    |     3 |    620 |
+| Coffee Shops & Desserts   |     4 | 21,733 |
+| Electronics & Appliances  |     1 |    526 |
+| Fast Food & Quick Service |    16 | 50,522 |
+| Food & Beverage           |     2 |    236 |
+| Frozen Yogurt             |     3 |    529 |
+| Home Improvement          |     1 |  2,002 |
+| Jewelry                   |     1 |    234 |
+| Pet Supplies              |     1 |    121 |
+| Retail Stores             |    11 | 26,172 |
+| Shoes & Accessories       |     1 |    439 |
+| Specialty Foods           |     5 |   1856 |
+| **Total collected**               |    **55** | **116,081** |
 
 ---
 
-## Installation
+### All companies
+This repo is a *slow* work in progress, and I make no guarantees about the accuracy of the data collected here (or the quality of the code!). This is a non-commercial exercise in data scraping practice. 
+
+| Company                                                                                   | Category                  | Locations |
+| ----------------------------------------------------------------------------------------- | ------------------------- | --------: |
+| [99 Ranch Market](https://github.com/stiles/locations/tree/main/99ranch)               | Specialty Foods           |        62 |
+| [Abercrombie & Fitch](https://github.com/stiles/locations/tree/main/abercrombie-fitch) | Clothing & Accessories    |       221 |
+| [Aldi](https://github.com/stiles/locations/tree/main/aldi)                             | Retail Stores             |     2,362 |
+| [Apple Stores](https://github.com/stiles/locations/tree/main/apple-stores)             | Electronics & Appliances  |       526 |
+| [Arby's](https://github.com/stiles/locations/tree/main/arbys)                          | Fast Food & Quick Service |     3,388 |
+| [Au Bon Pain](https://github.com/stiles/locations/tree/main/au-bon-pain)               | Food & Beverage           |        71 |
+| [Bank of America](https://github.com/stiles/locations/tree/main/bank-of-america)       | Banking                   |     6,066 |
+| [Carl's Jr.](https://github.com/stiles/locations/tree/main/carls-jr)                   | Fast Food & Quick Service |     1,026 |
+| [Chick-Fil-A](https://github.com/stiles/locations/tree/main/chick-fil-a)               | Fast Food & Quick Service |     2,896 |
+| [Chili's](https://github.com/stiles/locations/tree/main/chilis)                        | Casual Dining             |     1,229 |
+| [Chipotle](https://github.com/stiles/locations/tree/main/chipotle)                     | Fast Food & Quick Service |     3,385 |
+| [Costco](https://github.com/stiles/locations/tree/main/costco)                         | Retail Stores             |       588 |
+| [California Pizza Kitchen](https://github.com/stiles/locations/tree/main/cpk)          | Casual Dining             |       121 |
+| [Cracker Barrel](https://github.com/stiles/locations/tree/main/cracker-barrel)         | Casual Dining             |       662 |
+| [CVS](https://github.com/stiles/locations/tree/main/cvs)                               | Retail Stores             |     9,333 |
+| [Del Taco](https://github.com/stiles/locations/tree/main/del-taco)                     | Fast Food & Quick Service |       328 |
+| [DSW](https://github.com/stiles/locations/tree/main/dsw)                               | Shoes & Accessories       |       439 |
+| [Dunkin Donuts](https://github.com/stiles/locations/tree/main/dunkin-donuts)           | Fast Food & Quick Service |     9,538 |
+| [El Pollo Loco](https://github.com/stiles/locations/tree/main/el-pollo-loco)           | Fast Food & Quick Service |       500 |
+| [Giant Food Stores](https://github.com/stiles/locations/tree/main/giant)               | Food & Beverage           |       165 |
+| [Hardee's](https://github.com/stiles/locations/tree/main/hardees)                      | Fast Food & Quick Service |     1,419 |
+| [Hmart](https://github.com/stiles/locations/tree/main/hmart)                           | Specialty Foods           |        80 |
+| [Hollister](https://github.com/stiles/locations/tree/main/hollister)                   | Clothing & Accessories    |       104 |
+| [Home Depot](https://github.com/stiles/locations/tree/main/home-depot)                 | Home Improvement          |     2,002 |
+| [In-N-Out Burger](https://github.com/stiles/locations/tree/main/in-n-out)              | Fast Food & Quick Service |       401 |
+| [Jared](https://github.com/stiles/locations/tree/main/jared)                           | Jewelry                   |       234 |
+| [JCPenney](https://github.com/stiles/locations/tree/main/jcpenney)                     | Retail Stores             |       663 |
+| [Kentucky Fried Chicken](https://github.com/stiles/locations/tree/main/kfc)            | Fast Food & Quick Service |     4,276 |
+| [Krispy Kreme](https://github.com/stiles/locations/tree/main/krispy-kreme)             | Coffee Shops & Desserts   |     4,646 |
+| [Kroger](https://github.com/stiles/locations/tree/main/kroger)                         | Retail Stores             |     1,244 |
+| [Kung Fu Tea](https://github.com/stiles/locations/tree/main/kung-fu-tea)               | Coffee Shops & Desserts   |       425 |
+| [Macy's](https://github.com/stiles/locations/tree/main/macys)                          | Retail Stores             |       520 |
+| [Menchies](https://github.com/stiles/locations/tree/main/menchies)                     | Frozen Yogurt             |       324 |
+| [Nike Stores](https://github.com/stiles/locations/tree/main/nike-stores)               | Clothing & Accessories    |       295 |
+| [PetSmart](https://github.com/stiles/locations/tree/main/pei-wei)                      | Pet Supplies              |       121 |
+| [Pei Wei](https://github.com/stiles/locations/tree/main/petsmart)                      | Specialty Foods           |     1,544 |
+| [Pinkberry](https://github.com/stiles/locations/tree/main/pinkberry)                   | Frozen Yogurt             |        70 |
+| [Pizza Hut](https://github.com/stiles/locations/tree/main/pizza-hut)                   | Fast Food & Quick Service |     5,204 |
+| [Publix](https://github.com/stiles/locations/tree/main/publix)                         | Retail Stores             |     1,407 |
+| [Safeway](https://github.com/stiles/locations/tree/main/safeway)                       | Retail Stores             |       865 |
+| [Sephora](https://github.com/stiles/locations/tree/main/sephora)                       | Beauty Products           |     1,602 |
+| [Sonic](https://github.com/stiles/locations/tree/main/shipley-donuts)                  | Fast Food & Quick Service |     3,529 |
+| [Shipley Do-Nuts](https://github.com/stiles/locations/tree/main/sonic)                 | Coffee Shops & Desserts   |       374 |
+| [Starbucks](https://github.com/stiles/locations/tree/main/starbucks)                   | Coffee Shops & Desserts   |    16,288 |
+| [Taco Bell](https://github.com/stiles/locations/tree/main/taco-bell)                   | Fast Food & Quick Service |     7,148 |
+| [TCBY](https://github.com/stiles/locations/tree/main/tcby)                             | Frozen Yogurt             |       135 |
+| [Torchy's Tacos](https://github.com/stiles/locations/tree/main/torchys-tacos)          | Specialty Foods           |       124 |
+| [Trader Joe's](https://github.com/stiles/locations/tree/main/trader-joes)              | Retail Stores             |       558 |
+| [Ulta](https://github.com/stiles/locations/tree/main/ulta)                             | Beauty Products           |     1,411 |
+| [Vons](https://github.com/stiles/locations/tree/main/vons)                             | Retail Stores             |       186 |
+| [Wahoo's](https://github.com/stiles/locations/tree/main/wahoos)                        | Specialty Foods           |        46 |
+| [Walgreens](https://github.com/stiles/locations/tree/main/walgreens)                   | Retail Stores             |     8,446 |
+| [Wendy's](https://github.com/stiles/locations/tree/main/wendys)                        | Fast Food & Quick Service |     6,150 |
+| [Whataburger](https://github.com/stiles/locations/tree/main/whataburger)               | Fast Food & Quick Service |     1,014 |
+| [Wienerschnitzel](https://github.com/stiles/locations/tree/main/wienerschnitzel)       | Fast Food & Quick Service |       320 |
+
+*Please [let me know](mailto:mattstiles@gmail.com) if you have questions or concerns — or if there's a company you'd like to see on this list.*
+
+---
+
+### Installation
 The notebooks in this repo require Python 3.10 and Jupyer Lab. A virtual environment, such as [`pipenv`](https://pipenv.pypa.io/en/latest/), is reccommended. 
 
 To get stated, clone the repo and navigate into it using the terminal. 
@@ -74,7 +104,7 @@ Then, run `pipenv install` to add the dependancies ([Pandas](https://pandas.pyda
 
 You should be ready to work. Run `jupyter lab` to launch the browser interface.
 
-## Alternative approach
+### Alternative approach
 
 Clone repo and navigate into it using the terminal. Install a few requirements, if not already installed (assumes macOS and homebrew):
 

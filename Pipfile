@@ -29,6 +29,7 @@ us = "*"
 osmnx = "*"
 usaddress = "*"
 selenium = "*"
+tabulate = "*"
 
 [dev-packages]
 
