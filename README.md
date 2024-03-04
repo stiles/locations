@@ -20,6 +20,7 @@ A growing collection of data scrapers for collecting location information about 
 |[Cracker Barrel](https://github.com/stiles/locations/tree/main/cracker-barrel)|662|[CSV](), [GeoJSON]()|
 |[CVS](https://github.com/stiles/locations/tree/main/cvs)|9,333|[CSV](), [GeoJSON]()|
 |[Del Taco](https://github.com/stiles/locations/tree/main/del-taco)|328|[CSV](), [GeoJSON]()|
+|[DSW](https://github.com/stiles/locations/tree/main/dsw)|439|[CSV](), [GeoJSON]()|
 |[Dunkin Donuts](https://github.com/stiles/locations/tree/main/dunkin-donuts)|9,538|[CSV](), [GeoJSON]()|
 |[El Pollo Loco](https://github.com/stiles/locations/tree/main/el-pollo-loco)|500|[CSV](), [GeoJSON]()|
 |[Giant](https://github.com/stiles/locations/tree/main/giant)|165|[CSV](), [GeoJSON]()|
