@@ -27,7 +27,7 @@ A slowly growing collection of data scrapers for collecting location information
 | **Total collected**               |    **55** | **116,081** |
 
 ### All the companies 
-This repo is a a non-commercial exercise in data scraping practice, and it's a work in progress. I make no guarantees about the accuracy of the data collected here.
+This repo is a non-commercial exercise in data scraping practice, and it's a work in progress. I make no guarantees about the accuracy or completeness of the data.
 
 | Company                                                                                   | Category                  | Locations |
 | ----------------------------------------------------------------------------------------- | ------------------------- | --------: |
