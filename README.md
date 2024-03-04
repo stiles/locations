@@ -1,11 +1,11 @@
 ![starbucks locations](starbucks/visuals/visualization.png)
 
 # Locations
-A growing collection of data scrapers for collecting location information about popular stores, restaurants and other consumer sites in the United States.
+A slowly growing collection of data scrapers for collecting location information about popular stores, restaurants and other consumer sites in the United States.
 
----
+## Collection summary
 
-### Collection summary
+### Aggregates
 
 | Company category                  | Companies |    Locations |
 | ------------------------- | ----: | -----: |
@@ -26,10 +26,8 @@ A growing collection of data scrapers for collecting location information about 
 | Specialty Foods           |     5 |   1856 |
 | **Total collected**               |    **55** | **116,081** |
 
----
-
-### All companies
-This repo is a *slow* work in progress, and I make no guarantees about the accuracy of the data collected here (or the quality of the code!). This is a non-commercial exercise in data scraping practice. 
+### All the companies 
+This repo is a a non-commercial exercise in data scraping practice, and it's a work in progress. I make no guarantees about the accuracy of the data collected here.
 
 | Company                                                                                   | Category                  | Locations |
 | ----------------------------------------------------------------------------------------- | ------------------------- | --------: |
@@ -93,7 +91,10 @@ This repo is a *slow* work in progress, and I make no guarantees about the accur
 
 ---
 
-### Installation
+## Installation
+
+### Pipenv
+
 The notebooks in this repo require Python 3.10 and Jupyer Lab. A virtual environment, such as [`pipenv`](https://pipenv.pypa.io/en/latest/), is reccommended. 
 
 To get stated, clone the repo and navigate into it using the terminal. 
