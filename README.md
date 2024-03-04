@@ -1,7 +1,7 @@
 ![starbucks locations](starbucks/visuals/visualization.png)
 
 # Locations
-A slowly growing collection of data scrapers for collecting location information about popular stores, restaurants and other consumer sites in the United States.
+A slowly growing repository of data scrapers that collect location information about popular stores, restaurants and other consumer sites in the United States. 
 
 ## Collection summary
 
