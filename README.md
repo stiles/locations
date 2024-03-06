@@ -1,7 +1,7 @@
 ![starbucks locations](starbucks/visuals/visualization.png)
 
 # Locations
-A slowly growing repository of data scrapers that collect location information about popular stores, restaurants and other consumer sites in the United States. 
+A growing repository of data scrapers that collect location information about popular stores, restaurants and other consumer sites in the United States.
 
 ## Collection summary
 
@@ -22,10 +22,10 @@ A slowly growing repository of data scrapers that collect location information a
 | Home Improvement          |     1 |  2,002 |
 | Jewelry                   |     1 |    234 |
 | Pet Supplies              |     1 |    121 |
-| Retail Stores             |    11 | 26,172 |
+| Retail Stores             |    12 | 26,462 |
 | Shoes & Accessories       |     1 |    439 |
 | Specialty Foods           |     5 |   1856 |
-| **Total collected**               |    **56** | **118,982** |
+| **Total collected**               |    **57** | **119,062** |
 
 ### All the companies 
 This repo is a non-commercial exercise in data scraping practice, and it's a work in progress. I make no guarantees about the accuracy or completeness of the data.
@@ -52,6 +52,7 @@ This repo is a non-commercial exercise in data scraping practice, and it's a wor
 | [Dunkin Donuts](https://github.com/stiles/locations/tree/main/dunkin-donuts)           | Fast Food & Quick Service |     9,538 |
 | [El Pollo Loco](https://github.com/stiles/locations/tree/main/el-pollo-loco)           | Fast Food & Quick Service |       500 |
 | [Ford dealers](https://github.com/stiles/locations/tree/main/ford)           | Automotive |       2,901 |
+| [Forever 21](https://github.com/stiles/locations/tree/main/forever-21)                               | Retail Stores             |     380 |
 | [Giant Food Stores](https://github.com/stiles/locations/tree/main/giant)               | Food & Beverage           |       165 |
 | [Hardee's](https://github.com/stiles/locations/tree/main/hardees)                      | Fast Food & Quick Service |     1,419 |
 | [Hmart](https://github.com/stiles/locations/tree/main/hmart)                           | Specialty Foods           |        80 |

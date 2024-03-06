@@ -1,0 +1,381 @@
+address,city,state,zip,phone,url,latitude,longitude,state_name,brand
+200 Inland Dr,San Bernardino,CA,92408,(909) 915-2996,https://locations.forever21.com/us/stores/ca/sanbernardino/200-inland-dr,34.0850596821632,-117.29728560778493,California,Forever 21
+200 Los Cerritos Mall,Cerritos,CA,90703,(562) 356-6959,https://locations.forever21.com/us/stores/ca/cerritos/200-los-cerritos-mall,33.86216607798656,-118.0954303149834,California,Forever 21
+326 Lakewood Center Mall,Lakewood,CA,90712,(562) 280-7435,https://locations.forever21.com/us/stores/ca/lakewood/326-lakewood-center-mall,33.851035912876775,-118.13858930135044,California,Forever 21
+1201 Lake Woodlands Dr,Spring,TX,77380,(346) 224-9779,https://locations.forever21.com/us/stores/tx/spring/1201-lake-woodlands-dr,30.164002974006685,-95.45667450934255,Texas,Forever 21
+3200 Las Vegas Blvd,Las Vegas,NV,89109,(702) 680-6372,https://locations.forever21.com/us/stores/nv/lasvegas/3200-las-vegas-blvd,36.12811937936085,-115.17021975404349,Nevada,Forever 21
+2801 Ming Ave,Bakersfield,CA,93304,(661) 617-5931,https://locations.forever21.com/us/stores/ca/bakersfield/2801-ming-ave,35.33766914855003,-119.03397192237125,California,Forever 21
+755 East Shaw Ave,Fresno,CA,93710,(559) 705-2604,https://locations.forever21.com/us/stores/ca/fresno/755-east-shaw-ave,36.8065015948923,-119.7735847567521,California,Forever 21
+7400 San Pedro Avenue,San Antonio,TX,78216,(210) 961-4760,https://locations.forever21.com/us/stores/tx/sanantonio/7400-san-pedro-avenue,29.518476603836653,-98.4963828935223,Texas,Forever 21
+1408 Baybrook Mall,Friendswood,TX,77546,(346) 815-6958,https://locations.forever21.com/us/stores/tx/friendswood/1408-baybrook-mall,29.543538118737885,-95.14829097251412,Texas,Forever 21
+20131 Us-59,Humble,TX,77338,(281) 318-4041,https://locations.forever21.com/us/stores/tx/humble/20131-us-59,30.009825866309523,-95.26959006468263,Texas,Forever 21
+7007 Friars Rd,San Diego,CA,92108,(619) 849-1975,https://locations.forever21.com/us/stores/ca/sandiego/7007-friars-rd,32.770034391690935,-117.16344439166922,California,Forever 21
+3700 Galleria At Tyler Mall,Riverside,CA,92503,(951) 441-6503,https://locations.forever21.com/us/stores/ca/riverside/3700-galleria-at-tyler-mall,33.91153553464289,-117.4585846787537,California,Forever 21
+4502 S Steele St,Tacoma,WA,98409,(253) 620-7751,https://locations.forever21.com/us/stores/wa/tacoma/4502-s-steele-st,47.21809794400346,-122.46877801407994,Washington,Forever 21
+10306 Southside Blvd.,Jacksonville,FL,32256,(904) 660-6859,https://locations.forever21.com/us/stores/fl/jacksonville/10306-southside-blvd,30.184487761452996,-81.5540947421981,Florida,Forever 21
+5000 Shelbyville Rd,Louisville,KY,40207,(502) 822-7625,https://locations.forever21.com/us/stores/ky/louisville/5000-shelbyville-rd,38.24672039999999,-85.62326565214958,Kentucky,Forever 21
+555 The Shops at Mission Viejo,Mission Viejo,CA,92691,(949) 226-6108,https://locations.forever21.com/us/stores/ca/missionviejo/555-the-shops-at-mission-viejo,33.5574821,-117.6698117,California,Forever 21
+400 South Baldwin Ave,Arcadia,CA,91001,(626) 321-4206,https://locations.forever21.com/us/stores/ca/arcadia/400-south-baldwin-ave,34.13452058875197,-118.05173701131329,California,Forever 21
+2223 N West Shore Blvd,Tampa,FL,33607,(813) 868-8982,https://locations.forever21.com/us/stores/fl/tampa/2223-n-west-shore-blvd,27.964770034790533,-82.520497110641,Florida,Forever 21
+8500 Beverly Blvd,Los Angeles,CA,90048,(310) 620-5630,https://locations.forever21.com/us/stores/ca/losangeles/8500-beverly-blvd,34.07528425925711,-118.37739634772605,California,Forever 21
+5 Woodfield Mall,Schaumburg,IL,60173,(847) 517-1552,https://locations.forever21.com/us/stores/il/schaumburg/5-woodfield-mall,42.04715150604634,-88.03816362053516,Illinois,Forever 21
+4200 Conroy Rd,Orlando,FL,32839,(407) 563-2120,https://locations.forever21.com/us/stores/fl/orlando/4200-conroy-rd,28.48548597087487,-81.43153250456376,Florida,Forever 21
+900 Gessner Rd,Houston,TX,77024,(832) 839-8916,https://locations.forever21.com/us/stores/tx/houston/900-gessner-rd,29.78071001848209,-95.54093993339981,Texas,Forever 21
+313 Smith Haven Mall,Lake Grove,NY,11755,(631) 982-2115,https://locations.forever21.com/us/stores/ny/lakegrove/313-smith-haven-mall,40.86490763635726,-73.13000126625047,New York,Forever 21
+1100 S Hayes St,Arlington,VA,22202,(571) 227-7715,https://locations.forever21.com/us/stores/va/arlington/1100-s-hayes-st,38.86329187554781,-77.06057319182196,Virginia,Forever 21
+7925 FM 1960 Rd W,Houston,TX,77070,(281) 571-4089,https://locations.forever21.com/us/stores/tx/houston/7925-fm-1960-rd-w,29.959883509124303,-95.53892525144488,Texas,Forever 21
+7875 Montgomery Rd,Cincinnati,OH,45236,(513) 975-3387,https://locations.forever21.com/us/stores/oh/cincinnati/7875-montgomery-rd,39.20233252176253,-84.37746868186713,Ohio,Forever 21
+11025 Carolina Place Pky,Pineville,NC,28134,(704) 544-3385,https://locations.forever21.com/us/stores/nc/pineville/11025-carolina-place-pky,35.08228927291823,-80.87729425038177,North Carolina,Forever 21
+173 Woodbridge Center Dr,Woodbridge,NJ,07095,(732) 621-2094,https://locations.forever21.com/us/stores/nj/woodbridge/173-woodbridge-center-dr,40.55664902970061,-74.29992480674592,New Jersey,Forever 21
+5488 S Padre Island Dr,Corpus Christi,TX,78411,(361) 360-7922,https://locations.forever21.com/us/stores/tx/corpuschristi/5488-s-padre-island-dr,27.711041817231592,-97.37262006382298,Texas,Forever 21
+310 Daniel Webster Hwy,Nashua,NH,03060,(603) 402-5028,https://locations.forever21.com/us/stores/nh/nashua/310-daniel-webster-hwy,42.70175675844556,-71.43638180322456,New Hampshire,Forever 21
+2525 El Camino Real,Carlsbad,CA,92008,(760) 696-9413,https://locations.forever21.com/us/stores/ca/carlsbad/2525-el-camino-real,33.17811226193724,-117.33081791905556,California,Forever 21
+231 18th St,Atlanta,GA,30363,(470) 225-4793,https://locations.forever21.com/us/stores/ga/atlanta/231-18th-st,33.792898383730254,-84.39553029289324,Georgia,Forever 21
+4001 W 41st Street,Sioux Falls,SD,57106,(605) 906-6323,https://locations.forever21.com/us/stores/sd/siouxfalls/4001-w-41st-street,43.51119579810656,-96.7768856703855,South Dakota,Forever 21
+3525 W Carson St,Torrance,CA,90503,(310) 683-6571,https://locations.forever21.com/us/stores/ca/torrance/3525-w-carson-st,33.832981352309574,-118.34894683559932,California,Forever 21
+2200 S 10th Street,McAllen,TX,78503,(956) 800-6762,https://locations.forever21.com/us/stores/tx/mcallen/2200-s-10th-street,26.185486668369915,-98.23627016583109,Texas,Forever 21
+48650 Seminole Dr,Cabazon,CA,92230,(951) 846-5158,https://locations.forever21.com/us/stores/ca/cabazon/48650-seminole-dr,33.93069318732769,-116.8182340600106,California,Forever 21
+9601 SW Washington Square Rd,Tigard,OR,97223,(503) 530-7156,https://locations.forever21.com/us/stores/or/tigard/9601-sw-washington-square-rd,45.4499592,-122.7835239,Oregon,Forever 21
+575 E University Pkwy,Orem,UT,84097,(801) 788-3965,https://locations.forever21.com/us/stores/ut/orem/575-e-university-pkwy,40.27504051996374,-111.68139700881393,Utah,Forever 21
+3501 Manchester Expressway,Columbus,GA,31909,(706) 530-4199,https://locations.forever21.com/us/stores/ga/columbus/3501-manchester-expressway,32.5085932,-84.9439666,Georgia,Forever 21
+4999 Old Orchard Center,Skokie,IL,60077,(847) 779-8515,https://locations.forever21.com/us/stores/il/skokie/4999-old-orchard-center,42.061500880261875,-87.74971891857498,Illinois,Forever 21
+2800 N Main St,Santa Ana,CA,92705,(657) 335-3739,https://locations.forever21.com/us/stores/ca/santaana/2800-n-main-st,33.77641623175093,-117.87026789567383,California,Forever 21
+6801 Hollywood Blvd,Los Angeles,CA,90028,(323) 203-3468,https://locations.forever21.com/us/stores/ca/losangeles/6801-hollywood-blvd,34.10274409520637,-118.34039597116394,California,Forever 21
+Pr52 Esquina Pr156,Caguas,PR,00725,(787) 746-3023,https://locations.forever21.com/us/stores/pr/caguas/pr52-esquina-pr156,18.237107658635317,-66.0400243425014,,Forever 21
+1000 Tanger Dr,Locust Grove,GA,30248,(678) 561-9190,https://locations.forever21.com/us/stores/ga/locustgrove/1000-tanger-dr,33.34524829453015,-84.12250956932887,Georgia,Forever 21
+4325 Glenwood Ave,Raleigh,NC,27612,(984) 239-6911,https://locations.forever21.com/us/stores/nc/raleigh/4325-glenwood-ave,35.84144616542546,-78.68090884517171,North Carolina,Forever 21
+1 Premium Outlets Blvd.,Barceloneta,PR,00617,(787) 846-8884,https://locations.forever21.com/us/stores/pr/barceloneta/1-premium-outlets-blvd,18.438400710408665,-66.54021558195113,,Forever 21
+3301 Veterans Memorial Blvd,Metairie,LA,70002,(504) 493-6585,https://locations.forever21.com/us/stores/la/metairie/3301-veterans-memorial-blvd,30.00586533207075,-90.1572804174209,Louisiana,Forever 21
+6000 W Markham St,Little Rock,AR,72205,(501) 503-4773,https://locations.forever21.com/us/stores/ar/littlerock/6000-w-markham-st,34.75340719276921,-92.34280608580006,Arkansas,Forever 21
+3620 Livermore Outlets Dr,Livermore,CA,72401,(925) 292-3488,https://locations.forever21.com/us/stores/ca/livermore/3620-livermore-outlets-dr,37.69912113013144,-121.84218434788508,California,Forever 21
+197 Westbank Expressway,Gretna,LA,70056,(504) 226-2835,https://locations.forever21.com/us/stores/la/gretna/197-westbank-expressway,29.921226712643897,-90.03783231391427,Louisiana,Forever 21
+1 Garden State Plaza,Paramus,NJ,07652,(201) 270-1219,https://locations.forever21.com/us/stores/nj/paramus/1-garden-state-plaza,40.91653347299024,-74.07701242560196,New Jersey,Forever 21
+80 Bay St,Long Beach,CA,90802,(562) 491-1981,https://locations.forever21.com/us/stores/ca/longbeach/80-bay-st,33.7641926,-118.1935199,California,Forever 21
+11799 W 95th St,Overland Park,KS,66214,(913) 335-6357,https://locations.forever21.com/us/stores/ks/overlandpark/11799-w-95th-st,38.953323235321,-94.71820889908152,Kansas,Forever 21
+2000 East Rio Salado Parkway,Tempe,AZ,85281,(602) 643-4056,https://locations.forever21.com/us/stores/az/tempe/2000-east-rio-salado-parkway,33.432439443977145,-111.90427835498502,Arizona,Forever 21
+152 The Arches Circle,Deer Park,NY,11729,(631) 918-4060,https://locations.forever21.com/us/stores/ny/deerpark/152-the-arches-circle,40.76589890122706,-73.30479501327736,New York,Forever 21
+907-937A Market St,Philadelphia,PA,19107,(215) 861-5916,https://locations.forever21.com/us/stores/pa/philadelphia/907-937a-market-st,39.95197265151634,-75.15576523362651,Pennsylvania,Forever 21
+4674 Merchandts Park Circle,Collierville,TN,38017,(901) 472-6669,https://locations.forever21.com/us/stores/tn/collierville/4674-merchandts-park-circle,35.02232967619466,-89.71847856502971,Tennessee,Forever 21
+455 Trolley Line Blvd,Mashantucket,CT,06338,(860) 383-1396,https://locations.forever21.com/us/stores/ct/mashantucket/455-trolley-line-blvd,41.476357909507485,-71.96216495885467,Connecticut,Forever 21
+1429 Cumberland Mall,Atlanta,GA,30339,(678) 932-3039,https://locations.forever21.com/us/stores/ga/atlanta/1429-cumberland-mall,33.8808322,-84.4692736,Georgia,Forever 21
+3111 W Chandler Blvd,Chandler,AZ,85226,(480) 627-8996,https://locations.forever21.com/us/stores/az/chandler/3111-w-chandler-blvd,33.30199583260224,-111.89894494538389,Arizona,Forever 21
+395 Santa Monica Pl,Santa Monica,CA,90401,(310) 309-4034,https://locations.forever21.com/us/stores/ca/santamonica/395-santa-monica-pl,34.01349834834996,-118.49372952455425,California,Forever 21
+11750 Fair Oaks,Fairfax,VA,22033,(703) 218-1033,https://locations.forever21.com/us/stores/va/fairfax/11750-fair-oaks,38.86292144660349,-77.35878588507035,Virginia,Forever 21
+4400 Ashford Dunwoody Rd,Atlanta,GA,30346,(770) 391-1484,https://locations.forever21.com/us/stores/ga/atlanta/4400-ashford-dunwoody-rd,33.922989261954726,-84.33998844658615,Georgia,Forever 21
+8166 Park Ln,Dallas,TX,75231,(214) 765-4039,https://locations.forever21.com/us/stores/tx/dallas/8166-park-ln,32.86953606466219,-96.76835961139994,Texas,Forever 21
+620 Centerview Blvd,Kissimmee,FL,34741,(407) 552-0316,https://locations.forever21.com/us/stores/fl/kissimmee/620-centerview-blvd,28.339620484232036,-81.4070981924163,Florida,Forever 21
+8268 Mills Dr,Kendall,FL,33183,(786) 843-4413,https://locations.forever21.com/us/stores/fl/kendall/8268-mills-dr,25.688376836392905,-80.3858833048588,Florida,Forever 21
+701 Lynnhaven Parkway,Virginia Beach,VA,23452,(757) 463-4370,https://locations.forever21.com/us/stores/va/virginiabeach/701-lynnhaven-parkway,36.81605821885265,-76.07156234639784,Virginia,Forever 21
+300 Yorktown Center,Lombard,IL,60148,(630) 613-2889,https://locations.forever21.com/us/stores/il/lombard/300-yorktown-center,41.838448954314025,-88.00786140148797,Illinois,Forever 21
+223 Red Apple Ct,Central Valley,NY,10917,(845) 460-5003,https://locations.forever21.com/us/stores/ny/centralvalley/223-red-apple-ct,41.314813206229076,-74.12755582417606,New York,Forever 21
+820 W. Stacy Rd.,Allen,TX,75013,(469) 675-0757,https://locations.forever21.com/us/stores/tx/allen/820-w-stacy-rd,33.1329135529193,-96.66153772755665,Texas,Forever 21
+"13801 Grant Street,",Thornton,CO,80023,(303) 256-6880,https://locations.forever21.com/us/stores/co/thornton/13801-grant-street,39.98914246989319,-104.98282693558197,Colorado,Forever 21
+5870 E Broadway Blvd,Tucson,AZ,85711,(520) 719-6780,https://locations.forever21.com/us/stores/az/tucson/5870-e-broadway-blvd,32.218162843411235,-110.86598952050917,Arizona,Forever 21
+435 Seventh Ave,New York,NY,10120,(212) 209-4335,https://locations.forever21.com/us/stores/ny/newyork/435-seventh-ave,40.750642498758154,-73.99041995549729,New York,Forever 21
+121 Pavilion Pkwy,Fayetteville,GA,30214,(678) 519-9035,https://locations.forever21.com/us/stores/ga/fayetteville/121-pavilion-pkwy,33.48182074788456,-84.44147186695075,Georgia,Forever 21
+836 Southcenter Mall,Tukwila,WA,98188,(206) 288-0083,https://locations.forever21.com/us/stores/wa/tukwila/836-southcenter-mall,47.45817307159223,-122.25853418531332,Washington,Forever 21
+3051 Daniels Rd,Winter Garden,FL,34787,(407) 554-0185,https://locations.forever21.com/us/stores/fl/wintergarden/3051-daniels-rd,28.52445059316439,-81.58277420061168,Florida,Forever 21
+1842 Willowbrook Mall,Wayne,NJ,07470,(973) 826-1055,https://locations.forever21.com/us/stores/nj/wayne/1842-willowbrook-mall,40.889086329975505,-74.2595242531875,New Jersey,Forever 21
+3030 Plaza Bonita Rd,National City,CA,91950,(619) 791-2161,https://locations.forever21.com/us/stores/ca/nationalcity/3030-plaza-bonita-rd,32.6562073,-117.0654971,California,Forever 21
+6600 Topanga Canyon Blvd,Canoga Park,CA,91303,(818) 657-1450,https://locations.forever21.com/us/stores/ca/canogapark/6600-topanga-canyon-blvd,34.18952738514085,-118.6042638067459,California,Forever 21
+2011 E. Camelback Road,Phoenix,AZ,85016,(480) 337-5068,https://locations.forever21.com/us/stores/az/phoenix/2011-e-camelback-road,33.50882276833181,-112.03846633399776,Arizona,Forever 21
+100 Robinson Centre Dr,Pittsburgh,PA,15205,(412) 249-5980,https://locations.forever21.com/us/stores/pa/pittsburgh/100-robinson-centre-dr,40.45515508155978,-80.15728464632339,Pennsylvania,Forever 21
+6401 W. Marana Center Blvd.,Tucson,AZ,85742,(520) 719-6443,https://locations.forever21.com/us/stores/az/tucson/6401-w-marana-center-blvd,32.375447971956525,-111.10247781162205,Arizona,Forever 21
+3811 S Cooper St,Arlington,TX,76015,(817) 505-0115,https://locations.forever21.com/us/stores/tx/arlington/3811-s-cooper-st,32.68077734420441,-97.12961030366343,Texas,Forever 21
+2224 Grand Cypress Dr.,Lutz,FL,33559,(813) 345-3966,https://locations.forever21.com/us/stores/fl/lutz/2224-grand-cypress-dr,28.188565302939722,-82.39127942266711,Florida,Forever 21
+825 Dulaney Valley Rd,Towson,MD,21204,(410) 427-2791,https://locations.forever21.com/us/stores/md/towson/825-dulaney-valley-rd,39.40434633489147,-76.59901377932292,Maryland,Forever 21
+6155 Eastex Fwy,Beaumont,TX,77706,(409) 273-7616,https://locations.forever21.com/us/stores/tx/beaumont/6155-eastex-fwy,30.12589437502692,-94.16064707310899,Texas,Forever 21
+6401 Bluebonnet Blvd,Baton Rouge,LA,70836,(225) 666-3144,https://locations.forever21.com/us/stores/la/batonrouge/6401-bluebonnet-blvd,30.39044989135578,-91.08694291221636,Louisiana,Forever 21
+13860 City Center Dr,Chino Hills,CA,91709,(909) 664-9656,https://locations.forever21.com/us/stores/ca/chinohills/13860-city-center-dr,34.00118435613615,-117.73139303617327,California,Forever 21
+1540 Broadway,New York,NY,10036,(212) 302-0594,https://locations.forever21.com/us/stores/ny/newyork/1540-broadway,40.75805079259304,-73.984832906705,New York,Forever 21
+1068 Fox Valley Center Dr,Aurora,IL,60504,(630) 423-9971,https://locations.forever21.com/us/stores/il/aurora/1068-fox-valley-center-dr,41.7582985,-88.2116858,Illinois,Forever 21
+835 N Michigan,Chicago,IL,60611,(312) 846-7660,https://locations.forever21.com/us/stores/il/chicago/835-n-michigan,41.89797939035613,-87.62304606850094,Illinois,Forever 21
+69 Chestnut St,Beavercreek,OH,45440,(937) 986-3063,https://locations.forever21.com/us/stores/oh/beavercreek/69-chestnut-st,39.69431820139862,-84.1039568603727,Ohio,Forever 21
+1 Walden Galleria,Buffalo,NY,14225,(716) 686-9280,https://locations.forever21.com/us/stores/ny/buffalo/1-walden-galleria,42.91398647781965,-78.76284907908969,New York,Forever 21
+200 Tanger Outlets Blvd,Pooler,GA,31322,(912) 348-6150,https://locations.forever21.com/us/stores/ga/pooler/200-tanger-outlets-blvd,32.13448612931816,-81.24318348370649,Georgia,Forever 21
+2855 Stevens Creek Blvd,Santa Clara,CA,95050,(408) 961-7915,https://locations.forever21.com/us/stores/ca/santaclara/2855-stevens-creek-blvd,37.32411708497655,-121.94645746680978,California,Forever 21
+2529 Main St,Union Gap,WA,32828,(509) 426-6202,https://locations.forever21.com/us/stores/wa/uniongap/2529-main-st,46.56594742146272,-120.4796438270738,Washington,Forever 21
+2601 S McKenzie St,Foley,AL,36535,(251) 677-6303,https://locations.forever21.com/us/stores/al/foley/2601-s-mckenzie-st,30.37526928008111,-87.68243696504477,Alabama,Forever 21
+9 W County Center,Des Peres,MO,63131,(314) 288-1985,https://locations.forever21.com/us/stores/mo/desperes/9-w-county-center,38.60202370285963,-90.44666827422238,Missouri,Forever 21
+210 Andover Street,Peabody,MA,01960,(978) 326-1161,https://locations.forever21.com/us/stores/ma/peabody/210-andover-street,42.54111605240603,-70.9446165419935,Massachusetts,Forever 21
+50 Holyoke St,Holyoke,MA,01040,(413) 275-1583,https://locations.forever21.com/us/stores/ma/holyoke/50-holyoke-st,42.168137911721125,-72.64138002285385,Massachusetts,Forever 21
+4300 Meadows Lane,Las Vegas,NV,89107,(702) 415-2813,https://locations.forever21.com/us/stores/nv/lasvegas/4300-meadows-lane,36.17239449400156,-115.19651186861971,Nevada,Forever 21
+8040 Mall Walk,Yonkers,NY,10704,(914) 751-0026,https://locations.forever21.com/us/stores/ny/yonkers/8040-mall-walk,40.92790384513315,-73.85450758787859,New York,Forever 21
+3000 184th St SW,Lynnwood,WA,98037,(425) 921-4228,https://locations.forever21.com/us/stores/wa/lynnwood/3000-184th-st-sw,47.82945077379093,-122.27308271717929,Washington,Forever 21
+5000 Katy Mills Circle,Katy,TX,77494,(346) 307-8310,https://locations.forever21.com/us/stores/tx/katy/5000-katy-mills-circle,29.774786866652374,-95.8092504024669,Texas,Forever 21
+51 S. Main St,Salt Lake City,UT,84101,(801) 906-4033,https://locations.forever21.com/us/stores/ut/saltlakecity/51-s-main-st,40.767711683910385,-111.89066409106701,Utah,Forever 21
+51 West Flat Iron Crossing Dr,Broomfield,CO,80021,(303) 264-2082,https://locations.forever21.com/us/stores/co/broomfield/51-west-flat-iron-crossing-dr,39.93149526106399,-105.13218981265936,Colorado,Forever 21
+504 Opry Mills Dr,Nashville,TN,37214,(615) 514-2905,https://locations.forever21.com/us/stores/tn/nashville/504-opry-mills-dr,36.2050918,-86.6929019,Tennessee,Forever 21
+2055 S Mooney Blvd,Visalia,CA,93277,(559) 429-7813,https://locations.forever21.com/us/stores/ca/visalia/2055-s-mooney-blvd,36.31174691930998,-119.31613066622953,California,Forever 21
+13350 Dallas Pkwy,Dallas,TX,75240,(214) 647-4300,https://locations.forever21.com/us/stores/tx/dallas/13350-dallas-pkwy,32.929792115415744,-96.81987255337295,Texas,Forever 21
+1251 US Highway 31N,Greenwood,IN,46142,(317) 851-1335,https://locations.forever21.com/us/stores/in/greenwood/1251-us-highway-31n,39.63303612928886,-86.12065065885298,Indiana,Forever 21
+5085 Westheimer Road,Houston,TX,77056,(713) 576-3720,https://locations.forever21.com/us/stores/tx/houston/5085-westheimer-road,29.73982450978322,-95.46329729353326,Texas,Forever 21
+800 N. Green River Rd,Evansville,IN,47715,(812) 250-7245,https://locations.forever21.com/us/stores/in/evansville/800-n-green-river-rd,37.98445554840092,-87.4955787145225,Indiana,Forever 21
+125 Westchester Ave,White Plains,NY,10601,(914) 359-6885,https://www.forever21.com/,41.03115195020416,-73.75916919368677,New York,Forever 21
+2270 Northbrook Court,Northbrook,IL,60062,(847) 521-7994,https://locations.forever21.com/us/stores/il/northbrook/2270-northbrook-court,42.149994,-87.8173162,Illinois,Forever 21
+2011 North Roan St.,Johnson City,TN,37601,(423) 328-5883,https://locations.forever21.com/us/stores/tn/johnsoncity/2011-north-roan-st,36.3371681,-82.3770087,Tennessee,Forever 21
+6594 Douglas Blvd,Douglasville,GA,30135,(770) 767-6299,https://locations.forever21.com/us/stores/ga/douglasville/6594-douglas-blvd,33.7282882419073,-84.74485135333202,Georgia,Forever 21
+75 Middlesex Turnpike,Burlington,MA,01803,(781) 685-6471,https://locations.forever21.com/us/stores/ma/burlington/75-middlesex-turnpike,42.48148216794409,-71.21268106704056,Massachusetts,Forever 21
+2000 N Neil St,Champaign,IL,61820,(217) 305-6802,https://locations.forever21.com/us/stores/il/champaign/2000-n-neil-st,40.14220421156544,-88.24324395979036,Illinois,Forever 21
+15575 Starfish St.,Panama City Beach,FL,32413,(850) 708-6111,https://locations.forever21.com/us/stores/fl/panamacitybeach/15575-starfish-st,30.219894199227113,-85.86966949012317,Florida,Forever 21
+6000 Sepulveda Boulevard,Culver City,CA,90230,(310) 754-1677,https://locations.forever21.com/us/stores/ca/culvercity/6000-sepulveda-boulevard,33.986009230626316,-118.39439548954303,California,Forever 21
+4201 N. Shiloh Dr.,Fayetteville,AR,72703,(479) 435-2521,https://locations.forever21.com/us/stores/ar/fayetteville/4201-n-shiloh-dr,36.1279679,-94.1487373,Arkansas,Forever 21
+1 Bellis Fair Parkway,Bellingham,WA,98226,(360) 392-2047,https://locations.forever21.com/us/stores/wa/bellingham/1-bellis-fair-parkway,48.7858833216301,-122.48989214597619,Washington,Forever 21
+5301 Kings Plaza,Brooklyn,NY,11234,(718) 306-5399,https://locations.forever21.com/us/stores/ny/brooklyn/5301-kings-plaza,40.61008021866419,-73.92008275544276,New York,Forever 21
+10000 California Street,Omaha,NE,68114,(402) 938-1716,https://locations.forever21.com/us/stores/ne/omaha/10000-california-street,41.26688042702334,-96.06825982784825,Nebraska,Forever 21
+305 West 1382,Cedar Hill,TX,75104,(405) 898-6253,https://locations.forever21.com/us/stores/tx/cedarhill/305-west-1382,32.601641979368694,-96.94264446833668,Texas,Forever 21
+630 Old Country Rd,Garden City,NY,11530,(516) 534-5074,https://locations.forever21.com/us/stores/ny/gardencity/630-old-country-rd,40.738532094850484,-73.61311017512551,New York,Forever 21
+1901 NW Expressway,Oklahoma City,OK,73118,(405) 241-3496,https://locations.forever21.com/us/stores/ok/oklahomacity/1901-nw-expressway,35.524954893924026,-97.54397082745233,Oklahoma,Forever 21
+10300 W. Forest Hill Blvd,West Palm Beach,FL,33414,(561) 273-6906,https://locations.forever21.com/us/stores/fl/westpalmbeach/10300-w-forest-hill-blvd,26.647074499130607,-80.20893771172123,Florida,Forever 21
+250 West Mariposa Road,Nogales,AZ,85621,(520) 860-6038,https://locations.forever21.com/us/stores/az/nogales/250-west-mariposa-road,31.369328141165788,-110.93425612784604,Arizona,Forever 21
+7021 S. Memorial Dr.,Tulsa,OK,74133,(918) 505-6486,https://locations.forever21.com/us/stores/ok/tulsa/7021-s-memorial-dr,36.063297955850324,-95.88178828497391,Oklahoma,Forever 21
+1200 Pacific Ave,Santa Cruz,CA,95060,(831) 824-9811,https://locations.forever21.com/us/stores/ca/santacruz/1200-pacific-ave,36.97334994617647,-122.02564561903172,California,Forever 21
+162 Christiana Mall,Newark,DE,19702,(302) 444-9059,https://locations.forever21.com/us/stores/de/newark/162-christiana-mall,39.67898419774374,-75.6521262662878,Delaware,Forever 21
+7804 Abercorn St,Savannah,GA,31406,(912) 898-6828,https://locations.forever21.com/us/stores/ga/savannah/7804-abercorn-st,32.002744014734496,-81.1166524351426,Georgia,Forever 21
+13000 Folsom Blvd,Folsom,CA,95630,(916) 850-1065,https://locations.forever21.com/us/stores/ca/folsom/13000-folsom-blvd,38.64310732051293,-121.18697411962604,California,Forever 21
+1200 12th St SW,Rochester,MN,55902,(507) 513-6664,https://locations.forever21.com/us/stores/mn/rochester/1200-12th-st-sw,44.0041018,-92.4797225,Minnesota,Forever 21
+2901 S. Capital Of Texas Highway,Austin,TX,78746,(512) 814-4302,https://locations.forever21.com/us/stores/tx/austin/2901-s-capital-of-texas-highway,30.257692518505483,-97.80689794813142,Texas,Forever 21
+2700 Potomac Mills,Woodbridge,VA,22192,(703) 987-2088,https://locations.forever21.com/us/stores/va/woodbridge/2700-potomac-mills,38.64372573854394,-77.2965830791668,Virginia,Forever 21
+1173 Galleria Boulevard,Roseville,CA,95678,(916) 724-2792,https://locations.forever21.com/us/stores/ca/roseville/1173-galleria-boulevard,38.77293621706788,-121.27087465899841,California,Forever 21
+2693 Countryside Dr,Turlock,CA,95380,(209) 669-9242,https://locations.forever21.com/us/stores/ca/turlock/2693-countryside-dr,37.51499233560681,-120.87940336100617,California,Forever 21
+8001 S. Orange Blossom Trail,Orlando,FL,32809,(407) 845-6509,https://locations.forever21.com/us/stores/fl/orlando/8001-s-orange-blossom-trail,28.44694810191269,-81.39466689991535,Florida,Forever 21
+11200 W Broadway St,Pearland,TX,77584,(346) 207-3370,https://locations.forever21.com/us/stores/tx/pearland/11200-w-broadway-st,29.552788447285632,-95.39320643731288,Texas,Forever 21
+2050 Ponce Bypass,Ponce,PR,00716,(787) 840-4105,https://locations.forever21.com/us/stores/pr/ponce/2050-ponce-bypass,17.99312833124368,-66.61160046589633,,Forever 21
+6002 Slide Rd,Lubbock,TX,79414,(806) 799-6000,https://locations.forever21.com/us/stores/tx/lubbock/6002-slide-rd,33.53927888667246,-101.92517677191809,Texas,Forever 21
+1001 Arney Rd,Woodburn,OR,97071,(971) 432-4017,https://locations.forever21.com/us/stores/or/woodburn/1001-arney-rd,45.15765643026799,-122.8779145515379,Oregon,Forever 21
+2000 Route 38,Cherry Hill,NJ,08002,(856) 356-4324,https://locations.forever21.com/us/stores/nj/cherryhill/2000-route-38,39.940851654157676,-75.02572149453235,New Jersey,Forever 21
+27434 Novi Rd,Novi,MI,48377,(248) 675-2922,https://locations.forever21.com/us/stores/mi/novi/27434-novi-rd,42.4899272,-83.4757774,Michigan,Forever 21
+4250 Cerrillos Rd,Santa Fe,NM,87507,(505) 428-4259,https://locations.forever21.com/us/stores/nm/santafe/4250-cerrillos-rd,35.63608474749071,-106.01472688381601,New Mexico,Forever 21
+350 W Hillcrest Dr,Thousand Oaks,CA,91360,(805) 277-5921,https://locations.forever21.com/us/stores/ca/thousandoaks/350-w-hillcrest-dr,34.18422368194183,-118.88808344142674,California,Forever 21
+24201 W Valencia Blvd,Santa Clarita,CA,91355,(661) 600-0915,https://locations.forever21.com/us/stores/ca/santaclarita/24201-w-valencia-blvd,34.41651006938061,-118.55814915932598,California,Forever 21
+80-40 Cooper Ave,Glendale,NY,11385,(347) 455-1959,https://locations.forever21.com/us/stores/ny/glendale/80-40-cooper-ave,40.70912009357026,-73.86826672518329,New York,Forever 21
+4951 International Drive,Orlando,FL,32819,(407) 563-0053,https://locations.forever21.com/us/stores/fl/orlando/4951-international-drive,28.476449036430264,-81.45050465424886,Florida,Forever 21
+5170 Meadowood Mall Circle,Reno,NV,89502,(775) 800-2177,https://locations.forever21.com/us/stores/nv/reno/5170-meadowood-mall-circle,39.47349050835167,-119.78354965276127,Nevada,Forever 21
+112 Plaza Dr,West Covina,CA,91790,(626) 646-1840,https://locations.forever21.com/us/stores/ca/westcovina/112-plaza-dr,34.07072270555641,-117.93146285165045,California,Forever 21
+2801 Memorial Pkwy SW,Huntsville,AL,35801,(256) 755-3699,https://locations.forever21.com/us/stores/al/huntsville/2801-memorial-pkwy-sw,34.707360410256975,-86.58740047617675,Alabama,Forever 21
+10600 Quil Ceda Blvd,Tulalip,WA,98271,(360) 283-0917,https://locations.forever21.com/us/stores/wa/tulalip/10600-quil-ceda-blvd,48.09490502785246,-122.18723256342817,Washington,Forever 21
+5001 East Expressway 83,Mercedes,TX,78570,(956) 294-6035,https://locations.forever21.com/us/stores/tx/mercedes/5001-east-expressway-83,26.162733432085854,-97.88796106248016,Texas,Forever 21
+385 Southbridge St,Auburn,MA,01501,(774) 633-8008,https://locations.forever21.com/us/stores/ma/auburn/385-southbridge-st,42.202084734910336,-71.83541500167766,Massachusetts,Forever 21
+4403 Black Horse Pike,Mays Landing,NJ,08330,(609) 415-6371,https://locations.forever21.com/us/stores/nj/mayslanding/4403-black-horse-pike,39.45378875089655,-74.64377230441849,New Jersey,Forever 21
+1500 Harvey Rd,College Station,TX,77840,(979) 329-6081,https://locations.forever21.com/us/stores/tx/collegestation/1500-harvey-rd,30.62371083375138,-96.30268481473253,Texas,Forever 21
+1000 South Lake Mall,Morrow,GA,30260,(770) 268-4645,https://locations.forever21.com/us/stores/ga/morrow/1000-south-lake-mall,33.57535306471141,-84.35179971168027,Georgia,Forever 21
+5220 Fashion Outlet Way,Rosemont,IL,60018,(847) 737-2459,https://locations.forever21.com/us/stores/il/rosemont/5220-fashion-outlet-way,41.97501468725109,-87.867554334699,Illinois,Forever 21
+7700 East Kellogg Drive,Wichita,KS,67207,(316) 776-6772,https://locations.forever21.com/us/stores/ks/wichita/7700-east-kellogg-drive,37.68411146905937,-97.24668336932886,Kansas,Forever 21
+12801 W Sunrise Blvd,Sunrise,FL,33323,(954) 331-3086,https://locations.forever21.com/us/stores/fl/sunrise/12801-w-sunrise-blvd,26.15032803619548,-80.32225692102298,Florida,Forever 21
+6191 State St,Murray,UT,84017,(801) 904-4449,https://locations.forever21.com/us/stores/ut/murray/6191-state-st,40.6371162,-111.8847804,Utah,Forever 21
+828 Park Ciy Center,Lancaster,PA,17601,(717) 224-2854,https://locations.forever21.com/us/stores/pa/lancaster/828-park-ciy-center,40.0677116,-76.3386917,Pennsylvania,Forever 21
+520 Town Center Dr,Oxnard,CA,93036,(805) 288-4494,https://locations.forever21.com/us/stores/ca/oxnard/520-town-center-dr,34.238957273934005,-119.17745405767211,California,Forever 21
+10000 Coors Blvd,Albuquerque,NM,87114,(505) 600-4735,https://locations.forever21.com/us/stores/nm/albuquerque/10000-coors-blvd,35.194650390526256,-106.65572807509365,New Mexico,Forever 21
+7850 Mentor Avenue,Mentor,OH,44060,(440) 701-1086,https://locations.forever21.com/us/stores/oh/mentor/7850-mentor-avenue,41.65756979800344,-81.35729924538632,Ohio,Forever 21
+350 N Milwaukee,Boise,ID,83704,(208) 803-3534,https://locations.forever21.com/us/stores/id/boise/350-n-milwaukee,43.608352179042846,-116.27870276555461,Idaho,Forever 21
+700 Haywood Road,Greenville,SC,29607,(864) 297-7543,https://locations.forever21.com/us/stores/sc/greenville/700-haywood-road,34.84982335153466,-82.33343630795194,South Carolina,Forever 21
+850 Hartford Turnpike,Waterford,CT,06385,(860) 326-3295,https://locations.forever21.com/us/stores/ct/waterford/850-hartford-turnpike,41.374017481562674,-72.14439256258296,Connecticut,Forever 21
+3080 NW Federal Highway,Jensen Beach,FL,34957,(772) 405-9173,https://locations.forever21.com/us/stores/fl/jensenbeach/3080-nw-federal-highway,27.243380045358645,-80.27486066959914,Florida,Forever 21
+2000 Riverchase Galleria,Birmingham,AL,35244,(205) 848-4061,https://locations.forever21.com/us/stores/al/birmingham/2000-riverchase-galleria,33.378898165441825,-86.80796847079398,Alabama,Forever 21
+36504 Seaside Outlet Dr,Rehoboth Beach,DE,19971,(302) 864-9029,https://locations.forever21.com/us/stores/de/rehobothbeach/36504-seaside-outlet-dr,38.72020292655791,-75.1145291020859,Delaware,Forever 21
+451 E. Altamonte Drive,Altamonte Springs,FL,32701,(407) 551-1210,https://locations.forever21.com/us/stores/fl/altamontesprings/451-e-altamonte-drive,28.666637447768395,-81.37728485326612,Florida,Forever 21
+8249 Vineland Ave.,Orlando,FL,32821,(407) 550-9712,https://locations.forever21.com/us/stores/fl/orlando/8249-vineland-ave,28.39042107307093,-81.49166539264239,Florida,Forever 21
+5001 Monroe Street,Toledo,OH,43623,(567) 200-6800,https://locations.forever21.com/us/stores/oh/toledo/5001-monroe-street,41.69302543482086,-83.64053893867295,Ohio,Forever 21
+755 State Route 18,East Brunswick,NJ,08816,(732) 353-5513,https://locations.forever21.com/us/stores/nj/eastbrunswick/755-state-route-18,40.423141,-74.3821523,New Jersey,Forever 21
+1365 N Dupont Hwy,Dover,DE,19901,(302) 747-2058,https://locations.forever21.com/us/stores/de/dover/1365-n-dupont-hwy,39.19547903907568,-75.54174231292993,Delaware,Forever 21
+1201 Hooper Ave,Toms River,NJ,08753,(732) 504-0299,https://locations.forever21.com/us/stores/nj/tomsriver/1201-hooper-ave,39.97981106618225,-74.18165900927727,New Jersey,Forever 21
+425 Cross Creek Mall,Fayetteville,NC,28303,(910) 500-4239,https://locations.forever21.com/us/stores/nc/fayetteville/425-cross-creek-mall,35.072501046777894,-78.9612850932541,North Carolina,Forever 21
+215 E Foothills Pkwy,Fort Collins,CO,80525,(970) 372-3142,https://locations.forever21.com/us/stores/co/fortcollins/215-e-foothills-pkwy,40.542575743265424,-105.07426526929417,Colorado,Forever 21
+2825 S. Glenstone,Springfield,MO,65804,(417) 370-6358,https://locations.forever21.com/us/stores/mo/springfield/2825-s-glenstone,37.16297147279469,-93.26477907003195,Missouri,Forever 21
+14700 East Indiana Ave,Spokane Valley,WA,99216,(509) 608-5370,https://locations.forever21.com/us/stores/wa/spokanevalley/14700-east-indiana-ave,47.67378534991383,-117.20805093358382,Washington,Forever 21
+7000 Arundel Mills Circle,Hanover,MD,21076,(443) 620-9213,https://locations.forever21.com/us/stores/md/hanover/7000-arundel-mills-circle,39.15752999542197,-76.72486981989428,Maryland,Forever 21
+560 Great Northern Shop Center,North Olmsted,OH,44070,(440) 872-6600,https://locations.forever21.com/us/stores/oh/northolmsted/560-great-northern-shop-center,41.416907539115954,-81.90650321234584,Ohio,Forever 21
+650 Lee Blvd,Yorktown Heights,NY,10598,(914) 214-0026,https://locations.forever21.com/us/stores/ny/yorktownheights/650-lee-blvd,41.328567857506734,-73.8069181515379,New York,Forever 21
+293 Valley River Center,Eugene,OR,97401,(541) 285-9990,https://locations.forever21.com/us/stores/or/eugene/293-valley-river-center,44.0681353,-123.1057264,Oregon,Forever 21
+525 Ave Fd Roosevelt,San Juan,PR,00918,(787) 758-5501,https://locations.forever21.com/us/stores/pr/sanjuan/525-ave-fd-roosevelt,18.421990692525,-66.07422332310476,,Forever 21
+188 East Promontory J-120,Farmington,UT,84025,(801) 218-9525,https://locations.forever21.com/us/stores/ut/farmington/188-east-promontory-j-120,40.98384041533354,-111.90612405706045,Utah,Forever 21
+2028 Florence Mall,Florence,KY,41042,(859) 488-4989,https://locations.forever21.com/us/stores/ky/florence/2028-florence-mall,38.995648100402235,-84.65058292287415,Kentucky,Forever 21
+1 Galleria Dr,Middletown,NY,10941,(845) 673-8060,https://locations.forever21.com/us/stores/ny/middletown/1-galleria-dr,41.452713102153446,-74.36911907902804,New York,Forever 21
+7658 W Reno Ave,Oklahoma City,OK,73127,(405) 621-7604,https://locations.forever21.com/us/stores/ok/oklahomacity/7658-w-reno-ave,35.46162710418808,-97.6468807901233,Oklahoma,Forever 21
+134 St Clair Square,Fairview Heights,IL,62208,(618) 589-7542,https://locations.forever21.com/us/stores/il/fairviewheights/134-st-clair-square,38.59555081573996,-89.98055745354525,Illinois,Forever 21
+1420 Scheels Dr,Sparks,NV,89434,(775) 453-7986,https://locations.forever21.com/us/stores/nv/sparks/1420-scheels-dr,39.53222306723672,-119.7193884437441,Nevada,Forever 21
+4861 Firestone Blvd,South Gate,CA,90280,(323) 973-4184,https://locations.forever21.com/us/stores/ca/southgate/4861-firestone-blvd,33.95339137667642,-118.18400637790987,California,Forever 21
+16535 Southwest Fwy,Sugar Land,TX,77479,(832) 500-2334,https://locations.forever21.com/us/stores/tx/sugarland/16535-southwest-fwy,29.59295952817053,-95.62377414949407,Texas,Forever 21
+12300 Jefferson Ave,Newport News,VA,23602,(757) 509-6325,https://locations.forever21.com/us/stores/va/newportnews/12300-jefferson-ave,37.1134792992679,-76.49691725765477,Virginia,Forever 21
+500 Port Of New Orleans Pl,New Orleans,LA,70124,(504) 930-7860,https://locations.forever21.com/us/stores/la/neworleans/500-port-of-new-orleans-pl,29.94640044957892,-90.06230596554019,Louisiana,Forever 21
+4950 Pacific Ave,Stockton,CA,95207,(209) 952-0021,https://locations.forever21.com/us/stores/ca/stockton/4950-pacific-ave,37.994739656804455,-121.31176301853444,California,Forever 21
+301 South Hills Village,Bethel Park,PA,15241,(412) 308-1064,https://locations.forever21.com/us/stores/pa/bethelpark/301-south-hills-village,40.3422686,-80.0559187,Pennsylvania,Forever 21
+602 Briarwood Circle,Ann Arbor,MI,48108,(734) 887-0924,https://locations.forever21.com/us/stores/mi/annarbor/602-briarwood-circle,42.240471729683385,-83.74662939898792,Michigan,Forever 21
+7014 E Camelback Rd,Scottsdale,AZ,85251,(480) 627-8991,https://locations.forever21.com/us/stores/az/scottsdale/7014-e-camelback-rd,33.503534892768606,-111.92722998410332,Arizona,Forever 21
+5800 Peach St,Erie,PA,16565,(814) 844-6396,https://locations.forever21.com/us/stores/pa/erie/5800-peach-st,42.067473639614036,-80.09622208896927,Pennsylvania,Forever 21
+211 Westfarms Mall,Farmington,CT,06032,(860) 505-2176,https://locations.forever21.com/us/stores/ct/farmington/211-westfarms-mall,41.723100881075595,-72.76298654719807,Connecticut,Forever 21
+3251 20th Ave,San Francisco,CA,94132,(415) 571-2181,https://locations.forever21.com/us/stores/ca/sanfrancisco/3251-20th-ave,37.72766283417697,-122.4767254691952,California,Forever 21
+200 Bass Pro Dr,Pearl,MS,39208,(601) 813-0566,https://locations.forever21.com/us/stores/ms/pearl/200-bass-pro-dr,32.27475081854509,-90.15331445827458,Mississippi,Forever 21
+3409 Esperanza Crossing,Austin,TX,78758,(512) 712-1638,https://locations.forever21.com/us/stores/tx/austin/3409-esperanza-crossing,30.400962139485546,-97.72772255768948,Texas,Forever 21
+2500 North Mayfair Rd,Wauwatosa,WI,53226,(414) 290-0393,https://locations.forever21.com/us/stores/wi/wauwatosa/2500-north-mayfair-rd,43.06372642765305,-88.04453766989576,Wisconsin,Forever 21
+2186 St. Louis Galleria,St. Louis,MO,63117,(314) 451-9860,https://locations.forever21.com/us/stores/mo/st.louis/2186-st-louis-galleria,38.63710140269532,-90.34841089581234,Missouri,Forever 21
+2950 E Texas St,Bossier City,LA,71111,(318) 716-5428,https://locations.forever21.com/us/stores/la/bossiercity/2950-e-texas-st,32.52600082716637,-93.70602962912477,Louisiana,Forever 21
+191 Chicago Ridge Mall Dr,Chicago Ridge,IL,60415,(708) 229-0762,https://locations.forever21.com/us/stores/il/chicagoridge/191-chicago-ridge-mall-dr,41.7168855,-87.7824703,Illinois,Forever 21
+174 Quaker Bridge Mall,West Windsor,NJ,08648,(609) 806-0876,https://locations.forever21.com/us/stores/nj/westwindsor/174-quaker-bridge-mall,40.2907093195707,-74.68155898107743,New Jersey,Forever 21
+700 East Expressway 83,McAllen,TX,78503,(956) 800-6585,https://locations.forever21.com/us/stores/tx/mcallen/700-east-expressway-83,26.1865822,-98.2148341,Texas,Forever 21
+5000 South Arizona Mills Circle,Tempe,AZ,85282,(480) 820-0561,https://locations.forever21.com/us/stores/az/tempe/5000-south-arizona-mills-circle,33.383761737826674,-111.96445528497505,Arizona,Forever 21
+2929 Turner Hill Road,Lithonia,GA,30038,(770) 689-1869,https://locations.forever21.com/us/stores/ga/lithonia/2929-turner-hill-road,33.69738,-84.0947764,Georgia,Forever 21
+160 Walt Whitman Rd,Huntington Station,NY,11746,(631) 760-2498,https://locations.forever21.com/us/stores/ny/huntingtonstation/160-walt-whitman-rd,40.820140235208356,-73.40928932759535,New York,Forever 21
+14500 W Colfax Ave,Lakewood,CO,80401,(720) 834-9657,https://locations.forever21.com/us/stores/co/lakewood/14500-w-colfax-ave,39.732474389861686,-105.15810670936308,Colorado,Forever 21
+630 Ventura Blvd,Camarillo,CA,93010,(805) 465-1918,https://locations.forever21.com/us/stores/ca/camarillo/630-ventura-blvd,34.21673496921098,-119.0645788599101,California,Forever 21
+1751 Palm Beach Lakes Blvd,West Palm Beach,FL,33401,(561) 273-0590,https://locations.forever21.com/us/stores/fl/westpalmbeach/1751-palm-beach-lakes-blvd,26.7257865,-80.088723,Florida,Forever 21
+5900 Sugarloaf Parkway,Lawrenceville,GA,30043,(770) 580-7888,https://locations.forever21.com/us/stores/ga/lawrenceville/5900-sugarloaf-parkway,33.980043393539916,-84.08053879084642,Georgia,Forever 21
+3450 Wrightsboro Road,Augusta,GA,30909,(762) 383-6651,https://locations.forever21.com/us/stores/ga/augusta/3450-wrightsboro-road,33.4625061901066,-82.0783782881939,Georgia,Forever 21
+6000 West Glades Road,Boca Raton,FL,33431,(561) 208-5593,https://locations.forever21.com/us/stores/fl/bocaraton/6000-west-glades-road,26.3650248,-80.1328806,Florida,Forever 21
+4343 Belden Village Mall,Canton,OH,44718,(330) 526-7098,https://locations.forever21.com/us/stores/oh/canton/4343-belden-village-mall,40.85731304351369,-81.42875777202649,Ohio,Forever 21
+23000 Eureka Rd,Taylor,MI,48180,(734) 258-1530,https://locations.forever21.com/us/stores/mi/taylor/23000-eureka-rd,42.19982940009806,-83.2562303093694,Michigan,Forever 21
+1455 NW 107th Ave,Doral,FL,33172,(786) 843-4404,https://locations.forever21.com/us/stores/fl/doral/1455-nw-107th-ave,25.785865825831184,-80.36490396118259,Florida,Forever 21
+40820 Winchester Rd,Temecula,CA,92591,(951) 326-2108,https://locations.forever21.com/us/stores/ca/temecula/40820-winchester-rd,33.52508244951502,-117.15365402398186,California,Forever 21
+1201 Boston Post Rd,Milford,CT,06460,(203) 701-5349,https://locations.forever21.com/us/stores/ct/milford/1201-boston-post-rd,41.2361472220881,-73.03523517540475,Connecticut,Forever 21
+3333 Buford Dr,Buford,GA,30519,(678) 926-5031,https://locations.forever21.com/us/stores/ga/buford/3333-buford-dr,34.06470721529707,-83.98417675653334,Georgia,Forever 21
+8401 Gateway Blvd West,El Paso,TX,79925,(915) 745-6999,https://locations.forever21.com/us/stores/tx/elpaso/8401-gateway-blvd-west,31.775109246002504,-106.37959554355965,Texas,Forever 21
+288 Orland Square Dr,Orland Park,IL,60462,(708) 675-3430,https://locations.forever21.com/us/stores/il/orlandpark/288-orland-square-dr,41.61841004861791,-87.85253964508635,Illinois,Forever 21
+10300 Little Patuxent Pkwy,Columbia,MD,21044,(410) 423-8660,https://locations.forever21.com/us/stores/md/columbia/10300-little-patuxent-pkwy,39.21570055812961,-76.86033778834322,Maryland,Forever 21
+99 Rockingham Park Boulevard,Salem,NH,03079,(603) 328-3181,https://locations.forever21.com/us/stores/nh/salem/99-rockingham-park-boulevard,42.76825497876614,-71.23173063558197,New Hampshire,Forever 21
+375 Jacksonville Mall,Jacksonville,NC,28546,(910) 467-0438,https://locations.forever21.com/us/stores/nc/jacksonville/375-jacksonville-mall,34.76524932954354,-77.38090440781014,North Carolina,Forever 21
+"1230 Monmouth Mall, Route 35",Eatontown,NJ,07724,(732) 676-2063,https://locations.forever21.com/us/stores/nj/eatontown/1230-monmouth-mall-route-35,40.287611676434985,-74.05473607198597,New Jersey,Forever 21
+6600 Menaul Blvd NE,Albuquerque,NM,87110,(505) 433-6770,https://locations.forever21.com/us/stores/nm/albuquerque/6600-menaul-blvd-ne,35.1066216,-106.570632,New Mexico,Forever 21
+140 University Town Center Dr,Sarasota,FL,34243,(941) 554-5481,https://locations.forever21.com/us/stores/fl/sarasota/140-university-town-center-dr,27.38435594404628,-82.45292992393637,Florida,Forever 21
+1046 Lloyd Center,Portland,OR,97232,(503) 535-0958,https://locations.forever21.com/us/stores/or/portland/1046-lloyd-center,45.532854158085456,-122.65360332979884,Oregon,Forever 21
+14006 Riverside Dr,Sherman Oaks,CA,91423,(747) 247-6824,https://locations.forever21.com/us/stores/ca/shermanoaks/14006-riverside-dr,34.15693669240234,-118.4376099683373,California,Forever 21
+566 Brandon Town Center Mall,Brandon,FL,33511,(813) 413-3562,https://locations.forever21.com/us/stores/fl/brandon/566-brandon-town-center-mall,27.931179408209434,-82.32550256834321,Florida,Forever 21
+223 Stonewood St,Downey,CA,90241,(562) 674-2589,https://locations.forever21.com/us/stores/ca/downey/223-stonewood-st,33.93565704404417,-118.12042895448022,California,Forever 21
+201 E Magnolia Blvd,Burbank,CA,91502,(818) 823-2928,https://locations.forever21.com/us/stores/ca/burbank/201-e-magnolia-blvd,34.183445080949845,-118.3122667059389,California,Forever 21
+4701 Mills Circle,Ontario,CA,91764,(909) 244-1199,https://locations.forever21.com/us/stores/ca/ontario/4701-mills-circle,34.07367841969272,-117.55009705609459,California,Forever 21
+111 Nichols Rd,Kansas City,MO,64112,(816) 490-4232,https://locations.forever21.com/us/stores/mo/kansascity/111-nichols-rd,39.041841816563895,-94.5886378508365,Missouri,Forever 21
+6531 Springfield Mall,Springfield,VA,22150,(703) 719-6103,https://locations.forever21.com/us/stores/va/springfield/6531-springfield-mall,38.77470237380705,-77.1742500455273,Virginia,Forever 21
+1706 Franklin Mills Cir,Philadelphia,PA,19154,(215) 637-0678,https://locations.forever21.com/us/stores/pa/philadelphia/1706-franklin-mills-cir,40.087304670448745,-74.96135638936204,Pennsylvania,Forever 21
+1965 Fashion Blvd,Niagara Falls,NY,14304,(716) 513-1041,https://locations.forever21.com/us/stores/ny/niagarafalls/1965-fashion-blvd,43.096182447701196,-78.98173166772732,New York,Forever 21
+603A Broadway Mall,Hicksville,NY,11801,(516) 688-6042,https://locations.forever21.com/us/stores/ny/hicksville/603a-broadway-mall,40.773869589579334,-73.53042844846595,New York,Forever 21
+11401 NW 12th St,Miami,FL,33172,(305) 428-8974,https://locations.forever21.com/us/stores/fl/miami/11401-nw-12th-st,25.787814542983156,-80.38049484983408,Florida,Forever 21
+2060 Southlake Mall,Merrillville,IN,46410,(219) 525-6755,https://locations.forever21.com/us/stores/in/merrillville/2060-southlake-mall,41.46923565030834,-87.31121899813022,Indiana,Forever 21
+18801 East 39th Street South,Independence,MO,64057,(816) 772-1999,https://locations.forever21.com/us/stores/mo/independence/18801-east-39th-street-south,39.04578456603829,-94.35884072641235,Missouri,Forever 21
+1695 Rutherford St,Tulare,CA,93274,(559) 684-1817,https://locations.forever21.com/us/stores/ca/tulare/1695-rutherford-st,36.229312725370875,-119.33576474049282,California,Forever 21
+3195 28th St SE,Grand Rapids,MI,49512,(616) 649-6927,https://locations.forever21.com/us/stores/mi/grandrapids/3195-28th-st-se,42.91616285907962,-85.5880422890895,Michigan,Forever 21
+200 Baychester Ave,Bronx,NY,10475,(718) 530-7353,https://locations.forever21.com/us/stores/ny/bronx/200-baychester-ave,40.86430211937641,-73.82670889697627,New York,Forever 21
+5725 Johnston St,Lafayette,LA,70503,(337) 735-8446,https://locations.forever21.com/us/stores/la/lafayette/5725-johnston-st,30.171203136171968,-92.07568595331794,Louisiana,Forever 21
+8501 West Bowles Ave,Littleton,CO,80123,(720) 785-8464,https://locations.forever21.com/us/stores/co/littleton/8501-west-bowles-ave,39.61194596154469,-105.09573802289167,Colorado,Forever 21
+3902 13th Ave S,Fargo,ND,58103,(701) 281-4585,https://locations.forever21.com/us/stores/nd/fargo/3902-13th-ave-s,46.85950750355289,-96.84569102753709,North Dakota,Forever 21
+21100 Dulles Town Circle,Dulles Town Center,VA,20166,(703) 234-3967,https://locations.forever21.com/us/stores/va/dullestowncenter/21100-dulles-town-circle,39.0331414288039,-77.42580608217283,Virginia,Forever 21
+4224 Legendary Dr,Destin,FL,32541,(850) 714-5098,https://locations.forever21.com/us/stores/fl/destin/4224-legendary-dr,30.391653479579013,-86.42517067470209,Florida,Forever 21
+7701 I-40 Frontage Rd,Amarillo,TX,79121,(806) 318-7110,https://locations.forever21.com/us/stores/tx/amarillo/7701-i-40-frontage-rd,35.18385243298554,-101.92823017777788,Texas,Forever 21
+1025 Brea Mall,Brea,CA,92821,(714) 706-5234,https://locations.forever21.com/us/stores/ca/brea/1025-brea-mall,33.91577656459275,-117.88618471473256,California,Forever 21
+5060 Montclair Plaza Ln,Montclair,CA,91763,(909) 962-5150,https://locations.forever21.com/us/stores/ca/montclair/5060-montclair-plaza-ln,34.086780388057676,-117.6936755688882,California,Forever 21
+22500 Town Circle,Moreno Valley,CA,92553,(951) 488-3778,https://locations.forever21.com/us/stores/ca/morenovalley/22500-town-circle,33.9389987950584,-117.27054600491086,California,Forever 21
+3710 Route 9,Freehold,NJ,07728,(732) 358-8577,https://locations.forever21.com/us/stores/nj/freehold/3710-route-9,40.2529329812896,-74.30018469026764,New Jersey,Forever 21
+1245 Worcester St,Natick,MA,01760,(508) 903-4581,https://locations.forever21.com/us/stores/ma/natick/1245-worcester-st,42.30089724229761,-71.3837576152793,Massachusetts,Forever 21
+329 Sun Valley Mall,Concord,CA,94520,(925) 349-3732,https://locations.forever21.com/us/stores/ca/concord/329-sun-valley-mall,37.96736145121891,-122.06042613229171,California,Forever 21
+9301 Tampa Ave,Los Angeles,CA,91324,(818) 428-3291,https://locations.forever21.com/us/stores/ca/losangeles/9301-tampa-ave,34.237826397594304,-118.55565446682647,California,Forever 21
+100 Viewmont Mall,Scranton,PA,18508,(570) 871-6293,https://locations.forever21.com/us/stores/pa/scranton/100-viewmont-mall,41.460377,-75.6537491,Pennsylvania,Forever 21
+250 Granite St,Braintree,MA,02184,(781) 817-8841,https://locations.forever21.com/us/stores/ma/braintree/250-granite-st,42.22182339287894,-71.0240727131142,Massachusetts,Forever 21
+5043 Tuttle Crossing Blvd,Dublin,OH,43016,(614) 726-4440,https://locations.forever21.com/us/stores/oh/dublin/5043-tuttle-crossing-blvd,40.07288860131541,-83.13101775025075,Ohio,Forever 21
+1800 Galleria Blvd,Franklin,TN,37067,(615) 814-7784,https://locations.forever21.com/us/stores/tn/franklin/1800-galleria-blvd,35.95713431860946,-86.8136924325552,Tennessee,Forever 21
+3000 E 1st Ave,Denver,CO,80206,(303) 264-2095,https://locations.forever21.com/us/stores/co/denver/3000-e-1st-ave,39.7161567,-104.9526952,Colorado,Forever 21
+4201 Coldwater Rd,Fort Wayne,IN,46805,(260) 310-6982,https://locations.forever21.com/us/stores/in/fortwayne/4201-coldwater-rd,41.11520089016183,-85.13948794153175,Indiana,Forever 21
+1689 Arden Way,Sacramento,CA,95815,(916) 830-7870,https://locations.forever21.com/us/stores/ca/sacramento/1689-arden-way,38.60204841985324,-121.4285745694591,California,Forever 21
+3453 Capital City Mall Dr,Camp Hill,PA,17011,(717) 603-4098,https://locations.forever21.com/us/stores/pa/camphill/3453-capital-city-mall-dr,40.2226512,-76.9317255,Pennsylvania,Forever 21
+26300 Cedar Rd,Beachwood,OH,44122,(216) 825-2279,https://locations.forever21.com/us/stores/oh/beachwood/26300-cedar-rd,41.49845768469548,-81.49430524747349,Ohio,Forever 21
+200 Tanger Mall Dr,Riverhead,NY,11901,(631) 655-0190,https://locations.forever21.com/us/stores/ny/riverhead/200-tanger-mall-dr,40.920598265398915,-72.71511306380634,New York,Forever 21
+1817 Village West Parkway F101,Kansas City,KS,66111,(913) 953-3481,https://locations.forever21.com/us/stores/ks/kansascity/1817-village-west-parkway-f101,39.127405034219464,-94.82268926251062,Kansas,Forever 21
+1750 Deptford Center Rd,Deptford,NJ,08096,(856) 994-9008,https://locations.forever21.com/us/stores/nj/deptford/1750-deptford-center-rd,39.83152509086836,-75.09796897116394,New Jersey,Forever 21
+4015 South Interstate 35,San Marcos,TX,78666,(512) 214-6190,https://locations.forever21.com/us/stores/tx/sanmarcos/4015-south-interstate-35,29.826295577599097,-97.98611283067112,Texas,Forever 21
+6020 E. 82nd St.,Indianapolis,IN,46250,(317) 558-6642,https://locations.forever21.com/us/stores/in/indianapolis/6020-e-82nd-st,39.907733890535546,-86.06555679938832,Indiana,Forever 21
+4146-E North Harlem Ave,Norridge,IL,60706,(708) 697-2564,https://locations.forever21.com/us/stores/il/norridge/4146-e-north-harlem-ave,41.95482897690426,-87.8078220590148,Illinois,Forever 21
+144 E Broadway,Bloomington,MN,55425,(612) 656-7942,https://locations.forever21.com/us/stores/mn/bloomington/144-e-broadway,44.85359750502593,-93.24007992191608,Minnesota,Forever 21
+8700 NE Vancouver Mall Dr,Vancouver,WA,98662,(360) 975-6917,https://locations.forever21.com/us/stores/wa/vancouver/8700-ne-vancouver-mall-dr,45.65836405434266,-122.58375911226845,Washington,Forever 21
+100 Columbiana Circle,Columbia,SC,29212,(803) 724-6037,https://locations.forever21.com/us/stores/sc/columbia/100-columbiana-circle,34.07734506627406,-81.15652347387889,South Carolina,Forever 21
+450A Great Mall Dr,Milpitas,CA,95035,(408) 678-8953,https://locations.forever21.com/us/stores/ca/milpitas/450a-great-mall-dr,37.41666605017568,-121.89807888556182,California,Forever 21
+18 W Lightcap Rd,Pottstown,PA,19464,(610) 569-4247,https://locations.forever21.com/us/stores/pa/pottstown/18-w-lightcap-rd,40.235394308596696,-75.56888846606168,Pennsylvania,Forever 21
+2615 Medical Center Pkwy,Murfreesboro,TN,37129,(615) 995-7712,https://locations.forever21.com/us/stores/tn/murfreesboro/2615-medical-center-pkwy,35.85956621281193,-86.445830218997,Tennessee,Forever 21
+1000 Route 611,Tannersville,PA,18372,(570) 534-6082,https://locations.forever21.com/us/stores/pa/tannersville/1000-route-611,41.04895854938262,-75.31296646006679,Pennsylvania,Forever 21
+49 W Maryland St,Indianapolis,IN,46204,(317) 614-1182,https://locations.forever21.com/us/stores/in/indianapolis/49-w-maryland-st,39.76497594983444,-86.15871666902113,Indiana,Forever 21
+6415 West Newberry Road,Gainesville,FL,32605,(352) 204-4370,https://locations.forever21.com/us/stores/fl/gainesville/6415-west-newberry-road,29.657124308710248,-82.41159484542318,Florida,Forever 21
+3333 Bristol Ave,Costa Mesa,CA,92626,(714) 338-0926,https://locations.forever21.com/us/stores/ca/costamesa/3333-bristol-ave,33.68924890468086,-117.8880384498732,California,Forever 21
+200 E Via Rancho Pkwy,Escondido,CA,92025,(760) 546-2751,https://locations.forever21.com/us/stores/ca/escondido/200-e-via-rancho-pkwy,33.07140262237903,-117.0660948677747,California,Forever 21
+415 Parkway Plaza,El Cajon,CA,92020,(619) 219-5287,https://locations.forever21.com/us/stores/ca/elcajon/415-parkway-plaza,32.80549781631577,-116.96642794385943,California,Forever 21
+4634 Factory Stores Blvd,Myrtle Beach,SC,29579,(843) 473-7490,https://locations.forever21.com/us/stores/sc/myrtlebeach/4634-factory-stores-blvd,33.7520546729945,-78.95983429549206,South Carolina,Forever 21
+1900 Tamiami Trl N,Naples,FL,34102,(239) 963-0428,https://locations.forever21.com/us/stores/fl/naples/1900-tamiami-trl-n,26.169904420046546,-81.79758431557774,Florida,Forever 21
+8155 Arroyo Circle,Gilroy,CA,95020,(408) 427-0029,https://locations.forever21.com/us/stores/ca/gilroy/8155-arroyo-circle,37.01902252946759,-121.56387069564583,California,Forever 21
+4800 S Hulen St,Fort Worth,TX,76132,(817) 806-9606,https://locations.forever21.com/us/stores/tx/fortworth/4800-s-hulen-st,32.67871457486287,-97.39806147567006,Texas,Forever 21
+701 Lincoln Road,Miami Beach,FL,33139,(305) 459-8259,https://locations.forever21.com/us/stores/fl/miamibeach/701-lincoln-road,25.790884180832787,-80.1357057937934,Florida,Forever 21
+2300 E Lincoln Hwy,Langhorne,PA,19047,(215) 478-9192,https://locations.forever21.com/us/stores/pa/langhorne/2300-e-lincoln-hwy,40.18362831458555,-74.88077506008598,Pennsylvania,Forever 21
+6170 West Grand Ave,Gurnee,IL,60031,(847) 855-2121,https://locations.forever21.com/us/stores/il/gurnee/6170-west-grand-ave,42.389985345615536,-87.95964999522582,Illinois,Forever 21
+7979 Pittsford-Victor Rd,Victor,NY,14564,(585) 421-6165,https://locations.forever21.com/us/stores/ny/victor/7979-pittsford-victor-rd,43.0298303419132,-77.44378618244727,New York,Forever 21
+8111 Concord Mills Blvd,Concord,NC,28027,(980) 258-6081,https://locations.forever21.com/us/stores/nc/concord/8111-concord-mills-blvd,35.370253554224696,-80.72511332935446,North Carolina,Forever 21
+4201 Camino De La Plaza,San Diego,CA,92173,(619) 205-6478,https://locations.forever21.com/us/stores/ca/sandiego/4201-camino-de-la-plaza,32.54402113638018,-117.04165751635885,California,Forever 21
+12000 SE 82nd Ave,Happy Valley,OR,97086,(503) 451-2272,https://locations.forever21.com/us/stores/or/happyvalley/12000-se-82nd-ave,45.43414621381508,-122.57237818484646,Oregon,Forever 21
+301 Mt Hope Ave,Rockaway,NJ,07866,(973) 366-5467,https://locations.forever21.com/us/stores/nj/rockaway/301-mt-hope-ave,40.90711875182405,-74.55337859809259,New Jersey,Forever 21
+29300 Hempstead Road,Cypress,TX,77433,(281) 256-6390,https://locations.forever21.com/us/stores/tx/cypress/29300-hempstead-road,29.997878739566364,-95.75630024410465,Texas,Forever 21
+2700 Miamisburg Centerville Rd,Dayton,OH,45459,(937) 991-2714,https://locations.forever21.com/us/stores/oh/dayton/2700-miamisburg-centerville-rd,39.63406377076716,-84.22150616656613,Ohio,Forever 21
+2000 Artic Ave,Atlantic City,NJ,08401,(609) 402-0087,https://locations.forever21.com/us/stores/nj/atlanticcity/2000-artic-ave,39.36020767056797,-74.43686511865353,New Jersey,Forever 21
+230 Lehigh Valley Mall,Whitehall,PA,18052,(484) 488-0029,https://locations.forever21.com/us/stores/pa/whitehall/230-lehigh-valley-mall,40.63058211920185,-75.4800341003824,Pennsylvania,Forever 21
+2249 Stoneridge Mall Rd,Pleasanton,CA,94588,(925) 924-0174,https://locations.forever21.com/us/stores/ca/pleasanton/2249-stoneridge-mall-rd,37.69520873803324,-121.92873626878041,California,Forever 21
+2200 Eastridge Loop,San Jose,CA,95122,(408) 826-0999,https://locations.forever21.com/us/stores/ca/sanjose/2200-eastridge-loop,37.3254868159334,-121.8139684715198,California,Forever 21
+1300 West Sunset Road,Henderson,NV,89014,(702) 986-7809,https://locations.forever21.com/us/stores/nv/henderson/1300-west-sunset-road,36.06745374304482,-115.04136252442329,Nevada,Forever 21
+55 Parsonage Rd,Edison,NJ,08837,(732) 623-4486,https://locations.forever21.com/us/stores/nj/edison/55-parsonage-rd,40.54734437630921,-74.33562088404406,New Jersey,Forever 21
+72840 Hwy 111,Palm Desert,CA,92260,(760) 895-6538,https://locations.forever21.com/us/stores/ca/palmdesert/72840-hwy-111,33.723624860852965,-116.39455993070061,California,Forever 21
+568 Broadway,New York,NY,10012,(212) 453-9904,https://locations.forever21.com/us/stores/ny/newyork/568-broadway,40.72435496282538,-73.99744022985067,New York,Forever 21
+2001 South Rd,Poughkeepsie,NY,12601,(845) 218-6044,https://locations.forever21.com/us/stores/ny/poughkeepsie/2001-south-rd,41.62594454084594,-73.92093078277416,New York,Forever 21
+6501 N. Grape Rd.,Mishawaka,IN,46545,(574) 406-6179,https://locations.forever21.com/us/stores/in/mishawaka/6501-n-grape-rd,41.71967901388836,-86.19000981349181,Indiana,Forever 21
+3393 Peachtree Rd NE,Atlanta,GA,30326,(470) 225-3840,https://locations.forever21.com/us/stores/ga/atlanta/3393-peachtree-rd-ne,33.8454174451602,-84.36123163218006,Georgia,Forever 21
+7121 NW 86th Ter,Kansas City,MO,64153,(816) 652-2400,https://locations.forever21.com/us/stores/mo/kansascity/7121-nw-86th-ter,39.25059708714032,-94.6629642519351,Missouri,Forever 21
+6910 Fayetteville Rd,Durham,NC,27713,(919) 294-2374,https://locations.forever21.com/us/stores/nc/durham/6910-fayetteville-rd,35.905067013140695,-78.94067432025507,North Carolina,Forever 21
+410 Four Seasons Town Centre,Greensboro,NC,27427,(336) 690-6547,https://locations.forever21.com/us/stores/nc/greensboro/410-four-seasons-town-centre,36.03938183210691,-79.83767468218949,North Carolina,Forever 21
+1101 Melbourne Rd,Hurst,TX,76053,(682) 757-9466,https://locations.forever21.com/us/stores/tx/hurst/1101-melbourne-rd,32.83010798897321,-97.20019964580969,Texas,Forever 21
+2760 N Germantown Pkwy,Memphis,TN,38133,(901) 666-4721,https://locations.forever21.com/us/stores/tn/memphis/2760-n-germantown-pkwy,35.20134790690935,-89.78784006208126,Tennessee,Forever 21
+Avenida Jesus M. Fargoso,Carolina,PR,00983,(787) 750-4507,https://locations.forever21.com/us/stores/pr/carolina/avenida-jesus-m-fargoso,18.3938189,-65.9737364,,Forever 21
+160 N Gulph Rd,King Of Prussia,PA,19406,(610) 382-9070,https://locations.forever21.com/us/stores/pa/kingofprussia/160-n-gulph-rd,40.08923829293541,-75.38621077947097,Pennsylvania,Forever 21
+266 Monroeville Mall,Monroeville,PA,15146,(412) 317-1213,https://locations.forever21.com/us/stores/pa/monroeville/266-monroeville-mall,40.4287565316436,-79.79507782879514,Pennsylvania,Forever 21
+3401 Nicholasville Rd,Lexington,KY,40503,(859) 963-4202,https://locations.forever21.com/us/stores/ky/lexington/3401-nicholasville-rd,37.989244108947936,-84.52737998339147,Kentucky,Forever 21
+6650 South Westnedge Ave,Portage,MI,49024,(269) 569-8488,https://locations.forever21.com/us/stores/mi/portage/6650-south-westnedge-ave,42.2203225,-85.594584,Michigan,Forever 21
+2655 Richmond Ave,Staten Island,NY,10314,(718) 355-7397,https://locations.forever21.com/us/stores/ny/statenisland/2655-richmond-ave,40.58248781913016,-74.16546773808078,New York,Forever 21
+5065 Main St,Trumbull,CT,06611,(203) 690-3161,https://locations.forever21.com/us/stores/ct/trumbull/5065-main-st,41.22925681631882,-73.2267278944949,Connecticut,Forever 21
+500 Southpark Center,Strongsville,OH,44136,(440) 268-1039,https://locations.forever21.com/us/stores/oh/strongsville/500-southpark-center,41.30863065962842,-81.82022689528806,Ohio,Forever 21
+4301 W Wisconsin Ave,Appleton,WI,54913,(920) 636-7054,https://locations.forever21.com/us/stores/wi/appleton/4301-w-wisconsin-ave,44.269445126257246,-88.46955676098139,Wisconsin,Forever 21
+460 W 14 Mile Rd,Troy,MI,48083,(248) 837-6481,https://locations.forever21.com/us/stores/mi/troy/460-w-14-mile-rd,42.53664851942749,-83.11239786283315,Michigan,Forever 21
+601 Donald Lynch Blvd,Marlborough,MA,01752,(978) 838-5024,https://locations.forever21.com/us/stores/ma/marlborough/601-donald-lynch-blvd,42.35590292148904,-71.61265990234006,Massachusetts,Forever 21
+101 Jordan Creek Parkway,West Des Moines,IA,50266,(515) 631-6795,https://locations.forever21.com/us/stores/ia/westdesmoines/101-jordan-creek-parkway,41.56979634689014,-93.80442968461779,Iowa,Forever 21
+2268 East Williams Field Road,Gilbert,AZ,85296,(480) 627-8986,https://locations.forever21.com/us/stores/az/gilbert/2268-east-williams-field-road,33.31064472165711,-111.74182094014573,Arizona,Forever 21
+12482 N Main St,Rancho Cucamonga,CA,91739,(909) 689-3050,https://locations.forever21.com/us/stores/ca/ranchocucamonga/12482-n-main-st,34.11231302788606,-117.53306820676325,California,Forever 21
+17360 Hall Rd,Clinton Township,MI,48038,(586) 840-1743,https://locations.forever21.com/us/stores/mi/clintontownship/17360-hall-rd,42.625149440088435,-82.94764198649082,Michigan,Forever 21
+470 Lewis Ave,Meriden,CT,06450,(203) 514-3132,https://locations.forever21.com/us/stores/ct/meriden/470-lewis-ave,41.550934014694434,-72.80771933770002,Connecticut,Forever 21
+7101 Democracy Blvd,Bethesda,MD,20817,(301) 634-5005,https://locations.forever21.com/us/stores/md/bethesda/7101-democracy-blvd,39.024171267840636,-77.14505961068062,Maryland,Forever 21
+4160 Baldwin Rd,Auburn Hills,MI,48326,(248) 253-1929,https://locations.forever21.com/us/stores/mi/auburnhills/4160-baldwin-rd,42.702525819414724,-83.29929297439583,Michigan,Forever 21
+30 Mall Dr West,Jersey City,NJ,07310,(201) 984-6274,https://locations.forever21.com/us/stores/nj/jerseycity/30-mall-dr-west,40.72704478067552,-74.0373519763246,New Jersey,Forever 21
+194 Buckland Hills Dr,Manchester,CT,06042,(860) 512-3961,https://locations.forever21.com/us/stores/ct/manchester/194-buckland-hills-dr,41.8072581,-72.54567,Connecticut,Forever 21
+2500 Moreland Rd,Willow Grove,PA,19090,(215) 346-4007,https://locations.forever21.com/us/stores/pa/willowgrove/2500-moreland-rd,40.14037470247962,-75.12442801580767,Pennsylvania,Forever 21
+3320 Silas Creek Pkwy,Winston-Salem,NC,27103,(336) 293-9577,https://locations.forever21.com/us/stores/nc/winston-salem/3320-silas-creek-pkwy,36.069824602169035,-80.30019746890832,North Carolina,Forever 21
+20 City Blvd West,Orange,CA,92868,(714) 922-7192,https://locations.forever21.com/us/stores/ca/orange/20-city-blvd-west,33.78281877466443,-117.89284267245448,California,Forever 21
+8557 Park Meadows Center Dr,Lone Tree,CO,80124,(303) 583-9875,https://locations.forever21.com/us/stores/co/lonetree/8557-park-meadows-center-dr,39.561358602484596,-104.87457475644875,Colorado,Forever 21
+7501 West Cermak Rd,North Riverside,IL,60546,(708) 853-1148,https://locations.forever21.com/us/stores/il/northriverside/7501-west-cermak-rd,41.84717854535114,-87.81067362141702,Illinois,Forever 21
+2063 N Town E Blvd,Mesquite,TX,75150,(469) 357-4871,https://locations.forever21.com/us/stores/tx/mesquite/2063-n-town-e-blvd,32.80721716044019,-96.62345853814803,Texas,Forever 21
+343 Southland Mall Dr,Hayward,CA,94545,(510) 244-5016,https://locations.forever21.com/us/stores/ca/hayward/343-southland-mall-dr,37.65111842061043,-122.10239098733602,California,Forever 21
+1500 Apalachee Pkwy,Tallahassee,FL,32301,(850) 558-9421,https://locations.forever21.com/us/stores/fl/tallahassee/1500-apalachee-pkwy,30.43654446185828,-84.25365033192921,Florida,Forever 21
+651 Kapkowski Rd,Elizabeth,NJ,07201,(908) 409-1380,https://locations.forever21.com/us/stores/nj/elizabeth/651-kapkowski-rd,40.66002853316585,-74.17134079792918,New Jersey,Forever 21
+2034 Green Acres Mall,Valley Stream,NY,11581,(516) 881-3476,https://locations.forever21.com/us/stores/ny/valleystream/2034-green-acres-mall,40.66245382819859,-73.71927127116395,New York,Forever 21
+400 Commons Way,Bridgewater,NJ,08807,(908) 809-7683,https://locations.forever21.com/us/stores/nj/bridgewater/400-commons-way,40.585588897028096,-74.61926871347447,New Jersey,Forever 21
+3451 S Dogwood Ave,El Centro,CA,92243,(760) 592-2200,https://locations.forever21.com/us/stores/ca/elcentro/3451-s-dogwood-ave,32.76276801215781,-115.5307035957529,California,Forever 21
+3000 Grapevine Mills Parkway,Grapevine,TX,76051,(469) 293-5233,https://locations.forever21.com/us/stores/tx/grapevine/3000-grapevine-mills-parkway,32.966130406656,-97.0426494149181,Texas,Forever 21
+1500 S Willow St,Manchester,NH,03103,(603) 391-0466,https://locations.forever21.com/us/stores/nh/manchester/1500-s-willow-st,42.956299798651784,-71.43172507751873,New Hampshire,Forever 21
+11401 Pines Blvd,Pembroke Pines,FL,33026,(754) 260-6430,https://locations.forever21.com/us/stores/fl/pembrokepines/11401-pines-blvd,26.010859920291512,-80.30323391083633,Florida,Forever 21
+27001 Us-19 N,Clearwater,FL,33761,(727) 373-3672,https://locations.forever21.com/us/stores/fl/clearwater/27001-us-19-n,28.017104598169986,-82.73341495831365,Florida,Forever 21
+85 S County Center Way,St Louis,MO,63129,(314) 649-1187,https://locations.forever21.com/us/stores/mo/stlouis/85-s-county-center-way,38.50631978976587,-90.33057864641827,Missouri,Forever 21
+189 Montgomery Mall,North Wales,PA,19454,(215) 393-9602,https://locations.forever21.com/us/stores/pa/northwales/189-montgomery-mall,40.2352673,-75.2447052,Pennsylvania,Forever 21
+8200 Perry Hall Blvd,Baltimore,MD,21236,(410) 513-3028,https://locations.forever21.com/us/stores/md/baltimore/8200-perry-hall-blvd,39.37468815646625,-76.46682179223768,Maryland,Forever 21
+1701 Sunrise Hwy,Bay Shore,NY,11706,(631) 894-0220,https://locations.forever21.com/us/stores/ny/bayshore/1701-sunrise-hwy,40.739624924572134,-73.24673814825992,New York,Forever 21
+3510 Palisades Center Dr,West Nyack,NY,10994,(845) 789-4172,https://locations.forever21.com/us/stores/ny/westnyack/3510-palisades-center-dr,41.097452197099955,-73.95577432874929,New York,Forever 21
+999 S Washington St,North Attleboro,MA,02760,(508) 576-4015,https://locations.forever21.com/us/stores/ma/northattleboro/999-s-washington-st,41.946390331899266,-71.34985246560234,Massachusetts,Forever 21
+1201 Broadway,Saugus,MA,01906,(781) 233-2118,https://locations.forever21.com/us/stores/ma/saugus/1201-broadway,42.461097253683604,-71.02821116176253,Massachusetts,Forever 21
+400 Ernest Barrett Parkway,Kennesaw,GA,30144,(678) 981-2420,https://locations.forever21.com/us/stores/ga/kennesaw/400-ernest-barrett-parkway,34.017696535663056,-84.56446584374093,Georgia,Forever 21
+9801 Northlake Mall Drive,Charlotte,NC,28216,(980) 365-7762,https://locations.forever21.com/us/stores/nc/charlotte/9801-northlake-mall-drive,35.35328724869437,-80.85220353491822,North Carolina,Forever 21
+15900 La Cantera Parkway,San Antonio,TX,78256,(210) 536-3346,https://locations.forever21.com/us/stores/tx/sanantonio/15900-la-cantera-parkway,29.591060683298064,-98.61568251290443,Texas,Forever 21
+1000 N Point Cir,Alpharetta,GA,30022,(678) 543-6598,https://locations.forever21.com/us/stores/ga/alpharetta/1000-n-point-cir,34.04861320044866,-84.29476780208591,Georgia,Forever 21
+1 Destiny Usa Dr,Syracuse,NY,13204,(315) 233-1333,https://locations.forever21.com/us/stores/ny/syracuse/1-destiny-usa-dr,43.06953619196102,-76.1724758255992,New York,Forever 21
+1115 Annapolis Mall,Annapolis,MD,21401,(410) 972-4206,https://locations.forever21.com/us/stores/md/annapolis/1115-annapolis-mall,38.987945082316834,-76.54694308307154,Maryland,Forever 21
+3500 Oleander Dr,Wilmington,NC,28403,(910) 313-2788,https://locations.forever21.com/us/stores/nc/wilmington/3500-oleander-dr,34.21282850709654,-77.90554751284542,North Carolina,Forever 21
+18900 Michigan Ave,Dearborn,MI,48126,(313) 425-0270,https://locations.forever21.com/us/stores/mi/dearborn/18900-michigan-ave,42.31713557020962,-83.22309509679498,Michigan,Forever 21
+4500 N Oracle Rd,Tucson,AZ,85705,(520) 887-5699,https://locations.forever21.com/us/stores/az/tucson/4500-n-oracle-rd,32.2889782738879,-110.97330598991684,Arizona,Forever 21
+1800 Montebello Town Center,Montebello,CA,90640,(323) 767-2213,https://locations.forever21.com/us/stores/ca/montebello/1800-montebello-town-center,34.03535376574965,-118.08382337295686,California,Forever 21
+5300 San Dario Avenue,Laredo,TX,78041,(956) 625-6461,https://locations.forever21.com/us/stores/tx/laredo/5300-san-dario-avenue,27.5517466,-99.4998873,Texas,Forever 21
+250 East Palm Drive,Florida City,FL,33034,(786) 298-2001,https://locations.forever21.com/us/stores/fl/floridacity/250-east-palm-drive,25.4526434,-80.4728899,Florida,Forever 21
+200 N Dartmouth Mall,Dartmouth,MA,02747,(508) 717-3521,https://locations.forever21.com/us/stores/ma/dartmouth/200-n-dartmouth-mall,41.64143019106178,-70.99123253619365,Massachusetts,Forever 21
