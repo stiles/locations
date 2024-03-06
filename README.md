@@ -1,7 +1,7 @@
 ![starbucks locations](starbucks/visuals/visualization.png)
 
 # Locations
-A slowly growing collection of data scrapers for collecting location information about popular stores, restaurants and other consumer sites in the United States.
+A slowly growing repository of data scrapers that collect location information about popular stores, restaurants and other consumer sites in the United States. 
 
 ## Collection summary
 
@@ -28,7 +28,7 @@ A slowly growing collection of data scrapers for collecting location information
 | **Total collected**               |    **56** | **118,982** |
 
 ### All the companies 
-This repo is a a non-commercial exercise in data scraping practice, and it's a work in progress. I make no guarantees about the accuracy of the data collected here.
+This repo is a non-commercial exercise in data scraping practice, and it's a work in progress. I make no guarantees about the accuracy or completeness of the data.
 
 | Company                                                                                   | Category                  | Locations |
 | ----------------------------------------------------------------------------------------- | ------------------------- | --------: |
