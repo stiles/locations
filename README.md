@@ -9,6 +9,7 @@ A slowly growing collection of data scrapers for collecting location information
 
 | Company category                  | Companies |    Locations |
 | ------------------------- | ----: | -----: |
+| Automotive                   |     1 |  2,091 |
 | Banking                   |     1 |  6,066 |
 | Beauty Products           |     2 |  3,013 |
 | Casual Dining             |     3 |  2,012 |
@@ -24,7 +25,7 @@ A slowly growing collection of data scrapers for collecting location information
 | Retail Stores             |    11 | 26,172 |
 | Shoes & Accessories       |     1 |    439 |
 | Specialty Foods           |     5 |   1856 |
-| **Total collected**               |    **55** | **116,081** |
+| **Total collected**               |    **56** | **118,982** |
 
 ### All the companies 
 This repo is a a non-commercial exercise in data scraping practice, and it's a work in progress. I make no guarantees about the accuracy of the data collected here.
@@ -50,6 +51,7 @@ This repo is a a non-commercial exercise in data scraping practice, and it's a w
 | [DSW](https://github.com/stiles/locations/tree/main/dsw)                               | Shoes & Accessories       |       439 |
 | [Dunkin Donuts](https://github.com/stiles/locations/tree/main/dunkin-donuts)           | Fast Food & Quick Service |     9,538 |
 | [El Pollo Loco](https://github.com/stiles/locations/tree/main/el-pollo-loco)           | Fast Food & Quick Service |       500 |
+| [Ford dealers](https://github.com/stiles/locations/tree/main/ford)           | Automotive |       2,901 |
 | [Giant Food Stores](https://github.com/stiles/locations/tree/main/giant)               | Food & Beverage           |       165 |
 | [Hardee's](https://github.com/stiles/locations/tree/main/hardees)                      | Fast Food & Quick Service |     1,419 |
 | [Hmart](https://github.com/stiles/locations/tree/main/hmart)                           | Specialty Foods           |        80 |
