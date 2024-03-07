@@ -9,7 +9,7 @@ A growing repository of data scrapers that collect location information about po
 
 | Company category                  | Companies |    Locations |
 | ------------------------- | ----: | -----: |
-| Automotive                   |     2 |  2,091 |
+| Automotive                   |     3 |  2,924 |
 | Banking                   |     1 |  6,066 |
 | Beauty Products           |     2 |  3,013 |
 | Casual Dining             |     3 |  2,012 |
@@ -25,7 +25,7 @@ A growing repository of data scrapers that collect location information about po
 | Retail Stores             |    12 | 26,462 |
 | Shoes & Accessories       |     1 |    439 |
 | Specialty Foods           |     5 |   1856 |
-| **Total collected**               |    **59** | **119,000** |
+| **Total collected**               |    **60** | **119,833** |
 
 ### All the companies 
 This repo is a non-commercial exercise in data scraping practice, and it's a work in progress. I make no guarantees about the accuracy or completeness of the data.
@@ -58,6 +58,7 @@ This repo is a non-commercial exercise in data scraping practice, and it's a wor
 | [Hmart](https://github.com/stiles/locations/tree/main/hmart)                           | Specialty Foods           |        80 |
 | [Hollister](https://github.com/stiles/locations/tree/main/hollister)                   | Clothing & Accessories    |       104 |
 | [Home Depot](https://github.com/stiles/locations/tree/main/home-depot)                 | Home Improvement          |     2,002 |
+| [Hyundai dealers](https://github.com/stiles/locations/tree/main/hyundai)                 | Automotive          |     833 |
 | [In-N-Out Burger](https://github.com/stiles/locations/tree/main/in-n-out)              | Fast Food & Quick Service |       401 |
 | [Jared](https://github.com/stiles/locations/tree/main/jared)                           | Jewelry                   |       234 |
 | [JCPenney](https://github.com/stiles/locations/tree/main/jcpenney)                     | Retail Stores             |       663 |

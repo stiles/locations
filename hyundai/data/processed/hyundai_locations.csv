@@ -1,0 +1,834 @@
+store_id,store_name,address,city,zip,state,region,phone,url,latitude,longitude,state_name,brand
+TX196,West Houston Hyundai,17007 Katy Freeway,Houston,77094,TX,SC,832-739-6300,www.westhoustonhyundai.com,29.78379440307617,-95.67780303955078,Texas,Hyundai
+TX205,Brookshire Hyundai,34656 Katy Freeway,Brookshire,77423,TX,SC,281-937-2055,www.brookshirehyundai.com,29.77956199645996,-95.96041870117188,Texas,Hyundai
+TX155,Texan Hyundai,27309 Southwest Freeway,Rosenberg,77471,TX,SC,832-586-8600,www.texanhyundai.com,29.531503,-95.796633,Texas,Hyundai
+TX195,Northwest Hyundai,19300 Northwest Freeway,Houston,77065,TX,SC,281-894-5200,www.northwesthyundai.com,29.90837860107422,-95.60873413085938,Texas,Hyundai
+TX145,Sterling Mccall Hyundai,10505 Southwest Freeway,Houston,77074,TX,SC,713-981-3990,www.sterlingmccallhyundai.com,29.6643864,-95.5515817,Texas,Hyundai
+TX203,Steele South Loop Hyundai,8811 Lakes At 610 Drive,Houston,77054,TX,SC,713-341-3413,www.steelesouthloophyundai.com,29.67637062072754,-95.41776275634766,Texas,Hyundai
+TX104,North Freeway Hyundai,20440 I-45 North,Spring,77373,TX,SC,832-446-4000,www.northfreewayhyundai.com,30.1022509,-95.4357231,Texas,Hyundai
+TX111,Humble Hyundai,18877 Highway 59 N,Humble,77338,TX,SC,832-644-4000,www.humblehyundai.com,29.9920473,-95.2746824,Texas,Hyundai
+TX192,Big Star Hyundai,18100 Gulf Freeway,Friendswood,77546,TX,SC,281-819-9400,www.bigstarhyundai.com,29.55705070495606,-95.15966033935547,Texas,Hyundai
+TX086,Wiesner Hyundai,1645 I-45 North Suite 400,Conroe,77304,TX,SC,936-523-6300,www.wiesnerhyundai.com,30.323599,-95.476118,Texas,Hyundai
+TX153,Hyundai Of Brenham,1710 Highway 290 W,Brenham,77833,TX,SC,979-830-1000,www.brenhamhyundai.com,30.1541289,-96.3924585,Texas,Hyundai
+TX169,Baytown Hyundai,4343 East Freeway 1-10,Baytown,77521,TX,SC,281-839-1020,www.baytownhyundai.com,29.803954,-94.9938899,Texas,Hyundai
+TX150,Demontrond Hyundai,3260 Gulf Freeway,Texas City,77591,TX,SC,713-574-5211,www.demontrondhyundai.com,29.413302,-95.039361,Texas,Hyundai
+TX116,Don Davis Hyundai,214 W. Highway 332,Lake Jackson,77566,TX,SC,979-292-0077,www.dondavishyundai.com,29.048959,-95.46759,Texas,Hyundai
+TX180,College Station Hyundai,3405 State Highway 6 South,College Station,77845,TX,SC,979-213-5510,www.collegestationhyundai.com,30.6637177,-96.3252381,Texas,Hyundai
+TX117,Mac Haik Hyundai,4404 N. Navarro,Victoria,77904,TX,SC,361-576-1221,www.hyundaivictoria.com,28.836055,-97.001172,Texas,Hyundai
+TX177,Hyundai Of Silsbee,4100 Highway 96 Bypass,Silsbee,77656,TX,SC,409-373-6740,www.hyundaiofsilsbeetx.com,30.3358771,-94.1517907,Texas,Hyundai
+TX103,Philpott Motors Hyundai,2289 Highway 69 N,Nederland,77627,TX,SC,409-727-1451,www.philpottmotors.net,29.9659159,-94.0168239,Texas,Hyundai
+TX171,South Point Hyundai,4610 South Ih 35,Austin,78745,TX,SC,512-445-0300,www.southpointhyundai.com,30.2096536,-97.7567106,Texas,Hyundai
+TX200,"Steele Hyundai Kyle, Inc",24795 Ih 35,Kyle,78640,TX,SC,512-262-2020,www.steelehyundaikyle.com,29.95242118835449,-97.87581634521484,Texas,Hyundai
+TX095,Round Rock Hyundai,2405 N Interstate 35,Round Rock,78664,TX,SC,512-244-0000,www.roundrockhyundai.com,30.535663,-97.690133,Texas,Hyundai
+TX187,Hyundai Of Lufkin,3101 S. Medford Drive,Lufkin,75901,TX,SC,936-630-1200,www.hyundaioflufkin.com,31.3159113,-94.7059547,Texas,Hyundai
+TX201,Steele Hyundai New Braunfels,485 N. Business Ih 35,New Braunfels,78130,TX,SC,830-632-2200,www.steelehyundainewbraunfels.com,29.69544982910156,-98.10365295410156,Texas,Hyundai
+TX206,Waco Hyundai,1501 W Loop 340,Waco,76712,TX,SC,254-420-2366,www.wacohyundai.com,31.49896812438965,-97.17173767089844,Texas,Hyundai
+TX197,Killeen Hyundai,3301 E Central Texas Expressway,Killeen,76543,TX,SC,254-226-3900,www.killeenhyundai.com,31.0849723815918,-97.70507049560547,Texas,Hyundai
+TX108,Perry Hyundai,3824 N W Stallings Drive,Nacogdoches,75964,TX,SC,936-564-0276,www.perryhyundai.com,31.6394897,-94.6827837,Texas,Hyundai
+TX077,World Car Hyundai,12908 Ih 35 North,San Antonio,78233,TX,SC,210-599-5959,www.worldcarhyundainorth.com,29.556443,-98.344539,Texas,Hyundai
+LA009,Navarre Hyundai,1280 E. College Street,Lake Charles,70607,LA,SC,337-474-1999,www.navarrehyundai.com,30.1963319,-93.2031669,Louisiana,Hyundai
+TX087,World Car Hyundai,7915 Ih 35 South,San Antonio,78224,TX,SC,210-254-6000,www.worldcarhyundaisouth.com,29.355282,-98.525968,Texas,Hyundai
+TX016,Red Mccombs Hyundai,4800 Nw Loop 410,San Antonio,78229,TX,SC,210-684-7440,www.mccombssuperiorhyundai.com,29.5060908,-98.577596,Texas,Hyundai
+TX127,Red Mccombs Hyundai Northwest,13663 Ih-10 West,San Antonio,78249,TX,SC,210-798-4500,www.hyundainorthwest.com,29.5553173,-98.5891314,Texas,Hyundai
+TX081,Autonation Hyundai Corpus Christi,6686 S Padre Island Drive,Corpus Christi,78412,TX,SC,361-444-0156,www.autonationhyundaicorpuschristi.com,27.6982572,-97.3504364,Texas,Hyundai
+TX190,Principle Hyundai  Boerne,32275 W I-10,Boerne,78006,TX,SC,210-635-1000,www.principlehyundaiboerne.com,29.75931167602539,-98.71178436279297,Texas,Hyundai
+TX185,Patterson Hyundai Tyler,3120 Southwest Loop 323,Tyler,75701,TX,SC,903-561-2404,www.pattersonhyundaityler.com,32.3140031,-95.3400434,Texas,Hyundai
+TX151,Hyundai Of Longview,3680 North Highway 259,Longview,75605,TX,SC,903-663-8710,www.hyundaioflongview.com,32.5626192,-94.7306813,Texas,Hyundai
+TX132,Huffines Hyundai Mckinney,1301 N. Central Expressway,Mckinney,75070,TX,SC,469-525-4300,www.huffineshyundaimckinney.com,33.1799688,-96.6958939,Texas,Hyundai
+TX040,Huffines Hyundai Plano,909 Coit Road,Plano,75075,TX,SC,972-867-5000,www.huffineshyundaiplano.com,33.0120587,-96.7677285,Texas,Hyundai
+TX174,Van Hyundai,1825 N Ih 35 East,Carrollton,75006,TX,SC,214-483-1547,www.vanhyundai.com,32.9678449,-96.8887202,Texas,Hyundai
+TX183,Clay Cooley Hyundai Of Rockwall,1540 Interstate 30 East,Rockwall,75087,TX,SC,972-722-6365,www.rockwallhyundai.net,32.9141485,-96.4364795,Texas,Hyundai
+TX063,"Eckert Hyundai, Inc.",4011 South I-35 E,Denton,76210,TX,SC,940-243-6200,www.eckerthyundai.com,33.1880224,-97.0977187,Texas,Hyundai
+TX189,Clay Cooley Hyundai Mesquite,16230 Lbj Freeway,Mesquite,75150,TX,SC,972-908-9100,www.hyundaimesquite.com,32.83157730102539,-96.62968444824219,Texas,Hyundai
+TX062,Freeman Hyundai,1800 E. Airport Freeway,Irving,75062,TX,SC,972-438-2121,www.freemanhyundai.com,32.8358318,-96.9203655,Texas,Hyundai
+TX198,Texoma Hyundai,2500 Texoma Parkway,Sherman,75090,TX,SC,903-487-0334,www.texomahyundai.com,33.66621780395508,-96.59818267822266,Texas,Hyundai
+TX199,Greenville Hyundai,7311 I 30 Frontage Road,Greenville,75402,TX,SC,903-704-4089,www.greenvillehyundai.com,33.09587478637695,-96.1065673828125,Texas,Hyundai
+TX204,Clay Cooley Hyundai Of Terrell,100 Highway 205,Terrell,75160,TX,SC,972-524-3775,www.terrellhyundai.com,32.73929595947266,-96.30150604248047,Texas,Hyundai
+TX202,Clay Cooley Hyundai Of Dallas,39444 Lbj Freeway,Dallas,75232,TX,SC,214-694-2700,www.mydallashyundai.com,32.64352416992188,-96.85324096679688,Texas,Hyundai
+TX181,Autonation Hyundai N Richland Hills,7724 Ne Loop 820,North Richland Hills,76180,TX,SC,817-548-4040,www.autonationhyundainorthrichlandhills.com,32.8313259,-97.2144101,Texas,Hyundai
+TX173,Vandergriff Hyundai,1120 West I-20,Arlington,76017,TX,SC,817-422-0932,www.vandergriffhyundai.com,32.6758056,-97.1246923,Texas,Hyundai
+TX141,James Wood Hyundai,2110 Highway 287 South,Decatur,76234,TX,SC,940-627-2177,www.jameswoodhyundai.com,33.2153684,-97.5850559,Texas,Hyundai
+TX184,Hiley Hyundai West,9000 West Freeway,Fort Worth,76108,TX,SC,817-367-4000,www.hileyhyundaioffortworth.com,32.7385858,-97.4714724,Texas,Hyundai
+TX175,Hiley Hyundai Of Burleson,320 N. Burleson Blvd.,Burleson,76028,TX,SC,817-945-9900,www.hileyhyundaiofburleson.com,32.5493169,-97.3158471,Texas,Hyundai
+TX136,Jerrys Hyundai,3015 Ft Worth Highway,Hudson Oaks,76087,TX,SC,817-596-5000,www.jerryshyundai.com,32.7562829,-97.6937616,Texas,Hyundai
+OK027,Carter County Hyundai,616 Holiday Drive,Ardmore,73401,OK,SC,580-319-4949,www.cartercountyhyundai.com,34.1823487,-97.1657378,Oklahoma,Hyundai
+TX191,Shottenkirk Hyundai Granbury,4960 East Highway 377,Granbury,76049,TX,SC,817-279-5800,www.shottenkirkhyundaigranbury.com,32.46889114379883,-97.70823669433594,Texas,Hyundai
+TX194,Foundation Hyundai Of Wichita Falls,315 Central Freeway,Wichita Falls,76301,TX,SC,940-228-4448,www.foundationhyundaiofwichitafalls.com,33.88947677612305,-98.48694610595703,Texas,Hyundai
+OK019,Billingsley Hyundai Of Lawton,2502 Nw 82Nd Street,Lawton,73505,OK,SC,580-536-3326,www.billingsleyhyundai.com,34.633562,-98.493376,Oklahoma,Hyundai
+OK033,Norman Hyundai,591 N. Interstate Drive,Norman,73069,OK,SC,405-801-3590,www.normanhyundai.com,35.22579193115234,-97.48416137695312,Oklahoma,Hyundai
+TX118,Orr Hyundai,2300 St. Michael Drive,Texarkana,75503,TX,SC,903-831-6408,www.orrhyundai.com,33.4646276,-94.0693602,Texas,Hyundai
+OK030,Bob Howard Hyundai,613 Sw 74Th Street,Oklahoma City,73139,OK,SC,405-634-8900,www.bobhowardhyundai.com,35.3926068,-97.5245705,Oklahoma,Hyundai
+OK015,Automax Hyundai,4401 Tinker Diagonal,Del City,73115,OK,SC,405-606-4000,www.hyundaiokc.com,35.4537344,-97.4384527,Oklahoma,Hyundai
+OK018,Edmond Hyundai,14137 N. Broadway Extension,Edmond,73013,OK,SC,405-478-8777,www.edmondhyundai.com,35.6141958,-97.4893215,Oklahoma,Hyundai
+LA032,Mike Morgan Hyundai,8747 Business Park Drive,Shreveport,71105,LA,SC,318-688-8733,www.mikemorganhyundai.com,32.4211844,-93.723387,Louisiana,Hyundai
+TX098,Star Hyundai,200 South Clack,Abilene,79605,TX,SC,325-698-2222,www.hyundaiofabilene.com,32.4503969,-99.7877064,Texas,Hyundai
+OK026,James Hodge Hyundai,1330 N Main Street,Muskogee,74401,OK,SC,918-687-3646,www.jameshodgehyundai.com,35.7649432,-95.3571137,Oklahoma,Hyundai
+AR036,Crain Hyundai Of Fort Smith,3600 S Zero Street,Fort Smith,72908,AR,SC,479-424-2440,www.crainhyundaiftsmith.com,35.2994544,-94.4079213,Arkansas,Hyundai
+NY144,Koeppel Hyundai,34-54 44Th Street,Long Island City,11101,NY,EA,718-361-6900,www.koeppelhyundai.com,40.75410079956055,-73.91893005371094,New York,Hyundai
+NY120,Star Hyundai,201-16 Northern Blvd,Bayside,11361,NY,EA,718-631-6700,www.starhyundai.com,40.7573099,-73.781303,New York,Hyundai
+NY147,Empire Hyundai Of Jamaica,175-62 Hillside Ave,Jamaica,11432,NY,EA,929-558-3450,www.shopempirehyundaiofjamaica.com,40.71200942993164,-73.7855453491211,New York,Hyundai
+NY109,City World Hyundai,3350 Boston Road,Bronx,10469,NY,EA,718-514-8080,www.cityworldhyundai.com,40.8742719,-73.8517461,New York,Hyundai
+NY127,South Shore Hyundai,360 W. Sunrise Highway,Valley Stream,11581,NY,EA,516-561-8772,www.southshorehyundai.com,40.6630182,-73.7136308,New York,Hyundai
+NY058,Plaza Hyundai,2726 Nostrand Ave.,Brooklyn,11210,NY,EA,718-253-8400,www.plazahyundai.com,40.6181757,-73.9453087,New York,Hyundai
+NJ046,Hudson Hyundai,977 Communipaw Ave,Jersey City,07304,NJ,EA,201-333-3100,www.hudsonhyundai.com,40.7225534,-74.0855951,New Jersey,Hyundai
+NY126,Millennium Hyundai,265 North Franklin Street,Hempstead,11550,NY,EA,516-282-3800,www.millenniumhyundai.com,40.7135425,-73.6289648,New York,Hyundai
+NY143,Hyundai City Of Bay Ridge,9013 4Th Avenue,Brooklyn,11209,NY,EA,718-285-7000,www.hyundaicityny.com,40.6192813696313,-74.02950955466791,New York,Hyundai
+NY146,Empire Hyundai Of New Rochelle,125 East Main Street,New Rochelle,10801,NY,EA,914-654-8300,www.shopempirehyundaiofnewrochelle.com,40.91780853271484,-73.7686996459961,New York,Hyundai
+NJ033,Paramus Hyundai,234 Route 4 East,Paramus,07652,NJ,EA,201-845-0700,www.paramushyundai.com,40.9147515,-74.0523008,New Jersey,Hyundai
+NY133,Island Hyundai,1590 Hylan Blvd,Staten Island,10305,NY,EA,718-727-2277,www.myislandhyundai.com,40.589543,-74.088616,New York,Hyundai
+NJ051,Lynnes Hyundai Llc,401 Bloomfield Avenue,Bloomfield,07003,NJ,EA,973-743-5100,www.lynneshyundai.com,40.7881521,-74.1944195,New Jersey,Hyundai
+NY110,Advantage Hyundai,430-440 Plainview Road,Hicksville,11801,NY,EA,516-465-7000,www.advantagehyundai.com,40.7699196,-73.5027788,New York,Hyundai
+NY154,Tasca Central Avenue Hyundai,111 South Central Ave,Hartsdale,10530,NY,EA,866-795-6215,www.tascacentralavehyundai.com,41.01635360717773,-73.8021240234375,New York,Hyundai
+NJ015,Maxon Hyundai,2329 Route 22 West,Union,07083,NJ,EA,908-851-5500,www.maxonhyundai.com,40.6903225,-74.2923214,New Jersey,Hyundai
+NY140,Hyundai Of 110,2100 Broadhollow Road,Farmingdale,11735,NY,EA,631-366-7500,www.hyundaiof110.com,40.74772197154113,-73.42345189036016,New York,Hyundai
+NJ034,Sansones Route 1 Hyundai,90-100 Route 1 North,Avenel,07001,NJ,EA,732-815-0500,www.sansoneshyundai.com,40.5948528,-74.2729182,New Jersey,Hyundai
+NY129,Rockland Hyundai,55 South Route 303,West Nyack,10994,NY,EA,845-244-4539,www.rocklandhyundai.com,41.095641,-73.9503716,New York,Hyundai
+NJ048,Wayne Auto Mall Hyundai,1935 Route 23S,Wayne,07470,NJ,EA,973-694-7800,www.waynehyundai.com,40.9491088,-74.2761034,New Jersey,Hyundai
+NY005,"Huntington Hyundai, Inc.",1221 E. Jericho Turnpike,Huntington,11743,NY,EA,631-385-4343,www.huntingtonhyundai.com,40.833433,-73.361738,New York,Hyundai
+CT034,Stamford Hyundai Llc,85 Magee Avenue,Stamford,06902,CT,EA,203-326-5740,www.stamfordhyundai.com,41.046855,-73.5292686,Connecticut,Hyundai
+NJ045,Liberty Hyundai,305 Route 17 North,Mahwah,07430,NJ,EA,201-529-2400,www.libertyhyundai.com,41.0889921,-74.153182,New Jersey,Hyundai
+NY075,Atlantic Hyundai,193 Sunrise Highway,West Islip,11795,NY,EA,631-587-0700,www.atlantichyundai.com,40.7207424,-73.3045844,New York,Hyundai
+NJ025,Circle Hyundai,641 Shrewsbury Ave.,Shrewsbury,07702,NJ,EA,732-758-0111,www.circlehyundai.com,40.3283285,-74.07255,New Jersey,Hyundai
+NJ066,Global Hyundai Of North Plainfield,1099 Rt 22 West,North Plainfield,07060,NJ,EA,908-757-4000,www.globalhyundainj.com,40.61633682250977,-74.45503234863281,New Jersey,Hyundai
+NJ005,Towne Hyundai,3170 Route 10,Denville,07834,NJ,EA,973-366-7777,www.townehyundai.com,40.8723877,-74.5226912,New Jersey,Hyundai
+NY106,Curry Hyundai,3040 E. Main Street,Cortlandt Manor,10567,NY,EA,914-930-3700,www.curryhyundai.com,41.3084422,-73.8760023,New York,Hyundai
+NJ011,Freehold Hyundai,4065 Rt 9,Freehold,07728,NJ,EA,732-625-1200,www.freeholdhyundai.com,40.2641328,-74.2924807,New Jersey,Hyundai
+CT037,Balise Hyundai Of Fairfield,338 Commerce Drive,Fairfield,06824,CT,EA,203-418-4445,www.balisehyundaifairfield.com,41.1397764,-73.2716115,Connecticut,Hyundai
+NY136,Centereach Hyundai,1815 Middle Country Road,Centereach,11720,NY,EA,631-580-0800,www.centereachhyundai.com,40.8603843,-73.0754834,New York,Hyundai
+NJ065,Route 1 Hyundai,3905 Route 1 South,Monmouth Junction,08852,NJ,EA,732-821-4000,www.route1hyundai.com,40.41145706176758,-74.54181671142578,New Jersey,Hyundai
+NY107,Hyundai 112,2114 Route 112,Medford,11763,NY,EA,631-758-2200,www.hyundai112.com,40.8116392,-73.0024043,New York,Hyundai
+NY025,Suresky Hyundai,2 Hatfield Lane,Goshen,10924,NY,EA,845-294-5177,www.sureskyhyundai.com,41.3934274,-74.3365488,New York,Hyundai
+CT033,Key Hyundai Of Milford,566 Bridgeport Avenue,Milford,06460,CT,EA,203-877-6820,www.keyhyundaimilfordct.com,41.207647,-73.088362,Connecticut,Hyundai
+CT022,Danbury Hyundai,102 Federal Road,Danbury,06810,CT,EA,203-730-4700,www.danburyhyundai.com,41.4156669,-73.4228072,Connecticut,Hyundai
+NJ049,Franklin Sussex Hyundai,499 Route 23,Sussex,07461,NJ,EA,973-875-6101,www.franklinsussexhyundai.com,41.2422196,-74.6243089,New Jersey,Hyundai
+NY060,Healey Hyundai,410 Fishkill Avenue,Beacon,12508,NY,EA,845-831-1990,www.healeybrothershyundai.com,41.510461,-73.952328,New York,Hyundai
+NJ060,Fred Beans Hyundai Of Flemington,180 Route 202  31,Flemington,08822,NJ,EA,908-788-4227,www.fredbeanshyundaiflemington.com,40.4812,-74.8631,New Jersey,Hyundai
+NJ032,Lester Glenn Hyundai,325 Route 37,Toms River,08753,NJ,EA,732-240-8833,www.tomsriverhyundai.com,39.9584537,-74.169319,New Jersey,Hyundai
+NJ063,Hyundai Of Trenton,1655 North Olden Avenue,Ewing,08638,NJ,EA,609-883-3500,www.hyundaioftrenton.com,40.24509811401367,-74.76305389404297,New Jersey,Hyundai
+NY050,Riverhead Hyundai,1800A Old Country Road,Riverhead,11901,NY,EA,631-369-0600,www.riverheadhyundai.com,40.924952,-72.7056999,New York,Hyundai
+CT038,Brandfon Hyundai,115 Peat Meadow Road,New Haven,06513,CT,EA,203-315-2900,www.brandfonhyundai.com,41.2891677,-72.8861776,Connecticut,Hyundai
+PA002,Fred Beans Hyundai Of Langhorne,1106 E. Lincoln Highway,Langhorne,19047,PA,EA,215-945-8000,www.fredbeanshyundailanghorne.com,40.196447,-74.9091853,Pennsylvania,Hyundai
+CT039,Shakers Family Hyundai,674 Straits Turnpike,Watertown,06795,CT,EA,203-754-9494,www.shakersfamilyhyundai.com,41.5734356,-73.1002931,Connecticut,Hyundai
+TX179,Car Town Hyundai,501 North Bryant Boulevard,San Angelo,76903,TX,SC,325-655-7755,www.cartownsanangelo.com,31.4656756,-100.4469916,Texas,Hyundai
+IL081,Happy Hyundai,9121 South Cicero Avenue,Oak Lawn,60453,IL,CE,708-422-9300,www.myhappyhyundai.com,41.726237,-87.7395219,Illinois,Hyundai
+IL097,Napleton Downtown Hyundai,2700 S Michigan Ave,Chicago,60616,IL,CE,312-225-4300,www.napletondowntownhyundai.com,41.84421920776367,-87.62405395507812,Illinois,Hyundai
+IL066,Ettleson Hyundai,5631 S Lagrange Road,Countryside,60525,IL,CE,708-491-0200,www.ettlesonhyundai.com,41.7873273,-87.8675468,Illinois,Hyundai
+IL073,Mcgrath City Hyundai,6750 W. Grand Avenue,Chicago,60707,IL,CE,773-889-9090,www.mcgrathhyundai.com,41.9238429,-87.7944316,Illinois,Hyundai
+IL063,Family Hyundai,8101 W. 159Th Street,Tinley Park,60477,IL,CE,708-444-7100,www.familyhyundai.com,41.6009516,-87.8180076,Illinois,Hyundai
+IL071,Napletons Hyundai,1985 River Oaks Drive,Calumet City,60409,IL,CE,708-868-6500,www.napletonriveroakshyundai.com,41.600373,-87.573597,Illinois,Hyundai
+IL076,Wilkins Hyundai,750 N. York Street,Elmhurst,60126,IL,CE,630-279-3000,www.wilkinshyundai.com,41.9219122,-87.9404128,Illinois,Hyundai
+IL093,Hyundai Of Lincolnwood,6747 N. Lincoln Avenue,Lincolnwood,60712,IL,CE,847-675-4500,www.hyundaioflincolnwood.com,42.0038882,-87.7282665,Illinois,Hyundai
+IL098,Castle Hyundai Downers Grove,1866 Ogden Ave,Downers Grove,60515,IL,CE,630-964-9500,www.castlehyundaidownersgrove.com,41.80823516845703,-88.0323715209961,Illinois,Hyundai
+IL085,Autonation Hyundai Ohare,1509 S River Road,Des Plaines,60018,IL,CE,847-346-0144,www.autonationhyundaiohare.com,42.0259134,-87.8767771,Illinois,Hyundai
+IL072,World Hyundai Matteson,5337 Miller Circle Drive,Matteson,60443,IL,CE,708-983-6500,www.worldhyundaimatteson.com,41.501161,-87.7443766,Illinois,Hyundai
+IN038,Webb Hyundai,9236 Indianapolis Boulevard,Highland,46322,IN,CE,219-249-5431,www.webbhyundai.com,41.5452846,-87.472189,Indiana,Hyundai
+IL003,Napleton Hyundai Of Glenview,1620 Waukegan Road,Glenview,60025,IL,CE,847-729-0300,www.napletonhyundaiglenview.com,42.0845748,-87.7988494,Illinois,Hyundai
+IL069,Patrick Hyundai,1020 E. Golf Road,Schaumburg,60173,IL,CE,847-519-9600,www.patrickhyundai.com,42.0509394,-88.0530034,Illinois,Hyundai
+IL082,Napletons Valley Hyundai,4333 Ogden Avenue,Aurora,60504,IL,CE,630-851-2500,www.napletonsvalleyhyundai.com,41.75079,-88.210272,Illinois,Hyundai
+IL044,Gregory Hyundai,490 Skokie Valley Road,Highland Park,60035,IL,CE,847-831-5980,www.gregoryhyundai.com,42.161043,-87.808337,Illinois,Hyundai
+IN045,Webb Hyundai Merrillville,1000 W 81St Avenue,Merrillville,46410,IN,CE,219-249-5145,www.hyundaimerrillville.com,41.4717989,-87.3479821,Indiana,Hyundai
+IL059,Darcy Hyundai,2000 Essington Road,Joliet,60435,IL,CE,815-725-5200,www.darcyhyundai.com,41.5228627,-88.1449288,Illinois,Hyundai
+IL094,Hyundai Of Palatine,221 E. Lake Cook Road,Palatine,60074,IL,CE,847-348-6700,www.hyundaipalatine.com,42.1303943,-88.0216334,Illinois,Hyundai
+IL068,Elgin Hyundai,1215 W Lake Street,Bartlett,60103,IL,CE,847-888-8222,www.elginhyundai.com,42.0315703,-88.2437213,Illinois,Hyundai
+IL080,Gerald Hyundai,209 Hansen Boulevard,North Aurora,60542,IL,CE,630-907-8500,www.geraldhyundai.com,41.7993428,-88.3712902,Illinois,Hyundai
+IL095,Happy Hyundai Of Libertyville,901 S. Milwauke Ave.,Libertyville,60048,IL,CE,224-207-7200,www.libertyvillehyundai.com,42.26753616333008,-87.951171875,Illinois,Hyundai
+IL087,Rosen Hyundai,771 S Randall Road,Algonquin,60102,IL,CE,847-854-6700,www.rosenhyundai.com,42.1629988,-88.3344836,Illinois,Hyundai
+IL091,Phillips Hyundai Of Bradley,1400 Locke Drive,Bourbonnais,60914,IL,CE,815-933-2251,www.phillipshyundai.com,41.1663558,-87.8487163,Illinois,Hyundai
+IL054,Gurnee Hyundai,6251 Grand Avenue,Gurnee,60031,IL,CE,847-249-1300,www.gurneehyundai.com,42.382433,-87.957474,Illinois,Hyundai
+IN051,Michigan City Hyundai,4411 E Michigan Blvd,Michigan City,46360,IN,CE,219-878-1133,www.michigancityhyundai.com,41.69885652027507,-86.83315225438383,Indiana,Hyundai
+IL096,Kunes Hyundai Of Sycamore,1380 Dekalb Avenue,Sycamore,60178,IL,CE,815-895-4584,www.hyundaiofsycamore.com,41.97904586791992,-88.70938873291016,Illinois,Hyundai
+WI038,Rosen Hyundai Of Kenosha,6701 120Th Avenue,Kenosha,53142,WI,CE,262-891-6230,www.rosenhyundaikenosha.com,42.57498931884766,-87.95188903808594,Wisconsin,Hyundai
+WI042,Zeigler Hyundai Of Racine,13313 Washington Ave,Mount Pleasant,53177,WI,CE,262-884-7575,www.zeiglerhyundairacine.com,42.72303771972656,-87.94840240478516,Wisconsin,Hyundai
+MI057,Signature Hyundai,680 E. Napier Avenue,Benton Harbor,49022,MI,CE,269-926-0031,www.signaturehyundai.com,42.0863076,-86.4424524,Michigan,Hyundai
+IL062,Hyundai On Perryville,343 North Perryville Road,Rockford,61107,IL,CE,815-229-0089,www.hyundaionperryville.com,42.2722435,-88.9788644,Illinois,Hyundai
+IN021,Gurley Leep Hyundai,5302 N. Grape Road,Mishawaka,46545,IN,CE,574-272-0990,www.gurleyleephyundai.com,41.7056548,-86.1874932,Indiana,Hyundai
+IL060,Schimmer Hyundai,911 Shooting Park Road,Peru,61354,IL,CE,815-224-4500,www.schimmerhyundai.com,41.3385605,-89.1170068,Illinois,Hyundai
+WI039,Rosen Hyundai Greenfield,6133 S 27Th Street,Greenfield,53221,WI,CE,414-238-2000,www.rosenhyundaigreenfield.com,42.93305295356636,-87.9504808315516,Wisconsin,Hyundai
+WI036,Hyundai West Allis,10611 W Arthur Ave,West Allis,53227,WI,CE,414-329-3100,www.hyundaiwestallis.com,42.9982662,-88.0450716,Wisconsin,Hyundai
+WI014,Boucher Hyundai,1537 East Moreland Boulevard,Waukesha,53186,WI,CE,262-547-0031,www.boucherhyundai.com,43.024419,-88.204106,Wisconsin,Hyundai
+WI035,Boucher Hyundai Of Janesville,2009 Milton Ave,Janesville,53545,WI,MS,608-314-8222,www.boucherhyundaijanesville.com,42.7074284,-89.005431,Wisconsin,Hyundai
+WI041,Amato Hyundai Of Glendale,5200 N Port Washington Road,Glendale,53217,WI,CE,414-964-4400,www.northshorehyundai.com,43.11202239990234,-87.91586303710938,Wisconsin,Hyundai
+IN054,Hyundai Of Goshen,3216 Elkhart Road,Goshen,46526,IN,CE,574-875-5106,www.goshenhyundai.com,41.61128234863281,-85.88432312011719,Indiana,Hyundai
+WI022,John Amato Hyundai,N80W12650 Leon Road,Menomonee Falls,53051,WI,CE,414-357-8500,www.johnamatohyundai.com,43.168565,-88.006024,Wisconsin,Hyundai
+IN007,Bob Rohrman Hyundai,304 Sagamore Parkway North,Lafayette,47905,IN,CE,765-448-1502,www.rohrmanhyundai.com,40.4147651,-86.8578508,Indiana,Hyundai
+IL090,Obrien Hyundai Of Normal,600 Greenbriar Drive,Normal,61761,IL,CE,309-664-1222,www.obrienteamhyundai.com,40.5225806,-88.9499718,Illinois,Hyundai
+MI062,Zeigler Hyundai Of Holland,800 Chicago Drive,Holland,49423,MI,CE,616-392-8516,www.zeiglerhyundaiofholland.com,42.79896545410156,-86.07258605957031,Michigan,Hyundai
+IL099,Patriot Hyundai Of Tilton,3724 N Vermilion St,Danville,61832,IL,CE,217-443-6803,,40.19252777099609,-87.63008880615234,Illinois,Hyundai
+MI023,Maple Hill Hyundai,5622 W. Main,Kalamazoo,49009,MI,CE,269-342-6600,www.maplehillhyundai.com,42.296088,-85.65907,Michigan,Hyundai
+TX100,Hyundai Of El Paso,8600 Montana Ave,El Paso,79925,TX,SC,915-881-0300,www.hyundaiofelpaso.com,31.7918486,-106.374397,Texas,Hyundai
+NM026,Casa Hyundai Of Las Cruces,210 W Boutz Rd,Las Cruces,88005,NM,SC,575-525-4500,www.casahyundailascruces.com,32.2901611328125,-106.7783889770508,New Mexico,Hyundai
+NM014,Roswell Hyundai,1909 W Second Street,Roswell,88201,NM,SC,575-623-5860,www.roswellhyundai.com,33.3941944,-104.5511478,New Mexico,Hyundai
+NJ059,Causeway Hyundai,405 Route 72 West,Manahawkin,08050,NJ,EA,609-597-8083,www.causewayhyundai72.com,39.6826375,-74.2441784,New Jersey,Hyundai
+NJ064,Burlington Hyundai,4393 Route 130 South,Burlington,08016,NJ,EA,609-871-2800,www.hyundaiofburlington.com,40.0558967590332,-74.89031982421875,New Jersey,Hyundai
+NJ039,Burns Hyundai,500 W. Route 70,Marlton,08053,NJ,EA,856-983-3700,www.burnshyundai.com,39.894942,-74.9357829,New Jersey,Hyundai
+PA079,Faulkner Hyundai,11500 Roosevelt Boulevard,Philadelphia,19116,PA,EA,215-904-4200,www.faulknerhyundaiphilly.com,40.1027363,-75.0061581,Pennsylvania,Hyundai
+PA094,Hyundai Of Abington,1645 Easton Road,Willow Grove,19090,PA,EA,215-887-1800,www.hyundaiofabington.com,40.13504791259766,-75.122802734375,Pennsylvania,Hyundai
+NJ040,Hyundai Of Turnersville,3400 Route 42,Turnersville,08012,NJ,EA,856-629-4500,www.hyundaiofturnersville.com,39.7580147,-75.0473038,New Jersey,Hyundai
+NJ062,Sport Hyundai,6831 Black Horse Pike,Egg Harbor Township,08234,NJ,EA,609-646-1200,www.sporthyundai.net,39.39495086669922,-74.54527282714844,New Jersey,Hyundai
+PA039,Fred Beans Hyundai,4465 West Swamp Road,Doylestown,18902,PA,EA,215-345-8200,www.fredbeanshyundai.com,40.3335775,-75.1370258,Pennsylvania,Hyundai
+PA003,Pacifico Hyundai,6715 Essington Ave.,Philadelphia,19153,PA,EA,215-365-0300,www.pacificohyundai.com,39.9125446,-75.2223109,Pennsylvania,Hyundai
+PA065,Conicelli Hyundai,1208 Ridge Pike,Conshohocken,19428,PA,EA,610-832-7911,www.conicellihyundai.com,40.1029326,-75.3073343,Pennsylvania,Hyundai
+PA034,Springfield Hyundai,754 Baltimore Pike,Springfield,19064,PA,EA,610-690-4604,www.springfieldhyundai.com,39.918676,-75.331753,Pennsylvania,Hyundai
+NJ067,Vineland Hyundai,1935 North Second Street,Millville,08332,NJ,EA,877-658-9619,www.vinelandhyundai.com,39.41965866088867,-75.03765869140625,New Jersey,Hyundai
+PA070,Ciocca Hyundai,550 S. West End Blvd.,Quakertown,18951,PA,EA,215-536-2700,www.cioccahyundai.com,40.4310427,-75.3508445,Pennsylvania,Hyundai
+PA085,Brown-daub Hyundai,3901 Hecktown Road,Easton,18045,PA,EA,610-829-1008,www.browndaubhyundai.com,40.6848207,-75.2344605,Pennsylvania,Hyundai
+CA01O,Hyundai Of Downtown Los Angeles,3850 S Figueroa Street,Los Angeles,90037,CA,WE,213-234-5333,www.hyundaioflosangeles.com,34.01248550415039,-118.2823486328125,California,Hyundai
+CA296,Downey Hyundai,7550 Firestone Blvd,Downey,90241,CA,WE,562-231-0100,www.downeyhyundai.com,33.9462221,-118.1456535,California,Hyundai
+CA01L,Hyundai Of Glendale,411 South Brand Blvd,Glendale,91204,CA,WE,818-243-4110,www.glendalehyundai.com,34.14081192016602,-118.2553100585938,California,Hyundai
+CA335,South Bay Hyundai,20433 Hawthorne Boulevard,Torrance,90503,CA,WE,424-456-2030,www.sbhyundai.com,33.8458796,-118.3543354,California,Hyundai
+CA01P,Hyundai Carson,2205 E. 223 Street,Carson,90810,CA,WE,310-971-2114,www.hyundaicarson.com,33.82523345947266,-118.2343444824219,California,Hyundai
+CA01S,Hyundai Santa Monica,1100 Santa Monica Blvd,Santa Monica,90401,CA,WE,310-255-6000,www.hyundaisantamonica.com,34.02178192138672,-118.4879684448242,California,Hyundai
+CA01E,Harbor Hyundai,3720 Cherry Ave,Long Beach,90807,CA,WE,562-304-2222,www.harbor-hyundai.com,33.8249397277832,-118.1668930053711,California,Hyundai
+CA323,Norm Reeves Hyu Superstore Cerritos,10901 183Rd Street,Cerritos,90703,CA,WE,562-405-3505,www.normreeveshyundai.com,33.8603653,-118.098943,California,Hyundai
+CA01M,Cardinaleway Hyundai Of El Monte,3462 Peck Road,El Monte,91731,CA,WE,626-534-0288,www.cardinalewayhyundaiofelmonte.com,34.06997680664063,-118.0260162353516,California,Hyundai
+CA393,Keyes Hyundai Of Van Nuys,5700 Van Nuys Boulevard,Van Nuys,91401,CA,WE,747-233-7900,www.keyeshyundai.com,34.17514,-118.448165,California,Hyundai
+CA321,Puente Hills Hyundai,17621 Gale Avenue,City Of Industry,91748,CA,WE,626-581-5300,www.phhyundai.com,33.9971485,-117.9214641,California,Hyundai
+CA400,Keyes Hyundai Of Mission Hills,10240 Sepulveda Boulevard,Mission Hills,91345,CA,WE,818-221-4000,www.mhhyundai.com,34.2565,-118.4668,California,Hyundai
+CA375,Garden Grove Hyundai,9898 Trask Avenue,Garden Grove,92844,CA,WE,714-741-3100,www.gardengrovehyundai.com,33.7663974,-117.9559283,California,Hyundai
+CA376,Huntington Beach Hyundai,16751 Beach Boulevard,Huntington Beach,92647,CA,WE,714-594-1000,www.huntingtonbeachhyundai.com,33.7197849,-117.9900164,California,Hyundai
+CA01B,Cardinale Way Hyundai Of Glendora,1253 South Lone Hill Ave.,Glendora,91740,CA,WE,909-394-3500,www.cardinalewayhyundaiglendora.com,34.11723939931728,-117.8299950952307,California,Hyundai
+CA377,Anaheim Hyundai,1271 Auto Center Drive,Anaheim,92806,CA,WE,714-956-1820,www.hyundaiofanaheim.com,33.816121,-117.8733133,California,Hyundai
+CA325,Tustin Hyundai,16 Auto Center Drive,Tustin,92782,CA,WE,714-647-2000,www.tustinhyundai.com,33.7265654,-117.7975163,California,Hyundai
+CA01R,Autonation Hyundai Valencia,24135 Creekside Road,Santa Clarita,91355,CA,WE,661-485-5263,www.autonationhyundaivalencia.com,34.42169189453125,-118.5581283569336,California,Hyundai
+CA384,Westlake Hyundai,3610 E. Thousand Oaks Boulevard,Thousand Oaks,91362,CA,WE,805-719-4380,www.westlakehyundai.com,34.163668,-118.8304245,California,Hyundai
+CA300,Cardinaleway Hyundai,2525 Wardlow Road,Corona,92882,CA,WE,951-271-3333,www.cardinalewayhyundai.com,33.8829309,-117.613832,California,Hyundai
+CA317,Tuttle Click Hyundai,38 Auto Center Drive,Irvine,92618,CA,WE,949-472-7400,www.tuttleclickhyundai.com,33.634226,-117.723463,California,Hyundai
+CA121,Ontario Hyundai,1307 Kettering Loop,Ontario,91761,CA,WE,909-390-8484,www.ontariohyundai.com,34.050241,-117.5474107,California,Hyundai
+CA01H,Diamond Hyundai Palmdale,421 Auto Center Drive,Palmdale,93551,CA,WE,661-947-6000,www.diamondhyundaipalmdale.com,34.59152221679688,-118.1366806030273,California,Hyundai
+CA01A,Laguna Niguel Hyundai,28432 Camino Capistrano,Laguna Niguel,92677,CA,WE,949-485-3740,www.lagunaniguelhyundai.com,33.54943084716797,-117.6735305786133,California,Hyundai
+CA01D,Fontana Hyundai,16850 S Highland Ave,Fontana,92336,CA,WE,909-371-1850,www.fontanahyundai.com,34.13381195068359,-117.4368286132813,California,Hyundai
+CA197,Riverside Hyundai,8001 Auto Drive,Riverside,92504,CA,WE,951-688-9420,www.riversidehyundai.net,33.9291142,-117.4132142,California,Hyundai
+CA359,Alexander Hyundai Of Oxnard,1600 Auto Center Drive,Oxnard,93036,CA,WE,805-751-4680,www.oxnardhyundai.com,34.226527,-119.154863,California,Hyundai
+CA309,Hyundai Inland Empire,25072 Redlands Blvd,Loma Linda,92354,CA,WE,909-796-1600,www.iehyundai.com,34.0641813,-117.2568779,California,Hyundai
+CA01U,Premier Hyundai Of Moreno Valley,27500 Eucalyptus Ave,Moreno Valley,92555,CA,WE,909-316-0101,www.hyundaiofmorenovalley.com,33.93814086914063,-117.1835479736328,California,Hyundai
+CA253,Victorville Hyundai,14821 Palmdale Road,Victorville,92392,CA,WE,760-241-3801,www.victorvillehyundai.com,34.5061486,-117.3404264,California,Hyundai
+CA366,Temecula Hyundai,27430 Ynez Road,Temecula,92591,CA,WE,951-699-6807,www.temeculahyundai.com,33.5128355,-117.1518402,California,Hyundai
+CA134,Gosch Hyundai,100 Carriage Circle,Hemet,92545,CA,WE,951-658-3188,www.goschhyundai.com,33.7407745,-117.0297426,California,Hyundai
+CA01T,Autonation Hyundai Carlsbad,5285 Car Country Drive,Carlsbad,92008,CA,WE,760-929-4900,www.autonationhyundaicarlsbad.com,33.13268280029297,-117.3241119384766,California,Hyundai
+CA379,Hyundai Of Escondido,233 Lincoln Park Way,Escondido,92026,CA,WE,760-294-2300,www.hyundaiescondido.com,33.1173912,-117.1112854,California,Hyundai
+CA391,Bakersfield Hyundai,5300 Wible Road,Bakersfield,93313,CA,WE,661-834-5300,www.bakersfieldhyundai.com,35.30673771200713,-119.0379277144786,California,Hyundai
+CA01C,Pedder Hyundai Of Poway,13864 Poway Road,Poway,92064,CA,WE,858-878-0012,www.powayhyundai.com,32.95685958862305,-117.0291748046875,California,Hyundai
+CA340,Palm Springs Hyundai,3919 East Palm Canyon,Palm Springs,92264,CA,WE,760-202-8888,www.palmspringshyundai.com,33.794665,-116.503298,California,Hyundai
+CA282,Kearny Mesa Hyundai,4670 Convoy Street,San Diego,92111,CA,WE,858-308-0500,www.kearnymesahyundai.com,32.8284136,-117.1533049,California,Hyundai
+CA389,Hyundai Of El Cajon,1385 E. Main Street,El Cajon,92021,CA,WE,619-499-5446,www.hyundaiofelcajon.com,32.798611,-116.931306,California,Hyundai
+CA01V,Dalton Hyundai National City,3150 National City Blvd.,National City,91950,CA,WE,619-474-5502,www.hyundaidalton.com,32.65529251098633,-117.099494934082,California,Hyundai
+CA311,Hyundai Of La Quinta,79025 Highway 111,La Quinta,92253,CA,WE,760-564-5070,www.hyundaioflaquinta.com,33.7071608,-116.2855799,California,Hyundai
+CA349,Winn Hyundai Of Santa Maria,800 West Main Street,Santa Maria,93458,CA,WE,805-349-8500,www.winnhyundai.net,34.952426,-120.445376,California,Hyundai
+CA388,Hyundai San Luis Obispo,1407 Auto Park Way,San Luis Obispo,93405,CA,WE,805-781-6381,www.hyundaislo.com,35.251046,-120.682425,California,Hyundai
+CA01J,Visalia Hyundai,220 S. Ben Maddox Way,Visalia,93291,CA,WE,559-733-3325,www.visaliahyundai.com,36.3287467956543,-119.2777404785156,California,Hyundai
+CA372,Imperial Valley Hyundai,634 Thomas Lane,El Centro,92243,CA,WE,760-353-8000,www.ivhyundai.com,32.7727269,-115.5581696,California,Hyundai
+CA01Q,Hanford Hyundai,1990 Glendale Ave,Hanford,93230,CA,WE,559-582-2277,www.hanfordhyundai.com,36.31843948364258,-119.6791305541992,California,Hyundai
+NV031,Abc Hyundai,6825 Redwood Street,Las Vegas,89118,NV,WE,702-902-1000,www.abchyundai.com,36.0648193359375,-115.238655090332,Nevada,Hyundai
+LA030,Sterling Hyundai,6606 Johnston Street,Lafayette,70503,LA,SC,337-984-9050,www.sterlinghyundai.net,30.182731,-92.068876,Louisiana,Hyundai
+CT018,Meriden Hyundai,318 South Broad Street,Meriden,06450,CT,EA,203-235-1669,www.meridenhyundai.com,41.5137816,-72.8061159,Connecticut,Hyundai
+LA037,Giles Hyundai,3220 Macarthur Drive,Alexandria,71301,LA,SC,318-445-6504,www.gileshyundai.com,31.26441955566406,-92.45477294921875,Louisiana,Hyundai
+CA331,All Star Hyundai,3950 Century Court,Pittsburg,94565,CA,WE,925-778-7878,www.allstarhyundai.net,38.0072016,-121.8459213,California,Hyundai
+CA308,Future Hyundai Of Concord,4901 Marsh Drive,Concord,94520,CA,WE,925-686-5000,www.futurehyundaiofconcord.com,37.9764693,-122.0609266,California,Hyundai
+CA01I,Vallejo Hyundai,3266 Sonoma Blvd.,Vallejo,94590,CA,WE,707-344-9567,www.vallejohyundai.com,38.11697769165039,-122.254264831543,California,Hyundai
+CA320,Dublin Hyundai,6015 Scarlett Court,Dublin,94568,CA,WE,925-803-7700,www.dublinhyundai.com,37.7025743,-121.9026454,California,Hyundai
+CA341,Hanlees Hilltop Hyundai,3285 Auto Plaza,Richmond,94806,CA,WE,510-222-8882,www.hanleeshilltophyundai.com,37.985842,-122.320289,California,Hyundai
+CA362,Hyundai Of Vacaville,641 Orange Drive,Vacaville,95687,CA,WE,707-724-5600,www.hyundaivacaville.com,38.3790894,-121.942847,California,Hyundai
+CA383,San Leandro Hyundai,1066 Marina Boulevard,San Leandro,94577,CA,WE,510-347-3000,www.sanleandrohyundai.com,37.7131368999,-122.1614332,California,Hyundai
+CA386,Platinum Hyundai,3480 Naglee Road,Tracy,95304,CA,WE,209-820-3550,www.platinumhyundaioftracy.com,37.76248550415039,-121.4610595703125,California,Hyundai
+CA350,Stockton Hyundai,2979 Auto Center Circle,Stockton,95212,CA,WE,209-662-6400,www.stocktonhyundai.com,38.016919,-121.278546,California,Hyundai
+CA01F,Fremont Hyundai,43690 Auto Mall Circle,Fremont,94538,CA,WE,510-789-0800,www.fremonthyundai.com,37.49938583374023,-121.9775695800781,California,Hyundai
+CA01N,Hyundai Of San Bruno,1178 El Camino Real,San Bruno,94066,CA,WE,650-935-4120,www.hyundaiofsanbruno.com,37.63731002807617,-122.4191818237305,California,Hyundai
+CA315,Elk Grove Hyundai,8480 Auto Passage Drive,Elk Grove,95757,CA,WE,916-427-1234,www.elkgrovehyundai.com,38.4955069,-121.4325516,California,Hyundai
+CA01G,Stevens Creek Hyundai,4425 Stevens Creek Blvd,Santa Clara,95051,CA,WE,408-249-1200,www.stevenscreekhyundai.com,37.32357406616211,-121.9799728393555,California,Hyundai
+CA304,Capitol Hyundai,1050 Capitol Exprssway Automall,San Jose,95136,CA,WE,408-445-1500,www.capitolhyundaisj.com,37.2748126,-121.8753907,California,Hyundai
+CA033,Manly Hyundai,2755 Corby Avenue,Santa Rosa,95407,CA,WE,707-545-7212,www.manlyhyundai.com,38.411857,-122.718812,California,Hyundai
+CA307,Central Valley Hyundai,4620 N Mchenry Avenue,Modesto,95356,CA,WE,209-524-6811,www.centralvalleyhyundai.com,37.705891,-120.993844,California,Hyundai
+CA339,Folsom Lake Hyundai,12530 Automall Circle,Folsom,95630,CA,WE,916-293-4760,www.folsomlakehyundai.com,38.6339387,-121.2061279,California,Hyundai
+CA232,Hyundai Of Roseville,200 North Sunrise Ave.,Roseville,95661,CA,WE,916-677-3636,www.rosevillehyundai.com,38.7501272,-121.2649682,California,Hyundai
+CA392,Hyundai Of Gilroy,6700 Automall Parkway,Gilroy,95020,CA,WE,408-842-0400,www.hyundaiofgilroy.com,36.99794745850564,-121.5594881904002,California,Hyundai
+CA332,Merced Hyundai,1620 V Street,Merced,95340,CA,WE,209-725-4000,www.mercedhyundai.com,37.3062623,-120.4985566,California,Hyundai
+CA387,Premier Hyundai Of Seaside,4A Heitzinger Plaza,Seaside,93955,CA,WE,831-394-4100,www.premierhyundaiofseaside.com,36.61079406738281,-121.8481216430664,California,Hyundai
+CA129,Chico Hyundai,2562 Cohasset Road,Chico,95973,CA,WE,530-893-1777,www.chicohyundai.com,39.756748,-121.843727,California,Hyundai
+NV029,Carson City Hyundai,3659 S. Carson Street,Carson City,89701,NV,WE,775-301-4600,www.carsoncityhyundai.com,39.1344,-119.7687,Nevada,Hyundai
+CA172,Lithia Hyundai Of Fresno,5590 N. Blackstone,Fresno,93710,CA,WE,559-899-3720,www.lithiahyundaioffresno.com,36.819076,-119.789549,California,Hyundai
+NV014,Lithia Hyundai Of Reno,2620 Kietzke Lane,Reno,89502,NV,WE,775-823-5500,www.lithiahyundaireno.com,39.499007,-119.788125,Nevada,Hyundai
+CA173,Selma Hyundai,2505 Highland Avenue,Selma,93662,CA,WE,559-896-2277,www.selmahyundai.com,36.5709419,-119.6288612,California,Hyundai
+TX160,Tipton Hyundai,450 E. Morrison Road,Brownsville,78526,TX,SC,956-350-5600,www.tiptonhyundai.com,25.9664727,-97.5050161,Texas,Hyundai
+TX148,Bert Ogden Harlingen Hyundai,8621 W Expressway 83 Frontage,Harlingen,78552,TX,SC,956-423-5555,www.bertogdenhyundai.com,26.1865225,-97.7750777,Texas,Hyundai
+TX167,Hyundai Of Pharr,1605 W Us Expressway 83,Pharr,78577,TX,SC,956-784-8300,www.hyundaiofpharr.com,26.1900564,-98.2391402,Texas,Hyundai
+TX193,Charlie Clark Hyundai,2420 Jacaman Road,Laredo,78041,TX,SC,956-231-5626,www.charlieclarkhyundailaredo.com,27.56134796142578,-99.44764709472656,Texas,Hyundai
+GA065,Autonation Hyundai Mall Of Georgia,3445 Buford Drive,Buford,30519,GA,SO,678-714-3430,www.autonationhyundaimallofgeorgia.com,34.0762046,-83.9831266,Georgia,Hyundai
+GA002,Rick Case Hyundai,3180 Satellite Blvd,Duluth,30096,GA,SO,770-476-2800,www.rickcasehyundaiatlanta.com,33.9608474,-84.1165159,Georgia,Hyundai
+GA084,Potamkin Hyundai Stone Mountain,4355 Stone Mountain Highway,Lilburn,30047,GA,SO,770-972-1222,www.potamkinatlanta.com,33.83523559570313,-84.08142852783203,Georgia,Hyundai
+GA087,Hyundai Of Cumming,750 Peachtree Parkway,Cumming,30041,GA,SO,470-281-9228,www.hyundaiofcumming.com,34.14341735839844,-84.17351531982422,Georgia,Hyundai
+GA037,Jim Ellis Hyundai,5785 Peachtree Industrial Blvd,Atlanta,30341,GA,SO,770-454-6789,www.jimellishyundai.com,33.9056824,-84.2932223,Georgia,Hyundai
+GA041,Rick Case Hyundai,11446 Alpharetta Highway,Roswell,30076,GA,SO,770-225-5600,www.rickcasehyundairoswell.com,34.0561802,-84.329294,Georgia,Hyundai
+GA094,Gainesville Hyundai,2407 Browns Bridge Road,Gainesville,30504,GA,SO,470-768-7680,www.gainesvillehyundai.com,34.27417755126953,-83.8604736328125,Georgia,Hyundai
+GA070,Nalley Hyundai,7909 Mall Parkway,Lithonia,30038,GA,SO,678-210-2300,www.nalleyhyundai.com,33.696267,-84.103907,Georgia,Hyundai
+GA003,Ed Voyles Hyundai,2135 Cobb Parkway,Smyrna,30080,GA,SO,770-952-8881,www.VoylesHyundai.com,33.8997328,-84.4834536,Georgia,Hyundai
+GA093,Hyundai Of Athens,4160 Atlanta Highway,Athens,30606,GA,SO,706-612-9500,www.hyundaiofathens.com,33.94138336181641,-83.48003387451172,Georgia,Hyundai
+GA088,Shottenkirk Hyundai,300 Liberty Blvd,Canton,30114,GA,SO,678-493-1100,www.shottenkirkhyundai.com,34.2648797842204,-84.46450107156821,Georgia,Hyundai
+GA038,Hyundai Of Kennesaw,2878 Barrett Lakes,Kennesaw,30144,GA,SO,678-631-3575,www.hyundaiofkennesaw.com,34.0247947,-84.574526,Georgia,Hyundai
+GA076,Thornton Road Hyundai,669 Thornton Road,Lithia Springs,30122,GA,SO,678-715-5000,www.jenkinshyundaioflithiasprings.com,33.7861379,-84.6158283,Georgia,Hyundai
+GA015,Southtowne Hyundai,7665 Highway 85 South,Riverdale,30274,GA,SO,770-471-1000,www.southtowneatlanta.com,33.5376962,-84.4179375,Georgia,Hyundai
+GA092,Mcdonough Hyundai,1785 Avalon Parkway,Mcdonough,30253,GA,SO,470-713-7400,www.mcdonoughhyundai.com,33.42115783691406,-84.17758178710938,Georgia,Hyundai
+GA063,Terry Reid Hyundai,816 Joe Frank Harris Parkway,Cartersville,30120,GA,SO,678-605-9500,www.terryreidhyundai.com,34.1915119,-84.78775,Georgia,Hyundai
+GA035,Southtowne Hyundai Of Newnan,800 Bullsboro Drive,Newnan,30265,GA,SO,770-253-1407,www.southtownehyundai.com,33.3977818,-84.7513861,Georgia,Hyundai
+GA091,Shottenkirk Hyundai Rome,965 Veterans Memorial Highway,Rome,30161,GA,SO,706-291-2277,www.shottenkirkhyundairome.com,34.2891845703125,-85.15218353271484,Georgia,Hyundai
+GA068,Volume Hyundai,2520 North Columbia Street,Milledgeville,31061,GA,SO,478-452-7001,www.volumehyundai.com,33.1148011,-83.2605117,Georgia,Hyundai
+GA029,Five Star Hyundai,3010 Riverside Drive,Macon,31210,GA,SO,478-345-8927,www.fivestarhyundaiofmacon.com,32.8863296,-83.6745427,Georgia,Hyundai
+SC042,Hyundai Of Anderson,1925 Pearman Dairy Road,Anderson,29625,SC,SO,864-642-0900,www.hyundaiofanderson.com,34.5530998,-82.6962404,South Carolina,Hyundai
+GA082,Mtn View Hyundai,6236 Alabama Hwy,Ringgold,30736,GA,SO,706-935-4500,www.mvhyundai.com,34.9182708,-85.1194902,Georgia,Hyundai
+TN034,Gray Epperson Hyundai,4100 Apd 40,Cleveland,37311,TN,SO,423-303-1333,www.grayeppersonhyundai.com,35.1381179,-84.9078305,Tennessee,Hyundai
+TN008,Long Hyundai,6035 International Drive,Chattanooga,37421,TN,SO,423-855-5664,www.longhyundai.net,35.059987,-85.1914029,Tennessee,Hyundai
+GA057,Five Star Hyundai Of Warner Robins,650 Russell Parkway,Warner Robins,31088,GA,SO,478-845-0946,www.warnerrobinshyundai.net,32.5944565,-83.6335379,Georgia,Hyundai
+AL021,Superior Hyundai,110 South Quintard Ave,Anniston,36201,AL,SO,256-236-7651,www.superiorhyundaial.com,33.6455,-85.8265,Alabama,Hyundai
+GA075,Autonation Hyundai Columbus,3000 North Lake Pkwy Suite 200,Columbus,31909,GA,SO,706-243-3780,autonationhyundaicolumbus.com,32.5523905,-84.9398535,Georgia,Hyundai
+SC027,Dick Smith Hyundai,827 Congaree Rd.,Greenville,29607,SC,SO,864-284-7777,www.dicksmithhyundai.com,34.8409698,-82.3187366,South Carolina,Hyundai
+AL022,Team One Hyundai Of Gadsden,937 W. Grand Ave.,Rainbow City,35906,AL,SO,256-413-8808,www.hyundaiofgadsden.com,33.9774005,-86.0606845,Alabama,Hyundai
+GA026,Taylor Hyundai,3233 Washington Road,Augusta,30907,GA,SO,706-868-1200,www.taylorhyundai.com,33.5160407,-82.0641703,Georgia,Hyundai
+SC053,Fred Anderson Hyundai,13740 E. Wade Hampton Blvd.,Greer,29651,SC,SO,864-334-4347,www.hyundaiofgreer.com,34.94965362548828,-82.1993179321289,South Carolina,Hyundai
+SC051,Terry Lambert Hyundai,5585 Jefferson Davis Highway,Beech Island,29841,SC,SO,803-426-9506,www.terrylamberthyundai.com,33.48580551147461,-81.9336929321289,South Carolina,Hyundai
+AL035,Hyundai Of Auburn,823 Opelika Road,Auburn,36830,AL,SO,334-321-0777,www.hyundaiofauburn.com,32.61802673339844,-85.4637451171875,Alabama,Hyundai
+TN029,Twin City Hyundai,3024 Airport Highway,Alcoa,37701,TN,SO,865-970-0020,www.twincityhyundai.com,35.8322196,-83.972804,Tennessee,Hyundai
+NC021,Hunter Hyundai,212 Hunter Airport Drive,Fletcher,28732,NC,MA,828-693-8661,www.hunterhyundai.com,35.42229461669922,-82.53109741210938,North Carolina,Hyundai
+SC043,Benson Hyundai,2550 Reidville Road,Spartanburg,29301,SC,SO,864-541-0029,www.bensonhyundai.com,34.919787,-81.997897,South Carolina,Hyundai
+TN033,Grayson Hyundai,8729 Kingston Pike,Knoxville,37923,TN,SO,865-693-4550,www.graysonhyundai.com,35.9188989,-84.0739937,Tennessee,Hyundai
+NC060,Hyundai Of Asheville,860 Tunnel Road,Asheville,28805,NC,MA,828-298-4911,www.hyundaiofasheville.com,35.5873908,-82.504801,North Carolina,Hyundai
+TN057,Rusty Wallace Hyundai,6813 Central Ave Pike,Knoxville,37918,TN,SO,865-963-3400,www.rustywallacehyundai.com,36.02781295776367,-83.99459838867188,Tennessee,Hyundai
+AL034,Serra Hyundai,1751 Gadsden Highway,Birmingham,35235,AL,SO,205-856-9024,www.serrahyundai.com,33.59832000732422,-86.64213562011719,Alabama,Hyundai
+TN054,Tarr Hyundai,5524 W Andrew Johnson Highway,Morristown,37814,TN,SO,423-200-5200,www.tarrhyundai.com,36.1818,-83.3838,Tennessee,Hyundai
+AL020,Bentley Hyundai,3805 University Drive,Huntsville,35816,AL,SO,256-713-0505,www.bentleyhyundai.com,34.734274,-86.62151,Alabama,Hyundai
+AL014,Jim Burke Hyundai,1424 5Th Ave. N.,Birmingham,35203,AL,SO,205-324-3371,www.jimburkebirminghamhyundai.com,33.5148319,-86.8158726,Alabama,Hyundai
+AL030,Tameron Hyundai,1595 Montgomery Highway,Hoover,35216,AL,SO,205-380-6250,www.tameronhyundai.com,33.400796,-86.8048699,Alabama,Hyundai
+GA081,"Five Star Hyundai Albany, Llc",711 E. Oglethorpe Boulevard,Albany,31705,GA,SO,229-518-3095,www.fivestarhyundaialbany.com,31.5742444,-84.1330004,Georgia,Hyundai
+AZ048,Hyundai Of Yuma,1125 E. 32Nd Street,Yuma,85365,AZ,WE,928-726-6970,www.hyundaiofyuma.com,32.6685784,-114.6088632,Arizona,Hyundai
+TX125,Hyundai Of Del Rio,1508 Veterans Boulevard,Del Rio,78840,TX,SC,830-422-3900,www.hyundaiofdelrio.com,29.378286,-100.903995,Texas,Hyundai
+TN048,Hyundai Of Hickory Hollow,5388 Hickory Hollow Pkwy,Antioch,37013,TN,SO,270-783-8080,www.downtownhyundainashville.com,36.1551246,-86.7919492,Tennessee,Hyundai
+TN046,Hyundai Of Cool Springs,201 Comtide Court,Franklin,37067,TN,SO,615-610-0839,www.hyundaiofcoolsprings.com,35.9584351,-86.8078031,Tennessee,Hyundai
+TN051,Murfreesboro Hyundai,1625 S. Church Street,Murfreesboro,37130,TN,SO,615-713-1532,www.hyundaiofmurfreesboro.com,35.9173416,-86.4490926,Tennessee,Hyundai
+TN055,Hallmark Hyundai,1198 West Main Street,Hendersonville,37075,TN,SO,615-855-3200,www.hendersonvillehyundai.com,36.30981826782227,-86.66543579101562,Tennessee,Hyundai
+TN045,"Wilson County Hyundai, Inc",1310 West Main Street,Lebanon,37087,TN,SO,615-444-5564,www.wilsoncountyhyundai.com,36.21289,-86.323468,Tennessee,Hyundai
+TN052,Hyundai Of Columbia,1370 Nashville Highway,Columbia,38401,TN,SO,931-398-5546,www.hyundaiofcolumbia.com,35.6603272,-87.0224442,Tennessee,Hyundai
+TN056,Wyatt Johnson Hyundai,2425 Wilma Rudolph Blvd,Clarksville,37040,TN,SO,931-648-4300,www.wyattjohnsonhyundai.com,36.574028,-87.301139,Tennessee,Hyundai
+KY009,Jim Johnson Hyundai,2200 Scottsville Road,Bowling Green,42104,KY,CE,270-781-6770,www.jimjohnsonhyundai.com,36.9598935,-86.4294303,Kentucky,Hyundai
+TN047,Hyundai Of Cookeville,931 South Willow Avenue,Cookeville,38501,TN,SO,931-520-7200,www.hyundaiofcookeville.com,36.1432786,-85.5257824,Tennessee,Hyundai
+AL031,University Hyundai Of Decatur,1211 Beltline Road,Decatur,35603,AL,SO,256-280-2131,www.greenwayhyundaiofdecatur.com,34.5917349,-87.0304547,Alabama,Hyundai
+AL033,Greenway Hyundai Of The Shoals,122 Highway 43 South,Tuscumbia,35674,AL,SO,256-766-6117,www.greenwayhyundaishoals.com,34.7149804,-87.6687763,Alabama,Hyundai
+KY021,Don Moore Hyundai,3200 Villa Point,Owensboro,42303,KY,CE,270-685-5555,www.donmoorehyundai.com,37.7522916,-87.0621919,Kentucky,Hyundai
+KY006,Swope Hyundai,1104 N. Dixie Ave.,Elizabethtown,42701,KY,CE,270-505-1200,www.swopehyundai.com,37.716333,-85.8788505,Kentucky,Hyundai
+TN053,Allen Samuels Hyundai,1639 I-45 Bypass,Jackson,38305,TN,SO,731-664-8500,www.allensamuelshyundai.com,35.6499,-88.8524,Tennessee,Hyundai
+KY034,Don Franklin Somerset Hyundai,5090 South Hwy 27,Somerset,42501,KY,CE,606-677-1101,www.donfranklinsomersethyundai.com,37.02175140380859,-84.6261215209961,Kentucky,Hyundai
+KY020,Linwood Hyundai,3345 Park Avenue,Paducah,42001,KY,CE,270-444-6901,www.linwoodhyundai.com,37.0838506,-88.6542356,Kentucky,Hyundai
+IN055,Hyundai Of Evansville,4400 E Division Street,Evansville,47715,IN,CE,812-473-4400,www.hyundaiofevansville.com,37.97759246826172,-87.49768829345703,Indiana,Hyundai
+KY028,Hyundai Of Louisville,6633 Dixie Hwy,Louisville,40258,KY,CE,502-214-4200,www.hyundaioflouisville.com,38.1551363,-85.8336051,Kentucky,Hyundai
+AL032,Hyundai Of Jasper,4011 Highway 78 East,Jasper,35501,AL,SO,205-295-9400,www.hyundaiofjasper.com,33.8393195,-87.2325262,Alabama,Hyundai
+IN049,Bachman Hyundai,630 Broadway Street,Jeffersonville,47130,IN,CE,812-285-6168,www.bachmanhyundai.com,38.274876,-85.7465219,Indiana,Hyundai
+KY018,Oxmoor Hyundai,8107 Shelbyville Road,Louisville,40222,KY,CE,502-894-3400,www.oxmoorhyundai.com,38.2490805,-85.6039057,Kentucky,Hyundai
+MS038,Barnes Crossing Hyundai,3983 N Gloster Street,Tupelo,38804,MS,SC,662-844-1383,www.bchyundaioftupelo.com,34.3131797,-88.7076465,Mississippi,Hyundai
+IL026,Watermark Hyundai Of Marion,1910 W. Coolidge Avenue,Marion,62959,IL,CE,618-993-2161,www.marionhyundai.com,37.7390049,-88.9520296,Illinois,Hyundai
+KY033,Cronin Hyundai  Of Nicholasville,3035 Lexington Road,Nicholasville,40356,KY,CE,859-885-1000,www.croninhyundai.com,37.93196105957031,-84.5500259399414,Kentucky,Hyundai
+KY017,Gates Hyundai,6000 Atwood Drive,Richmond,40475,KY,CE,859-624-1211,www.gateshyundai.com,37.7518677,-84.2665109,Kentucky,Hyundai
+KY031,Don Franklin Lexington Hyundai,3340 Richmond Road,Lexington,40509,KY,CE,859-263-5880,www.donfranklinlexingtonhyundai.com,37.997431,-84.443553,Kentucky,Hyundai
+MO044,Auffenberg Hyundai Cape Girardeau,386 Siemers Drive,Cape Girardeau,63701,MO,SC,573-332-1711,www.auffenbergcapehyundai.com,37.294037,-89.577361,Missouri,Hyundai
+TN049,Wolfchase Hyundai,7727 Highway 64,Memphis,38133,TN,SO,901-435-9400,www.wolfchasehyundai.com,35.203666,-89.8057586,Tennessee,Hyundai
+MI053,Betten Baker Hyundai,2477 Henry Street,Muskegon,49441,MI,CE,231-759-5900,www.bettenbakerhyundai.com,43.2078076,-86.2641972,Michigan,Hyundai
+WI016,Zimbrick Hyundai West,1809 W. Beltline Hwy,Madison,53713,WI,MS,608-230-0600,www.zimbrickhyundaiwest.com,43.03418731689453,-89.41165924072266,Wisconsin,Hyundai
+NV032,Hyundai Of Las Vegas,7200 W Sahara Ave,Las Vegas,89117,NV,WE,702-938-1400,www.hyundaioflasvegas.com,36.14494323730469,-115.2489852905273,Nevada,Hyundai
+NV030,Centennial Hyundai,6200 Centennial Center Blvd,Las Vegas,89149,NV,WE,702-483-2200,www.centennialhyundailasvegas.com,36.27363204956055,-115.2657012939453,Nevada,Hyundai
+NC044,Lake Norman Hyundai,20520 Chartwell Center Drive,Cornelius,28031,NC,MA,704-896-3700,www.lakenormanhyundai.com,35.4787995,-80.8761138,North Carolina,Hyundai
+NC038,Keffer Hyundai,9010 E. Independence Blvd,Matthews,28105,NC,MA,704-714-4700,www.kefferhyundai.com,35.1420307,-80.7212664,North Carolina,Hyundai
+NC064,South Charlotte Hyundai,10518 Cadillac Street,Pineville,28134,NC,MA,704-551-0664,www.southcharlottehyundai.com,35.1216579,-80.8792834,North Carolina,Hyundai
+NC048,Modern Hyundai Of Concord,965 Concord Parkway South,Concord,28027,NC,MA,704-262-4408,www.modernhyundai.com,35.3922929,-80.6217765,North Carolina,Hyundai
+NC041,Keith Hawthorne Hyundai,4712 Wilkinson Blvd.,Lowell,28098,NC,MA,704-478-2000,www.hyundaiofgastonia.com,35.2551668,-81.0954493,North Carolina,Hyundai
+SC030,Fort Mill Hyundai,805 Gold Hill Road,Fort Mill,29708,SC,MA,803-396-9000,www.fortmillhyundai.com,35.0602696,-80.9585796,South Carolina,Hyundai
+NC065,Bob Mayberry Hyundai,3220 West Highway 74,Monroe,28110,NC,MA,704-283-8571,www.bobmayberryhyundai.com,35.0267528,-80.5848964,North Carolina,Hyundai
+NC071,Flow Hyundai Of Statesville,1015 Floger Drive,Statesville,28625,NC,MA,980-434-7200,www.flowhyundaistatesville.com,35.77725,-80.861749,North Carolina,Hyundai
+NC043,Paramount Hyundai Of Hickory,1234 South Center St.,Hickory,28602,NC,MA,828-449-1122,www.paramounthyundai.com,35.715959,-81.338605,North Carolina,Hyundai
+NC029,Paramount Hyundai,101 Malcolm Blvd.,Valdese,28690,NC,MA,828-874-2161,www.paramounthyundaivaldese.com,35.735263,-81.529944,North Carolina,Hyundai
+NC032,Bob King Hyundai,1601 Silas Creek Parkway,Winston-salem,27127,NC,MA,336-724-2861,www.bobkinghyundai.com,36.0682853,-80.2607769,North Carolina,Hyundai
+NC067,Classic Hyundai Of Wilkesboro,1502 West D Street,North Wilkesboro,28659,NC,MA,336-667-1226,www.classichyundaiwilkesboro.com,36.1550202,-81.1687327,North Carolina,Hyundai
+NC040,Carolina Hyundai Of High Point,2421 N. Main Street,High Point,27262,NC,MA,336-884-7200,www.carolinahyundai.com,35.9889295,-80.02693,North Carolina,Hyundai
+NC046,Pinehurst Hyundai,10732 Us Hwy 15-501,Southern Pines,28387,NC,MA,910-692-2424,www.pinehursthyundaionline.com,35.1655724,-79.4238312,North Carolina,Hyundai
+SC045,Stivers Hyundai,9950 Farrow Road,Columbia,29203,SC,SO,803-788-6800,www.stivershyundai.com,34.0933866,-80.8545686,South Carolina,Hyundai
+NC066,Capital Hyundai Of Greensboro,801 East Bessemer Avenue,Greensboro,27405,NC,MA,336-275-9761,www.capitalhyundaigreensboro.net,36.1155274,-79.7512033,North Carolina,Hyundai
+SC049,Autonation Hyundai Columbia,250 Greystone Blvd. Suite A,Columbia,29210,SC,SO,803-799-1234,www.autonationhyundaicolumbia.com,34.01723861694336,-81.07534790039062,South Carolina,Hyundai
+NC053,Crenshaw Hyundai,330 Huffman Mill Road,Burlington,27215,NC,MA,336-584-1144,www.crenshawhyundai.com,36.0758228,-79.4871301,North Carolina,Hyundai
+SC048,Alm Hyundai Florence,2542 W. Palmetto Street,Florence,29501,SC,SO,843-536-1857,www.almhyundai.com,34.1796603,-79.8224066,South Carolina,Hyundai
+NC008,Lee Hyundai,1960 Skibo Road,Fayetteville,28314,NC,MA,910-864-7100,www.leehyundai.com,35.063058,-78.969523,North Carolina,Hyundai
+NC030,Sport Durst Hyundai,4511 Chapel Hill Blvd,Durham,27707,NC,MA,919-489-6531,www.sportdursthyundai.com,35.962034,-78.973245,North Carolina,Hyundai
+TN035,Friendship Hyundai Of Johnson City,3408 North Roan Street,Johnson City,37601,TN,SO,423-461-4500,www.hyundaijc.com,36.3634616,-82.392599,Tennessee,Hyundai
+TN032,Friendship Hyundai Of Bristol,2638 West State Street,Bristol,37620,TN,SO,423-652-6200,www.hyundaitn.com,36.549002,-82.223901,Tennessee,Hyundai
+NC047,Johnson Hyundai,5000 Old Raleigh Road,Cary,27511,NC,MA,919-447-3900,www.johnsonhyundaiofapex.com,35.7383615,-78.8093948,North Carolina,Hyundai
+VA031,Robert Woodall Hyundai,2143 Riverside Drive,Danville,24540,VA,MA,434-797-1411,www.woodallhyundai.com,36.5954651,-79.4050847,Virginia,Hyundai
+NC028,Southern States Hyundai,2511 Wake Forest Road,Raleigh,27609,NC,MA,919-828-0901,www.hyundairaleigh.com,35.817661,-78.627576,North Carolina,Hyundai
+VA030,Duncan Hyundai,2050 Roanoke Street,Christiansburg,24073,VA,MA,540-382-2100,www.duncanhyundai.com,37.1362214,-80.3708373,Virginia,Hyundai
+NC072,Johnson Hyundai Of Wake Forest,11000 Capital Blvd,Wake Forest,27587,NC,MA,919-587-5200,www.johnsonhyundaiofwakeforest.com,35.94678126609153,-78.5380886187887,North Carolina,Hyundai
+WV022,Friendship Hyundai Of Princeton,720 Oakvale Road,Princeton,24740,WV,MA,304-425-8203,www.hyundaiwv.com,37.36221694946289,-81.05877685546875,West Virginia,Hyundai
+VA056,Southern Team Hyundai,6520 Peters Creek Road,Roanoke,24019,VA,MA,540-362-4800,www.southernteamhyundai.com,37.34663009643555,-79.96272277832031,Virginia,Hyundai
+SC018,Myrtle Beach Hyundai,1887 Highway 501,Myrtle Beach,29577,SC,SO,843-626-3657,www.hyundaiofmyrtlebeach.com,33.702805,-78.906889,South Carolina,Hyundai
+NC070,Deacon Jones Hyundai,304 North Oak Forest Road,Goldsboro,27534,NC,MA,919-587-0500,www.deaconjoneshyundai.com,35.37076568603516,-77.9296875,North Carolina,Hyundai
+SC044,Hyundai Of North Charleston,8485 Rivers Avenue,North Charleston,29406,SC,SO,843-375-8040,www.hyundaiofnorthcharleston.com,32.9612062,-80.0444447,South Carolina,Hyundai
+VA058,Cmas Hyundai Of Lynchburg,2625 Lakeside Drive,Lynchburg,24501,VA,MA,434-455-7060,cmashyundaioflynchburg.com,37.39510726928711,-79.22860717773438,Virginia,Hyundai
+WV023,Friendship Hyundai Of Beckley,3921 Robert C. Byrd Drive,Beckley,25801,WV,MA,304-254-8220,www.hyundaiofbeckley.com,37.80341720581055,-81.1852798461914,West Virginia,Hyundai
+NC027,Medlin Hyundai,1800 N. Wesleyan Blvd.,Rocky Mount,27804,NC,MA,252-985-2601,www.medlinhyundai.com,35.984985,-77.785436,North Carolina,Hyundai
+WA035,Speck Hyundai Of Tri-cities,2910 W. Clearwater Ave.,Kennewick,99336,WA,MS,509-542-0234,www.speckhyundai.com,46.2365146,-119.1279639,Washington,Hyundai
+WA059,Hyundai Of Yakima,3204 Fruitvale Blvd,Yakima,98902,WA,MS,509-248-1500,www.hyundaiofyakima.com,46.61709976196289,-120.5525588989258,Washington,Hyundai
+WA055,Spokane Hyundai,8801 Sprague Ave,Spokane Valley,99212,WA,MS,509-922-1450,www.spokanehyundai.net,47.6625469,-117.3086825,Washington,Hyundai
+ID019,Midway Hyundai,1665 E. Edmonton Ave,Post Falls,83854,ID,MS,208-619-2500,www.gotomidwayhyundai.com,47.72,-116.95,Idaho,Hyundai
+WA051,Auburn Hyundai,2807 Auburn Way North,Auburn,98002,WA,MS,253-833-2465,www.budclaryauburnhyundai.com,47.2945159,-122.2192678,Washington,Hyundai
+WA025,Korum Hyundai,111 River Road,Puyallup,98371,WA,MS,253-845-6600,www.korumhyundai.com,47.1995496,-122.2950677,Washington,Hyundai
+OR038,Ron Tonkin Hyundai,675 Ne Burnside Road,Gresham,97030,OR,MS,503-258-5588,www.rontonkinhyundai.com,45.5080327,-122.4245028,Oregon,Hyundai
+WA050,Car Pros Renton Hyundai,201 S. 7Th Street,Renton,98057,WA,MS,425-226-1275,www.carproshyundai.com,47.4731686,-122.2155452,Washington,Hyundai
+OR033,Dick Hannahs Hyundai Of Portland,12345 Burnside Street,Portland,97233,OR,MS,503-256-3700,www.hyundaiofportland.com,45.52302,-122.5363337,Oregon,Hyundai
+WA019,Robert Larsons Hyundai,7601 South Tacoma Way,Tacoma,98409,WA,MS,253-474-0621,www.larsonhyundai.com,47.1881691,-122.4828691,Washington,Hyundai
+WA007,Vancouver Hyundai,6802 Ne 40Th Street,Vancouver,98661,WA,MS,360-694-8500,www.vancouverhyundai.com,45.651315,-122.603457,Washington,Hyundai
+WA056,Hyundai Of Kirkland,11706 124Th Ave Ne,Kirkland,98034,WA,MS,425-821-6611,www.hyundaiofkirkland.com,47.7050005,-122.175226,Washington,Hyundai
+OR039,Tonkin Gladstone Hyundai,19300  Mcloughlin Blvd.,Gladstone,97027,OR,MS,503-258-5700,www.tonkingladstonehyundai.com,45.3830971,-122.6059155,Oregon,Hyundai
+WA058,Bud Clary Hyundai,700 7Th Ave,Longview,98632,WA,MS,360-423-4321,www.budclaryhyundai.com,46.12500534608068,-122.9295468125261,Washington,Hyundai
+WA053,Seattle Hyundai,14005 Aurora Avenue,Seattle,98133,WA,MS,206-362-9500,www.seattlehyundai.com,47.7308602,-122.3457751,Washington,Hyundai
+OR036,Team Hyundai Of Bend,2250 Ne Highway 20,Bend,97701,OR,MS,541-229-8711,www.goteamhyundai.com,44.0549416,-121.2692827,Oregon,Hyundai
+OR025,Beaverton Hyundai,13255 S.W. Farmington Road,Beaverton,97005,OR,MS,503-641-2889,www.beavertonhyundai.com,45.487724,-122.8130748,Oregon,Hyundai
+WA020,Dougs Hyundai,22130 Highway 99,Edmonds,98026,WA,MS,425-774-9000,www.dougshyundai.com,47.8110511,-122.3242579,Washington,Hyundai
+WA054,Lee Johnson Hyundai Of Everett,5206 Evergreen Way,Everett,98203,WA,MS,425-258-9100,www.hyundaiofeverett.com,47.9272708,-122.2243442,Washington,Hyundai
+WA033,Titus-will Hyundai,2255 Carriage Loop South West,Olympia,98502,WA,MS,360-357-5515,www.tituswillhyundai.com,47.030872,-122.932562,Washington,Hyundai
+WA052,Haselwood Hyundai,5008 Auto Center Boulevard,Bremerton,98312,WA,MS,360-377-3855,www.haselwoodhyundai.com,47.5618687,-122.6816435,Washington,Hyundai
+OR035,Dicks Hillsboro Hyundai,2871 Tualatin Valley Highway,Hillsboro,97123,OR,MS,503-640-6401,www.dickshillsborohyundai.com,45.5042432,-122.9522471,Oregon,Hyundai
+NM024,Larry H. Miller Sw Hyundai Albuquer,8800 Lomas Ne,Albuquerque,87112,NM,SC,505-265-2277,www.southwesthyundai.com,35.08634948730469,-106.5463485717773,New Mexico,Hyundai
+NM025,Larry H. Miller Hyundai Albuquerque,9820 Coors Blvd. Nw,Albuquerque,87114,NM,SC,505-792-7000,www.larryhmillerhyundai.com,35.19132995605469,-106.6557464599609,New Mexico,Hyundai
+NM023,Fiesta Hyundai,1955 St. Michaels Drive,Santa Fe,87505,NM,SC,505-428-7100,www.fiestahyundai.com,35.6598782,-105.9676295,New Mexico,Hyundai
+NM006,Horace Hyundai,4300 E. Main St.,Farmington,87402,NM,SC,505-327-0366,www.horacehyundai.net,36.7608252,-108.1562701,New Mexico,Hyundai
+TN030,Gossett Hyundai,1880 Covington Pike,Memphis,38128,TN,SO,901-386-9000,www.hyundaigossett.com,35.1769109,-89.8960309,Tennessee,Hyundai
+TN031,Gossett Hyundai South,2660 Mt Moriah,Memphis,38115,TN,SO,901-333-9000,www.hyundaimountmoriah.com,35.0758325,-89.8799468,Tennessee,Hyundai
+MS032,Homer Skelton Hyundai,8145 New Craft Road,Olive Branch,38654,MS,SO,662-890-0100,www.homerskeltonhyundai.com,34.9805168,-89.8622542,Mississippi,Hyundai
+IN044,Andy Mohr Hyundai,1527 S. Liberty Drive,Bloomington,47403,IN,CE,812-336-6865,www.andymohrhyundai.com,39.1538803,-86.5744297,Indiana,Hyundai
+AR014,Cavenaugh Hyundai,2020 Wilkins Avenue,Jonesboro,72401,AR,SC,870-933-8070,www.cavenaughhyundai.com,35.8257878,-90.6802775,Arkansas,Hyundai
+IN042,Dorsetts Hyundai,74 E Springhill Drive,Terre Haute,47802,IN,CE,812-232-5500,www.dorsetthyundai.com,39.412894,-87.4171127,Indiana,Hyundai
+IL014,Auffenberg Hyundai,1300 Central Park Drive,O Fallon,62269,IL,CE,618-622-9001,www.auffenberghyundai.com,38.58781,-89.941918,Illinois,Hyundai
+MO016,St. Charles Hyundai,5701 Veterans Memorial Pkwy,Saint Peters,63376,MO,CE,636-441-4481,www.stcharleshyundai.com,38.7973492,-90.6009538,Missouri,Hyundai
+MO048,Clement Hyundai,971 Wilmer Road,Wentzville,63385,MO,CE,636-887-8711,www.clementhyundai.com,38.80862045288086,-90.86956024169922,Missouri,Hyundai
+MO011,Dean Team Hyundai,14754 Manchester Road,Ballwin,63011,MO,CE,636-591-0500,www.deanteamhyundai.com,38.5926605,-90.5338391,Missouri,Hyundai
+MO046,Napleton Hyundai,649 Dunn Rd,Hazelwood,63042,MO,CE,314-817-9000,www.napletonhyundai.com,38.7811089,-90.3650456,Missouri,Hyundai
+MO030,Suntrup Hyundai,5926 S Lindbergh Blvd,Saint Louis,63123,MO,CE,314-892-2552,www.suntruphyundaisouth.com,38.521887,-90.3450979,Missouri,Hyundai
+MO049,Hyundai Of Jefferson City,3215 Missouri Boulevard,Jefferson City,65109,MO,SC,573-893-7767,www.hyundaiofjeffersoncity.com,38.5804443359375,-92.23819732666016,Missouri,Hyundai
+IL018,Green Hyundai,601 W. Stanford,Springfield,62704,IL,CE,217-525-1370,www.greenhyundai.com,39.7888739,-89.6050086,Illinois,Hyundai
+IL092,Kunes Country Hyundai Of Quincy,207 N. 36Th Street,Quincy,62301,IL,CE,217-228-1700,www.quincyhyundai.com,39.9327111,-91.3592587,Illinois,Hyundai
+MO045,Joe Machens Hyundai,1300 Vandiver Drive,Columbia,65202,MO,SC,573-474-7400,www.joemachenshyundai.com,38.9703579,-92.3204085,Missouri,Hyundai
+IL050,Bob Brady Hyundai,3855 E. Boyd Road,Decatur,62521,IL,CE,217-876-3800,www.bobbradyhyundai.com,39.9073984,-88.9049604,Illinois,Hyundai
+IL036,K.C. Summers Hyundai,117 S. 19Th Street,Mattoon,61938,IL,CE,217-234-8863,www.kcsummershyundai.com,39.4824488,-88.3778998,Illinois,Hyundai
+IL030,Mike Miller Hyundai,8000 N Harker Road,Peoria,61615,IL,CE,309-693-1222,www.mikemillerhyundai.com,40.7842599,-89.6234602,Illinois,Hyundai
+IL088,Napletons Hyundai Of Urbana,1111 Obrien Drive,Urbana,61801,IL,CE,217-367-1222,www.napletonshyundaiofurbana.com,40.1385803,-88.1961686,Illinois,Hyundai
+MO042,Reliable Hyundai,438 S. Ingram Mill Rd,Springfield,65802,MO,SC,417-317-5066,www.reliablehyundai.com,37.2039587,-93.227161,Missouri,Hyundai
+IL083,Green Family Hyundai,6801 44Th Avenue,Moline,61265,IL,MS,309-277-8000,www.greenfamilyhyundai.com,41.4699961,-90.4636277,Illinois,Hyundai
+IA013,Smart Hyundai Of Davenport,101 W. 37Th Street,Davenport,52806,IA,MS,563-386-1511,www.smarthyundaidavenport.com,41.5575437,-90.5756591,Iowa,Hyundai
+MO029,Mccarthy Hyundai,3000 Nw South Outer Road,Blue Springs,64015,MO,SC,816-224-7500,www.mccarthyhyundai.com,39.032309,-94.297887,Missouri,Hyundai
+AZ035,San Tan Hyundai,3252 S. Auto Way,Gilbert,85297,AZ,WE,480-384-8000,www.santanhyundai.com,33.292802,-111.760192,Arizona,Hyundai
+AZ028,Horne Hyundai,1360 E. Auto Center Drive,Apache Junction,85119,AZ,WE,480-474-3100,www.hornehyundai.com,33.3851516,-111.5312825,Arizona,Hyundai
+AZ046,Autonation Hyundai Tempe,8050 S. Autoplex Loop,Tempe,85284,AZ,WE,480-505-4247,www.autonationhyundaitempe.com,33.34337,-111.9648406,Arizona,Hyundai
+AZ036,Chapman Scottsdale Hyundai,3600 N. 89Th Street,Scottsdale,85251,AZ,WE,480-949-7600,www.hyundaiofscottsdale.com,33.488999,-111.8894236,Arizona,Hyundai
+AZ047,Camelback Hyundai,1500 E. Camelback Road,Phoenix,85014,AZ,WE,602-388-1282,www.camelbackhyundai.com,33.5096481,-112.0499658,Arizona,Hyundai
+AZ043,Earnhardt Hyundai North Scottsdale,8445 E. Frank Lloyd Wright Blvd.,Scottsdale,85260,AZ,WE,480-922-5200,www.northscottsdalehyundai.com,33.631571,-111.898113,Arizona,Hyundai
+AZ032,Chapman Hyundai,999 W. Bell Road,Phoenix,85023,AZ,WE,602-993-3322,www.hyundaiofphoenixaz.com,33.6394934,-112.0859576,Arizona,Hyundai
+AZ042,Earnhardt Hyundai,10401 West Papago Freeway,Avondale,85323,AZ,WE,623-388-5800,www.earnhardthyundai.com,33.4595994,-112.2854996,Arizona,Hyundai
+AZ053,Larry H. Miller Hyundai Peoria,8425 West Bell Road,Peoria,85382,AZ,WE,623-815-4500,www.larrymillerhyundai.com,33.63693618774414,-112.2427825927734,Arizona,Hyundai
+AZ052,Ken Garff Hyundai Surprise,12925 N. Autoshow Ave,Surprise,85388,AZ,WE,623-850-5500,www.kengarffhyundaisurprise.com,33.60186004638672,-112.4201354980469,Arizona,Hyundai
+AZ003,Jim Click Hyundai Auto Mall,700 West Auto Mall Drive,Tucson,85705,AZ,WE,520-690-5009,www.jimclickhyundaiautomall.com,32.290361,-110.984294,Arizona,Hyundai
+AZ018,Jim Click Hyundai Eastside,6420 E. 22Nd Street,Tucson,85710,AZ,WE,520-690-5001,www.jimclickhyundaieast.com,32.2061324,-110.8553714,Arizona,Hyundai
+AZ031,Jim Click Hyundai Of Green Valley,1030 West Duval Road,Green Valley,85614,AZ,WE,520-690-4699,www.hyundaigreenvalley.com,31.9003878,-110.9871305,Arizona,Hyundai
+AZ034,Hyundai Of Cottonwood,2090 East Rodeo Drive,Cottonwood,86326,AZ,WE,928-634-2228,www.hyundaiofcottonwood.com,34.7143313,-112.0025379,Arizona,Hyundai
+AZ054,Findlay Hyundai Prescott,3250 Willow Creek Road,Prescott,86301,AZ,WE,928-813-8500,www.findlayhyundaiprescott.com,34.60623931884766,-112.4545211791992,Arizona,Hyundai
+AZ044,Oxendale Hyundai,1160 W. Route 66,Flagstaff,86001,AZ,WE,928-774-3200,www.oxendalehyundai.com,35.189183,-111.667386,Arizona,Hyundai
+AZ022,Lawley Hyundai,2800 Fry Blvd,Sierra Vista,85635,AZ,WE,520-458-2141,www.lawleyhyundai.com,31.5542335,-110.270762,Arizona,Hyundai
+AZ020,High Desert Hyundai,4180 Stockton Hill Road,Kingman,86401,AZ,WE,928-692-3232,www.hdhyundai.com,35.244529,-114.037445,Arizona,Hyundai
+OK025,Barry Sanders Super Center,4120 W 6Th Ave,Stillwater,74074,OK,SC,405-742-6000,www.barrysandershyundai.com,36.1168506,-97.112769,Oklahoma,Hyundai
+OK031,Tulsa Hyundai,9777 S Memorial Drive,Tulsa,74133,OK,SC,918-622-4175,www.tulsahyundai.com,36.0223488,-95.8851859,Oklahoma,Hyundai
+OK028,Regional Hyundai,2380 West Kenosha Street,Broken Arrow,74012,OK,SC,918-806-2000,www.regionalhyundai.com,36.062098,-95.819469,Oklahoma,Hyundai
+OK032,Patriot Hyundai,2001 S.E. Washington Blvd,Bartlesville,74006,OK,SC,918-333-8010,www.patriothyundai.com,36.7219902,-95.9364562,Oklahoma,Hyundai
+KS013,Hatchett Hyundai West,757 N Tyler,Wichita,67212,KS,SC,316-440-8400,www.hatchetthyundaiwest.com,37.695894,-97.445691,Kansas,Hyundai
+KS003,Hatchett Hyundai,11200 East Central,Wichita,67206,KS,SC,316-977-7800,www.hatchetthyundaieast.com,37.6947873,-97.2071247,Kansas,Hyundai
+NV033,Henderson Hyundai Superstore,460 N. Boulder Hwy,Henderson,89015,NV,WE,702-565-1500,www.hendersonhyundai.com,36.04512405395508,-114.9862594604492,Nevada,Hyundai
+UT011,Findlay Hyundai,1405 S Sunland Drive,Saint George,84790,UT,MS,435-688-7272,www.findlayhyundaistgeorge.com,37.0839042,-113.5811103,Utah,Hyundai
+NC018,Joe Pecheles Hyundai,203 Se Greenville Blvd.,Greenville,27858,NC,MA,252-756-1135,www.pecheleshyundai.com,35.579617,-77.379898,North Carolina,Hyundai
+NC057,Hyundai Of New Bern,2910 Highway 70 East,New Bern,28560,NC,MA,252-637-0007,www.hyundaiofnewbern.com,35.1481903,-77.1594034,North Carolina,Hyundai
+NC069,Capital Hyundai Of Jacksonville,2325 N. Marine Blvd.,Jacksonville,28546,NC,MA,910-455-1555,www.capitalhyundaiofjacksonville.net,34.78424453735352,-77.3852310180664,North Carolina,Hyundai
+NC049,Parkway Hyundai,5934 Market Street,Wilmington,28405,NC,MA,910-392-4888,www.parkwayhyundai.com,34.2499168,-77.8557373,North Carolina,Hyundai
+VA036,Cmas Colonial Hyundai,2200 Walthall Center Drive,South Chesterfield,23834,VA,MA,804-861-8600,www.cmascolonialhyundai.com,37.3087831,-77.3951982,Virginia,Hyundai
+VA003,Pearson Hyundai,11701 Midlothian Turnpike,Midlothian,23113,VA,MA,804-276-0300,www.pearsonhyundai.com,37.5014604,-77.5722296,Virginia,Hyundai
+NC062,Hall Hyundai Elizabeth City,1306 North Road Street,Elizabeth City,27909,NC,MA,252-338-4783,www.hallhyundaielizabethcity.com,36.2946008,-76.2510461,North Carolina,Hyundai
+VA024,West Broad Hyundai,8903 West Broad Street,Richmond,23294,VA,MA,804-755-7777,www.westbroadhyundai.com,37.633913,-77.546152,Virginia,Hyundai
+VA064,Southern Hyundai Chesapeake,3416 Western Branch Blvd,Chesapeake,23321,VA,MA,948-200-3291,www.southernhyundaichesapeake.com,36.8661994934082,-76.4184799194336,Virginia,Hyundai
+VA063,Southern Hyundai Newport News,12872 Jefferson Ave,Newport News,23608,VA,MA,757-243-2000,www.southernhyundainewportnews.com,37.14583587646484,-76.5250244140625,Virginia,Hyundai
+VA062,Priority Hyundai,1499 S Military Hwy,Chesapeake,23320,VA,MA,757-366-5000,www.priorityhyundai.com,36.79848861694336,-76.234375,Virginia,Hyundai
+VA047,Williamsburg Hyundai,7277 Richmond Road,Williamsburg,23188,VA,MA,757-564-9700,www.williamsburghyundai.com,37.363116,-76.767104,Virginia,Hyundai
+VA055,Hyundai Of Hampton,2712 Neil Armstrong Pkwy,Hampton,23666,VA,MA,757-865-8000,www.hyundaiofhampton.com,37.06210327148438,-76.39908599853516,Virginia,Hyundai
+VA065,Flow Hyundai Of Charlottesville,1313 Richmond Road,Charlottesville,22911,VA,MA,434-245-4131,www.flowhyundaicharlottesville.com,38.03327560424805,-78.45059204101562,Virginia,Hyundai
+VA004,Checkered Flag Hyundai World,3700 Sentara Way,Virginia Beach,23452,VA,MA,757-490-1111,www.checkeredflaghyundaiworld.com,36.849734,-76.097201,Virginia,Hyundai
+VA050,Wright Way Hyundai,2551 West Main Street,Waynesboro,22980,VA,MA,540-213-1898,www.wrightwayhyundai.com,38.1150296,-79.0707779,Virginia,Hyundai
+KS010,Mccarthy Olathe Hyundai,681 N. Rawhide,Olathe,66061,KS,SC,913-324-7200,www.mccarthyolathehyundai.com,38.8899821,-94.7903788,Kansas,Hyundai
+KS017,Reed Hyundai,7050 W. Frontage Road,Merriam,66203,KS,SC,913-642-9600,www.reedhyundaikc.com,39.0007,-94.696,Kansas,Hyundai
+MO006,Northtowne Hyundai,6750 N. Oak Trafficway,Kansas City,64118,MO,SC,816-436-2255,www.northtownehyundai.com,39.216615,-94.5761902,Missouri,Hyundai
+KS011,Laird Noller Hyundai,2829 Iowa Street,Lawrence,66046,KS,SC,785-838-2327,www.hyundaioflawrence.com,38.9323668,-95.2605659,Kansas,Hyundai
+KS009,Noller Hyundai,2920 S. Kansas Avenue,Topeka,66611,KS,SC,785-267-2800,www.hyundaioftopeka.com,39.014216,-95.681293,Kansas,Hyundai
+MO047,Reed Hyundai,4525 Commons Drive,Saint Joseph,64503,MO,SC,816-233-9149,www.reedhyundai.com,39.7345384,-94.8017309,Missouri,Hyundai
+KS018,Max Hyundai Of Manhattan Llc,8020 Highway 24,Manhattan,66502,KS,SC,785-776-4004,www.maxhyundaimanhattan.com,39.19356918334961,-96.5286865234375,Kansas,Hyundai
+MO036,Fletcher Hyundai,3111 East 32Nd Street,Joplin,64804,MO,SC,417-625-4500,www.fletcherhyundai.com,37.056434,-94.4759717,Missouri,Hyundai
+NE005,Sid Dillon Hyundai,2627 Kendra Lane,Lincoln,68512,NE,MS,402-464-6500,www.siddillonhyundai.com,40.736189,-96.684146,Nebraska,Hyundai
+NE012,Beardmore Hyundai,1203 Fort Crook Road N,Bellevue,68005,NE,MS,402-734-2525,www.beardmorehyundai.com,41.18092346191406,-95.92809295654297,Nebraska,Hyundai
+IA009,Edwards Hyundai,1029 32Nd Ave,Council Bluffs,51501,IA,MS,712-366-9411,www.edwardshyundai.com,41.227508,-95.859572,Iowa,Hyundai
+AR035,Crain Hyundai Of Bentonville,3000 Se Moberly Lane,Bentonville,72712,AR,SC,479-696-0800,www.crainhyundaibentonville.com,36.3397254,-94.1845955,Arkansas,Hyundai
+NE011,Woodhouse Hyundai Of Omaha,8410 S 145Th Street,Omaha,68138,NE,MS,402-592-1007,www.woodhousehyundaiofomaha.com,41.2645832,-96.0938651,Nebraska,Hyundai
+AR034,Crain Hyundai Of Fayetteville,1919 W Foxglove Drive,Fayetteville,72704,AR,SC,479-750-4997,www.crainhyundaioffayetteville.com,36.100921,-94.185533,Arkansas,Hyundai
+IA016,Stew Hansen Hyundai,11344 Hickman Road,Des Moines,50325,IA,MS,515-253-3000,www.stewhansenhyundai.com,41.6137299,-93.774986,Iowa,Hyundai
+VA028,Alexandria Hyundai,1707 Mount Vernon Ave.,Alexandria,22301,VA,MA,703-535-6840,www.alexandriahyundai.com,38.821834,-77.057545,Virginia,Hyundai
+MD006,Pohanka Hyundai,1770 Ritchie Station Court,Capitol Heights,20743,MD,MA,301-423-1100,www.pohankahyundai.com,38.8653882,-76.8499931,Maryland,Hyundai
+MD044,College Park Hyundai,9500 Baltimore Ave,College Park,20740,MD,MA,240-927-4100,www.collegeparkhyundai.com,39.00991821289063,-76.9296875,Maryland,Hyundai
+MD034,Fitzgerald Hyundai,11411 Rockville Pike,Rockville,20852,MD,MA,301-424-4800,www.fitzwayhyundai.com,39.043828,-77.1104039,Maryland,Hyundai
+MD043,Ourisman Hyundai Of Bowie,2404 Crain Highway,Bowie,20716,MD,MA,301-390-0880,www.hyundaicarsofbowie.com,38.9227402,-76.7179222,Maryland,Hyundai
+VA052,Safford Hyundai Of Springfield,7615 Loisdale Road,Springfield,22150,VA,MA,703-776-9040,www.saffordhyundai.com,38.7501327,-77.183688,Virginia,Hyundai
+MD038,Ourisman Hyundai,3516 Laurel Fort Meade Rd,Laurel,20724,MD,MA,301-725-4400,www.ourismanhyundai.com,39.1016625,-76.8240678,Maryland,Hyundai
+VA061,Safford Brown Hyundai Fairfax,10925 Fairfax Blvd,Fairfax,22030,VA,MA,703-352-0444,www.saffordbrownhyundaifairfax.com,38.85267639160156,-77.3208999633789,Virginia,Hyundai
+MD041,Sheehy Hyundai Of Waldorf,2910 Crain Hwy,Waldorf,20601,MD,MA,301-645-0800,www.sheehyhyundaiwaldorf.com,38.6308462,-76.9044788,Maryland,Hyundai
+MD020,Fitzgeralds Lakeforest Hyundai,905 North Frederick Ave.,Gaithersburg,20879,MD,MA,301-670-4800,www.gaithersburghyundai.com,39.1571445,-77.217355,Maryland,Hyundai
+MD032,Antwerpen Hyundai Columbia,12440 Auto Drive,Clarksville,21029,MD,MA,443-367-4100,www.antwerpenhyundaiclarksville.com,39.211042,-76.943965,Maryland,Hyundai
+VA066,Koons Hyundai Woodbridge,1880 Opitz Blvd,Woodbridge,22191,VA,MA,703-215-3413,www.koonswoodbridgehyundai.com,38.63499450683594,-77.27181243896484,Virginia,Hyundai
+VA051,Hyundai Of Chantilly,14848 Stonecroft Center Court,Chantilly,20151,VA,MA,703-480-9000,www.hyundaiofchantilly.com,38.8997954,-77.4617376,Virginia,Hyundai
+MD040,Annapolis Hyundai,935 West Street,Annapolis,21401,MD,MA,410-295-1234,www.annapolishyundai.com,38.975955,-76.509512,Maryland,Hyundai
+VA059,Safford Brown Hyundai Manassas,8651 Centreville Road,Manassas,20110,VA,MA,855-603-6216,www.saffordbrownhyundaimanassas.com,38.76472091674805,-77.45630645751953,Virginia,Hyundai
+MD022,Bob Bell Hyundai,7117 North Ritchie Hwy,Glen Burnie,21061,MD,MA,410-766-3600,www.bobbellhyundai.com,39.1802898,-76.6134376,Maryland,Hyundai
+MD028,Antwerpen Hyundai,6440 Baltimore National Pike,Baltimore,21228,MD,MA,410-747-3333,www.antwerpencatonsvillehyundai.com,39.285738,-76.7601339,Maryland,Hyundai
+VA060,Safford Brown Hyundai Leesburg,325 East Market Street,Leesburg,20176,VA,MA,855-424-4310,www.saffordbrownhyundaileesburg.com,39.11150741577148,-77.55817413330078,Virginia,Hyundai
+MD008,Thompson Hyundai,1000 Merritt Blvd,Dundalk,21222,MD,MA,410-288-5700,www.thompsonhyundai.com,39.285051,-76.507431,Maryland,Hyundai
+MD026,Len Stoler Hyundai,11275 Reisterstown Road,Owings Mills,21117,MD,MA,410-356-7000,www.lenstolerhyundai.com,39.436997,-76.800162,Maryland,Hyundai
+MD042,Heritage Hyundai Towson,801 York Road,Towson,21204,MD,MA,410-494-2500,www.heritagehyundaibaltimore.com,39.4066122,-76.6057583,Maryland,Hyundai
+MD013,Ideal Hyundai,5871 Urbana Pike,Frederick,21701,MD,MA,301-663-3121,www.idealhyundai.com,39.3924102,-77.4056842,Maryland,Hyundai
+MD030,Team Hyundai,22514 Three Notch Road,Lexington Park,20653,MD,MA,301-862-9150,www.teamhyundaimd.com,38.28597,-76.4766735,Maryland,Hyundai
+VA014,Pohanka Hyundai Of Fredericksburg,10667 Patriot Hwy,Fredericksburg,22408,VA,MA,540-898-5200,www.pohankahyundaiva.com,38.2552658,-77.4975509,Virginia,Hyundai
+MD021,Bel Air Hyundai,1506 Bel Air Road,Bel Air,21014,MD,MA,410-879-1133,www.belairhyundai.com,39.5221525,-76.3585425,Maryland,Hyundai
+MD035,Preston Hyundai,4327 Preston Road,Hurlock,21643,MD,MA,410-673-7171,www.prestonhyundaiusa.com,38.6953701,-75.8907088,Maryland,Hyundai
+PA089,Giambalvo Hyundai Of Hanover,720 Carlisle Street,Hanover,17331,PA,MA,717-630-8000,www.giambalvohyundaiofhanover.com,39.81103515625,-76.9916000366211,Pennsylvania,Hyundai
+MD010,Massey Hyundai,1706 Massey Blvd.,Hagerstown,21740,MD,MA,301-739-6756,www.masseyauto.com,39.6288954,-77.7653263,Maryland,Hyundai
+VA057,Cmas Hyundai Of Winchester,2934 Valley Avenue,Winchester,22601,VA,MA,540-665-0144,www.cmashyundaiofwinchester.com,39.14760971069336,-78.18792724609375,Virginia,Hyundai
+PA048,Jack Giambalvo Hyundai,2425 Industrial Highway,York,17402,PA,MA,717-755-2944,www.giambalvohyundai.com,39.979769,-76.6810506,Pennsylvania,Hyundai
+PA096,Chambersburg Hyundai,2024 Lincoln Way East,Chambersburg,17202,PA,MA,717-264-5105,www.chambersburghyundai.com,39.91986465454102,-77.591064453125,Pennsylvania,Hyundai
+DE008,Winner Hyundai,591 S Dupont Highway,Dover,19901,DE,EA,302-734-0444,www.winnerhyundai.com,39.1522905,-75.5138666,Delaware,Hyundai
+MD025,Pohanka Hyundai Of Salisbury,2015 North Salisbury Boulevard,Salisbury,21801,MD,MA,410-749-6660,www.pohankahyundaimd.com,38.3903452,-75.5763781,Maryland,Hyundai
+DE004,Porter Hyundai,393 E. Cleveland Ave.,Newark,19711,DE,EA,302-453-6800,www.porterhyundai.com,39.686467,-75.738176,Delaware,Hyundai
+PA068,Lancaster Hyundai,5260 Main Street,East Petersburg,17520,PA,MA,717-569-6467,www.lancasterhyundai.com,40.0888076,-76.3467819,Pennsylvania,Hyundai
+DE007,Hertrich Hyundai,120 South Dupont Highway,New Castle,19720,DE,EA,302-323-1100,www.hertrichhyundaiofnewcastle.com,39.6623023,-75.6059932,Delaware,Hyundai
+PA032,Freysinger Hyundai,6115 Carlisle Pike,Mechanicsburg,17050,PA,MA,717-766-8422,www.freysingerhyundai1.com,40.2448101,-76.9944925,Pennsylvania,Hyundai
+PA076,Faulkner Hyundai,2060 Paxton Street,Harrisburg,17111,PA,MA,717-238-7324,www.faulknerhyundaiharrisburg.com,40.255529,-76.85077,Pennsylvania,Hyundai
+PA093,Colonial Hyundai,4423 W Lincoln Highway,Downingtown,19335,PA,EA,610-873-9000,www.colonialhyundai.com,39.99868275677641,-75.73064992543536,Pennsylvania,Hyundai
+PA083,Piazza Hyundai Of West Chester,1360 Wilmington Pike,West Chester,19382,PA,EA,610-399-3100,www.piazzahyundaiwestchester.com,39.9023183,-75.5655467,Pennsylvania,Hyundai
+PA092,Bennett Hyundai Of Lebanon,2101 Cumberland Street,Lebanon,17042,PA,MA,717-279-2000,www.bennetthyundaioflebanon.com,40.33965682983398,-76.44812774658203,Pennsylvania,Hyundai
+VA023,Harrisonburg Hyundai,2811 South Main Street,Harrisonburg,22801,VA,MA,540-434-1361,www.harrisonburghyundai.com,38.416674,-78.89894,Virginia,Hyundai
+MD036,Thomas Hyundai,10325 Mt Savage Road,Cumberland,21502,MD,MA,301-724-6310,www.thomascumberlandhyundai.com,39.678197,-78.790404,Maryland,Hyundai
+WI026,Zimbrick Eastside Hyundai,5433 Wayne Terrace,Madison,53718,WI,MS,608-442-1122,www.zimbrickhyundaieastside.com,43.1426352,-89.2857538,Wisconsin,Hyundai
+AL036,Hyundai Montgomery,2820 Eastern Blvd,Montgomery,36116,AL,SO,334-851-8100,www.hyundaimontgomery.com,32.34292984008789,-86.22644805908203,Alabama,Hyundai
+SC052,Hyundai Of Charleston,2492 Savannah Hwy,Charleston,29414,SC,SO,854-214-0835,www.hyundaiofcharleston.com,32.79360961914063,-80.05230712890625,South Carolina,Hyundai
+CO053,Arapahoe Hyundai,9899 E. Arapahoe Road,Centennial,80112,CO,MS,303-539-1700,www.arapahoehyundai.com,39.59602355957031,-104.8743515014648,Colorado,Hyundai
+CO030,Mcdonald Auto Group Hyundai,6500 S. Broadway,Littleton,80121,CO,MS,303-795-1100,www.mcdonaldhyundai.com,39.6008816,-104.987379,Colorado,Hyundai
+CO050,Schomp Hyundai,100  Havana Street,Aurora,80010,CO,MS,720-330-9340,www.schomphyundai.com,39.7393313,-104.8629746,Colorado,Hyundai
+CO032,Planet Hyundai,15601 W. Colfax Ave.,Golden,80401,CO,MS,303-407-0740,www.planethyundai.com,39.7304962,-105.1754939,Colorado,Hyundai
+CO051,Foundation Hyundai,10450 North Federal Boulevard,Westminster,80234,CO,MS,303-280-6500,www.foundationhyundai.com,39.88623809814453,-105.0249252319336,Colorado,Hyundai
+CO025,Phil Long Hyun Of Chapel Hills,1540 Auto Mall Loop,Colorado Springs,80920,CO,MS,719-867-6700,www.coloradospringshyundai.com,38.95433,-104.797801,Colorado,Hyundai
+CO052,Foundation Hyundai Of Boulder,2555 30Th Street,Boulder,80301,CO,MS,303-442-1114,www.hyundaiofboulder.com,40.0268440246582,-105.2543563842773,Colorado,Hyundai
+CO038,Phil Long Hyundai Of Motor City,170 Motor Way,Colorado Springs,80905,CO,MS,719-575-7600,www.hyundaicoloradosprings.com,38.8140783,-104.8303275,Colorado,Hyundai
+CO054,Stevinson Hyundai Of Longmont,600 South Main Street,Longmont,80501,CO,MS,720-893-5697,www.stevinsonhyundai.com,40.15171432495117,-105.1018218994141,Colorado,Hyundai
+CO040,Hyundai Of Greeley,4533 West 29Th Street,Greeley,80634,CO,MS,970-330-3801,www.hyundaiofgreeley.com,40.3904363,-104.7537521,Colorado,Hyundai
+CO048,Crossroads Hyundai,3870 Byrd Drive,Loveland,80538,CO,MS,970-267-5072,www.mycrossroadshyundai.com,40.431351,-104.994943,Colorado,Hyundai
+CO012,"Spradley Hyundai, Inc.",2160 Highway 50 West,Pueblo,81006,CO,MS,719-544-8162,www.hyundaispradley.com,38.2455763,-104.5718889,Colorado,Hyundai
+WY005,Ken Garff Hyundai Cheyenne,2121 Westland Road,Cheyenne,82001,WY,MS,307-638-3335,www.kengarffhyundaicheyenne.com,41.13013458251953,-104.8384399414063,Wyoming,Hyundai
+FL149,Hyundai Of Wesley Chapel,27000 Wesley Chapel Blvd,Wesley Chapel,33544,FL,SO,813-751-0999,www.hyundaiofwesleychapel.com,28.2339854026369,-82.36940327444074,Florida,Hyundai
+FL143,Brandon Hyundai,9915 E Adamo Drive,Tampa,33619,FL,SO,813-628-5555,www.brandonhyundai.com,27.9464613,-82.3420747,Florida,Hyundai
+FL081,Courtesy Hyundai,3800 W. Hillsborough Ave.,Tampa,33614,FL,SO,813-356-7600,www.tampahyundai.com,27.994831,-82.506755,Florida,Hyundai
+FL062,Fitzgeralds Cntrysde Hyundai,27419 U.S. Highway 19 North,Clearwater,33761,FL,SO,727-799-1800,www.fitzclearwaterhyundai.com,28.0216725,-82.7364243,Florida,Hyundai
+FL148,Hyundai Of New Port Richey,3936 Us Highway 19,New Port Richey,34652,FL,SO,727-203-7080,www.hyundaiofnewportrichey.com,28.21607380177539,-82.73675789162046,Florida,Hyundai
+FL073,Lakeland Hyundai,1500 W. Memorial Blvd.,Lakeland,33815,FL,SO,863-682-1100,www.lakelandhyundai.com,28.0539186,-81.9798967,Florida,Hyundai
+FL076,Crown Hyundai,5301 34Th St North,Saint Petersburg,33714,FL,SO,727-528-1225,www.crownhyundai.com,27.820497,-82.678157,Florida,Hyundai
+FL126,Red Hoagland Hyundai,6375 Cypress Gardens Blvd,Winter Haven,33884,FL,SO,863-326-6999,www.redhoagland.com,27.9837359,-81.6789582,Florida,Hyundai
+FL136,Gettel Hyundai Of Lakewood,5921 East Sr 64,Bradenton,34208,FL,SO,941-747-9262,www.gettelhyundaioflakewood.com,27.4937784,-82.4858041,Florida,Hyundai
+FL141,Hyundai Of Central Florida,17325 E. Highway 50,Clermont,34711,FL,SO,407-554-7900,www.hyundaicfl.com,28.5466915,-81.7188887,Florida,Hyundai
+FL091,Gettel Hyundai Of Sarasota,3500 Bee Ridge Road,Sarasota,34239,FL,SO,941-923-1411,www.gettelhyundaiofsarasota.com,27.297822,-82.499938,Florida,Hyundai
+FL120,Jenkins Hyundai Of Leesburg,9145 Us Highway 441,Leesburg,34788,FL,SO,855-662-1274,www.jenkinshyundaiofleesburg.com,28.8287821,-81.8055963,Florida,Hyundai
+FL103,Universal Hyundai,12801 S. Orange Blossom Trail,Orlando,32837,FL,SO,407-926-7050,www.universal-hyundai.com,28.379949,-81.40311,Florida,Hyundai
+FL124,Greenway Hyundai Orlando,4110 West Colonial Drive,Orlando,32808,FL,SO,407-578-5337,www.greenwayhyundaiorlando.com,28.550616,-81.430915,Florida,Hyundai
+FL125,Holler Hyundai,1150 N. Orlando Ave.,Winter Park,32789,FL,SO,407-628-4343,www.hollerhyundai.com,28.6093813,-81.3649808,Florida,Hyundai
+FL146,Hyundai Of Venice,200 Jacaranda Blvd,Venice,34292,FL,SO,941-486-2900,www.hyundaiofvenice.com,27.10065596385635,-82.3832676902132,Florida,Hyundai
+FL089,Jenkins Hyundai,1602 S.W. College Road,Ocala,34474,FL,SO,352-620-2264,www.jenkinshyundaiofocala.com,29.177476,-82.153122,Florida,Hyundai
+FL137,Headquarter Hyundai,985 Rinehart Road,Sanford,32771,FL,SO,407-292-0000,www.headquarterhyundai.com,28.7889347076416,-81.34668731689453,Florida,Hyundai
+FL139,Gettel Hyundai Of Charlotte County,1950 Tamiami Trail,Punta Gorda,33950,FL,SO,941-676-3680,www.gettelhyundaiofcharlottecounty.com,26.920417,-82.0466879,Florida,Hyundai
+FL138,Coggin Deland Hyundai,2308 S Woodland Boulevard,Deland,32720,FL,SO,386-626-5200,www.coggindelandhyundai.com,28.9888368,-81.3018584,Florida,Hyundai
+FL098,Cocoa Hyundai,1825 State Road 520,Cocoa,32926,FL,SO,321-631-2444,www.cocoahyundai.com,28.3556164,-80.759931,Florida,Hyundai
+FL049,Coastal Hyundai,915 W. New Haven Ave.,Melbourne,32901,FL,SO,321-723-4500,www.coastalhyundai.com,28.0600145,-80.621591,Florida,Hyundai
+FL109,Parks Hyundai Of Gainesville,3111 North Main Street,Gainesville,32609,FL,SO,352-372-4251,www.hyundaiofgainesville.com,29.6817583,-82.3185592,Florida,Hyundai
+FL147,Hyundai Of Fort Myers,2850 Colonial Blvd,Fort Myers,33966,FL,SO,239-277-1222,www.HyundaiOfFortMyers.com,26.59612800984018,-81.85404840372395,Florida,Hyundai
+FL074,Daytona Hyundai,901 Nova Road,Daytona Beach,32117,FL,SO,386-255-9374,www.daytonahyundai.com,29.240991,-81.0699462,Florida,Hyundai
+FL101,Route 60 Hyundai,8575 20Th Street,Vero Beach,32966,FL,SO,772-569-6004,www.route60hyundai.com,27.6382969,-80.5036289,Florida,Hyundai
+FL127,Hyundai Of St. Augustine,1111 Marketplace Dr,Saint Augustine,32084,FL,SO,904-593-6502,www.hyundaiofstaugustine.com,29.8405295,-81.3217606,Florida,Hyundai
+FL152,Wallace Hyundai Of Fort Pierce,5553 Us Highway One,Ft Pierce,34982,FL,SO,772-468-6000,www.wallacehyundaioffortpierce.com,27.36427116394043,-80.3259506225586,Florida,Hyundai
+FL130,Tamiami Hyundai,6780 Airport Rd N,Naples,34109,FL,SO,239-417-1222,www.tamiamihyundai.com,26.2279771,-81.766546,Florida,Hyundai
+FL112,Wallace Hyundai,3801 Se Federal Highway,Stuart,34997,FL,SO,772-283-0687,www.wallacehyundaiofstuart.com,27.159726,-80.221441,Florida,Hyundai
+FL118,Hyundai Of Orange Park,7600 Blanding Blvd.,Jacksonville,32244,FL,SO,904-899-0900,www.hyundaioforangepark.com,30.2101207,-81.7390836,Florida,Hyundai
+FL135,Westside Hyundai,1672 Cassat Avenue,Jacksonville,32210,FL,SO,904-384-0050,www.westsidehyundai.com,30.288734,-81.73246,Florida,Hyundai
+FL140,Key Hyundai,4660-100 Southside Boulevard,Jacksonville,32216,FL,SO,904-642-6060,www.keyhyundai.com,30.2589015,-81.5577504,Florida,Hyundai
+FL144,Jenkins Hyundai Of Jacksonville,11107 Atlantic Boulevard,Jacksonville,32225,FL,SO,904-420-3100,www.jenkinshyundaiofjacksonville.com,30.3247,-81.5116,Florida,Hyundai
+FL123,Napletons North Palm Hyundai,3703 Northlake Blvd,Lake Park,33403,FL,SO,561-622-0101,www.northpalmhyundai.com,26.8093859,-80.093533,Florida,Hyundai
+FL121,Napletons Hyundai,2301 Okeechobee Boulevard,West Palm Beach,33409,FL,SO,561-686-7137,www.wpbhyundai.com,26.7069677,-80.0872614,Florida,Hyundai
+FL151,Delray Hyundai,655 Ne 6Th Ave,Delray Beach,33483,FL,SO,561-265-0000,www.delrayhyundai.com,26.47209358215332,-80.06684875488281,Florida,Hyundai
+FL122,Coconut Creek Hyundai,4960 N. State Road 7,Coconut Creek,33073,FL,SO,954-283-1002,www.coconutcreekhyundai.com,26.2920698,-80.2010424,Florida,Hyundai
+FL114,Rick Case Hyundai,3550 Weston Road,Davie,33331,FL,SO,954-377-4100,www.rickcasehyundaidavie.com,26.075877,-80.3619546,Florida,Hyundai
+FL057,King Hyundai,1399 S. Federal Highway,Deerfield Beach,33441,FL,SO,954-421-3330,www.kinghyundai.com,26.3002187,-80.0946459,Florida,Hyundai
+FL005,Rick Case Hyundai,925 North State Road 7,Plantation,33317,FL,SO,954-581-5885,www.ftlauderdalehyundai.com,26.128602,-80.202627,Florida,Hyundai
+FL008,Potamkin Hyundai,6200 Nw 167 Street,Miami Lakes,33014,FL,SO,305-728-5000,www.potamkinhyundai.com,25.9229185,-80.3015953,Florida,Hyundai
+FL154,Lehman Hyundai,21400 Nw 2Nd Ave,Miami,33169,FL,SO,786-284-1737,www.lehmanhyundai.com,25.97201156616211,-80.20662689208984,Florida,Hyundai
+FL133,Braman Hyundai,2001 Ne 2Nd Avenue,Miami,33137,FL,SO,305-571-1200,www.bramanmiamihyundai.com,25.7957541,-80.190798,Florida,Hyundai
+FL153,Doral Hyundai,10285 Nw 12Th Street,Doral,33172,FL,SO,305-722-6094,www.doralhyundai.com,25.7833309173584,-80.36229705810547,Florida,Hyundai
+FL155,Kendall Hyundai,15895 South Dixie Hwy,Miami,33157,FL,SO,786-590-4070,www.kendallhyundai.com,25.62257766723633,-80.34315490722656,Florida,Hyundai
+FL142,Homestead Hyundai,111 South Homestead Boulevard,Homestead,33030,FL,SO,786-255-7400,www.homesteadhyundai.net,25.4802746,-80.5271756,Florida,Hyundai
+UT013,Murdock Hyundai,530 S Lindon Park Dr,Lindon,84042,UT,MS,801-226-8194,www.murdockhyundailindon.com,40.3289169,-111.733658,Utah,Hyundai
+UT016,Ken Garff Hyundai Southtowne,10770 S. Auto Mall Drive,Sandy,84070,UT,MS,801-912-9900,www.kengarffhyundaisouthtowne.com,40.5556536,-111.8960646,Utah,Hyundai
+UT015,"Murdock Hyundai Murray, Llc",4646 South State Street,Murray,84107,UT,MS,801-262-6401,www.murdockhyundaislc.com,40.6705148,-111.8894268,Utah,Hyundai
+UT002,Ken Garff Hyundai Downtown,717 So West Temple Street,Salt Lake City,84101,UT,MS,801-257-3200,www.kengarffhyundaidowntown.com,40.7534444,-111.8930986,Utah,Hyundai
+UT017,Young Hyundai,3333 Wall Ave.,Ogden,84401,UT,MS,801-394-1721,www.younghyundaiutah.com,41.2231225,-111.9737732,Utah,Hyundai
+UT014,Murdock Hyundai Of Logan,3131 North Main Street,Logan,84341,UT,MS,435-787-0040,www.murdockhyundailogan.com,41.7890325,-111.8348158,Utah,Hyundai
+ID020,Stones Hyundai,1350 Yellowstone Ave,Pocatello,83201,ID,MS,208-417-0844,www.stoneshyundai.com,42.89944458007813,-112.4508666992188,Idaho,Hyundai
+CO049,Red Rock Hyundai,2162 Highway 6 And 50,Grand Junction,81505,CO,MS,970-242-4200,www.redrockhyundai.com,39.115086,-108.6523559,Colorado,Hyundai
+OH080,Jeff Wyler Hyundai Of Fairfield,5665 Dixie Highway,Fairfield,45014,OH,CE,513-870-9800,www.jeffwylerhyundaioffairfield.com,39.33111190795898,-84.52051544189453,Ohio,Hyundai
+OH018,Columbia Hyundai,10981 Montgomery Road,Cincinnati,45249,OH,CE,513-489-2000,www.columbiahyundai.com,39.263043,-84.3366719,Ohio,Hyundai
+OH081,Jeff Wyler Superior Hyundai,238 W. Mitchell Ave,Cincinnati,45232,OH,CE,513-598-8700,www.jeffwylersuperiorhyundai.com,39.16569900512695,-84.50984954833984,Ohio,Hyundai
+OH045,Voss Hyundai,766 Miamisburg-centerville Rd,Centerville,45459,OH,CE,937-434-6014,www.vosshyundai.com,39.6276444,-84.1794632,Ohio,Hyundai
+KY013,Kerry Hyundai Of Florence,6149 Hopeful Church Rd,Florence,41042,KY,CE,859-371-8191,www.kerryhyundai.com,39.00234,-84.655506,Kentucky,Hyundai
+KY012,Kerry Hyundai,7500 Alexandria Pike,Alexandria,41001,KY,CE,859-635-6400,www.thehyundaistore.net,38.9839749,-84.3969499,Kentucky,Hyundai
+OH079,Jeff Wyler Hyundai Of Beavercreek,2170 Heller Drive,Beavercreek,45434,OH,CE,937-429-0380,www.jeffwylerhyundaiofbeavercreek.com,39.70729064941406,-84.01649475097656,Ohio,Hyundai
+OH071,Joseph Airport Hyundai,1220 West National Road,Vandalia,45377,OH,CE,937-665-1777,www.airhyundai.com,39.8883802,-84.222296,Ohio,Hyundai
+OH048,Jeff Wyler Hyundai,1501 Hillcrest Ave,Springfield,45504,OH,CE,937-325-4601,www.jeffwylerspringfieldhyundai.com,39.942739,-83.834062,Ohio,Hyundai
+IN050,Greg Hubler Hyundai,6200 W. Hometown Blvd,Muncie,47304,IN,CE,765-287-8970,www.greghublerhyundai.com,40.2183664,-85.3627941,Indiana,Hyundai
+IN052,Hyundai Of Columbus,3020 N National Rd,Columbus,47201,IN,CE,812-505-4300,www.hyundaiofcolumbus.com,39.22755942737724,-85.89914862260737,Indiana,Hyundai
+OH063,Herrnstein Hyundai,2827 River Road,Chillicothe,45601,OH,CE,740-779-6555,www.herrnsteinhyundai.com,39.4194119,-82.9769816,Ohio,Hyundai
+OH077,Germain Hyundai,1400 Automall Dr,Columbus,43228,OH,CE,614-870-9559,www.germainhyundaiofcolumbus.com,39.92377090454102,-83.12358856201172,Ohio,Hyundai
+IN018,Bob Rohrman Indy Hyundai,7101 E. Washington Street,Indianapolis,46219,IN,CE,317-613-7000,www.indyhyundai.com,39.7710526,-86.0412631,Indiana,Hyundai
+IN028,Ray Skillman Southside Hyundai,1300 Us 31 South,Greenwood,46143,IN,CE,317-885-9800,www.rayskillmansouthsidehyundai.com,39.5995068,-86.1051519,Indiana,Hyundai
+IN053,Hyundai Of Noblesville,17665 Terry Lee Crossing,Noblesville,46060,IN,CE,317-674-7400,www.hyundaiofnoblesville.com,40.04462432861328,-85.99363708496094,Indiana,Hyundai
+OH088,Great Lakes Hyundai Of Dublin,2441 Billingsley Road,Columbus,43235,OH,CE,614-889-2441,www.glakeshyundaiofdublin.com,40.11072158813477,-83.0803451538086,Ohio,Hyundai
+IN048,Napleton Hyundai Of Carmel,4200 E. 96Th Street,Indianapolis,46240,IN,CE,317-848-4200,www.hyundaiofcarmel.com,39.9281457,-86.0971793,Indiana,Hyundai
+OH037,Ricart Hyundai,4255 South Hamilton Road,Groveport,43125,OH,CE,614-836-6251,www.ricarthyundai.com,39.8876593,-82.883348,Ohio,Hyundai
+OH022,Tom Ahl Hyundai,2605 Allentown Road,Lima,45805,OH,CE,419-228-3951,www.TOMAHLHYUNDAI.COM,40.7498415,-84.1555788,Ohio,Hyundai
+OH087,Great Lakes Hyundai Of Columbus,2900 Morse Road,Columbus,43231,OH,CE,614-471-2900,www.glakeshyundaiofcolumbus.com,40.05974960327148,-82.9422607421875,Ohio,Hyundai
+IN036,Ray Skillman Westside Hyundai,5051 West Pike Plaza Road,Indianapolis,46254,IN,CE,317-293-8060,www.rayskillmanhyundaiwest.com,39.832807,-86.246528,Indiana,Hyundai
+IN047,Ray Skillman Avon Hyundai,8775 E. Us Highway 36,Avon,46123,IN,CE,317-754-3400,www.rayskillmanavon.com,39.761092,-86.3671279,Indiana,Hyundai
+OH050,Mathews Hyundai,1793 Marion-mt. Gilead Road,Marion,43302,OH,CE,740-389-5560,www.mathewshyundai.com,40.5886699,-83.1285242,Ohio,Hyundai
+OH068,Coughlin Hyundai,2300 Hebron Road,Heath,43056,OH,CE,740-928-9000,www.coughlinhyundai.com,39.9921493,-82.4750526,Ohio,Hyundai
+IN013,Glenbrook Hyundai,4801 Coldwater Road,Fort Wayne,46825,IN,CE,260-484-9531,www.glenbrookhyundai.com,41.1224292,-85.1367691,Indiana,Hyundai
+OH072,Taylor Hyundai Of Findlay,3701 Speedway Drive,Findlay,45840,OH,CE,567-429-7100,www.taylorhyundaifindlay.com,41.0554371,-83.5885035,Ohio,Hyundai
+WV005,Dutch Miller Hyundai,1202 Washington Ave.,Huntington,25704,WV,MA,304-529-2301,www.dutchmillerhyundai.com,38.4137026,-82.4773212,West Virginia,Hyundai
+OH062,Don Wood Hyundai,810 E. State Street,Athens,45701,OH,CE,740-593-6641,www.donwoodhyundai.com,39.3373143,-82.0736769,Ohio,Hyundai
+OH056,Graham Hyundai,1515 West Fourth Street,Mansfield,44906,OH,CE,419-529-1800,www.grahamhyundai.com,40.767548,-82.5654077,Ohio,Hyundai
+OH066,Taylor Hyundai,12681 Eckel Junction,Perrysburg,43551,OH,CE,419-931-8000,www.taylorhyundaiperrysburg.com,41.5347778,-83.6390973,Ohio,Hyundai
+WV008,Superior Hyundai,3023 East 7Th Street,Parkersburg,26101,WV,MA,304-424-5122,www.superiorhyundaiwv.com,39.2690079,-81.5166401,West Virginia,Hyundai
+OH086,Taylor Hyundai Of Toledo,6200 W Central Ave,Toledo,43615,OH,CE,567-455-5230,www.taylorhyundaitoledo.com,41.67670059204102,-83.69064331054688,Ohio,Hyundai
+OH076,Ken Ganley Hyundai Norwalk,226 Milan Ave,Norwalk,44857,OH,CE,419-668-3300,www.kenganleyhyundainorwalk.com,41.2609015,-82.6113949,Ohio,Hyundai
+HI012,Tony Hyundai Waipio,94-1500 Moaniani Street,Waipahu,96797,HI,WE,808-679-3400,www.tonyhyundai.com,21.4268536,-157.9974069,Hawaii,Hyundai
+HI022,Jerry Vs Honolulu Hyundai,2999 N. Nimitz Highway,Honolulu,96819,HI,WE,808-441-3000,www.jerryvhonoluluhyundai.com,21.3352165222168,-157.9063415527344,Hawaii,Hyundai
+HI021,Windward Hyundai,46-201 Kahuhipa Street,Kaneohe,96744,HI,WE,808-791-1800,www.windwardhyundai.com,21.41630554199219,-157.8064727783203,Hawaii,Hyundai
+HI010,Kuhio Hyundai,3033 Aukele Street,Lihue,96766,HI,WE,808-245-6731,www.kuhiohyundai.com,21.9676426,-159.3571799,Hawaii,Hyundai
+HI018,Maui Hyundai,260 Hana Highway,Kahului,96732,HI,WE,808-270-2600,www.jimfalkhyundaiofmaui.com,20.8733133,-156.4628632,Hawaii,Hyundai
+HI015,Big Island Hyundai,75-5793 Kuakini Hwy,Kailua Kona,96740,HI,WE,808-329-5274,www.bigislandhyundai.com,19.6360263,-155.9884886,Hawaii,Hyundai
+CA102,Northwood Hyundai,221 7Th Street,Eureka,95501,CA,WE,707-443-4861,www.northwoodhyundai.com,40.8001782,-124.1681226,California,Hyundai
+OR041,Hyundai Medford,5000 Crater Lake Ave,Medford,97504,OR,MS,541-245-5335,www.hyundaimedford.com,42.38969421386719,-122.8548736572266,Oregon,Hyundai
+OR030,Hyundai Eugene,89320 N Game Farm Road,Eugene,97408,OR,MS,458-250-6409,www.sheppardhyundai.com,44.053018,-123.128282,Oregon,Hyundai
+OR040,Hyundai Of Albany,2425 Santiam Highway Se,Albany,97322,OR,MS,541-967-9105,www.hyundaiofalbany.com,44.63315582275391,-123.0758972167969,Oregon,Hyundai
+OR015,Withnell Hyundai,1996 Mission St Se,Salem,97302,OR,MS,503-375-0312,www.withnellhyundai.net,44.926223,-123.0204941,Oregon,Hyundai
+WA048,Jack Carrolls Skagit Hyundai,1313 Goldenrod Road,Burlington,98233,WA,MS,360-757-7057,www.skagithyundai.com,48.4607806,-122.3433743,Washington,Hyundai
+WA045,Rairdons Hyundai Of Bellingham,1801 Iowa Street,Bellingham,98229,WA,MS,360-738-8000,www.hyundaiofbellingham.com,48.756791,-122.450503,Washington,Hyundai
+GA083,Hyundai Brunswick,5400 Altama Avenue,Brunswick,31525,GA,SO,912-231-4455,www.hyundaibrunswick.com,31.20721244812012,-81.48119354248047,Georgia,Hyundai
+GA066,Langdale Hyundai Of South Georgia,4001 North Valdosta Road,Valdosta,31602,GA,SO,229-241-2880,www.langdalehyundai.com,30.8958789,-83.3228196,Georgia,Hyundai
+PA053,Laurel Hyundai,998 Eisenhower Boulevard,Johnstown,15904,PA,MA,814-266-2345,www.laurelhyundai.net,40.2677683,-78.8596356,Pennsylvania,Hyundai
+ID009,Rob Green Hyundai,1070 Blue Lakes Blvd. N,Twin Falls,83301,ID,MS,208-733-1825,www.robgreenhyundai.com,42.5802873,-114.4591016,Idaho,Hyundai
+ID015,Woody Smith Hyundai,1495 North Woodruff Avenue,Idaho Falls,83401,ID,MS,208-525-8326,www.woodysmithhyundai.com,43.5091809,-112.0015352,Idaho,Hyundai
+PA014,Seidel Hyundai,6125 Shillington Plaza,Shillington,19607,PA,EA,610-775-5100,www.SeidelHyundai.com,40.30681,-75.980888,Pennsylvania,Hyundai
+PA086,Major Hyundai Of Stroudsburg,1534 North 9Th Street,Stroudsburg,18360,PA,MA,570-476-4280,www.majorhyundai.com,40.9501097,-75.2712393,Pennsylvania,Hyundai
+KY029,Tim Short Hyundai,100 Deskins Dr,Pikeville,41501,KY,CE,606-437-1300,www.timshorthyundai.com,37.5356153,-82.6064019,Kentucky,Hyundai
+WI021,Van Horn Hyundai,5525 Racetrack Road,Sheboygan,53081,WI,MS,920-457-3608,www.vhhyundaisheboygan.com,43.759483,-87.75381,Wisconsin,Hyundai
+WI023,Van Horn Hyundai Fond Du Lac,N6652 Esterbrook Rd.,Fond Du Lac,54937,WI,MS,920-924-0000,www.vhhyundaifonddulac.com,43.783726,-88.503459,Wisconsin,Hyundai
+CT012,Torrington Hyundai,1446 E. Main Street,Torrington,06790,CT,EA,860-489-0471,www.torringtonhyundai.com,41.8269891,-73.1585626,Connecticut,Hyundai
+CT041,Shoreline Hyundai,235 Middlesex Turnpike,Old Saybrook,06475,CT,EA,860-577-6030,www.shorelinehyundai.com,41.3068962097168,-72.38258361816406,Connecticut,Hyundai
+NY036,Prestige Hyundai,768 East Chester St. Bypass,Kingston,12401,NY,EA,845-339-3313,www.prestigehyundai.net,41.9577317,-73.9903459,New York,Hyundai
+CT020,Lia Hyundai,20 Jennings Road,Hartford,06120,CT,EA,860-240-1700,www.liahyundaiofhartford.com,41.7892035,-72.6608527,Connecticut,Hyundai
+MS026,Columbus Hyundai,150 Hwy 12 East,Columbus,39702,MS,SC,662-328-5464,www.columbushyundai.net,33.5195298,-88.3636994,Mississippi,Hyundai
+AL009,Tuscaloosa Hyundai,3831 Hargrove Rd E,Tuscaloosa,35405,AL,SO,205-752-8113,www.tuscaloosahyundai.com,33.1736909,-87.4902013,Alabama,Hyundai
+ID016,Bronco Motors Hyundai West,15715 Idaho Center Boulevard,Nampa,83687,ID,MS,208-376-8510,www.broncomotorshyundaiwest.com,43.6026335,-116.5145853,Idaho,Hyundai
+ID007,Bronco Motors Hyundai,9250 Fairview Ave.,Boise,83704,ID,MS,208-376-8510,www.broncomotorshyundai.com,43.6196815,-116.2971002,Idaho,Hyundai
+AR037,Orr Hyundai Of Russellville,3215 East Main Street,Russellville,72802,AR,SC,479-968-4566,www.orrhyundai.net,35.2774776,-93.0896881,Arkansas,Hyundai
+AR026,Cavenaugh Hyundai,4216 Central Avenue,Hot Springs,71913,AR,SC,501-623-0500,www.cavenaughhyundaihotsprings.com,34.4538113,-93.0696931,Arkansas,Hyundai
+OH085,Diehl Hyundai Of Massillon,3748 Lincoln Way East,Massillon,44646,OH,CE,330-478-0281,www.diehlhyundaimassillon.com,40.79459381103516,-81.4616928100586,Ohio,Hyundai
+OH053,Ron Marhofer Hyundai,3360 S. Arlington Road,Akron,44312,OH,CE,330-644-3500,www.hyundaiofohio.com,40.9798147,-81.4941794,Ohio,Hyundai
+OH074,Elyria Hyundai,845 Leona Street,Elyria,44035,OH,CE,440-324-7700,www.elyriahyundai.com,41.403179,-82.124099,Ohio,Hyundai
+OH058,Crestmont Hyundai,2961 Center Road,Brunswick,44212,OH,CE,330-225-0011,www.crestmonthyundai.com,41.2391415,-81.7926196,Ohio,Hyundai
+OH011,Ron Marhofer Hyundai,1260 Main Street,Cuyahoga Falls,44221,OH,CE,330-923-5800,www.hyundaiofakron.com,41.120789,-81.4850274,Ohio,Hyundai
+OH084,Ken Ganley Hyundai North Olmsted,25600 Lorain Road,North Olmsted,44070,OH,CE,440-734-2000,www.kenganleyhyundainortholmsted.com,41.4227180480957,-81.90530395507812,Ohio,Hyundai
+OH083,Ken Ganley Hyundai Parma,7115 Brookark Road,Parma,44129,OH,CE,216-749-2525,www.kenganleyhyundaiparma.com,41.41804504394531,-81.7339096069336,Ohio,Hyundai
+OH060,Great Lakes Hyundai,9630 State Rt. 14,Streetsboro,44241,OH,CE,330-422-1212,www.greatlakeshyundai.com,41.2485267,-81.3595022,Ohio,Hyundai
+OH073,Hyundai Of Bedford,18300 Rockside Road,Bedford,44146,OH,CE,440-439-0700,www.hyundaiofbedford.com,41.4056287,-81.5482484,Ohio,Hyundai
+WV002,Straub Hyundai,80 Straub Drive,Triadelphia,26059,WV,MA,304-233-2222,www.straubhyundai.com,40.060307,-80.5918325,West Virginia,Hyundai
+OH078,Spitzer Hyundai,19991 Villaview Road,Cleveland,44119,OH,CE,216-416-6700,www.spitzerhyundaicleveland.com,41.5816813555855,-81.54149257976164,Ohio,Hyundai
+WV006,Joe Holland Hyundai,131 Maccorkle Ave. Sw,South Charleston,25303,WV,MA,304-744-1561,www.joehollandhyundai.com,38.3677465,-81.7007264,West Virginia,Hyundai
+OH047,Preston Hyundai,7554 Market Street,Youngstown,44512,OH,CE,330-965-7440,www.prestonhyundai.com,41.016509,-80.6636463,Ohio,Hyundai
+OH061,Classic Hyundai,8460 Tyler Blvd,Mentor,44060,OH,CE,440-266-6700,www.driveclassichyundai.com,41.6826409,-81.337323,Ohio,Hyundai
+PA073,Bowser Hyundai,139 Mckinley Road  Route 51,Beaver Falls,15010,PA,MA,724-847-1703,www.bowserchippewa.com,40.781313,-80.389596,Pennsylvania,Hyundai
+PA062,Washington Hyundai,305 Washington Road,Washington,15301,PA,MA,724-222-2216,www.washingtonpahyundai.com,40.1867406,-80.2239643,Pennsylvania,Hyundai
+PA071,Piazza Hyundai Of Pottstown,84 Auto Park Blvd,Limerick,19468,PA,EA,610-495-7070,www.piazzahyundaipottstown.com,40.218537,-75.546868,Pennsylvania,Hyundai
+MI058,Fox Ann Arbor Hyundai,4001 Jackson Road,Ann Arbor,48103,MI,CE,734-663-7770,www.FoxAnnArborHyundai.com,42.2841581,-83.8085634,Michigan,Hyundai
+MI061,Lafontaine Hyundai Of Livonia,34715 Plymouth Road,Livonia,48150,MI,CE,734-838-0200,www.lafontainehyundailivonia.com,42.36742401123047,-83.3847427368164,Michigan,Hyundai
+MI027,Lafontaine Hyundai,3031 S Telegraph Rd,Dearborn,48124,MI,CE,313-561-6600,www.detroithyundai.com,42.2977406,-83.2715258,Michigan,Hyundai
+MI048,Feldman Hyundai Of New Hudson,30492 Lyon Center Drive East,New Hudson,48165,MI,CE,248-486-1901,www.feldmanhyundai.com,42.5156786,-83.6100355,Michigan,Hyundai
+MI007,Glassman Hyundai,28000 Telegraph Rd.,Southfield,48034,MI,CE,248-354-3300,www.glassmanhyundai.com,42.493968,-83.283365,Michigan,Hyundai
+MI060,Suburban Hyundai Of Troy,1814 Maplelawn Drive,Troy,48084,MI,CE,248-341-9900,www.suburbanhyundai.com,42.55207961157026,-83.17587966533968,Michigan,Hyundai
+MI056,Elder Hyundai,19077 Hall Road,Macomb,48044,MI,CE,586-408-2030,www.elderhyundai.com,42.628693,-82.9329668,Michigan,Hyundai
+MI039,Randy Wise Hyundai,4350 Lennon Road,Flint,48507,MI,CE,810-230-2500,www.randywisehyundai.com,42.9882435,-83.7658967,Michigan,Hyundai
+MI059,Williams Hyundai,2845 E. Saginaw Street,Lansing,48912,MI,CE,517-484-1341,www.lansinghyundai.com,42.7414,-84.5113,Michigan,Hyundai
+MI033,Garber Hyundai,5450 Bay Road,Saginaw,48604,MI,CE,989-790-0120,www.garberhyundai.com,43.4877871,-83.9743457,Michigan,Hyundai
+MI031,Fox Hyundai,4141 28Th Street Se,Grand Rapids,49512,MI,CE,616-942-5000,www.foxhyundai.com,42.9136119,-85.5652303,Michigan,Hyundai
+OH082,Victory Hyundai,1059 State Route 46 North,Jefferson,44047,OH,CE,440-576-1010,www.victoryhyundai440.com,41.75238037109375,-80.769287109375,Ohio,Hyundai
+PA091,Diehl Hyundai,1251 East State Street,Sharon,16146,PA,MA,724-981-8140,www.diehlhyundaisharon.com,41.23364092371911,-80.4861402429075,Pennsylvania,Hyundai
+PA019,"Dave Hallman Hyundai, Inc.",2104 State Street,Erie,16503,PA,EA,814-452-6731,www.davehallmanhyundai.com,42.1157329,-80.0766105,Pennsylvania,Hyundai
+PA057,Mike Kelly Hyundai,254 Pittsburgh Rd,Butler,16002,PA,MA,724-287-2701,www.mikekellyhyundai.com,40.8157455,-79.9276231,Pennsylvania,Hyundai
+PA012,Moon Township Hyundai,5760 University Blvd.,Moon Township,15108,PA,MA,412-269-1234,www.moonhyundai.com,40.5234036,-80.2176765,Pennsylvania,Hyundai
+PA037,Wright Hyundai,10677 Perry Highway,Wexford,15090,PA,MA,724-935-4646,www.wrighthyundai.com,40.614545,-80.056227,Pennsylvania,Hyundai
+PA063,#1 Cochran Hyu Of South Hills,3220 West Liberty Ave,Pittsburgh,15216,PA,MA,412-343-3200,www.cochranhyundaipittsburgh.com,40.3969334,-80.0310889,Pennsylvania,Hyundai
+PA044,Bowser Hyundai,Rt. 51  Lewis Run Road,Pleasant Hills,15236,PA,MA,412-469-2100,www.powerofbowserhyundai.com,40.3798913,-79.9940801,Pennsylvania,Hyundai
+PA043,#1 Cochran Hyundai,4520 William Penn Highway,Monroeville,15146,PA,MA,412-374-1111,www.cochranhyundaimonroeville.com,40.4379337,-79.7450508,Pennsylvania,Hyundai
+NY102,Shults Hyundai,181 E. Fairmount Ave,Lakewood,14750,NY,EA,716-526-0600,www.shultshyundai.com,42.0823225,-79.3240228,New York,Hyundai
+PA084,Mike Camlin Hyundai Of Greensburg,5162 Route 30,Greensburg,15601,PA,MA,724-834-7028,www.mikecamlinhyundai.com,40.302151,-79.499459,Pennsylvania,Hyundai
+PA067,Delaney Hyundai,125 Lenz Road,Indiana,15701,PA,MA,724-465-9193,www.delaneyhyundai.com,40.6009917,-79.1919543,Pennsylvania,Hyundai
+MI034,Bill Marsh Hyundai,1661 S. Garfield Ave,Traverse City,49686,MI,CE,231-932-6240,www.billmarshhyundai.com,44.7375464,-85.5942676,Michigan,Hyundai
+MA071,Mcgovern Hyundai Of Milford,158 East Main Street,Milford,01757,MA,EA,508-422-3200,www.mcgovernhyundaiofmilford.com,42.15068817138672,-71.50545501708984,Massachusetts,Hyundai
+MA021,Herb Chambers Hyundai,735 Southbridge Street,Auburn,01501,MA,EA,508-832-9990,www.herbchambershyundaiofauburn.com,42.1831338,-71.8620817,Massachusetts,Hyundai
+MA056,First Hyundai,270 E Washington Street,North Attleboro,02760,MA,EA,508-699-4700,www.firsthyundai.com,41.9730164,-71.3307166,Massachusetts,Hyundai
+RI012,Grieco Hyundai,1890 Hartford Ave.,Johnston,02919,RI,EA,401-723-2200,www.griecohyundai.com,41.8277366,-71.51504290000003,Rhode Island,Hyundai
+MA070,Metrowest Hyundai,520 Worcester Road,Framingham,01702,MA,EA,508-879-0300,www.metrowesthyundai.com,42.29740524291992,-71.41742706298828,Massachusetts,Hyundai
+MA029,Pride Hyundai Of Seekonk,11 Taunton Avenue,Seekonk,02771,MA,EA,508-336-7880,www.hyundaiofseekonk.com,41.8230345,-71.3459343,Massachusetts,Hyundai
+MA064,Boch Hyundai,1201 Providence Highway,Norwood,02062,MA,EA,877-399-3275,www.bochhyundai.com,42.1984035,-71.1866539,Massachusetts,Hyundai
+MA063,Mcgovern Hyundai,240 Manley Street,Brockton,02301,MA,EA,508-408-4530,www.mcgovernhyundai.com,42.0561374,-71.0581048,Massachusetts,Hyundai
+CT042,Central Hyundai,98 Lathrop Road,Plainfield,06374,CT,EA,860-564-4014,www.centralhyundaict.com,41.66277313232422,-71.91118621826172,Connecticut,Hyundai
+MA046,Route 44 Hyundai,1094 New State Highway,Raynham,02767,MA,EA,508-824-7600,www.route44hyundai.com,41.9054956,-71.0241469,Massachusetts,Hyundai
+RI013,Nucar Tarbox Hyundai,3665 Quaker Lane,North Kingstown,02852,RI,EA,401-826-1500,www.nucartarboxhyundai.com,41.59945678710938,-71.4967041015625,Rhode Island,Hyundai
+MA024,Mirak Hyundai,1165 Massachusetts Ave.,Arlington,02476,MA,EA,781-643-8000,www.mirakhyundai.com,42.4232501,-71.1739264,Massachusetts,Hyundai
+MA067,Mcgovern Hyundai Route 2,743 North Main Street,Leominster,01453,MA,EA,978-534-9999,www.mcgovernhyundairt2.com,42.55536651611328,-71.76864624023438,Massachusetts,Hyundai
+MA068,Quirk Hyundai,111 Mcgrath Highway,Quincy,02169,MA,EA,617-249-5900,www.quirkhyundai.com,42.25249862670898,-70.99614715576172,Massachusetts,Hyundai
+MA044,Empire Hyundai,428 Pleasant Street,Fall River,02721,MA,EA,508-673-7646,www.empirehyundai.com,41.6996503,-71.147831,Massachusetts,Hyundai
+CT040,Wile Hyundai,21 Route 66 East,Columbia,06237,CT,EA,860-228-2300,www.wilehyundai.com,41.71799829249172,-72.24819906537152,Connecticut,Hyundai
+MA069,Mcgovern Hyundai Route 93,271 Main Street,Wilmington,01887,MA,EA,978-657-7774,www.mcgovernhyundairt93.com,42.55566024780273,-71.18161010742188,Massachusetts,Hyundai
+RI011,Hyundai Of Newport,1133 West Main Road,Middletown,02842,RI,EA,401-619-3700,www.hyundaiofnewport.com,41.5300689,-71.2938854,Rhode Island,Hyundai
+MA040,Pride Hyundai Of Lynn,777 Lynnway,Lynn,01905,MA,EA,781-592-3800,www.pridehyundai.com,42.4490899,-70.9645244,Massachusetts,Hyundai
+NH012,Nashua Hyundai,140 Daniel Webster Highway,Nashua,03060,NH,EA,603-888-1121,www.nashuahyundai.com,42.7271353,-71.4465634,New Hampshire,Hyundai
+CT028,Lia Hyundai,40 Palomba Drive,Enfield,06082,CT,EA,860-745-7400,www.liahyundaiofenfield.com,42.0027181,-72.5441445,Connecticut,Hyundai
+CT029,Key Hyundai Of Manchester,21 Hartford Turnpike,Vernon,06066,CT,EA,860-643-2700,www.keyhyundaimanchesterct.com,41.8162955,-72.5049361,Connecticut,Hyundai
+MA053,Balise Hyundai,683 E. Columbus Ave.,Springfield,01105,MA,EA,413-734-0135,www.balisehyundaispringfield.com,42.091147,-72.5810923,Massachusetts,Hyundai
+MA066,Hyundai Of Plymouth,356-357 Court Street,Plymouth,02360,MA,EA,508-746-3100,www.hyundaiofplymouth.com,41.97591018676758,-70.68743133544922,Massachusetts,Hyundai
+NH014,Key Hyundai Of Salem,470 South Broadway,Salem,03079,NH,EA,603-841-3099,www.salemhyundai.com,42.7457069,-71.202483,New Hampshire,Hyundai
+MA034,Gary Rome Hyundai,150 Whiting Farms Road,Holyoke,01040,MA,EA,413-536-4328,www.garyromehyundai.com,42.1801999,-72.6395858,Massachusetts,Hyundai
+MA057,Country Hyundai,347 King Street,Northampton,01060,MA,EA,413-774-3122,www.countryhyundai.com,42.336371,-72.635885,Massachusetts,Hyundai
+CT007,M. J. Sullivan Hyundai,452 Broad Street,New London,06320,CT,EA,860-443-8432,www.mjsullivanhyundai.com,41.3631426,-72.106068,Connecticut,Hyundai
+NH018,Autofair Hyundai,1477 South Willow Street,Manchester,03103,NH,EA,603-634-0500,www.autofairhyundai.com,42.95531463623047,-71.43726348876953,New Hampshire,Hyundai
+NH013,Hyundai Of Keene,14 Production Avenue,Keene,03431,NH,EA,603-354-5060,www.hyundaiofkeene.com,42.9226567,-72.3056706,New Hampshire,Hyundai
+NH006,Hampton Hyundai,177 Lafayette Rd,North Hampton,03862,NH,EA,603-964-8771,www.hyundaiguy.com,42.9894186,-70.8211869,New Hampshire,Hyundai
+MA058,Balise Hyundai Of Cape Cod,322 Falmouth Road,Hyannis,02601,MA,EA,508-778-0500,www.balisehyundaiofcapecod.com,41.6688574,-70.2693121,Massachusetts,Hyundai
+NH011,Grappone Hyundai,514 Route 3A,Bow,03304,NH,EA,603-228-3255,www.grapponehyundai.com,43.1753977,-71.5294277,New Hampshire,Hyundai
+MA031,Haddad Hyundai,689 East Street,Pittsfield,01201,MA,EA,413-347-4469,www.haddadhyundai.com,42.449094,-73.2411546,Massachusetts,Hyundai
+NH019,Granite Hyundai,370 Route 108,Somersworth,03878,NH,EA,603-692-5220,www.granitehyundai.net,43.26345062255859,-70.9061050415039,New Hampshire,Hyundai
+NH017,Irwin Hyundai,446 Union Ave,Laconia,03246,NH,EA,603-581-7133,www.irwinhyundai.com,43.5380078,-71.4644604,New Hampshire,Hyundai
+AL025,Mitchell Hyundai,1600 E. Park Avenue,Enterprise,36330,AL,SO,334-308-1670,www.mitchellhyundai.com,31.3047468,-85.8210289,Alabama,Hyundai
+AL008,Hyundai Of Dothan,2329 Ross Clark Circle,Dothan,36301,AL,SO,334-699-6416,www.hyundaiofdothan.com,31.19344329833984,-85.41032409667969,Alabama,Hyundai
+FL087,Hampton Hyundai,230 Hollywood Blvd Sw,Fort Walton Beach,32548,FL,SO,850-244-8600,www.hamptonhyundai.com,30.412229,-86.628347,Florida,Hyundai
+FL150,Bay Hyundai,641 W. 15Th Street,Panama City,32401,FL,SO,850-785-1591,www.panamacityhyundai.com,30.17497098633704,-85.66735537676857,Florida,Hyundai
+FL080,Allen Turner Hyundai,6501 Pensacola Blvd.,Pensacola,32505,FL,SO,850-479-9667,www.allenturnerhyundai.com,30.4744578,-87.2480625,Florida,Hyundai
+AL027,Eastern Shore Hyundai,29736 Frederick Boulevard,Daphne,36526,AL,SO,251-626-6363,www.easternshorehyundai.com,30.6607818,-87.8567961,Alabama,Hyundai
+FL128,Werner Hyundai,252 Sw Capital Circle,Tallahassee,32304,FL,SO,850-575-1000,www.wernerhyundai.com,30.455695,-84.3618429,Florida,Hyundai
+AL029,Palmers Airport Hyundai,7680 Airport Blvd,Mobile,36608,AL,SO,251-338-1501,www.palmershyundai.com,30.6852734,-88.2216554,Alabama,Hyundai
+MS029,Jason Pilger Hyundai,613 De La Pointe Dr,Gautier,39553,MS,SC,228-522-3413,www.jasonpilgerhyundai.com,30.3859704,-88.619096,Mississippi,Hyundai
+MS045,Hyundai Of Meridian,2001 Highway 39 North,Meridian,39301,MS,SC,601-685-4070,,32.37834548950195,-88.6810302734375,Mississippi,Hyundai
+MS041,Matt Bowers Hyundai-gulfport,624 East Pass Road,Gulfport,39507,MS,SC,228-539-5555,www.mattbowershyundai.com,30.39636421203613,-89.03850555419922,Mississippi,Hyundai
+MS025,Mack Grubbs Hyundai,6507 U S Highway 98,Hattiesburg,39402,MS,SC,601-705-0790,www.mackgrubbshyundai.com,31.3184192,-89.4165164,Mississippi,Hyundai
+LA028,Bill Hood Hyundai,401 North Morrison Blvd,Hammond,70401,LA,SC,985-345-0321,www.billhoodhyundai.com,30.5049604,-90.4831409,Louisiana,Hyundai
+LA024,Eddie Tourelles Northpark Hyundai,200 Holiday Square Boulevard,Covington,70433,LA,SC,985-801-7000,www.northparkhyundai.com,30.4448893,-90.0842581,Louisiana,Hyundai
+LA026,All Star Hyu Of Baton Rouge,12730 Airline Highway,Baton Rouge,70817,LA,SC,225-490-5788,www.hyundaiofbatonrouge-la.com,30.418041,-91.068859,Louisiana,Hyundai
+MS042,Hallmark Hyundai Flowood,4200 Lakeland Drive,Flowood,39232,MS,SC,601-914-4200,www.hallmarkhyundaiflowood.com,32.33702087402344,-90.0975341796875,Mississippi,Hyundai
+LA029,Ralph Sellers Hyundai,14181 North Airline Highway,Gonzales,70737,LA,SC,225-390-1446,www.ralphsellershyundai.com,30.273514,-90.946944,Louisiana,Hyundai
+MS043,Hallmark Hyundai North,450 Steed Road,Ridgeland,39157,MS,SC,601-856-6423,www.hallmarkhyundainorth.com,32.44071578979492,-90.14328002929688,Mississippi,Hyundai
+LA038,Hyundai Slidell,298 East Howze Beach Road,Slidell,70461,LA,SC,985-641-0671,www.hyundaislidell.com,30.24050331115723,-89.76519012451172,Louisiana,Hyundai
+LA033,Hyundai Of Metairie,5969 Veterans Memorial Boulevard,Metairie,70003,LA,SC,504-838-9000,www.hyundaiofmetairie.com,30.0059287,-90.2081358,Louisiana,Hyundai
+LA036,Ray Brandt Hyundai Of Harvey Llc,1700 Westbank Expressway,Harvey,70058,LA,SC,504-349-4949,www.raybrandthyundai.com,29.9021772,-90.0684081,Louisiana,Hyundai
+LA027,Greg Leblanc Hyundai,218 South Hollywood Road,Houma,70360,LA,SC,985-219-1177,www.gregleblanchyundai.com,29.603313,-90.7519926,Louisiana,Hyundai
+LA034,Interstate Hyundai,609 Constitution Drive,West Monroe,71292,LA,SC,318-387-2667,www.interstatehyundai.com,32.5103356,-92.1788792,Louisiana,Hyundai
+NY078,Lia Hyundai,945 Central Avenue,Albany,12205,NY,EA,518-458-2277,www.liahyundaiofalbany.com,42.6834395,-73.7929506,New York,Hyundai
+MN020,Walser Hyundai,8100 Lakeland Avenue,Brooklyn Park,55445,MN,MS,763-424-4444,www.walserhyundai.com,45.1024136,-93.3896551,Minnesota,Hyundai
+MN029,Walser Hyundai Coon Rapids,2075 Gateway Drive Nw,Coon Rapids,55448,MN,MS,612-482-2880,www.walserhyundaicoonrapids.com,45.18484497070313,-93.31954956054688,Minnesota,Hyundai
+MN028,St. Cloud Hyundai,900 2Nd Street South,Waite Park,56387,MN,MS,320-251-8200,www.stcloudhyundai.com,45.5485385,-94.2285792,Minnesota,Hyundai
+MN025,Morries 394 Hyundai,6661 Wayzata Boulevard,Saint Louis Park,55426,MN,MS,952-449-2000,www.morries394hyundai.com,44.9702367,-93.3650125,Minnesota,Hyundai
+MN021,Luther Bloomington Hyundai,4801 American Boulevard West,Bloomington,55437,MN,MS,952-881-5100,www.bloomingtonhyundai.com,44.8576789,-93.3424562,Minnesota,Hyundai
+MN017,Buerkle Hyundai,3350 N. Highway 61,White Bear Lake,55110,MN,MS,651-484-0231,www.buerklehyundai.com,45.042134,-93.037231,Minnesota,Hyundai
+MN027,Inver Grove Hyundai,1290 50Th Street East,Inver Grove Heights,55077,MN,MS,651-204-4400,www.invergrovehyundai.com,44.8786528,-93.0793669,Minnesota,Hyundai
+MN016,Luther Burnsville Hyundai,14700 Buck Hill Road,Burnsville,55306,MN,MS,952-367-4600,www.burnsvillehyundai.com,44.736672,-93.286493,Minnesota,Hyundai
+MN026,Hyundai Of Mankato,1281 Raintree Road,Mankato,56001,MN,MS,507-682-7600,www.hyundaiofmankato.com,44.1775547,-93.9663622,Minnesota,Hyundai
+MN024,Dondelinger Hyundai,6720 Pine Beach Road,Baxter,56425,MN,MS,218-454-2300,www.dondelingerhyundai.com,46.3852064,-94.2592152,Minnesota,Hyundai
+MN030,Happy Hyundai Of Rochester,4800 Us Hwy 52 North,Rochester,55901,MN,MS,507-289-4004,www.rochesterhappyhyundai.com,44.07313328397206,-92.50297345736776,Minnesota,Hyundai
+WI010,Ken Vance Hyundai,5252 Highway 93 South,Eau Claire,54701,WI,MS,715-834-4162,www.kenvancehyundai.com,44.7570612,-91.4561058,Wisconsin,Hyundai
+MN014,Kolar Hyundai,4766 Miller Trunk Hwy,Hermantown,55811,MN,MS,218-733-0200,www.kolarhyundai.com,46.8205984,-92.1844246,Minnesota,Hyundai
+WI025,Dahl Hyundai,712 South 4Th Street,La Crosse,54601,WI,MS,608-784-9600,www.dahlhyundai.com,43.8060344,-91.2523172,Wisconsin,Hyundai
+ND006,Gateway Hyundai,441 38Th Street S,Fargo,58103,ND,MS,701-232-8442,www.fargohyundai.com,46.870334,-96.8434429,North Dakota,Hyundai
+SD001,Billion Hyundai,3401 West 41St Street,Sioux Falls,57106,SD,MS,605-361-1818,www.hyundaisiouxfalls.com,43.5148252,-96.7697233,South Dakota,Hyundai
+MS030,Pride Hyundai,680 Highway 6 W,Batesville,38606,MS,SO,662-563-5464,www.pridehyundaiinc.com,34.306297,-89.968881,Mississippi,Hyundai
+AR029,Crain Hyundai North Little Rock,5660 Warden Road,North Little Rock,72116,AR,SC,501-835-9995,www.crainhyundainorth.com,34.80526,-92.2122596,Arkansas,Hyundai
+AR038,Chris Crain Hyundai,1003 N. Museum Road,Conway,72032,AR,SC,501-470-7300,www.chriscrainhyundai.com,35.0932824,-92.4198789,Arkansas,Hyundai
+AR031,Smart Hyundai,1 Smart Drive,White Hall,71602,AR,SC,870-534-8122,www.smartdrivehyundai.com,34.2524132,-92.0630773,Arkansas,Hyundai
+AR028,Crain Hyundai Little Rock,11701 Colonel Glenn Road,Little Rock,72210,AR,SC,501-604-1500,www.crainhyundailittlerock.com,34.7112193,-92.405474,Arkansas,Hyundai
+GA090,Autonation Hyundai Savannah,7103 Abercorn Street,Savannah,31406,GA,SO,912-352-4747,www.autonationhyundaisavannah.com,32.01309585571289,-81.11421966552734,Georgia,Hyundai
+SC050,Autonation Hyundai Hilton Head,225 Drivers Way Suite A,Hardeeville,29927,SC,SO,842-208-1234,www.autonationhyundaihiltonhead.com,32.31186294555664,-80.9859848022461,South Carolina,Hyundai
+WV018,Jenkins Hyundai,750 Lodgeville Road,Bridgeport,26330,WV,MA,304-848-6000,www.jenkinshyundaiwv.com,39.2945358,-80.2765554,West Virginia,Hyundai
+WV021,"Weimer Hyundai Of Morgantown, Inc.",7000 Mall Road,Morgantown,26501,WV,MA,304-983-2277,www.weimerhyundai.com,39.6315403,-80.0013485,West Virginia,Hyundai
+PA058,Auto Land Hyundai Of Uniontown,25 East Fayette Street,Uniontown,15401,PA,MA,724-437-9999,www.autolandhyundai.com,39.8980078,-79.7246455,Pennsylvania,Hyundai
+PA090,Kelly Hyundai,35 Industrial Drive,Hamburg,19526,PA,EA,484-665-0130,www.kellyhyundaiofhamburg.net,40.55973008888581,-75.99997624322407,Pennsylvania,Hyundai
+PA024,Lehigh Valley Hyundai,675 State Avenue,Emmaus,18049,PA,EA,610-967-6500,www.lehighvalleyhyundai.com,40.5510664,-75.4914162,Pennsylvania,Hyundai
+PA075,Sunbury Motors Hyundai,943 N 4Th Street,Sunbury,17801,PA,MA,570-286-7746,www.sunburyhyundai.com,40.8720307,-76.7864937,Pennsylvania,Hyundai
+PA018,Motorworld Hyundai,150 Motorworld Dr.,Wilkes-barre,18702,PA,MA,570-829-3500,www.motorworldgrouphyundai.com,41.2545347,-75.835751,Pennsylvania,Hyundai
+WI032,Bergstrom Hyundai,3023 Victory Lane,Appleton,54913,WI,MS,920-749-3232,www.bergstromhyundaiappleton.com,44.291725,-88.4714208,Wisconsin,Hyundai
+IA018,Mcgrath Hyundai Of Dubuque,2075 Holliday Drive,Dubuque,52002,IA,MS,563-587-4300,www.mcgrathhyundaiofdubuque.com,42.5118962,-90.7435409,Iowa,Hyundai
+WI043,Bergstrom Hyundai Of Green Bay,1106 S Military Ave,Green Bay,54304,WI,MS,920-499-3131,www.hyundaigreenbay.com,44.51937103271484,-88.0678939819336,Wisconsin,Hyundai
+WI040,Stevens Point Hyundai,3707 Stanley Street,Stevens Point,54481,WI,MS,715-344-4100,www.stevenspointhyundai.com,44.53812116783671,-89.54654444560633,Wisconsin,Hyundai
+NY148,Matthews Hyundai Of Schenectady,4101 State Street,Schenectady,12304,NY,EA,800-209-2886,www.matthewshyundaischenectady.com,42.76606750488281,-73.88678741455078,New York,Hyundai
+ME005,Rowe Hyundai Westbrook,91 Main Street,Westbrook,04092,ME,EA,207-854-2555,www.rowehyundai.com,43.6784164,-70.3333758,Maine,Hyundai
+IA010,Cs Hyundai,812 Washington Street,Waterloo,50702,IA,MS,319-291-7321,www.candshyundai.com,42.490523,-92.3401808,Iowa,Hyundai
+WI031,Kocourek Hyundai,152201 Morning Glory Lane,Wausau,54401,WI,MS,715-359-0303,www.hyundaiwausau.com,44.915706,-89.65216,Wisconsin,Hyundai
+IA019,Mcgrath Hyundai Of Cedar Rapids,1040 N. Center Point Road,Hiawatha,52233,IA,MS,319-366-4000,www.mcgrathhyundaicr.com,42.0166364,-91.6663523,Iowa,Hyundai
+IA015,Billion Hyundai,2323 Mormon Trek Boulevard,Iowa City,52246,IA,MS,319-359-6903,www.iowacityhyundai.com,41.6359175,-91.567183,Iowa,Hyundai
+NE009,Tom Dinsdale Hyundai,3312 West Stolley Park Road,Grand Island,68803,NE,MS,308-382-4662,www.dinsdalehyundai.com,40.902481,-98.3800433,Nebraska,Hyundai
+IA020,Vern Eide Hyundai Sioux City,4601 Singing Hills Blvd,Sioux City,51106,IA,MS,712-274-6622,www.verneidehyundaisiouxcity.com,42.43838,-96.349317,Iowa,Hyundai
+ME008,Bill Dodge Hyundai,118 Pleasant Street,Brunswick,04011,ME,EA,207-721-8300,www.billdodgehyundai.com,43.913132,-69.9818333,Maine,Hyundai
+NY142,Matthews Hyundai Of Greece,3975 Ridge Road West,Rochester,14626,NY,EA,585-720-9000,www.matthewshyundaigreece.com,43.2149673747827,-77.73622198842867,New York,Hyundai
+NY150,Vision Hyundai Henrietta,2525 West Henrietta Road,Rochester,14623,NY,EA,585-292-0500,www.visionhyundaihenrietta.com,43.10135650634766,-77.63001251220703,New York,Hyundai
+NY149,Vision Hyundai Webster,755 Ridge Road,Webster,14580,NY,EA,585-787-2111,www.visionhyundaiwebster.com,43.2035026550293,-77.48113250732422,New York,Hyundai
+NY151,Vision Hyundai Canandaigua,2440 Rochester Road,Canandaigua,14424,NY,EA,585-394-3800,www.visionhyundaicanandaigua.com,42.9129638671875,-77.30245971679688,New York,Hyundai
+NY139,West Herr Hyundai,5485 Transit Road,Clarence,14031,NY,EA,716-634-3000,www.westherrhyundai.com,42.99799728393555,-78.69562530517578,New York,Hyundai
+NY013,Northtown Hyundai,3675 Sheridan Drive,Amherst,14226,NY,EA,716-835-8500,www.northtownhyundai.com,42.9786683,-78.795699,New York,Hyundai
+NY077,Towne Hyundai,3525 Southwestern Blvd.,Orchard Park,14127,NY,EA,716-662-7400,www.townehyundaibuffalo.com,42.788022,-78.7599369,New York,Hyundai
+NY152,Maguire Hyundai Of Grand Island,1910 Alvin Road,Grand Island,14072,NY,EA,716-773-7505,www.maguirehyundaiofgrandisland.com,43.01141357421875,-78.96836853027344,New York,Hyundai
+NY153,Burdick Hyundai Cicero,7820 Hogan Drive,Cicero,13039,NY,EA,315-452-7000,www.hyundaicicero.com,43.1495361328125,-76.11795806884766,New York,Hyundai
+NY141,Matthews Hyundai Of Syracuse,2601 Erie Blvd East,Syracuse,13224,NY,EA,315-445-7900,www.matthewshyundaisyracuse.com,43.05456046640273,-76.10093926966637,New York,Hyundai
+NY123,Maguire Hyundai,320 Elmira Road,Ithaca,14850,NY,EA,607-273-8585,www.maguirehyundai.com,42.427225,-76.510828,New York,Hyundai
+NY122,Simmons Rockwell Hyundai,"784 County Road 64, Building 3",Elmira,14903,NY,EA,607-796-5555,www.srhyundai.com,42.1523044,-76.8854017,New York,Hyundai
+NY062,Fuccillo Hyundai Of Watertown,18352 Us Route 11,Watertown,13601,NY,EA,315-782-1600,www.fuccillohyundai.com,43.9387573389709,-75.9234122724715,New York,Hyundai
+NY024,Miller Hyundai,4477 Vestal Parkway East,Vestal,13850,NY,EA,607-797-1221,www.millerhyundai.com,42.0958697,-75.9633331,New York,Hyundai
+NY145,Mastrovito Hyundai,5194 Commercial Drive,Yorkville,13495,NY,EA,315-736-8356,www.mastrovitohyundai.com,43.11418989159267,-75.28500663694946,New York,Hyundai
+PA088,Ciocca Hyundai Of Williamsport,202 Lycoming Mall Drive,Muncy,17756,PA,MA,570-567-2000,www.cioccahyundaiofwilliamsport.com,41.23750686645508,-76.8132095336914,Pennsylvania,Hyundai
+NY099,Royal Hyundai Of Oneonta,6486 State Highway 23,Oneonta,13820,NY,EA,607-432-9331,www.royalhyundai.com,42.4453667,-75.0087261,New York,Hyundai
+PA097,Delaney Hyundai Of Dubois,820 Beaver Drive,Dubois,15801,PA,MA,814-371-5055,www.delaneyhyundaidubois.com,41.12088012695313,-78.73957061767578,Pennsylvania,Hyundai
+PA055,Dickson City Hyundai,1519 Scranton Carbondale Hwy,Scranton,18508,PA,MA,570-487-5000,www.dicksoncityhyundai.com,41.4702825,-75.6385703,Pennsylvania,Hyundai
+PA077,Blaise Alexander Hyundai,1703 West College Avenue,State College,16801,PA,MA,814-234-2886,www.blaisealexanderhyundai.com,40.7786911,-77.8813801,Pennsylvania,Hyundai
+PA095,Blaise Alexander Hyundai Of Altoona,101 Pleasant Valley Boulevard,Altoona,16602,PA,MA,814-946-5150,www.blaisehyundaialtoona.com,40.51668548583984,-78.37460327148438,Pennsylvania,Hyundai
+ME009,Darlings Hyundai Augusta,217 Old Winthrop Road,Augusta,04330,ME,EA,207-623-3846,www.darlingshyundai.com,44.3197605,-69.8186433,Maine,Hyundai
+ME004,Rowe Hyundai,699 Center Street,Auburn,04210,ME,EA,207-784-2321,www.rowehyundaiauburn.com,44.126106,-70.223508,Maine,Hyundai
+ME002,Quirk Hyundai Of Bangor,162 Haskell Road,Bangor,04401,ME,EA,207-947-0097,www.quirkhyundaiofbangor.com,44.8332637,-68.7384876,Maine,Hyundai
+VT008,Mcgee Hyundai Of Barre,1411 Us Route 302,Barre,05641,VT,EA,802-479-0586,www.mcgeehyundai.com,44.22816467285156,-72.55322265625,Vermont,Hyundai
+VT001,Burlington Hyundai,333 Shelburne Road,Burlington,05401,VT,EA,802-865-4414,www.hyundaivt.com,44.4562522,-73.2090759,Vermont,Hyundai
+NY096,Garvey Hyundai North,271 Tom Miller Road,Plattsburgh,12901,NY,EA,518-324-7007,www.garveynorth.com,44.7048741,-73.5026297,New York,Hyundai
+NY041,Garvey Hyundai,257 Dix Avenue,Queensbury,12804,NY,EA,518-792-9003,www.garveyhyundai.com,43.3174348,-73.6191297,New York,Hyundai
+AK003,Lithia Hyundai Of Anchorage,5400 Old Seward Highway,Anchorage,99518,AK,MS,907-762-5100,www.lithiahyundaianchorage.com,61.1718864440918,-149.8695831298828,Alaska,Hyundai
+MT014,Clark Hyundai,2955 Us 93 South,Kalispell,59901,MT,MS,406-755-5274,www.clarkhyundai.com,48.16292782268779,-114.2866312017224,Montana,Hyundai
+MT013,Missoula Hyundai,2715 Brooks,Missoula,59801,MT,MS,406-549-5178,www.missoulahyundai.com,46.8457352,-114.0235338,Montana,Hyundai
+MT007,Underriner Hyundai,3671 Pierce Parkway,Billings,59106,MT,MS,406-255-2361,www.underrinerhyundai.com,45.7337067,-108.6091629,Montana,Hyundai
+ND002,Don Bessette Hyundai,1715 N. Broadway,Minot,58702,ND,MS,701-852-3300,www.donbessettehyundai.com,48.2498172,-101.295093,North Dakota,Hyundai
