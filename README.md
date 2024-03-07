@@ -9,14 +9,14 @@ A growing repository of data scrapers that collect location information about po
 
 | Company category                  | Companies |    Locations |
 | ------------------------- | ----: | -----: |
-| Automotive                   |     1 |  2,091 |
+| Automotive                   |     2 |  2,091 |
 | Banking                   |     1 |  6,066 |
 | Beauty Products           |     2 |  3,013 |
 | Casual Dining             |     3 |  2,012 |
 | Clothing & Accessories    |     3 |    620 |
 | Coffee Shops & Desserts   |     4 | 21,733 |
 | Electronics & Appliances  |     1 |    526 |
-| Fast Food & Quick Service |    16 | 50,522 |
+| Fast Food & Quick Service |    17 | 50,570 |
 | Food & Beverage           |     2 |    236 |
 | Frozen Yogurt             |     3 |    529 |
 | Home Improvement          |     1 |  2,002 |
@@ -25,7 +25,7 @@ A growing repository of data scrapers that collect location information about po
 | Retail Stores             |    12 | 26,462 |
 | Shoes & Accessories       |     1 |    439 |
 | Specialty Foods           |     5 |   1856 |
-| **Total collected**               |    **57** | **119,062** |
+| **Total collected**               |    **59** | **119,000** |
 
 ### All the companies 
 This repo is a non-commercial exercise in data scraping practice, and it's a work in progress. I make no guarantees about the accuracy or completeness of the data.

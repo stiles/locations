@@ -1,0 +1,49 @@
+id,name,street,city,state,zipCode,latitude,longitude,phone,state_name,brand
+98,Peachtree Corners,"5161 Peachtree PKWY, #605",Norcross,GA,30092,33.98000647063222,-84.21784185109394,,Georgia,Nando's
+99,PERimeter,"120 High Street, Suite 210",Dunwoody,GA,30346,33.924941,-84.346361,,Georgia,Nando's
+TX,Mueller,1825 McBee Street,Austin,TX,78723,30.297298,-97.702375,,Texas,Nando's
+127951,Waugh Chapel,1403 S. Main Chapel Way Ste 111,Gambrills,MD,21054,39.0322832,-76.6856883,14433026225,Maryland,Nando's
+127952,Baltimore St,421 W. Baltimore St,Baltimore,MD,21201,39.2890885,-76.621934,14436813675,Maryland,Nando's
+127953,Woodbridge,15001 Potomac Town Place #150,Woodbridge,VA,22191,38.6287586,-77.2874083,15716596340,Virginia,Nando's
+127954,The Yards,300 Tingey St SE #150,Washington,DC,20003,38.8750946,-77.0011755,12025541920,,Nando's
+127955,Arundel Mills,7000 Arundel Mills Circle #229,Hanover,MD,21076,39.1571321,-76.7252813,14432966415,Maryland,Nando's
+127956,Gainesville,14030 Promenade Commons Ste D1,Gainesville,VA,20155,38.7879672,-77.6069137,17037534100,Virginia,Nando's
+127957,Tenleytown,4231 Wisconsin Ave NW,Washington,DC,20016,38.9441734,-77.0772522,12028211312,,Nando's
+127958,Ashburn,20556 Easthampton Plaza,Ashburn,VA,20147,39.0525571,-77.4542968,17038584200,Virginia,Nando's
+127959,Towson,109 E. Joppa Rd,Towson,MD,21286,39.4011841,-76.6008202,14108321380,Maryland,Nando's
+127960,Laurel,14722 Baltimore Ave Ste 107,Laurel,MD,20707,39.0942206,-76.8567361,13014970720,Maryland,Nando's
+127943,18th Street,1210 18th St NW,Washington,DC,20036,38.90615,-77.0419304,12026218600,,Nando's
+127961,Springfield,6802 Springfield Mall Ste 6802,Springfield,VA,22150,38.7746771,-77.1744734,15712556806,Virginia,Nando's
+127962,Harbor East,1100 Fleet St,Baltimore,MD,21202,39.284516,-76.5995112,14436815181,Maryland,Nando's
+127963,West Loop,953 W. Randolph St,Chicago,IL,60607,41.8840371,-87.6517382,13124883062,Illinois,Nando's
+127964,Lakeview,670 West Diversey Parkway,Chicago,IL,60614,41.9330169,-87.6464152,17736347153,Illinois,Nando's
+127965,Clybourn,1500 N. Clybourn Ave Ste C106,Chicago,IL,60610,41.9083122,-87.6462027,13125469723,Illinois,Nando's
+127966,College Park,7400 Baltimore Ave,College Park,MD,20740,38.980974,-76.9381355,12405828420,Maryland,Nando's
+127967,Wabash,22 S. Wabash Ave Ste B1,Chicago,IL,60603,41.8813694,-87.6266966,13125897432,Illinois,Nando's
+127968,Wheaton,11160 Veirs Mill Rd p205,Wheaton,MD,20902,39.0359362,-77.0547819,12402927530,Maryland,Nando's
+127969,H St,411 H St NE,Washington,DC,20002,38.8999297,-77.0000874,12028214155,,Nando's
+127970,Naperville,6 W. Jefferson Ave,Naperville,IL,60540,41.7726894,-88.1481044,16303880193,Illinois,Nando's
+127971,Oak Park,1138 Lake St,Oak Park,IL,60301,41.8888548,-87.8042626,17084346296,Illinois,Nando's
+127972,Mosaic,2987 District Ave Ste 100,Fairfax,VA,22031,38.8689264,-77.2316249,15716207731,Virginia,Nando's
+127973,South Loop,1005 S. Delano Court East Ste F126C,Chicago,IL,60605,41.8697312,-87.6324913,13122047151,Illinois,Nando's
+127974,Streeterville,227 E. Ontario St,Chicago,IL,60611,41.8931646,-87.6216438,13124886551,Illinois,Nando's
+127975,Woodley Park,2631 Connecticut Ave NW,Washington,DC,20008,38.9244751,-77.0517555,12022041251,,Nando's
+127976,Ballston,4401 Wilson Blvd,Arlington,VA,22203,38.8805325,-77.1135489,17038885459,Virginia,Nando's
+127977,Oakbrook,523 Oakbrook Center,Oak Brook,IL,60523,41.8520024,-87.9525821,16302304348,Illinois,Nando's
+127978,Old Orchard,4999 Old Orchard Ctr,Skokie,IL,60077,42.0615141,-87.7490376,18479726833,Illinois,Nando's
+127979,Hyde Park,1447 E 53rd St,Chicago,IL,60615,41.799232,-87.5899417,17736755261,Illinois,Nando's
+127980,Michigan Ave,117 E Lake St,Chicago,IL,60601,41.8855582,-87.6240636,13126625934,Illinois,Nando's
+127945,Silver Spring,924 Ellsworth Dr,Silver Spring,MD,20910,38.9955443,-77.0264455,13015887280,Maryland,Nando's
+127981,Reston,12120 Sunset Hills Rd,Reston,VA,20190,38.9549775,-77.3650574,15716655806,Virginia,Nando's
+127982,Rosslyn,1800 North Lynn Street,Rosslyn,VA,22209,38.8967418,-77.0708404,15712007909,Virginia,Nando's
+127983,Pike & Rose,922 Rose Ave,North Bethesda,MD,20814,39.0508951,-77.1165371,12406605050,Maryland,Nando's
+127984,Woodmore,2700 Campus Way N Suite 105,Lanham,MD,20706,38.92257,-76.84642,13013863946,Maryland,Nando's
+203119,Alexandria,2462 Mandeville Ln,Alexandria,VA,22332,38.802628,-77.0721,15714735500,Virginia,Nando's
+203279,Virginia Beach,221 Central Park Ave,Virginia Beach,VA,23462,36.8424866,-76.1344868,17572714320,Virginia,Nando's
+219542,Post Oak,1717-C Post Oak Boulevard,Houston,TX,77056,29.749248,-95.4597734,18326699930,Texas,Nando's
+224661,Cinco Ranch,23501 Cinco Ranch Blvd,Katy,TX,77494,29.7430409,-95.7751877,18327648570,Texas,Nando's
+224700,Addison,5100 Belt Line Road,Addison,TX,75254,32.9515904,-96.820602,14698920040,Texas,Nando's
+216907,Penn Quarter,836 F Street NW,Washington,DC,20004,38.8972055,-77.0235551,17712105300,,Nando's
+127946,Gaithersburg,224 Boardwalk Pl,Gaithersburg,MD,20878,39.1165871,-77.1977951,12404087146,Maryland,Nando's
+127948,National Harbor,191 American Way,Oxon Hill,MD,20745,38.7839365,-77.015291,13016868388,Maryland,Nando's
+127949,Pentagon Row,1301 S. Joyce St Ste D10,Arlington,VA,22202,38.8630991,-77.0631247,15718589953,Virginia,Nando's
