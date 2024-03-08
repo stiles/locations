@@ -40,7 +40,7 @@ This repo is a non-commercial exercise in data scraping practice, and it's a wor
 | [Au Bon Pain](https://github.com/stiles/locations/tree/main/au-bon-pain)               | Food & Beverage           |        71 |
 | [Bank of America](https://github.com/stiles/locations/tree/main/bank-of-america)       | Banking                   |     6,066 |
 | [Bass Pro/Cabela's](https://github.com/stiles/locations/tree/main/bass-pro-shops)       | Retail Stores                   |     155 |
-[Buc-ee's](https://github.com/stiles/locations/tree/main/buc-ees)                   | Retail Stores |     1,073 |
+[Buc-ee's](https://github.com/stiles/locations/tree/main/buc-ees)                   | Retail Stores |     47 |
 | [Carl's Jr.](https://github.com/stiles/locations/tree/main/carls-jr)                   | Fast Food & Quick Service |     1,026 |
 | [Chick-Fil-A](https://github.com/stiles/locations/tree/main/chick-fil-a)               | Fast Food & Quick Service |     2,896 |
 | [Chili's](https://github.com/stiles/locations/tree/main/chilis)                        | Casual Dining             |     1,229 |
