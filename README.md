@@ -22,10 +22,10 @@ A growing repository of data scrapers that collect location information about po
 | Home Improvement          |     1 |  2,002 |
 | Jewelry                   |     1 |    234 |
 | Pet Supplies              |     1 |    121 |
-| Retail Stores             |    13 | 26,617 |
+| Retail Stores             |    14 | 26,661 |
 | Shoes & Accessories       |     1 |    439 |
 | Specialty Foods           |     5 |   1856 |
-| **Total collected**               |    **61** | **119,988** |
+| **Total collected**               |    **62** | **120,035** |
 
 ### All the companies 
 This repo is a non-commercial exercise in data scraping practice, and it's a work in progress. I make no guarantees about the accuracy or completeness of the data.
@@ -40,6 +40,7 @@ This repo is a non-commercial exercise in data scraping practice, and it's a wor
 | [Au Bon Pain](https://github.com/stiles/locations/tree/main/au-bon-pain)               | Food & Beverage           |        71 |
 | [Bank of America](https://github.com/stiles/locations/tree/main/bank-of-america)       | Banking                   |     6,066 |
 | [Bass Pro/Cabela's](https://github.com/stiles/locations/tree/main/bass-pro-shops)       | Retail Stores                   |     155 |
+[Buc-ee's](https://github.com/stiles/locations/tree/main/buc-ees)                   | Retail Stores |     1,073 |
 | [Carl's Jr.](https://github.com/stiles/locations/tree/main/carls-jr)                   | Fast Food & Quick Service |     1,026 |
 | [Chick-Fil-A](https://github.com/stiles/locations/tree/main/chick-fil-a)               | Fast Food & Quick Service |     2,896 |
 | [Chili's](https://github.com/stiles/locations/tree/main/chilis)                        | Casual Dining             |     1,229 |

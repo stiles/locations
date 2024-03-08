@@ -1,0 +1,48 @@
+store_number,street,city,state_name,zip,latitude,longitude,brand
+#57,2328 Lindsay Lane South,Athens,Alabama,35613,34.7285362,-86.93252690000001,Buc-ees
+#58,2500 Buc-ee’s Blvd,Auburn,Alabama,36832,32.5520992,-85.526638,Buc-ees
+#43,6900 Buc-ee’s Blvd.,Leeds,Alabama,35094,33.5444423,-86.5865903,Buc-ees
+#42,20403 County Rd. 68,Robertsdale,Alabama,36567,30.6332992,-87.6745534,Buc-ees
+#47,2330 Gateway North Drive,Daytona Beach,Florida,32117,29.223603,-81.10090699999999,Buc-ees
+#46,200 World Commerce Pkwy,Saint Augustine,Florida,32092,29.983727,-81.46404799999999,Buc-ees
+#52,601 Union Grove Rd. SE,Adairsville,Georgia,30103,34.4402225,-84.91669619999999,Buc-ees
+#51,7001 Russell Parkway,Fort Valley,Georgia,31030,32.5842634,-83.7404681,Buc-ees
+#55,1013 Buc-ee's Boulevard,Richmond,Kentucky,40475,37.6731109,-84.3082809,Buc-ees
+#62,3284 N Beaver Rd,Springfield,Missouri,65803,37.2545564,-93.18266779999999,Buc-ees
+#53,3390 North Williston Road,Florence,South Carolina,29506,34.2716942,-79.7023605,Buc-ees
+#50,2045 Genesis Road,Crossville,Tennessee,38555,35.9803724,-85.0153062,Buc-ees
+#45,170 Buc-ee’s Blvd,Kodak,Tennessee,37764,35.9812258,-83.6045773,Buc-ees
+#14,780 Hwy-35 N Byp,Alvin,Texas,77511,29.4301564,-95.22634939999999,Buc-ees
+#13,2299 E Mulberry St,Angleton,Texas,77515,29.18481389999999,-95.4088246,Buc-ees
+#21,931 Loop 274,Angleton,Texas,77515,29.17302,-95.433649,Buc-ees
+#25,2304 W Mulberry St,Angleton,Texas,77515,29.16399639999999,-95.4549708,Buc-ees
+#28,1700 Highway 71 East,Bastrop,Texas,78602,30.1070467,-97.30582419999999,Buc-ees
+#34,4080 East Freeway,Baytown,Texas,77521,29.8003521,-94.9995046,Buc-ees
+#3,801 N Brooks,Brazoria,Texas,77422,29.055565,-95.5718605,Buc-ees
+#32,27106 US-290,Cypress,Texas,77433,29.9807931,-95.7182582,Buc-ees
+#39,2800 S Interstate 35 E,Denton,Texas,76210,33.1791596,-97.1016215,Buc-ees
+#24,505 E Main St,Eagle Lake,Texas,77434,29.5858758,-96.3317464,Buc-ees
+#48,1402 South IH- 45,Ennis,Texas,75119,32.3042725,-96.5837781,Buc-ees
+#37,15901 N Freeway,Fort Worth,Texas,76177,33.0243677,-97.27801529999999,Buc-ees
+#7,4231 E. Hwy 332,Freeport,Texas,77541,28.98121339999999,-95.33674239999999,Buc-ees
+#8,1002 N Brazosport Blvd.,Freeport,Texas,77541,28.96948829999999,-95.3699512,Buc-ees
+#16,2375 E Austin St,Giddings,Texas,78942,30.1796859,-96.91386070000001,Buc-ees
+#40,27700 Katy Fwy,Katy,Texas,77494,29.7790711,-95.8457177,Buc-ees
+#1,899 Oyster Creek Drive,Lake Jackson,Texas,77566,29.04065469999999,-95.4131409,Buc-ees
+#2,101 N Hwy 2004,Lake Jackson,Texas,77566,29.0338575,-95.4343859,Buc-ees
+#29,598 Hwy 332,Lake Jackson,Texas,77566,29.02278179999999,-95.43633369999999,Buc-ees
+#23,1702 League City Pkwy,League City,Texas,77573,29.4988789,-95.0563313,Buc-ees
+#17,10070 West IH 10,Luling,Texas,78658,29.6518297,-97.6578644,Buc-ees
+#26,205 IH-45 South,Madisonville,Texas,77864,30.9655301,-95.8805656,Buc-ees
+#44,1550 Central Texas Expressway,Melissa,Texas,75454,33.2853697,-96.572036,Buc-ees
+#22,2760 IH 35 North,New Braunfels,Texas,78130,29.7270239,-98.0790445,Buc-ees
+#19,2541 S Main St,Pearland,Texas,77584,29.5603031,-95.28521990000002,Buc-ees
+#20,11151 Shadow Creek Pky,Pearland,Texas,77584,29.5805007,-95.391951,Buc-ees
+#12,2318 W Main,Port Lavaca,Texas,77979,28.6100238,-96.64890439999999,Buc-ees
+#31,1243 Crabb River Rd,Richmond,Texas,77469,29.5519558,-95.69722619999999,Buc-ees
+#38,5005 E Interstate 30,Royse City,Texas,75189,32.9792639,-96.2949132,Buc-ees
+#35,4155 N General Bruce Dr.,Temple,Texas,76501,31.1362095,-97.3292515,Buc-ees
+#36,506 W. IH 20,Terrell,Texas,75160,32.7167775,-96.32119499999999,Buc-ees
+#33,6201 Gulf Fwy (IH 45),Texas City,Texas,77591,29.42896459999999,-95.0627966,Buc-ees
+#18,40900 US Hwy 290 Bypass,Waller,Texas,77484,30.0566085,-95.9268986,Buc-ees
+#30,10484 US 59 Road,Wharton,Texas,77488,29.3253961,-96.1231698,Buc-ees
