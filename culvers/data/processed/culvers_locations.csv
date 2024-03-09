@@ -1,0 +1,795 @@
+id,latitude,longitude,street,city,state,zip,url,state_name,brand,updated
+881,29.695100784301758,-95.8489990234375,6677 Flewellen Way,Fulshear,TX,77441,https://www.culvers.com/restaurants/fulshear-tx-flewellen-way,Texas,Culver's,03/09/2024
+64,33.169715881347656,-96.6721420288086,4200 W Eldorado Pkwy,McKinney,TX,75070,https://www.culvers.com/restaurants/mckinney,Texas,Culver's,03/09/2024
+554,33.069480895996094,-96.87834930419922,5100 State Hwy 121,Lewisville,TX,75056,https://www.culvers.com/restaurants/the-colony-tx-hwy121,Texas,Culver's,03/09/2024
+224,32.90032196044922,-96.46711730957031,2475 Ridge Rd,Rockwall,TX,75087,https://www.culvers.com/restaurants/rockwall,Texas,Culver's,03/09/2024
+319,33.01329040527344,-97.07262420654297,2709 Flower Mound Rd,Flower Mound,TX,75022,https://www.culvers.com/restaurants/flower-mound,Texas,Culver's,03/09/2024
+710,30.51930046081543,-97.64900207519531,2320 E Palm Valley Blvd,Round Rock,TX,78665,https://www.culvers.com/restaurants/round-rock-tx-palm-valley-blvd,Texas,Culver's,03/09/2024
+71,30.391393661499023,-97.71392822265625,2240 W Braker Ln,Austin,TX,78758,https://www.culvers.com/restaurants/austin-braker,Texas,Culver's,03/09/2024
+50,30.213727951049805,-97.82935333251953,3424 W William Cannon Dr,Austin,TX,78745,https://www.culvers.com/restaurants/austin-cannon,Texas,Culver's,03/09/2024
+814,41.77360153198242,-87.7417984008789,6541 S Cicero Ave,Chicago,IL,60638,https://www.culvers.com/restaurants/chicago-il-cicero-ave,Illinois,Culver's,03/09/2024
+482,41.71987533569336,-87.70140075683594,9515 S Kedzie Ave,Evergreen Park,IL,60805,https://www.culvers.com/restaurants/evergreen-park-il,Illinois,Culver's,03/09/2024
+598,41.696712493896484,-87.7393798828125,10745 S Cicero Ave,Oak Lawn,IL,60453,https://www.culvers.com/restaurants/oak-lawn-il-cicero-ave,Illinois,Culver's,03/09/2024
+252,41.72407913208008,-87.79814147949219,9229 S Harlem Ave,Bridgeview,IL,60455,https://www.culvers.com/restaurants/bridgeview,Illinois,Culver's,03/09/2024
+650,41.83338165283203,-87.61665344238281,3355 S Martin Luther King Dr ,Chicago,IL,60616,https://www.culvers.com/restaurants/chicago-il-3355-s-martin-luther-king-dr,Illinois,Culver's,03/09/2024
+397,41.81589126586914,-87.82643127441406,8211 Ogden Ave,Lyons,IL,60534,https://www.culvers.com/restaurants/lyons,Illinois,Culver's,03/09/2024
+436,41.864864349365234,-87.79837036132812,6943 W Roosevelt Rd,Berwyn,IL,60402,https://www.culvers.com/restaurants/berwyn,Illinois,Culver's,03/09/2024
+834,41.693199157714844,-87.60140228271484,11050 S. Doty Avenue W,Chicago,IL,60628,https://www.culvers.com/restaurants/chicago-il-doty-ave,Illinois,Culver's,03/09/2024
+925,41.89500045776367,-87.735107421875,4347 W Chicago Avenue,Chicago,IL,60624,https://www.culvers.com/restaurants/chicago-jpstc-w-chicago-ave,Illinois,Culver's,03/09/2024
+514,41.65031051635742,-87.73883819580078,13300 Cicero Ave,Crestwood,IL,60418,https://www.culvers.com/restaurants/crestwood-il,Illinois,Culver's,03/09/2024
+671,41.92573547363281,-87.81587982177734,7542 W Grand Ave,Elmwood Park,IL,60707,https://www.culvers.com/restaurants/elmwood-park-il-w-grand-ave,Illinois,Culver's,03/09/2024
+934,41.94689178466797,-87.65752410888672,1111 W Addison St,Chicago,IL,60613,https://www.culvers.com/restaurants/wrigleyville-il-w-addison,Illinois,Culver's,03/09/2024
+935,41.60330581665039,-87.75155639648438,5410 W. 159th St. ,Oak Forest,IL,60452,https://www.culvers.com/restaurants/oak-forest-il-159st,Illinois,Culver's,03/09/2024
+649,41.95317459106445,-87.75173950195312,4939 W Irving Park Rd ,Chicago,IL,60641,https://www.culvers.com/restaurants/chicago-il-w-irving-park-rd,Illinois,Culver's,03/09/2024
+812,41.96139907836914,-87.67539978027344,1819 W Montrose Ave,Chicago,IL,60613,https://www.culvers.com/restaurants/chicago-il-montrose-ave,Illinois,Culver's,03/09/2024
+69,41.75442123413086,-87.95960235595703,541 Plainfield Rd,Darien,IL,60561,https://www.culvers.com/restaurants/darien,Illinois,Culver's,03/09/2024
+292,41.92869567871094,-87.86442565917969,2751 Rose St,Franklin Park,IL,60131,https://www.culvers.com/restaurants/franklin-park,Illinois,Culver's,03/09/2024
+658,41.96298599243164,-87.80757904052734,4538 N Harlem Ave,Harwood Heights,IL,60706,https://www.culvers.com/restaurants/harwood-heights-il-n-harlem-ave,Illinois,Culver's,03/09/2024
+418,41.60187911987305,-87.84200286865234,9130 159th St,Orland Park,IL,60462,https://www.culvers.com/restaurants/orland-park,Illinois,Culver's,03/09/2024
+917,41.99079895019531,-87.70709991455078,6012 N Albany Ave,Chicago,IL,60659,https://www.culvers.com/restaurants/chicago-w-peterson-ave,Illinois,Culver's,03/09/2024
+718,41.91130065917969,-87.94020080566406,436 N York St,Elmhurst,IL,60126,https://www.culvers.com/restaurants/elmhurst-il-n-york-st,Illinois,Culver's,03/09/2024
+836,41.62950134277344,-87.92939758300781,12712 W 143rd St,Homer Glen,IL,60491,https://www.culvers.com/restaurants/homer-glen-il-143rd,Illinois,Culver's,03/09/2024
+245,41.58616638183594,-87.55997467041016,17010 Torrence Ave,Lansing,IL,60438,https://www.culvers.com/restaurants/lansing-il,Illinois,Culver's,03/09/2024
+146,41.55916976928711,-87.78878021240234,18248 Sayre Ave,Tinley Park,IL,60477,https://www.culvers.com/restaurants/tinley-park,Illinois,Culver's,03/09/2024
+357,41.558006286621094,-87.63817596435547,850 W 183rd St,Homewood,IL,60430,https://www.culvers.com/restaurants/homewood,Illinois,Culver's,03/09/2024
+279,41.861305236816406,-88.0169448852539,1155 S Main St,Lombard,IL,60148,https://www.culvers.com/restaurants/lombard,Illinois,Culver's,03/09/2024
+298,41.80560302734375,-88.04639434814453,2500 Ogden Ave,Downers Grove,IL,60515,https://www.culvers.com/restaurants/downers-grove,Illinois,Culver's,03/09/2024
+421,42.007904052734375,-87.88572692871094,7050 Mannheim Rd,Rosemont,IL,60018,https://www.culvers.com/restaurants/rosemont,Illinois,Culver's,03/09/2024
+343,41.51238250732422,-87.73319244384766,20716 Cicero Ave,Matteson,IL,60443,https://www.culvers.com/restaurants/matteson,Illinois,Culver's,03/09/2024
+868,41.56959915161133,-87.47869873046875,7905 Cabela Drive,Hammond,IN,46324,https://www.culvers.com/restaurants/hammond-in,Indiana,Culver's,03/09/2024
+443,42.04109191894531,-87.80960083007812,7310 W Dempster St,Morton Grove,IL,60053,https://www.culvers.com/restaurants/morton-grove,Illinois,Culver's,03/09/2024
+615,42.05281448364258,-87.743896484375,9455 N Skokie Blvd,Skokie,IL,60077,https://www.culvers.com/restaurants/skokie-il-skokie-blvd,Illinois,Culver's,03/09/2024
+203,41.70301055908203,-88.06783294677734,250 N Bolingbrook Dr,Bolingbrook,IL,60440,https://www.culvers.com/restaurants/bolingbrook,Illinois,Culver's,03/09/2024
+276,41.517173767089844,-87.85054779052734,20592 S La Grange Rd,Frankfort,IL,60423,https://www.culvers.com/restaurants/frankfort,Illinois,Culver's,03/09/2024
+255,41.944427490234375,-88.0215072631836,1347 W Lake St,Addison,IL,60101,https://www.culvers.com/restaurants/addison,Illinois,Culver's,03/09/2024
+879,41.85850143432617,-88.09329986572266,908 E Roosevelt Rd,Wheaton,IL,60187,https://www.culvers.com/restaurants/wheaton-il-roosevelt-rd,Illinois,Culver's,03/09/2024
+506,41.59677505493164,-88.02676391601562,15940 S Farrell Rd,Lockport,IL,60441,https://www.culvers.com/restaurants/lockport-il,Illinois,Culver's,03/09/2024
+728,41.797298431396484,-88.12030029296875,1515 N Naper Blvd,Naperville,IL,60563,https://www.culvers.com/restaurants/naperville-il-naper-blvd,Illinois,Culver's,03/09/2024
+477,41.551300048828125,-87.43303680419922,3950 Ridge Rd,Highland,IN,46322,https://www.culvers.com/restaurants/highland-in,Indiana,Culver's,03/09/2024
+211,41.89631271362305,-88.10292053222656,290 Schmale Rd,Carol Stream,IL,60188,https://www.culvers.com/restaurants/carol-stream,Illinois,Culver's,03/09/2024
+705,42.08639907836914,-87.79759979248047,1727 Waukegan Rd,Glenview,IL,60025,https://www.culvers.com/restaurants/glenview-il-waukegan-rd,Illinois,Culver's,03/09/2024
+263,42.0364875793457,-87.95865631103516,1501 Dempster St ,Mt. Prospect,IL,60056,https://www.culvers.com/restaurants/mt-prospect,Illinois,Culver's,03/09/2024
+430,41.51274490356445,-87.95587158203125,421 E Lincoln Hwy,New Lenox,IL,60451,https://www.culvers.com/restaurants/new-lenox,Illinois,Culver's,03/09/2024
+442,41.468719482421875,-87.57589721679688,23180 Volbrecht Rd,Crete,IL,60417,https://www.culvers.com/restaurants/crete,Illinois,Culver's,03/09/2024
+246,41.64249038696289,-88.12267303466797,485 N Weber Rd,Romeoville,IL,60446,https://www.culvers.com/restaurants/romeoville,Illinois,Culver's,03/09/2024
+293,41.49124526977539,-87.47505187988281,980 W Lincoln Hwy,Schererville,IN,46375,https://www.culvers.com/restaurants/schererville,Indiana,Culver's,03/09/2024
+456,42.072853088378906,-87.95682525634766,2060 Northwest Hwy,Arlington Heights,IL,60004,https://www.culvers.com/restaurants/arlington-heights,Illinois,Culver's,03/09/2024
+487,41.426658630371094,-87.7536849975586,5871 W Monee Manhattan Rd,Monee,IL,60449,https://www.culvers.com/restaurants/monee-il,Illinois,Culver's,03/09/2024
+894,41.953521728515625,-88.12261962890625,455 W Schick Rd,Bloomingdale,IL,60108,https://www.culvers.com/restaurants/bloomingdale-il-schick-rd,Illinois,Culver's,03/09/2024
+752,42.138099670410156,-87.88189697265625,4105 Dundee Rd,Northbrook,IL,60062,https://www.culvers.com/restaurants/northbrook-il-dundee-rd,Illinois,Culver's,03/09/2024
+370,42.06858444213867,-88.04279327392578,1410 E Algonquin Rd ,Schaumburg,IL,60173,https://www.culvers.com/restaurants/schaumburg-algonquin,Illinois,Culver's,03/09/2024
+65,42.004051208496094,-88.1243667602539,1800 Wise Rd,Schaumburg,IL,60193,https://www.culvers.com/restaurants/schaumburg-wise,Illinois,Culver's,03/09/2024
+608,34.053470611572266,-83.99523162841797,2924 Buford Dr,Buford,GA,30519,https://www.culvers.com/restaurants/buford-ga-buford-dr,Georgia,Culver's,03/09/2024
+722,34.0804328918457,-84.05809783935547,230 Peachtree Industrial Blvd,Sugar Hill,GA,30518,https://www.culvers.com/restaurants/sugar-hill-ga-peachtree-industrial,Georgia,Culver's,03/09/2024
+612,33.906532287597656,-84.00389099121094,1133 Scenic Hwy S,Lawrenceville,GA,30045,https://www.culvers.com/restaurants/lawrenceville-ga-scenic-hwy-sw,Georgia,Culver's,03/09/2024
+662,34.086578369140625,-84.16339874267578,3135 Peachtree Pkwy,Suwanee,GA,30024,https://www.culvers.com/restaurants/johns-creek-ga-peachtree,Georgia,Culver's,03/09/2024
+663,34.119712829589844,-83.82638549804688,2660 Old Winder Hwy,Braselton,GA,30517,https://www.culvers.com/restaurants/braselton-ga-old-winder,Georgia,Culver's,03/09/2024
+701,34.1721305847168,-84.18685913085938,5512 Bethelview Rd,Cumming,GA,30040,https://www.culvers.com/restaurants/cumming-ga-bethelview-rd,Georgia,Culver's,03/09/2024
+666,34.30455780029297,-83.8599853515625,1260 Dawsonville Hwy NE,Gainesville,GA,30501,https://www.culvers.com/restaurants/gainesville-ga-dawsonville-hwy,Georgia,Culver's,03/09/2024
+565,34.360939025878906,-84.04151153564453,252 S 400 Center Ln,Dawsonville,GA,30534,https://www.culvers.com/restaurants/dawsonville-ga-center-ln,Georgia,Culver's,03/09/2024
+611,36.17561340332031,-86.51469421386719,35 Old Pleasant Grove Rd,Mt. Juliet,TN,37122,https://www.culvers.com/restaurants/mt-juliet-tn-old-pleasant-grove-rd,Tennessee,Culver's,03/09/2024
+457,35.940284729003906,-86.82086944580078,3400 Mallory Ln,Franklin,TN,37067,https://www.culvers.com/restaurants/franklin-tn,Tennessee,Culver's,03/09/2024
+423,35.85799026489258,-86.43997192382812,2411 Medical Center Pkwy,Murfreesboro,TN,37129,https://www.culvers.com/restaurants/murfreesboro,Tennessee,Culver's,03/09/2024
+528,36.328495025634766,-86.59319305419922,290 Indian Lake Blvd,Hendersonville,TN,37075,https://www.culvers.com/restaurants/hendersonville-tn,Tennessee,Culver's,03/09/2024
+475,35.83421325683594,-86.3514404296875,2993 S Rutherford Blvd,Murfreesboro,TN,37130,https://www.culvers.com/restaurants/murfreesboro-tn-rutherford,Tennessee,Culver's,03/09/2024
+583,35.769371032714844,-86.91883850097656,3016 Belshire Village Dr,Spring Hill,TN,37174,https://www.culvers.com/restaurants/spring-hill-tn-belshire-village-dr,Tennessee,Culver's,03/09/2024
+270,29.56261444091797,-98.59877014160156,5836 De Zavala Rd,San Antonio,TX,78249,https://www.culvers.com/restaurants/san-antonio,Texas,Culver's,03/09/2024
+158,42.16120529174805,-87.96218872070312,450 McHenry Rd,Buffalo Grove,IL,60089,https://www.culvers.com/restaurants/buffalo-grove,Illinois,Culver's,03/09/2024
+652,42.20005416870117,-87.93238830566406,405 Milwaukee Ave,Lincolnshire,IL,60069,https://www.culvers.com/restaurants/lincolnshire-il-milwaukee-ave,Illinois,Culver's,03/09/2024
+186,42.14271545410156,-88.02452087402344,1765 N Rand Rd,Palatine,IL,60074,https://www.culvers.com/restaurants/palatine,Illinois,Culver's,03/09/2024
+795,41.953399658203125,-88.20600128173828,1430 S Illinois Route 59,Bartlett,IL,60103,https://www.culvers.com/restaurants/bartlett-il-route-59,Illinois,Culver's,03/09/2024
+775,41.81740188598633,-88.2040023803711,3S525 Illinois Rte 59,Warrenville,IL,60555,https://www.culvers.com/restaurants/warrenville-illinois-rte-59,Illinois,Culver's,03/09/2024
+570,42.069087982177734,-88.193359375,4635 Hoffman Blvd,Hoffman Estates,IL,60192,https://www.culvers.com/restaurants/hoffman-estates-il-hoffman-blvd,Illinois,Culver's,03/09/2024
+491,30.069549560546875,-95.24241638183594,331 Northpark Dr,Kingwood,TX,77339,https://www.culvers.com/restaurants/kingwood-tx,Texas,Culver's,03/09/2024
+375,29.988082885742188,-95.19277954101562,5420 E Atascocita Rd,Atascocita,TX,77346,https://www.culvers.com/restaurants/atascocita,Texas,Culver's,03/09/2024
+446,30.332895278930664,-95.48236846923828,1426 N Loop 336 W,Conroe,TX,77304,https://www.culvers.com/restaurants/conroe,Texas,Culver's,03/09/2024
+613,34.170310974121094,-84.41484069824219,6778 Hickory Flat Hwy,Canton,GA,30115,https://www.culvers.com/restaurants/canton-ga-hickory-flat-hwy,Georgia,Culver's,03/09/2024
+809,34.0885009765625,-84.49120330810547,11799 Hwy 92,Woodstock,GA,30188,https://www.culvers.com/restaurants/woodstock-ga-hwy-92,Georgia,Culver's,03/09/2024
+694,34.472801208496094,-84.46189880371094,955 Noah Dr,Jasper,GA,30143,https://www.culvers.com/restaurants/jasper-ga-noah-dr,Georgia,Culver's,03/09/2024
+55,41.748348236083984,-88.20668029785156,509 S. Rt 59,Aurora,IL,60504,https://www.culvers.com/restaurants/aurora,Illinois,Culver's,03/09/2024
+581,35.290523529052734,-80.76471710205078,7031 University City Blvd,Charlotte,NC,28262,https://www.culvers.com/restaurants/charlotte-nc-university-city-blvd,North Carolina,Culver's,03/09/2024
+777,35.46900177001953,-80.59020233154297,2901 Dale Earnhardt Blvd,Kannapolis,NC,28083,https://www.culvers.com/restaurants/kannapolis-nc-dale-earnhardt-blvd,North Carolina,Culver's,03/09/2024
+910,35.25486755371094,-81.0289077758789,874 Hawley Ave,Belmont ,NC,28012,https://www.culvers.com/restaurants/belmont-hawley-ave,North Carolina,Culver's,03/09/2024
+771,35.58300018310547,-80.85209655761719,388 Talbert Rd,Mooresville,NC,28117,https://www.culvers.com/restaurants/mooresville-nc-talbert-rd,North Carolina,Culver's,03/09/2024
+481,35.0934944152832,-80.93618774414062,3521 Foothills Way,Fort Mill,SC,29708,https://www.culvers.com/restaurants/fort-mill-sc,South Carolina,Culver's,03/09/2024
+727,35.04679870605469,-80.6436996459961,5122 Old Charlotte Hwy,Indian Trail,NC,28079,https://www.culvers.com/restaurants/indian-trail-nc-charlotte-hwy,North Carolina,Culver's,03/09/2024
+575,36.591148376464844,-87.29512786865234,140 S Hampton Pl,Clarksville,TN,37040,https://www.culvers.com/restaurants/clarksville-tn-hampton-pl,Tennessee,Culver's,03/09/2024
+137,38.78922653198242,-90.56525421142578,2750 Muegge Rd,St. Charles,MO,63303,https://www.culvers.com/restaurants/st-charles,Missouri,Culver's,03/09/2024
+610,38.792572021484375,-90.69459533691406,8500 Mexico Rd,O'Fallon,MO,63366,https://www.culvers.com/restaurants/ofallon-mo-mexico-rd,Missouri,Culver's,03/09/2024
+237,38.723114013671875,-90.6999282836914,4351 Hwy K,O'Fallon,MO,63368,https://www.culvers.com/restaurants/ofallon-mo,Missouri,Culver's,03/09/2024
+396,38.668827056884766,-90.60396575927734,17349 Chesterfield Airport Rd,Chesterfield,MO,63005,https://www.culvers.com/restaurants/chesterfield,Missouri,Culver's,03/09/2024
+875,38.59130096435547,-90.5905990600586,15978 Manchester Rd,Ellisville,MO,63011,https://www.culvers.com/restaurants/ellisville-mo-mancheter-rd,Missouri,Culver's,03/09/2024
+335,38.81745147705078,-90.87659454345703,1898 Wentzville Pkwy,Wentzville,MO,63385,https://www.culvers.com/restaurants/wentzville,Missouri,Culver's,03/09/2024
+578,38.592979431152344,-90.51914978027344,14444 Manchester Rd,Manchester,MO,63011,https://www.culvers.com/restaurants/manchester-mo-manchester-rd,Missouri,Culver's,03/09/2024
+534,38.79969787597656,-90.32849884033203,975 N Hwy 67 ,Florissant,MO,63031,https://www.culvers.com/restaurants/florissant-mo,Missouri,Culver's,03/09/2024
+429,38.506675720214844,-90.63375854492188,400 Meramec Blvd,Eureka,MO,63025,https://www.culvers.com/restaurants/eureka,Missouri,Culver's,03/09/2024
+476,38.5675163269043,-90.39517211914062,10200 Big Bend Blvd,St. Louis,MO,63122,https://www.culvers.com/restaurants/crestwood-mo,Missouri,Culver's,03/09/2024
+201,38.52450180053711,-90.47181701660156,1024 Bowles Ave,Fenton,MO,63026,https://www.culvers.com/restaurants/fenton-mo,Missouri,Culver's,03/09/2024
+290,38.51047134399414,-90.33966064453125,4140 Rusty Rd,St. Louis,MO,63128,https://www.culvers.com/restaurants/st-louis-rusty,Missouri,Culver's,03/09/2024
+667,33.2494010925293,-111.56609344482422,140 W Ocotillo Rd,Queen Creek,AZ,85140,https://www.culvers.com/restaurants/queen-creek-az-ocotillo-rd,Arizona,Culver's,03/09/2024
+786,33.2848014831543,-111.75589752197266,3610 S Val Vista Dr,Gilbert,AZ,85297,https://www.culvers.com/restaurants/gilbert-az-val-vista,Arizona,Culver's,03/09/2024
+609,33.39122009277344,-111.61499786376953,1263 S Crismon Rd,Mesa,AZ,85209,https://www.culvers.com/restaurants/mesa-az-crismon-rd,Arizona,Culver's,03/09/2024
+468,33.38134765625,-111.73899841308594,1841 S Greenfield Rd,Mesa,AZ,85206,https://www.culvers.com/restaurants/mesa-az-greenfield,Arizona,Culver's,03/09/2024
+684,33.283565521240234,-111.84196472167969,1510 S Arizona Ave,Chandler,AZ,85286,https://www.culvers.com/restaurants/chandler-az-s-arizona-rd,Arizona,Culver's,03/09/2024
+371,33.379966735839844,-111.83955383300781,1909 S Country Club Dr,Mesa,AZ,85210,https://www.culvers.com/restaurants/mesa,Arizona,Culver's,03/09/2024
+445,33.31972885131836,-111.89663696289062,3155 W Ray Rd,Chandler,AZ,85226,https://www.culvers.com/restaurants/chandler,Arizona,Culver's,03/09/2024
+531,33.3934211730957,-111.92979431152344,630 E Southern Ave,Tempe,AZ,85282,https://www.culvers.com/restaurants/tempe-az-southern-ave,Arizona,Culver's,03/09/2024
+425,32.87911605834961,-111.68152618408203,2453 E Florence Blvd,Casa Grande,AZ,85194,https://www.culvers.com/restaurants/casa-grande,Arizona,Culver's,03/09/2024
+466,33.582740783691406,-111.8936538696289,8668 E Shea Blvd,Scottsdale,AZ,85260,https://www.culvers.com/restaurants/scottsdale-az,Arizona,Culver's,03/09/2024
+408,33.50898361206055,-112.0630874633789,825 E Camelback Rd,Phoenix,AZ,85014,https://www.culvers.com/restaurants/phoenix-camelback,Arizona,Culver's,03/09/2024
+616,33.064903259277344,-112.04854583740234,20430 N John Wayne Pkwy,Maricopa,AZ,85139,https://www.culvers.com/restaurants/maricopa-az-john-wayne-pkwy,Arizona,Culver's,03/09/2024
+778,41.43980026245117,-87.46929931640625,9845 Wicker Ave,St. John,IN,46373,https://www.culvers.com/restaurants/st-johns-indiana,Indiana,Culver's,03/09/2024
+196,41.473453521728516,-87.31755828857422,1579 E 79th Ave,Merrillville,IN,46410,https://www.culvers.com/restaurants/merrillville,Indiana,Culver's,03/09/2024
+503,41.42797088623047,-87.33731079101562,1800 E Summit St,Crown Point,IN,46307,https://www.culvers.com/restaurants/crown-point-in,Indiana,Culver's,03/09/2024
+254,41.5499267578125,-87.17744445800781,6139 US Hwy 6,Portage,IN,46368,https://www.culvers.com/restaurants/portage-in,Indiana,Culver's,03/09/2024
+945,41.3768424987793,-87.45362091064453,9717 W 133rd Ave,Cedar Lake,IN,46303,https://www.culvers.com/restaurants/cedar-lake-in-w-133rd-ave,Indiana,Culver's,03/09/2024
+716,35.657100677490234,-78.48059844970703,11959 US Hwy 70 Bus W,Clayton,NC,27520,https://www.culvers.com/restaurants/clayton-nc-us-hwy-70,North Carolina,Culver's,03/09/2024
+633,35.95305252075195,-78.5245590209961,2819 Rogers Rd,Wake Forest ,NC,27587,https://www.culvers.com/restaurants/wake-forest-nc-rogers-rd,North Carolina,Culver's,03/09/2024
+773,35.60139846801758,-78.75360107421875,1860 Cinema Dr,Fuquay-Varina,NC,27526,https://www.culvers.com/restaurants/fuquay-varina-nc,North Carolina,Culver's,03/09/2024
+731,35.73680114746094,-78.89530181884766,1401 Kelly Rd,Apex,NC,27502,https://www.culvers.com/restaurants/apex-nc-kelly-rd,North Carolina,Culver's,03/09/2024
+219,38.854278564453125,-94.8033447265625,18685 W 151st St,Olathe,KS,66062,https://www.culvers.com/restaurants/olathe,Kansas,Culver's,03/09/2024
+277,38.88447952270508,-94.68487548828125,8600 W 135th St,Overland Park,KS,66223,https://www.culvers.com/restaurants/overland-park,Kansas,Culver's,03/09/2024
+725,38.97050094604492,-94.7708969116211,15911 W 87th St Pkwy,Lenexa,KS,66219,https://www.culvers.com/restaurants/87th-st-pkwy-lenexa-ks,Kansas,Culver's,03/09/2024
+976,38.7846,-94.928,18970 Gardner Rd ,Gardner,KS,66030,https://www.culvers.com/restaurants/gardner-ks-gardner-rd,Kansas,Culver's,03/09/2024
+249,38.98359680175781,-94.60785675048828,7953 State Line Rd,Kansas City,MO,64114,https://www.culvers.com/restaurants/kansas-city-mo,Missouri,Culver's,03/09/2024
+461,39.02016830444336,-94.6672134399414,6005 Metcalf Ave,Mission,KS,66202,https://www.culvers.com/restaurants/mission-ks,Kansas,Culver's,03/09/2024
+410,38.81193161010742,-94.48436737060547,1621 W Foxwood Dr,Raymore,MO,64083,https://www.culvers.com/restaurants/raymore,Missouri,Culver's,03/09/2024
+339,39.1280517578125,-94.82060241699219,1925 Prairie Crossing,Kansas City,KS,66111,https://www.culvers.com/restaurants/kansas-city-ks,Kansas,Culver's,03/09/2024
+265,38.942222595214844,-94.37747955322266,1701 NE Douglas St,Lee's Summit,MO,64086,https://www.culvers.com/restaurants/lees-summit,Missouri,Culver's,03/09/2024
+784,38.902000427246094,-94.33979797363281,1275 SE Oldham Pkwy,Lee's Summit,MO,64081,https://www.culvers.com/restaurants/lees-summit-mo-oldham-pkwy,Missouri,Culver's,03/09/2024
+378,42.24018478393555,-87.98773956298828,220 Oak Creek Plz,Mundelein,IL,60060,https://www.culvers.com/restaurants/mundelein,Illinois,Culver's,03/09/2024
+234,42.281436920166016,-87.93952178955078,803 E Park Ave,Libertyville,IL,60048,https://www.culvers.com/restaurants/libertyville,Illinois,Culver's,03/09/2024
+582,33.39011001586914,-84.76190185546875,311 Newnan Crossing Byp,Newnan,GA,30265,https://www.culvers.com/restaurants/newnan-ga-newnan-crossing-byp,Georgia,Culver's,03/09/2024
+636,33.426490783691406,-84.18458557128906,90 Hwy 81 W,McDonough,GA,30253,https://www.culvers.com/restaurants/mcdonough-ga-hwy-81,Georgia,Culver's,03/09/2024
+734,35.644901275634766,-80.48519897460938,730 Jake Alexander Blvd S,Salisbury,NC,28147,https://www.culvers.com/restaurants/salisbury-nc-jake-alexander-blvd,North Carolina,Culver's,03/09/2024
+540,39.5185546875,-104.7742691040039,18561 E Mainstreet,Parker,CO,80134,https://www.culvers.com/restaurants/parker-co,Colorado,Culver's,03/09/2024
+689,39.41019821166992,-104.86920166015625,654 Genoa Way,Castle Rock,CO,80109,https://www.culvers.com/restaurants/castle-rock-co-meadows-pkwy,Colorado,Culver's,03/09/2024
+645,39.59450912475586,-104.8674545288086,10440 E Arapahoe Rd,Centennial,CO,80112,https://www.culvers.com/restaurants/centennial-co-e-arapahoe,Colorado,Culver's,03/09/2024
+719,39.582279205322266,-104.98809051513672,7440 S Broadway,Littleton,CO,80122,https://www.culvers.com/restaurants/littleton-co-s-broadway,Colorado,Culver's,03/09/2024
+817,39.68439865112305,-104.79049682617188,1736 S. Buckley Road,Aurora,CO,80017,https://www.culvers.com/restaurants/aurora-co-buckley-rd,Colorado,Culver's,03/09/2024
+973,39.78839874267578,-104.77249908447266,5035 N Tower Rd,Denver,CO,80249,https://www.culvers.com/restaurants/denver-co-n-tower-rd,Colorado,Culver's,03/09/2024
+896,39.68000030517578,-105.08090209960938,2035 S Webster St,Lakewood,CO,80232,https://www.culvers.com/restaurants/lakewood-co-webster,Colorado,Culver's,03/09/2024
+87,41.790382385253906,-88.32146453857422,411 S Lincolnway St,North Aurora,IL,60542,https://www.culvers.com/restaurants/north-aurora,Illinois,Culver's,03/09/2024
+102,41.700862884521484,-88.31513977050781,2781 US Hwy 34,Oswego,IL,60543,https://www.culvers.com/restaurants/oswego,Illinois,Culver's,03/09/2024
+884,41.858001708984375,-88.33979797363281,470 N Randall Rd,Batavia,IL,60510,https://www.culvers.com/restaurants/batavia-il-randall-rd,Illinois,Culver's,03/09/2024
+644,41.77299880981445,-88.44332122802734,412 N Sugar Grove Pkwy,Sugar Grove,IL,60554,https://www.culvers.com/restaurants/sugar-grove-il-sugar-grove-pkwy,Illinois,Culver's,03/09/2024
+274,41.63767623901367,-88.20226287841797,13449 IL Rte 59,Plainfield,IL,60585,https://www.culvers.com/restaurants/plainfield-il,Illinois,Culver's,03/09/2024
+327,41.66327667236328,-88.44149017333984,1745 Marketview Dr,Yorkville,IL,60560,https://www.culvers.com/restaurants/yorkville,Illinois,Culver's,03/09/2024
+668,41.91074752807617,-88.3407974243164,111 S Randall Rd,St. Charles,IL,60174,https://www.culvers.com/restaurants/st-charles-il-randall-rd,Illinois,Culver's,03/09/2024
+450,41.92203903198242,-88.25540161132812,4068 E Main St,St. Charles,IL,60174,https://www.culvers.com/restaurants/st-charles-il,Illinois,Culver's,03/09/2024
+926,41.65535354614258,-88.56105041503906,6400 Lakeside Road,Plano,IL,60545,https://www.culvers.com/restaurants/plano-il-lakeside-rd,Illinois,Culver's,03/09/2024
+223,41.989227294921875,-88.34282684326172,280 Randall Rd,South Elgin,IL,60177,https://www.culvers.com/restaurants/south-elgin,Illinois,Culver's,03/09/2024
+262,41.54878616333008,-88.1989517211914,1500 IL Rte 59,Joliet,IL,60431,https://www.culvers.com/restaurants/joliet,Illinois,Culver's,03/09/2024
+619,41.51789855957031,-88.12516784667969,219 S Larkin Ave,Joliet,IL,60436,https://www.culvers.com/restaurants/joliet-il-larkin-ave,Illinois,Culver's,03/09/2024
+755,42.062198638916016,-88.31500244140625,1175 N McLean Blvd,Elgin,IL,60123,https://www.culvers.com/restaurants/elgin-il-mclean-blvd,Illinois,Culver's,03/09/2024
+356,41.42171859741211,-88.27076721191406,2063 Ridge Rd,Minooka,IL,60447,https://www.culvers.com/restaurants/minooka,Illinois,Culver's,03/09/2024
+216,42.12189865112305,-88.3370590209961,8000 Miller Rd,Carpentersville,IL,60110,https://www.culvers.com/restaurants/carpentersville,Illinois,Culver's,03/09/2024
+695,28.191699981689453,-82.34030151367188,28831 State Rd 56,Wesley Chapel,FL,33543,https://www.culvers.com/restaurants/wesley-chapel-fl-wiregrass,Florida,Culver's,03/09/2024
+566,28.191131591796875,-82.39484405517578,2303 Sun Vista Dr,Lutz,FL,33559,https://www.culvers.com/restaurants/wesley-chapel-fl-sun-vista-dr,Florida,Culver's,03/09/2024
+529,28.08856773376465,-82.45091247558594,15003 N Nebraska Ave,Tampa,FL,33613,https://www.culvers.com/restaurants/tampa-fl-nebraska,Florida,Culver's,03/09/2024
+919,28.17639923095703,-82.46440124511719,21362 Walmart Way,Lutz,FL,33549,https://www.culvers.com/restaurants/lutz-fl-walmart-way,Florida,Culver's,03/09/2024
+847,28.047800064086914,-82.50509643554688,10902 N Dale Mabry Hwy,Tampa,FL,33618,https://www.culvers.com/restaurants/carrollwood-fl-dale-mabry-hwy,Florida,Culver's,03/09/2024
+886,28.270599365234375,-82.47969818115234,7760 Land O' Lakes Blvd,Land O' Lakes,FL,34638,https://www.culvers.com/restaurants/land-o-lakes-fl-blvd,Florida,Culver's,03/09/2024
+659,28.250391006469727,-82.1876449584961,6386 Gall Blvd,Zephyrhills,FL,33542,https://www.culvers.com/restaurants/zephyrhills-fl-gall-blvd,Florida,Culver's,03/09/2024
+729,27.938100814819336,-82.27790069580078,548 E Brandon Blvd,Brandon,FL,33511,https://www.culvers.com/restaurants/brandon-fl-brandon-blvd,Florida,Culver's,03/09/2024
+630,27.92516326904297,-82.33733367919922,2470 S Falkenburg Rd,Tampa,FL,33619,https://www.culvers.com/restaurants/brandon-fl-falkenburg-rd,Florida,Culver's,03/09/2024
+704,28.065500259399414,-82.57749938964844,8410 Citrus Park Dr,Tampa,FL,33625,https://www.culvers.com/restaurants/tampa-fl-citrus-park-dr,Florida,Culver's,03/09/2024
+614,28.190757751464844,-82.60781860351562,12538 State Rd 54,Odessa,FL,33556,https://www.culvers.com/restaurants/trinity-fl-fl54,Florida,Culver's,03/09/2024
+740,28.033700942993164,-82.10559844970703,2103 N Park Rd,Plant City,FL,33563,https://www.culvers.com/restaurants/plant-city-n-park-rd-fl,Florida,Culver's,03/09/2024
+532,27.99622917175293,-82.5722885131836,8106 W Hillsborough Ave,Tampa,FL,33615,https://www.culvers.com/restaurants/tampa-fl-hillsborough,Florida,Culver's,03/09/2024
+798,27.85409927368164,-82.30460357666016,11620 Boyette Rd.,Riverview,FL,33569,https://www.culvers.com/restaurants/riverview-fl-boyette-rd,Florida,Culver's,03/09/2024
+849,28.110700607299805,-81.97419738769531,5246 US Hwy 98 N,Lakeland,FL,33809,https://www.culvers.com/restaurants/lakeland-fl-us-98,Florida,Culver's,03/09/2024
+944,28.43320083618164,-82.5457992553711,16300 County Line Rd,Spring Hill,FL,34610,https://www.culvers.com/restaurants/spring-hill-fl-county-line-rd,Florida,Culver's,03/09/2024
+717,27.791839599609375,-82.33113098144531,10721 Big Bend Rd,Riverview,FL,33579,https://www.culvers.com/restaurants/riverview-fl-big-bend-rd,Florida,Culver's,03/09/2024
+544,28.2801570892334,-82.7183837890625,8425 US Hwy 19,Port Richey,FL,34668,https://www.culvers.com/restaurants/port-richey-fl,Florida,Culver's,03/09/2024
+924,26.040199279785156,-80.25050354003906,3700 N University Dr,Cooper City ,FL,33328,https://www.culvers.com/restaurants/cooper-city-university-dr,Florida,Culver's,03/09/2024
+979,26.194197,-80.271802,8251 W. Commercial Blvd,Tamarac,FL,33351,https://www.culvers.com/restaurants/tamarac-fl-w-commercial-blvd,Florida,Culver's,03/09/2024
+757,26.253969192504883,-80.20011138916016,5510 W Copans Rd,Margate,FL,33063,https://www.culvers.com/restaurants/margate-fl-copans-rd,Florida,Culver's,03/09/2024
+447,40.388084411621094,-111.82846069335938,1374 E Main St,Lehi,UT,84043,https://www.culvers.com/restaurants/lehi,Utah,Culver's,03/09/2024
+542,40.31129455566406,-111.72405242919922,1211 W 800 N,Orem,UT,84057,https://www.culvers.com/restaurants/orem-ut,Utah,Culver's,03/09/2024
+538,40.56239700317383,-111.97171783447266,3372 S Jordan Pkwy,South Jordan,UT,84095,https://www.culvers.com/restaurants/south-jordan-ut,Utah,Culver's,03/09/2024
+427,40.621219635009766,-111.9117660522461,7165 S Bingham Junction Blvd,Midvale,UT,84047,https://www.culvers.com/restaurants/midvale,Utah,Culver's,03/09/2024
+822,40.61109924316406,-112.02400207519531,7697 5600 W,West Jordan,UT,84081,https://www.culvers.com/restaurants/west-jordan-ut-5600-w,Utah,Culver's,03/09/2024
+460,40.69819259643555,-112.0242691040039,3407 S 5600 W,West Valley City,UT,84120,https://www.culvers.com/restaurants/west-valley-city,Utah,Culver's,03/09/2024
+533,40.12204360961914,-111.64315032958984,943 N 700 E,Spanish Fork,UT,84660,https://www.culvers.com/restaurants/spanish-fork-ut,Utah,Culver's,03/09/2024
+437,33.676395416259766,-112.03044128417969,20835 N Cave Creek Rd,Phoenix,AZ,85024,https://www.culvers.com/restaurants/phoenix-cave-creek,Arizona,Culver's,03/09/2024
+369,33.683414459228516,-112.09798431396484,1825 W Deer Valley Dr,Phoenix,AZ,85027,https://www.culvers.com/restaurants/phoeniz-deer-valley,Arizona,Culver's,03/09/2024
+432,33.50947189331055,-112.27198791503906,5127 N 99th Ave,Glendale,AZ,85305,https://www.culvers.com/restaurants/glendale-az,Arizona,Culver's,03/09/2024
+424,33.611637115478516,-112.23681640625,8271 W Ludlow Dr,Peoria,AZ,85381,https://www.culvers.com/restaurants/peoria-az,Arizona,Culver's,03/09/2024
+453,33.45730972290039,-112.30585479736328,1025 N Avondale Blvd,Avondale,AZ,85323,https://www.culvers.com/restaurants/avondale,Arizona,Culver's,03/09/2024
+551,33.68203353881836,-112.23916625976562,8330 W Deer Valley Rd,Peoria,AZ,85382,https://www.culvers.com/restaurants/peoria-az-deer-valley-rd,Arizona,Culver's,03/09/2024
+280,39.39053726196289,-84.511474609375,3111 Princeton Rd,Hamilton,OH,45011,https://www.culvers.com/restaurants/hamilton,Ohio,Culver's,03/09/2024
+776,39.28670120239258,-84.46649932861328,11530 Princeton Pike,Springdale,OH,45246,https://www.culvers.com/restaurants/springdale-oh-princeton-pike,Ohio,Culver's,03/09/2024
+557,39.43912124633789,-84.32981872558594,1301 State Hwy 63,Monroe,OH,45050,https://www.culvers.com/restaurants/monroe-oh,Ohio,Culver's,03/09/2024
+268,39.35235595703125,-84.32345581054688,5742 Tylersville Rd,Mason,OH,45040,https://www.culvers.com/restaurants/mason,Ohio,Culver's,03/09/2024
+927,26.683799743652344,-80.28810119628906,15339 Southern Blvd,Loxahatchee Groves,FL,33470,https://www.culvers.com/restaurants/loxahatchee-groves-southern-blvd,Florida,Culver's,03/09/2024
+670,26.799745559692383,-80.08440399169922,260 N Congress Ave,Lake Park,FL,33403,https://www.culvers.com/restaurants/lake-park-fl-congress-ave,Florida,Culver's,03/09/2024
+597,26.9204044342041,-80.10273742675781,1108 Military Trl,Jupiter,FL,33458,https://www.culvers.com/restaurants/jupiter-fl-military-trl,Florida,Culver's,03/09/2024
+338,39.87493133544922,-104.97709655761719,9790 Washington St,Thornton,CO,80229,https://www.culvers.com/restaurants/thornton,Colorado,Culver's,03/09/2024
+576,39.82685089111328,-105.05498504638672,5330 W 72nd Ave,Westminster,CO,80003,https://www.culvers.com/restaurants/westminster-co-72nd-ave,Colorado,Culver's,03/09/2024
+791,40.46200180053711,-86.93509674072266,3075 Sachem Ct S,West Lafayette,IN,47906,https://www.culvers.com/restaurants/west-lafayette-in-sachem-ct,Indiana,Culver's,03/09/2024
+188,40.420997619628906,-86.84014129638672,340 N Creasy Ln,Lafayette,IN,47905,https://www.culvers.com/restaurants/lafayette,Indiana,Culver's,03/09/2024
+594,28.551467895507812,-81.58550262451172,13649 W Colonial Dr,Winter Garden,FL,34787,https://www.culvers.com/restaurants/winter-garden-fl-colonial-dr,Florida,Culver's,03/09/2024
+543,28.52676773071289,-81.73112487792969,1431 Johns Lake Rd,Clermont,FL,34711,https://www.culvers.com/restaurants/clermont-fl,Florida,Culver's,03/09/2024
+640,28.4946231842041,-81.42198181152344,4591 Power Center Ln,Orlando,FL,32839,https://www.culvers.com/restaurants/orlando-fl-millenia-blvd,Florida,Culver's,03/09/2024
+580,28.346200942993164,-81.65088653564453,9070 W Irlo Bronson Memorial Hwy,Kissimmee,FL,34747,https://www.culvers.com/restaurants/kissimmee-fl-irlo-bronson-memorial-hwy,Florida,Culver's,03/09/2024
+883,28.672199249267578,-81.4802017211914,1616 E Semoran Blvd,Apopka,FL,32703,https://www.culvers.com/restaurants/apopka-fl-semoran-blvd,Florida,Culver's,03/09/2024
+595,28.341400146484375,-81.40419006347656,3148 N Orange Blossom Trl,Kissimmee,FL,34744,https://www.culvers.com/restaurants/kissimmee-fl-orange-blossom,Florida,Culver's,03/09/2024
+624,28.67557144165039,-81.3375244140625,3920 US Hwy 17-92,Casselberry,FL,32707,https://www.culvers.com/restaurants/casselberry-fl-hwy-17-92,Florida,Culver's,03/09/2024
+878,28.22450065612793,-81.64420318603516,1107 Posner Blvd,Davenport,FL,33837,https://www.culvers.com/restaurants/davenport-fl-posner-blvd,Florida,Culver's,03/09/2024
+932,28.823408126831055,-81.6413345336914,18996 US Highway 441,Mount Dora,FL,32757,https://www.culvers.com/restaurants/mt-dora-us-highway-441,Florida,Culver's,03/09/2024
+706,28.39069938659668,-81.24479675292969,11978 Narcoossee Rd,Orlando,FL,32832,https://www.culvers.com/restaurants/narcoossee-rd-orlando-fl,Florida,Culver's,03/09/2024
+698,28.656099319458008,-81.22260284423828,889 W Mitchell Hammock Rd,Oviedo,FL,32765,https://www.culvers.com/restaurants/oviedo-fl-mitchell-hammock,Florida,Culver's,03/09/2024
+394,33.63848876953125,-112.40679931640625,16145 W Bell Rd,Surprise,AZ,85374,https://www.culvers.com/restaurants/surprise,Arizona,Culver's,03/09/2024
+221,42.20725631713867,-88.11241912841797,645 N Rand Rd,Lake Zurich,IL,60047,https://www.culvers.com/restaurants/lake-zurich,Illinois,Culver's,03/09/2024
+651,41.1179313659668,-112.06474304199219,281 N 2000 W,West Point,UT,84015,https://www.culvers.com/restaurants/west-point-ut-n-2000-w,Utah,Culver's,03/09/2024
+818,41.05979919433594,-111.95950317382812,340 E Gentile St,Layton,UT,84041,https://www.culvers.com/restaurants/layton-ut-gentile-st,Utah,Culver's,03/09/2024
+674,40.89595031738281,-111.89188385009766,620 N 500 W,Bountiful,UT,84010,https://www.culvers.com/restaurants/bountiful-ut-n500w,Utah,Culver's,03/09/2024
+622,27.264020919799805,-80.43441772460938,10770 SW Tradition Pkwy,Port St. Lucie,FL,34987,https://www.culvers.com/restaurants/port-st-lucie-fl-tradition-pkwy,Florida,Culver's,03/09/2024
+673,27.256309509277344,-80.27870178222656,4151 NW Federal Hwy,Jensen Beach,FL,34957,https://www.culvers.com/restaurants/jensen-beach-fl-nw-federal-hwy,Florida,Culver's,03/09/2024
+623,27.174488067626953,-80.25232696533203,2501 S Kanner Hwy,Stuart,FL,34994,https://www.culvers.com/restaurants/stuart-fl-kanner-hwy,Florida,Culver's,03/09/2024
+669,34.01414489746094,-84.6151123046875,2460 Kennesaw Due West Rd,Kennesaw,GA,30152,https://www.culvers.com/restaurants/kennesaw-ga-due-west-road,Georgia,Culver's,03/09/2024
+763,34.084800720214844,-84.65540313720703,1275 Hwy 92,Acworth,GA,30102,https://www.culvers.com/restaurants/acworth-ga-hwy-92,Georgia,Culver's,03/09/2024
+721,42.34410095214844,-87.89579772949219,850 S Waukegan Rd,Waukegan,IL,60085,https://www.culvers.com/restaurants/waukegan-il-s-waukegan-rd,Illinois,Culver's,03/09/2024
+175,42.38109588623047,-87.94093322753906,1505 Nations Dr,Gurnee,IL,60031,https://www.culvers.com/restaurants/gurnee,Illinois,Culver's,03/09/2024
+271,42.43375778198242,-87.82510375976562,3335 Sheridan Rd,Zion,IL,60099,https://www.culvers.com/restaurants/zion,Illinois,Culver's,03/09/2024
+133,42.366031646728516,-88.04178619384766,1239 N IL Rte 83,Grayslake,IL,60030,https://www.culvers.com/restaurants/grayslake,Illinois,Culver's,03/09/2024
+134,42.5231819152832,-87.94591522216797,10484 Corporate Dr,Pleasant Prairie,WI,53158,https://www.culvers.com/restaurants/pleasant-prairie,Wisconsin,Culver's,03/09/2024
+315,42.46682357788086,-88.06571960449219,451 E IL Rte 173,Antioch ,IL,60002,https://www.culvers.com/restaurants/antioch,Illinois,Culver's,03/09/2024
+455,42.556358337402344,-87.82573699951172,8124 Sheridan Rd,Kenosha,WI,53143,https://www.culvers.com/restaurants/kenosha-sheridan,Wisconsin,Culver's,03/09/2024
+68,42.5883674621582,-87.8829574584961,5220 Green Bay Rd,Kenosha,WI,53144,https://www.culvers.com/restaurants/kenosha,Wisconsin,Culver's,03/09/2024
+643,42.38990783691406,-88.18103790283203,100 S US Hwy 12,Fox Lake,IL,60020,https://www.culvers.com/restaurants/fox-lake-il-hwy-12,Illinois,Culver's,03/09/2024
+70,42.271453857421875,-88.19638061523438,203 E State Rd,Island Lake,IL,60042,https://www.culvers.com/restaurants/island-lake,Illinois,Culver's,03/09/2024
+749,42.61349868774414,-87.95010375976562,11811 29th St,Kenosha,WI,53144,https://www.culvers.com/restaurants/burlington-rd-kenosha-wi,Wisconsin,Culver's,03/09/2024
+954,42.56718063354492,-88.11666107177734,7600 Antioch Rd,Paddock Lake,WI,53168,https://www.culvers.com/restaurants/paddock-lake-wi-antioch-rd,Wisconsin,Culver's,03/09/2024
+117,42.34303283691406,-88.24970245361328,1101 Adams Dr,McHenry,IL,60051,https://www.culvers.com/restaurants/mchenry,Illinois,Culver's,03/09/2024
+743,42.19648361206055,-88.21538543701172,514 Northwest Hwy,Fox River Grove,IL,60021,https://www.culvers.com/restaurants/fox-river-grove-il-northwest-hwy,Illinois,Culver's,03/09/2024
+199,42.22951126098633,-88.29670715332031,400 Pingree Rd,Crystal Lake,IL,60014,https://www.culvers.com/restaurants/crystal-lake,Illinois,Culver's,03/09/2024
+106,42.70475769042969,-87.84991455078125,5801 21st St,Racine,WI,53406,https://www.culvers.com/restaurants/racine-21st,Wisconsin,Culver's,03/09/2024
+768,33.447601318359375,-112.39340209960938,130 N Estrella Pkwy,Goodyear,AZ,85338,https://www.culvers.com/restaurants/goodyear-az-estrella-pkwy,Arizona,Culver's,03/09/2024
+572,33.464759826660156,-112.5047607421875,1540 N Verrado Way,Buckeye,AZ,85396,https://www.culvers.com/restaurants/buckeye-az-verrado-way,Arizona,Culver's,03/09/2024
+942,28.5646,-81.184,13320 East Colonial Dr.,Orlando,FL,32826,https://www.culvers.com/restaurants/orlando-fl-east-colonial-dr,Florida,Culver's,03/09/2024
+953,28.764616012573242,-81.28447723388672,3418 S Orlando Dr,Sanford,FL,32773,https://www.culvers.com/restaurants/sanford-fl-orlando-dr,Florida,Culver's,03/09/2024
+940,28.557598114013672,-80.83783721923828,2855 Cheney Highway,Titusville,FL,32780,https://www.culvers.com/restaurants/titusville-fl-cheney-highway,Florida,Culver's,03/09/2024
+825,28.245500564575195,-81.25700378417969,1050 E Irlo Bronson Hwy,St. Cloud,FL,34769,https://www.culvers.com/restaurants/st-cloud-florida-irlo-bronson,Florida,Culver's,03/09/2024
+638,43.63351058959961,-116.3509750366211,3494 E Tecate Ln,Meridian,ID,83646,https://www.culvers.com/restaurants/meridian-id-ustick-rd,Idaho,Culver's,03/09/2024
+257,39.98142623901367,-83.14632415771484,1444 Rentra Dr,Columbus,OH,43228,https://www.culvers.com/restaurants/columbus-oh,Ohio,Culver's,03/09/2024
+260,40.1580696105957,-83.0966567993164,4137 W Powell Rd,Powell,OH,43065,https://www.culvers.com/restaurants/powell,Ohio,Culver's,03/09/2024
+492,40.240028381347656,-83.3432846069336,16421 Square Dr,Marysville,OH,43040,https://www.culvers.com/restaurants/marysville-oh,Ohio,Culver's,03/09/2024
+373,39.94465637207031,-82.79490661621094,1912 OH Rte 256,Reynoldsburg,OH,43068,https://www.culvers.com/restaurants/reynoldsburg,Ohio,Culver's,03/09/2024
+974,42.242037,-83.764564,3015 Lohr Rd,Ann Arbor,MI,48108,https://www.culvers.com/restaurants/ann-arbor-mi-lohr-rd,Michigan,Culver's,03/09/2024
+374,42.222068786621094,-83.48412322998047,11001 Belleville Rd,Belleville,MI,48111,https://www.culvers.com/restaurants/belleville,Michigan,Culver's,03/09/2024
+806,42.32059860229492,-83.48600006103516,45275 Ford Rd,Canton,MI,48187,https://www.culvers.com/restaurants/canton-mi-ford-rd,Michigan,Culver's,03/09/2024
+458,42.290348052978516,-83.84661102294922,5910 Jackson Rd,Ann Arbor,MI,48103,https://www.culvers.com/restaurants/ann-arbor,Michigan,Culver's,03/09/2024
+306,42.332576751708984,-83.40827178955078,6500 Newburgh Rd,Westland,MI,48185,https://www.culvers.com/restaurants/westland,Michigan,Culver's,03/09/2024
+846,42.448699951171875,-83.6498031616211,22700 Pontiac Trail,South Lyon,MI,48178,https://www.culvers.com/restaurants/south-lyon-mi-pontiac,Michigan,Culver's,03/09/2024
+510,42.380123138427734,-83.33138275146484,13030 Middlebelt Rd,Livonia,MI,48150,https://www.culvers.com/restaurants/livonia-mi,Michigan,Culver's,03/09/2024
+299,42.19905090332031,-83.24909973144531,14800 Racho Rd,Taylor,MI,48180,https://www.culvers.com/restaurants/taylor,Michigan,Culver's,03/09/2024
+497,42.50111770629883,-83.53551483154297,49169 Alpha Dr,Wixom,MI,48393,https://www.culvers.com/restaurants/wixom-mi,Michigan,Culver's,03/09/2024
+854,42.29840087890625,-84.02559661865234,1610 S Main St,Chelsea,MI,48118,https://www.culvers.com/restaurants/chelsea-mi,Michigan,Culver's,03/09/2024
+691,42.503360748291016,-83.75933837890625,6830 Whitmore Lake Rd,Brighton,MI,48116,https://www.culvers.com/restaurants/brighton-mi-green-oak-village,Michigan,Culver's,03/09/2024
+850,41.94810104370117,-83.40160369873047,1899 N Telegraph Rd,Monroe,MI,48162,https://www.culvers.com/restaurants/monroe-mi-telegraph,Michigan,Culver's,03/09/2024
+720,42.25932312011719,-83.20922088623047,15655 Southfield Rd,Allen Park,MI,48101,https://www.culvers.com/restaurants/allen-park-mi-southfield-rd,Michigan,Culver's,03/09/2024
+864,42.53350067138672,-83.4385986328125,485 Haggerty Rd,Commerce Charter Twp,MI,48390,https://www.culvers.com/restaurants/commerce-charter-twp-mi,Michigan,Culver's,03/09/2024
+332,40.38744354248047,-104.7357177734375,3502 W 29th St,Greeley,CO,80634,https://www.culvers.com/restaurants/greeley,Colorado,Culver's,03/09/2024
+361,40.40658950805664,-104.98078155517578,4890 Thompson Pkwy,Johnstown,CO,80534,https://www.culvers.com/restaurants/johnstown,Colorado,Culver's,03/09/2024
+819,40.40679931640625,-105.10040283203125,1606 W. Eisenhower Blvd,Loveland,CO,80537,https://www.culvers.com/restaurants/loveland-co-eisenhower-blvd,Colorado,Culver's,03/09/2024
+320,40.57530975341797,-105.0574951171875,918 S Lemay Ave,Fort Collins,CO,80524,https://www.culvers.com/restaurants/fort-collins,Colorado,Culver's,03/09/2024
+860,30.32349967956543,-81.54630279541016,101 Monument Rd,Jacksonville,FL,32225,https://www.culvers.com/restaurants/jacksonville-fl-monument-rd,Florida,Culver's,03/09/2024
+843,30.628599166870117,-81.55480194091797,463731 State Road 200,Yulee,FL,32097,https://www.culvers.com/restaurants/yulee-fl-state-road,Florida,Culver's,03/09/2024
+821,30.236000061035156,-81.5188980102539,7818 Gate Pkwy,Jacksonville,FL,32256,https://www.culvers.com/restaurants/jacksonville-fl-gate-pkwy,Florida,Culver's,03/09/2024
+952,30.254411697387695,-81.46742248535156,4768 Hodges Blvd,Jacksonville,FL,32224,https://www.culvers.com/restaurants/jacksonville-fl-hodges-blvd,Florida,Culver's,03/09/2024
+783,30.203800201416016,-81.75749969482422,7923 Parramore Rd,Jacksonville,FL,32244,https://www.culvers.com/restaurants/jacksonville-fl-parramore-rd,Florida,Culver's,03/09/2024
+577,40.14855194091797,-105.1300048828125,1218 S Hover Rd,Longmont,CO,80501,https://www.culvers.com/restaurants/longmont-co-hover-rd,Colorado,Culver's,03/09/2024
+844,41.13570022583008,-81.78910064697266,2828 Medina Road,Medina,OH,44256,https://www.culvers.com/restaurants/medina-oh-medina-rd,Ohio,Culver's,03/09/2024
+746,41.346900939941406,-81.82420349121094,8464 Pearl Rd,Strongsville,OH,44136,https://www.culvers.com/restaurants/strongsville-oh-pearl-rd,Ohio,Culver's,03/09/2024
+939,41.384498596191406,-81.9786148071289,32574 Lorain Rd,North Ridgeville,OH,44039,https://www.culvers.com/restaurants/north-ridgeville-lorain-rd,Ohio,Culver's,03/09/2024
+709,41.31178283691406,-81.52271270751953,8143 Golden Link Blvd,Macedonia,OH,44067,https://www.culvers.com/restaurants/macedonia-oh-e-aurora-rd,Ohio,Culver's,03/09/2024
+664,41.468772888183594,-82.01921081542969,1439 Center Rd,Avon,OH,44011,https://www.culvers.com/restaurants/avon-oh-center-rd,Ohio,Culver's,03/09/2024
+176,38.92393112182617,-95.26133728027344,2111 W 33rd St,Lawrence,KS,66046,https://www.culvers.com/restaurants/lawrence-ks,Kansas,Culver's,03/09/2024
+326,36.928382873535156,-86.412841796875,4903 Scottsville Rd,Bowling Green,KY,42104,https://www.culvers.com/restaurants/bowling-green,Kentucky,Culver's,03/09/2024
+154,41.46757507324219,-87.03555297851562,2101 Laporte Ave,Valparaiso,IN,46383,https://www.culvers.com/restaurants/valparaiso,Indiana,Culver's,03/09/2024
+523,41.57695007324219,-87.04483032226562,3000 Matson St,Chesterton,IN,46304,https://www.culvers.com/restaurants/chesterton-in,Indiana,Culver's,03/09/2024
+714,30.10540008544922,-81.82589721679688,1767 Blanding Blvd,Middleburg,FL,32068,https://www.culvers.com/restaurants/middleburg-fl-blanding-blvd,Florida,Culver's,03/09/2024
+789,30.06760025024414,-81.49440002441406,45 Fountains Way,St. Johns,FL,32259,https://www.culvers.com/restaurants/st-johns-fl-fountains-way,Florida,Culver's,03/09/2024
+390,37.7369499206543,-84.33069610595703,2012 Lantern Ridge Dr,Richmond,KY,40475,https://www.culvers.com/restaurants/richmond,Kentucky,Culver's,03/09/2024
+479,37.89646911621094,-84.56694030761719,961 N Main St,Nicholasville,KY,40356,https://www.culvers.com/restaurants/nicholasville-ky,Kentucky,Culver's,03/09/2024
+330,38.020721435546875,-84.42153930664062,2161 Paul Jones Way,Lexington,KY,40509,https://www.culvers.com/restaurants/lexington-hamburg-place,Kentucky,Culver's,03/09/2024
+334,37.99435806274414,-84.53152465820312,360 Meijer Way,Lexington,KY,40503,https://www.culvers.com/restaurants/lexington-meijer-way,Kentucky,Culver's,03/09/2024
+899,32.87580108642578,-80.01679992675781,4821 Tanger Outlet Blvd,North Charleston,SC,29418,https://www.culvers.com/restaurants/n-charleston-tanger-outlet,South Carolina,Culver's,03/09/2024
+882,32.9755859375,-80.13658142089844,3848 Ladson Rd,Ladson,SC,29456,https://www.culvers.com/restaurants/ladson-sc-ladson,South Carolina,Culver's,03/09/2024
+688,33.043853759765625,-80.12258911132812,1904 N Main St,Summerville,SC,29486,https://www.culvers.com/restaurants/summerville-sc-n-main-st,South Carolina,Culver's,03/09/2024
+851,38.964698791503906,-92.37069702148438,2010 Bernadette Dr,Columbia,MO,65203,https://www.culvers.com/restaurants/columbia-mo-bernadette,Missouri,Culver's,03/09/2024
+341,38.94736099243164,-92.30050659179688,2520 Broadway Bluffs Dr,Columbia,MO,65201,https://www.culvers.com/restaurants/columbia,Missouri,Culver's,03/09/2024
+660,39.63322830200195,-86.08338928222656,1142 N Emerson Ave,Greenwood,IN,46143,https://www.culvers.com/restaurants/greenwood-in-emerson-ave,Indiana,Culver's,03/09/2024
+229,39.61000442504883,-86.15927124023438,320 State Rd 135,Greenwood,IN,46142,https://www.culvers.com/restaurants/greenwood,Indiana,Culver's,03/09/2024
+810,39.697898864746094,-86.08200073242188,5115 Shear Avenue,Indianapolis,IN,46203,https://www.culvers.com/restaurants/indianapolis-in-emerson-ave,Indiana,Culver's,03/09/2024
+779,39.483699798583984,-86.01599884033203,191 Granville Dr,Franklin,IN,46131,https://www.culvers.com/restaurants/franklin-in-granville-dr,Indiana,Culver's,03/09/2024
+272,39.6998176574707,-86.262939453125,4701 Kentucky Ave,Indianapolis,IN,46221,https://www.culvers.com/restaurants/indianapolis-kentucky,Indiana,Culver's,03/09/2024
+820,39.79669952392578,-86.0447998046875,7010 E 21st St,Indianapolis,IN,46219,https://www.culvers.com/restaurants/indianapolis-in-21-st,Indiana,Culver's,03/09/2024
+758,39.775699615478516,-85.96430206298828,11315 E Washington St,Cumberland,IN,46229,https://www.culvers.com/restaurants/cumberland-in-e-washington-st,Indiana,Culver's,03/09/2024
+631,39.76348114013672,-86.3061294555664,8232 Country Village Dr,Indianapolis,IN,46214,https://www.culvers.com/restaurants/indianapolis-in-rockville-rd,Indiana,Culver's,03/09/2024
+108,39.716209411621094,-86.35753631591797,170 S Perry Rd,Plainfield,IN,46168,https://www.culvers.com/restaurants/plainfield,Indiana,Culver's,03/09/2024
+865,39.55390167236328,-85.77439880371094,1930 N Morristown Rd,Shelbyville,IN,46176,https://www.culvers.com/restaurants/shelbyville-in-morristown-rd,Indiana,Culver's,03/09/2024
+190,39.854217529296875,-86.00955963134766,5525 N Post Rd,Lawrence,IN,46216,https://www.culvers.com/restaurants/lawrence-in,Indiana,Culver's,03/09/2024
+890,39.8661003112793,-86.12139892578125,6111 N Keystone Ave,Indianapolis,IN,46220,https://www.culvers.com/restaurants/indianapolis-in-keystone-ave,Indiana,Culver's,03/09/2024
+831,39.762298583984375,-86.38749694824219,7649 East US HWY 36,Avon,IN,46123,https://www.culvers.com/restaurants/avon-in-east-us-hwy-36,Indiana,Culver's,03/09/2024
+971,39.413516998291016,-86.42276763916016,500 Prather Dr,Martinsville,IN,46151,https://www.culvers.com/restaurants/martinsville-in-prather-dr,Indiana,Culver's,03/09/2024
+322,39.88253402709961,-86.24539947509766,5020 W 71st St,Indianapolis,IN,46268,https://www.culvers.com/restaurants/indianapolis-71st,Indiana,Culver's,03/09/2024
+980,39.896199,-85.919659,6036 W Broadway,McCordsville,IN,46055,https://www.culvers.com/restaurants/mccordsville-in-broadway,Indiana,Culver's,03/09/2024
+353,39.8116569519043,-85.7702865600586,1846 N State St,Greenfield,IN,46140,https://www.culvers.com/restaurants/greenfield-in,Indiana,Culver's,03/09/2024
+285,39.92653274536133,-86.0433120727539,7105 E 96th St,Indianapolis,IN,46250,https://www.culvers.com/restaurants/indianapolis-96th,Indiana,Culver's,03/09/2024
+700,39.860198974609375,-86.39140319824219,1225 N Green St,Brownsburg,IN,46112,https://www.culvers.com/restaurants/brownsburg-in-green-st,Indiana,Culver's,03/09/2024
+433,42.50514221191406,-83.1135025024414,700 W Twelve Mile Rd,Madison Heights,MI,48071,https://www.culvers.com/restaurants/madison-heights,Michigan,Culver's,03/09/2024
+180,42.29072952270508,-88.416259765625,1620 W Lake Shore Dr,Woodstock,IL,60098,https://www.culvers.com/restaurants/woodstock,Illinois,Culver's,03/09/2024
+870,42.17879867553711,-88.33470153808594,251 N Randall Rd,Lake in the Hills,IL,60156,https://www.culvers.com/restaurants/lake-in-the-hills,Illinois,Culver's,03/09/2024
+110,42.14448928833008,-88.43213653564453,12950 S IL Rte 47,Huntley,IL,60142,https://www.culvers.com/restaurants/huntley,Illinois,Culver's,03/09/2024
+23,42.59033966064453,-88.42876434326172,151 N Wells St,Lake Geneva,WI,53147,https://www.culvers.com/restaurants/lake-geneva,Wisconsin,Culver's,03/09/2024
+66,42.69217300415039,-88.266357421875,1073 Milwaukee Ave,Burlington,WI,53105,https://www.culvers.com/restaurants/burlington,Wisconsin,Culver's,03/09/2024
+891,36.07820129394531,-80.10890197753906,1780 Pecan Lane,Kernersville,NC,27284,https://www.culvers.com/restaurants/kernersville-nc-pecan,North Carolina,Culver's,03/09/2024
+463,34.82040023803711,-82.26026153564453,2021 Woodruff Rd,Greenville,SC,29607,https://www.culvers.com/restaurants/greenville-south-carolina,South Carolina,Culver's,03/09/2024
+907,34.70589828491211,-82.24710083007812,240 Harrison Bridge Rd,Simpsonville,SC,29680,https://www.culvers.com/restaurants/simpsonville-bridge-rd,South Carolina,Culver's,03/09/2024
+730,34.831298828125,-82.347900390625,2409 Laurens Rd,Greenville,SC,29607,https://www.culvers.com/restaurants/greenville-sc-laurens-rd,South Carolina,Culver's,03/09/2024
+862,34.902099609375,-82.0968017578125,1700 E. Main Street,Duncan,SC,29334,https://www.culvers.com/restaurants/duncan-sc,South Carolina,Culver's,03/09/2024
+574,34.944488525390625,-82.25341033935547,1040 W Wade Hampton Blvd,Greer,SC,29651,https://www.culvers.com/restaurants/greer-sc-wade-hampton-blvd,South Carolina,Culver's,03/09/2024
+472,42.76488494873047,-84.51826477050781,3115 Towne Centre Blvd,Lansing,MI,48912,https://www.culvers.com/restaurants/lansing-mi-towne-centre-blvd,Michigan,Culver's,03/09/2024
+238,42.73057556152344,-84.41017150878906,5140 Times Square Dr,Okemos,MI,48864,https://www.culvers.com/restaurants/okemos,Michigan,Culver's,03/09/2024
+539,42.680416107177734,-84.4322509765625,3440 Okemos Rd,Okemos,MI,48864,https://www.culvers.com/restaurants/okemos-mi-okemos-rd,Michigan,Culver's,03/09/2024
+858,42.82789993286133,-84.54450225830078,1030 W Herbison Rd,Dewitt,MI,48820,https://www.culvers.com/restaurants/dewitt-mi-herbison,Michigan,Culver's,03/09/2024
+648,42.666542053222656,-84.53866577148438,6280 S Pennsylvania Ave,Lansing,MI,48911,https://www.culvers.com/restaurants/lansing-mi-pennsylvania-ave,Michigan,Culver's,03/09/2024
+444,42.741661071777344,-84.67768859863281,8488 W Saginaw Hwy,Lansing,MI,48917,https://www.culvers.com/restaurants/lansing-saginaw,Michigan,Culver's,03/09/2024
+766,42.570899963378906,-84.82420349121094,524 Lansing St,Charlotte,MI,48813,https://www.culvers.com/restaurants/charlotte-lansing-st-michigan,Michigan,Culver's,03/09/2024
+683,42.998748779296875,-84.120849609375,2355 E Main St,Owosso,MI,48867,https://www.culvers.com/restaurants/owosso-mi-e-main-st,Michigan,Culver's,03/09/2024
+986,29.056643,-81.304957,10 Summit Oak Pl,Deland,FL,32720,https://www.culvers.com/restaurants/deland-fl-summit-oak-pl,Florida,Culver's,03/09/2024
+930,29.01348876953125,-80.97742462158203,2679 State Road 44,New Smyrna Beach,FL,32168,https://www.culvers.com/restaurants/new-smyrna-beach-state-road-44,Florida,Culver's,03/09/2024
+936,39.96149826049805,-86.11900329589844,431 E Carmel Dr,Carmel,IN,46032,https://www.culvers.com/restaurants/carmel-in-carmel-dr,Indiana,Culver's,03/09/2024
+888,39.95050048828125,-86.34880065917969,6292 Mills Dr,Whitestown,IN,46075,https://www.culvers.com/restaurants/whitestown-in-mills-dr,Indiana,Culver's,03/09/2024
+874,40.00149917602539,-86.09030151367188,14667 Gray Rd,Westfield,IN,46062,https://www.culvers.com/restaurants/westfield-in-gray-rd,Indiana,Culver's,03/09/2024
+988,39.994161,-86.261794,3263 S US 421,Zionsville,IN,46077,https://www.culvers.com/restaurants/zionsville-in-us-hwy-421,Indiana,Culver's,03/09/2024
+508,39.98749542236328,-85.91841888427734,13691 Olio Rd,Fishers,IN,46037,https://www.culvers.com/restaurants/fishers-in,Indiana,Culver's,03/09/2024
+512,42.59225082397461,-114.47785949707031,163 Pole Line Rd,Twin Falls,ID,83301,https://www.culvers.com/restaurants/twin-falls-id,Idaho,Culver's,03/09/2024
+627,27.85493278503418,-82.63921356201172,9046 4th St N,St. Petersburg,FL,33702,https://www.culvers.com/restaurants/st-petersburg-fl-4th-st,Florida,Culver's,03/09/2024
+657,27.78559684753418,-82.67897033691406,1451 34th St N,St. Petersburg,FL,33713,https://www.culvers.com/restaurants/st-petersburg-fl-34th-st,Florida,Culver's,03/09/2024
+634,27.838775634765625,-82.6982192993164,4702 Park Blvd N,Pinellas Park,FL,33781,https://www.culvers.com/restaurants/pinellas-park-fl-park-blvd,Florida,Culver's,03/09/2024
+921,27.94860076904297,-81.96910095214844,6400 S. Florida Avenue,Lakeland,FL,33813,https://www.culvers.com/restaurants/lakeland-fl-s-florida-ave,Florida,Culver's,03/09/2024
+661,28.92782211303711,-82.01194763183594,3390 Wedgewood Ln,The Villages,FL,32162,https://www.culvers.com/restaurants/the-villages-fl-county-rd-466,Florida,Culver's,03/09/2024
+876,28.86595916748047,-82.01486206054688,5327 Sundance Trail,Wildwood,FL,34785,https://www.culvers.com/restaurants/wildwood-fl-sundance-trail,Florida,Culver's,03/09/2024
+833,29.1343994140625,-82.20010375976562,4836 SW College Road,Ocala,FL,34471,https://www.culvers.com/restaurants/ocala-fl-sw-college-rd,Florida,Culver's,03/09/2024
+835,28.835500717163086,-82.35160064697266,1781 W. Main Street,Inverness,FL,34450,https://www.culvers.com/restaurants/inverness-fl-main-st,Florida,Culver's,03/09/2024
+869,41.6421012878418,-81.43920135498047,34820 Vine St.,Eastlake,OH,44095,https://www.culvers.com/restaurants/eastlake-oh,Ohio,Culver's,03/09/2024
+679,28.139095306396484,-81.63687133789062,37061 N US Hwy 27,Haines City,FL,33844,https://www.culvers.com/restaurants/haines-city-fl-hwy-27,Florida,Culver's,03/09/2024
+977,29.915019,-81.38656,2620 Stratton Blvd,St. Augustine,FL,32084,https://www.culvers.com/restaurants/st-augustine-fl-stratton-blvd,Florida,Culver's,03/09/2024
+793,29.831100463867188,-81.3228988647461,3433 US Hwy 1,St. Augustine,FL,32086,https://www.culvers.com/restaurants/st-augustine-hwy-1,Florida,Culver's,03/09/2024
+88,44.079036712646484,-92.51205444335938,3380 55th St NW,Rochester,MN,55901,https://www.culvers.com/restaurants/rochester-55th,Minnesota,Culver's,03/09/2024
+160,43.98042297363281,-92.46115112304688,36 28th St SE,Rochester,MN,55904,https://www.culvers.com/restaurants/rochester-28th,Minnesota,Culver's,03/09/2024
+484,32.2944221496582,-110.96052551269531,4810 N 1st Ave,Tucson,AZ,85718,https://www.culvers.com/restaurants/tucson-az-first-ave,Arizona,Culver's,03/09/2024
+438,32.332183837890625,-111.04676055908203,6905 N Thornydale Rd,Tucson,AZ,85741,https://www.culvers.com/restaurants/tucson-thornydale,Arizona,Culver's,03/09/2024
+521,32.18600845336914,-110.94395446777344,3070 S Campbell Ave,Tucson,AZ,85713,https://www.culvers.com/restaurants/tucson-az-campbell,Arizona,Culver's,03/09/2024
+726,32.13330078125,-111.00800323486328,1955 W Valencia Rd,Tucson,AZ,85746,https://www.culvers.com/restaurants/tucson-az-w-valencia-drive,Arizona,Culver's,03/09/2024
+439,32.22053146362305,-110.83197021484375,40 S Broadway Pl,Tucson,AZ,85710,https://www.culvers.com/restaurants/tucson-broadway,Arizona,Culver's,03/09/2024
+596,33.47953414916992,-82.19654846191406,4020 Gateway Blvd,Grovetown,GA,30813,https://www.culvers.com/restaurants/grovetown-ga-gateway-blvd,Georgia,Culver's,03/09/2024
+653,37.18155288696289,-93.2711181640625,1400 E Sunshine St,Springfield,MO,65804,https://www.culvers.com/restaurants/springfield-mo-sunshine-st,Missouri,Culver's,03/09/2024
+112,37.149959564208984,-93.26315307617188,1815 E Primrose St,Springfield,MO,65804,https://www.culvers.com/restaurants/springfield-primrose,Missouri,Culver's,03/09/2024
+434,37.24191665649414,-93.26050567626953,2520 N Glenstone Ave,Springfield,MO,65803,https://www.culvers.com/restaurants/springfield-mo-glenstone,Missouri,Culver's,03/09/2024
+914,37.13370132446289,-93.45719909667969,1481 E US-60,Republic,MO,65738,https://www.culvers.com/restaurants/republic-e-us-60,Missouri,Culver's,03/09/2024
+866,37.07160186767578,-93.23100280761719,5565 N 21st St,Ozark,MO,65721,https://www.culvers.com/restaurants/ozark-mo-21st-st,Missouri,Culver's,03/09/2024
+829,33.42150115966797,-86.6698989868164,6222 Tattersall Blvd,Hoover,AL,35242,https://www.culvers.com/restaurants/birmingham-al-tattersall-blvd,Alabama,Culver's,03/09/2024
+712,33.354400634765625,-86.8479995727539,1037 Amber Dr,Hoover,AL,35244,https://www.culvers.com/restaurants/hoover-al-john-hawkins-pkwy,Alabama,Culver's,03/09/2024
+816,36.1422004699707,-80.29280090332031,2973 Fairlawn Dr,Winston-Salem,NC,27106,https://www.culvers.com/restaurants/winston-salem-fairlawn-dr,North Carolina,Culver's,03/09/2024
+522,42.67188262939453,-82.97724151611328,15029 23 Mile Rd,Shelby Township,MI,48315,https://www.culvers.com/restaurants/shelby-twp-mi,Michigan,Culver's,03/09/2024
+589,42.631927490234375,-82.85348510742188,45160 Marketplace Blvd,Chesterfield,MI,48051,https://www.culvers.com/restaurants/chesterfield-mi-marketplace-blvd,Michigan,Culver's,03/09/2024
+748,42.56180953979492,-83.02787017822266,36480 Van Dyke Ave,Sterling Heights,MI,48312,https://www.culvers.com/restaurants/sterling-heights-mi-van-dyke,Michigan,Culver's,03/09/2024
+331,42.52296447753906,-82.90830993652344,30820 Little Mack Ave,Roseville,MI,48066,https://www.culvers.com/restaurants/roseville,Michigan,Culver's,03/09/2024
+912,42.78120040893555,-83.01370239257812,66227 Van Dyke Ave,Washington Twp,MI,48095,https://www.culvers.com/restaurants/washington-twp-van-dyke,Michigan,Culver's,03/09/2024
+626,42.6358528137207,-83.13011932373047,92 E Auburn Rd,Rochester Hills,MI,48307,https://www.culvers.com/restaurants/rochester-hills-mi-auburn-rd,Michigan,Culver's,03/09/2024
+363,42.70954513549805,-83.24165344238281,4963 Interpark Dr N,Lake Orion,MI,48359,https://www.culvers.com/restaurants/lake-orion,Michigan,Culver's,03/09/2024
+909,42.708099365234375,-83.29450225830078,4979 Grand Ave ,Orion Township,MI,48359,https://www.culvers.com/restaurants/orion-twp-grand-ave,Michigan,Culver's,03/09/2024
+807,42.83250045776367,-83.27179718017578,525 North Lapeer Rd,Oxford,MI,48371,https://www.culvers.com/restaurants/oxford-mi-lapeer-rd,Michigan,Culver's,03/09/2024
+360,42.73978042602539,-83.37894439697266,6910 Sashabaw Rd,Clarkston,MI,48348,https://www.culvers.com/restaurants/clarkston,Michigan,Culver's,03/09/2024
+192,44.95207977294922,-93.01317596435547,2065 Old Hudson Rd,St. Paul,MN,55119,https://www.culvers.com/restaurants/st-paul,Minnesota,Culver's,03/09/2024
+411,45.02765655517578,-93.10567474365234,2880 Rice St,Little Canada,MN,55113,https://www.culvers.com/restaurants/little-canada,Minnesota,Culver's,03/09/2024
+629,45.03840255737305,-93.0170669555664,3202 White Bear Ave,White Bear Lake,MN,55110,https://www.culvers.com/restaurants/white-bear-lake-mn-white-bear-ave,Minnesota,Culver's,03/09/2024
+240,44.89117431640625,-93.07933044433594,125 Marie Ave E,West St. Paul,MN,55118,https://www.culvers.com/restaurants/west-st-paul,Minnesota,Culver's,03/09/2024
+452,44.956050872802734,-93.16341400146484,1491 University Ave W,St. Paul,MN,55104,https://www.culvers.com/restaurants/st-paul-university,Minnesota,Culver's,03/09/2024
+568,44.94110107421875,-92.90531158447266,520 Woodbury Dr ,Woodbury,MN,55125,https://www.culvers.com/restaurants/woodbury-mn-woodbury-dr,Minnesota,Culver's,03/09/2024
+120,45.07679748535156,-93.05674743652344,4485 Centerville Rd,Vadnais Heights,MN,55127,https://www.culvers.com/restaurants/vadnais-heights,Minnesota,Culver's,03/09/2024
+214,45.04148483276367,-93.21896362304688,4004 Silver Lake Rd,St. Anthony,MN,55421,https://www.culvers.com/restaurants/st-anthony,Minnesota,Culver's,03/09/2024
+386,44.83391189575195,-92.96173858642578,7998 Hardwood Ave S,Cottage Grove,MN,55016,https://www.culvers.com/restaurants/cottage-grove,Minnesota,Culver's,03/09/2024
+189,44.83229064941406,-93.15111541748047,3445 O'Leary Ln,Eagan,MN,55123,https://www.culvers.com/restaurants/eagan,Minnesota,Culver's,03/09/2024
+57,45.04047775268555,-92.83999633789062,1725 Market Dr,Stillwater,MN,55082,https://www.culvers.com/restaurants/stillwater,Minnesota,Culver's,03/09/2024
+377,44.860530853271484,-93.27787780761719,7801 Nicollet Ave,Bloomington,MN,55420,https://www.culvers.com/restaurants/bloomington-mn,Minnesota,Culver's,03/09/2024
+959,45.166046142578125,-93.16624450683594,4121 108th Ave NE,Blaine,MN,55449,https://www.culvers.com/restaurants/blaine-mn-108th-ave-ne,Minnesota,Culver's,03/09/2024
+227,44.967926025390625,-92.72168731689453,151 Carmichael Rd,Hudson,WI,54016,https://www.culvers.com/restaurants/hudson,Wisconsin,Culver's,03/09/2024
+194,45.080657958984375,-93.33671569824219,6900 Brooklyn Blvd,Brooklyn Center,MN,55429,https://www.culvers.com/restaurants/brooklyn-center,Minnesota,Culver's,03/09/2024
+150,45.16197204589844,-93.23401641845703,10550 Baltimore St NE,Blaine,MN,55449,https://www.culvers.com/restaurants/blaine,Minnesota,Culver's,03/09/2024
+584,44.73524475097656,-93.12650299072266,14755 S Robert Trl,Rosemount,MN,55068,https://www.culvers.com/restaurants/rosemount-mn-robert-trl,Minnesota,Culver's,03/09/2024
+132,45.14580154418945,-93.2822494506836,611 Coon Rapids Blvd,Coon Rapids,MN,55433,https://www.culvers.com/restaurants/coon-rapids,Minnesota,Culver's,03/09/2024
+493,44.98544692993164,-93.39222717285156,8845 7th Ave N,Golden Valley,MN,55427,https://www.culvers.com/restaurants/golden-valley-mn-7th-ave,Minnesota,Culver's,03/09/2024
+264,44.737022399902344,-92.89076232910156,1713 Market Blvd,Hastings,MN,55033,https://www.culvers.com/restaurants/hastings,Minnesota,Culver's,03/09/2024
+142,44.728431701660156,-93.20818328857422,15225 Galaxie Ave,Apple Valley,MN,55124,https://www.culvers.com/restaurants/apple-valley,Minnesota,Culver's,03/09/2024
+105,44.778621673583984,-93.33885192871094,4725 Hwy 13 W,Savage,MN,55378,https://www.culvers.com/restaurants/savage,Minnesota,Culver's,03/09/2024
+152,45.06527328491211,-93.44017791748047,6175 Quinwood Ln,Plymouth,MN,55442,https://www.culvers.com/restaurants/plymouth-quinwood,Minnesota,Culver's,03/09/2024
+220,44.863773345947266,-93.44290924072266,920 Prairie Center Drive,Eden Prairie,MN,55344,https://www.culvers.com/restaurants/eden-prairie,Minnesota,Culver's,03/09/2024
+126,45.1587028503418,-93.39266967773438,11218 Commerce Dr N,Champlin,MN,55316,https://www.culvers.com/restaurants/champlin,Minnesota,Culver's,03/09/2024
+195,45.2796516418457,-92.99658203125,1007 W Broadway Ave,Forest Lake,MN,55025,https://www.culvers.com/restaurants/forest-lake,Minnesota,Culver's,03/09/2024
+699,44.87110137939453,-92.62239837646484,1109 N Main St,River Falls,WI,54022,https://www.culvers.com/restaurants/river-falls-wi-main-st,Wisconsin,Culver's,03/09/2024
+316,44.69071578979492,-93.28106689453125,17800 Kenwood Trl,Lakeville,MN,55044,https://www.culvers.com/restaurants/lakeville,Minnesota,Culver's,03/09/2024
+853,44.913299560546875,-93.50250244140625,17555 Hwy 7,Minnetonka,MN,55345,https://www.culvers.com/restaurants/minnetonka-mn-hwy-7,Minnesota,Culver's,03/09/2024
+164,45.03456497192383,-93.50949096679688,4335 Peony Ln,Plymouth,MN,55446,https://www.culvers.com/restaurants/plymouth-peony,Minnesota,Culver's,03/09/2024
+131,44.7846794128418,-93.46906280517578,4058 12th Ave E,Shakopee,MN,55379,https://www.culvers.com/restaurants/shakopee,Minnesota,Culver's,03/09/2024
+161,45.208343505859375,-93.40777587890625,800 W Main St,Anoka,MN,55303,https://www.culvers.com/restaurants/anoka,Minnesota,Culver's,03/09/2024
+172,45.129512786865234,-93.48856353759766,16380 96th Ave N,Maple Grove,MN,55311,https://www.culvers.com/restaurants/maple-grove,Minnesota,Culver's,03/09/2024
+170,44.85767364501953,-93.53239440917969,450 Pond Promenade,Chanhassen,MN,55317,https://www.culvers.com/restaurants/chanhassen,Minnesota,Culver's,03/09/2024
+707,31.90839958190918,-110.98280334472656,18810 S Nogales Hwy,Green Valley,AZ,85614,https://www.culvers.com/restaurants/sahuarita-az-s-nogales-hwy,Arizona,Culver's,03/09/2024
+815,32.89630126953125,-83.69090270996094,3710 Northside Dr,Macon,GA,31210,https://www.culvers.com/restaurants/macon-ga-northside-dr,Georgia,Culver's,03/09/2024
+588,42.58678436279297,-83.8756103515625,3900 E Grand River Ave,Howell,MI,48843,https://www.culvers.com/restaurants/howell-mi-grand-river-ave,Michigan,Culver's,03/09/2024
+957,35.7054328918457,-81.29434967041016,2194 13th Ave Dr SE,Hickory,NC,28602,https://www.culvers.com/restaurants/hickory-nc-13th-avenue-se-dr,North Carolina,Culver's,03/09/2024
+340,38.41315460205078,-90.38382720947266,123 Richardson Crossing,Arnold,MO,63010,https://www.culvers.com/restaurants/arnold,Missouri,Culver's,03/09/2024
+244,43.013084411621094,-87.96820068359375,1641 Miller Pkwy,West Milwaukee,WI,53214,https://www.culvers.com/restaurants/west-milwaukee,Wisconsin,Culver's,03/09/2024
+99,42.95858383178711,-87.91893768310547,575 W Layton Ave,Milwaukee,WI,53207,https://www.culvers.com/restaurants/milwaukee-layton,Wisconsin,Culver's,03/09/2024
+591,42.95893859863281,-87.98956298828125,6031 W Layton Ave,Greenfield,WI,53220,https://www.culvers.com/restaurants/greenfield-wi-layton-ave,Wisconsin,Culver's,03/09/2024
+305,43.011837005615234,-88.04576873779297,1672 S 108th St,West Allis,WI,53214,https://www.culvers.com/restaurants/west-allis,Wisconsin,Culver's,03/09/2024
+179,43.08860778808594,-87.89392852783203,1325 E Capitol Dr,Shorewood,WI,53211,https://www.culvers.com/restaurants/shorewood,Wisconsin,Culver's,03/09/2024
+235,43.09434509277344,-87.98262023925781,5501 W Fond du Lac Ave,Milwaukee,WI,53216,https://www.culvers.com/restaurants/milwaukee-fond-du-lac,Wisconsin,Culver's,03/09/2024
+58,42.93419647216797,-88.04946899414062,6101 S 108th St,Hales Corners,WI,53130,https://www.culvers.com/restaurants/hales-corners,Wisconsin,Culver's,03/09/2024
+40,42.901634216308594,-87.9126205444336,7841 S Howell Ave,Oak Creek,WI,53154,https://www.culvers.com/restaurants/oak-creek,Wisconsin,Culver's,03/09/2024
+32,42.98250961303711,-88.09871673583984,14855 W National Ave,New Berlin,WI,53151,https://www.culvers.com/restaurants/new-berlin,Wisconsin,Culver's,03/09/2024
+464,43.03653335571289,-88.10372161865234,15280 W Bluemound Rd,Elm Grove,WI,53122,https://www.culvers.com/restaurants/elm-grove-wi,Wisconsin,Culver's,03/09/2024
+218,43.08540725708008,-88.06702423095703,3705 N 124th St,Brookfield,WI,53005,https://www.culvers.com/restaurants/brookfield-124th,Wisconsin,Culver's,03/09/2024
+859,43.1245002746582,-87.91290283203125,300 West Bayside Drive,Glendale,WI,53217,https://www.culvers.com/restaurants/glendale-wi-bayside-dr,Wisconsin,Culver's,03/09/2024
+139,42.87202072143555,-87.97013854980469,4220 W Oakwood Park Ct,Franklin,WI,53132,https://www.culvers.com/restaurants/franklin,Wisconsin,Culver's,03/09/2024
+383,43.14828872680664,-88.00426483154297,7515 W Good Hope Rd,Milwaukee,WI,53223,https://www.culvers.com/restaurants/milwaukee-good-hope,Wisconsin,Culver's,03/09/2024
+36,42.90005874633789,-88.14868927001953,W187S7959 Racine Ave,Muskego,WI,53150,https://www.culvers.com/restaurants/muskego,Wisconsin,Culver's,03/09/2024
+115,43.18611145019531,-87.96513366699219,4327 W Schroeder Dr,Brown Deer,WI,53223,https://www.culvers.com/restaurants/brown-deer,Wisconsin,Culver's,03/09/2024
+59,43.08415985107422,-88.177490234375,21300 W Capitol Dr,Pewaukee,WI,53072,https://www.culvers.com/restaurants/brookfield-capitol,Wisconsin,Culver's,03/09/2024
+73,43.02275085449219,-88.20169830322266,1650 E Main St,Waukesha,WI,53186,https://www.culvers.com/restaurants/waukesha-hwy-164,Wisconsin,Culver's,03/09/2024
+204,43.22075271606445,-87.9234390258789,11150 N Port Washington Rd,Mequon,WI,53092,https://www.culvers.com/restaurants/mequon,Wisconsin,Culver's,03/09/2024
+45,42.988609313964844,-88.24684143066406,840 W Sunset Dr,Waukesha,WI,53189,https://www.culvers.com/restaurants/waukesha-sunset,Wisconsin,Culver's,03/09/2024
+4,43.03982925415039,-88.25642395019531,2600 N Grandview Blvd,Waukesha,WI,53188,https://www.culvers.com/restaurants/waukesha-grandview,Wisconsin,Culver's,03/09/2024
+13,43.191654205322266,-88.14076232910156,W186N9581 Bancroft Dr,Menomonee Falls,WI,53051,https://www.culvers.com/restaurants/menomonee-falls,Wisconsin,Culver's,03/09/2024
+837,42.778499603271484,-87.80699920654297,4542 Douglas Ave,Racine,WI,53402,https://www.culvers.com/restaurants/racine-wi-douglas-ave,Wisconsin,Culver's,03/09/2024
+123,43.1379508972168,-88.24332427978516,W249N6620 Hwy 164,Sussex,WI,53089,https://www.culvers.com/restaurants/sussex,Wisconsin,Culver's,03/09/2024
+56,42.72585678100586,-87.95706176757812,722 S Sylvania Ave,Sturtevant,WI,53177,https://www.culvers.com/restaurants/racine-sylvania,Wisconsin,Culver's,03/09/2024
+25,43.30497360229492,-87.96100616455078,2001 Wisconsin Ave,Grafton,WI,53024,https://www.culvers.com/restaurants/grafton,Wisconsin,Culver's,03/09/2024
+454,43.015159606933594,-88.3738784790039,400 E Summit Ave,Wales,WI,53183,https://www.culvers.com/restaurants/wales,Wisconsin,Culver's,03/09/2024
+53,42.878631591796875,-88.33944702148438,1090 N Rochester St,Mukwonago,WI,53149,https://www.culvers.com/restaurants/mukwonago,Wisconsin,Culver's,03/09/2024
+431,43.09284973144531,-88.36058044433594,701 Industrial Ct,Hartland,WI,53029,https://www.culvers.com/restaurants/hartland-wi,Wisconsin,Culver's,03/09/2024
+182,46.83294677734375,-96.82064056396484,3197 25th St S,Fargo,ND,58103,https://www.culvers.com/restaurants/fargo-25th,North Dakota,Culver's,03/09/2024
+143,46.862239837646484,-96.8638916015625,4615 13th Ave SW,Fargo,ND,58103,https://www.culvers.com/restaurants/fargo-13th,North Dakota,Culver's,03/09/2024
+389,44.45014190673828,-93.17083740234375,960 Hwy 3 S,Northfield,MN,55057,https://www.culvers.com/restaurants/northfield,Minnesota,Culver's,03/09/2024
+207,44.830284118652344,-93.601806640625,180 Pioneer Trl,Chaska,MN,55318,https://www.culvers.com/restaurants/chaska,Minnesota,Culver's,03/09/2024
+406,38.97339630126953,-84.66278076171875,8554 Hwy 42,Florence,KY,41042,https://www.culvers.com/restaurants/florence,Kentucky,Culver's,03/09/2024
+48,44.935150146484375,-93.60739135742188,3340 Shoreline Dr,Wayzata,MN,55391,https://www.culvers.com/restaurants/navarre,Minnesota,Culver's,03/09/2024
+665,32.00131607055664,-81.13594818115234,333 W Montgomery Crossroad,Savannah,GA,31406,https://www.culvers.com/restaurants/savannah-ga-montgomery-cross-rd,Georgia,Culver's,03/09/2024
+655,32.13654708862305,-81.2466049194336,121 Tanger Outlet Blvd,Pooler,GA,31322,https://www.culvers.com/restaurants/pooler-ga-tanger-blvd,Georgia,Culver's,03/09/2024
+138,40.48643112182617,-88.9428482055664,901 Hershey Rd,Bloomington,IL,61704,https://www.culvers.com/restaurants/bloomington-hershey,Illinois,Culver's,03/09/2024
+191,40.48439025878906,-89.0213394165039,1807 W Market St,Bloomington,IL,61701,https://www.culvers.com/restaurants/bloomington-market,Illinois,Culver's,03/09/2024
+440,41.05913162231445,-83.6658706665039,806 Trenton Ave,Findlay,OH,45840,https://www.culvers.com/restaurants/findlay_trenton,Ohio,Culver's,03/09/2024
+916,41.356414794921875,-83.65223693847656,125 W Gypsy Lane Rd,Bowling Green ,OH,43402,https://www.culvers.com/restaurants/bowling-green-gypsy-lane-rd,Ohio,Culver's,03/09/2024
+764,28.003599166870117,-81.71520233154297,888 Cypress Gardens Blvd,Winter Haven,FL,33880,https://www.culvers.com/restaurants/winter-haven-cypress-gardens-blvd,Florida,Culver's,03/09/2024
+107,41.98146438598633,-88.70431518554688,1200 DeKalb Ave,Sycamore,IL,60178,https://www.culvers.com/restaurants/sycamore,Illinois,Culver's,03/09/2024
+519,41.93045425415039,-88.77747344970703,1262 W Lincoln Hwy,DeKalb,IL,60115,https://www.culvers.com/restaurants/dekalb-il,Illinois,Culver's,03/09/2024
+413,37.084041595458984,-84.61775970458984,711 S Hwy 27,Somerset,KY,42501,https://www.culvers.com/restaurants/somerset,Kentucky,Culver's,03/09/2024
+250,40.05757522583008,-84.24566650390625,2100 W Main St,Troy,OH,45373,https://www.culvers.com/restaurants/troy,Ohio,Culver's,03/09/2024
+744,39.83340072631836,-84.8230972290039,401 Commerce Rd,Richmond,IN,47374,https://www.culvers.com/restaurants/richmond-in-commerce-rd,Indiana,Culver's,03/09/2024
+852,39.84120178222656,-84.19300079345703,6425 Miller Ln,Vandalia,OH,45414,https://www.culvers.com/restaurants/vandalia-oh-miller,Ohio,Culver's,03/09/2024
+294,41.710872650146484,-86.17906188964844,5520 N Main St,Mishawaka,IN,46545,https://www.culvers.com/restaurants/mishawaka,Indiana,Culver's,03/09/2024
+747,41.72639846801758,-86.2510986328125,52733 SR 933,South Bend,IN,46637,https://www.culvers.com/restaurants/south-bend-in-sr-933,Indiana,Culver's,03/09/2024
+803,41.75239944458008,-86.1229019165039,13145 S State Rd 23,Granger,IN,46530,https://www.culvers.com/restaurants/granger-in-state-rd,Indiana,Culver's,03/09/2024
+975,41.684974670410156,-86.11094665527344,12571 McKinley Hwy,Mishawaka,IN,46545,https://www.culvers.com/restaurants/mishawaka-in-mckinley-hwy,Indiana,Culver's,03/09/2024
+388,41.62978744506836,-86.25062561035156,4402 S Michigan St,South Bend,IN,46614,https://www.culvers.com/restaurants/south_bend,Indiana,Culver's,03/09/2024
+736,41.811500549316406,-86.24870300292969,1420 S 11th St,Niles,MI,49120,https://www.culvers.com/restaurants/niles-mi-s-11th-st,Michigan,Culver's,03/09/2024
+256,41.727500915527344,-85.97260284423828,2915 Brittany Ct,Elkhart,IN,46514,https://www.culvers.com/restaurants/elkhart,Indiana,Culver's,03/09/2024
+767,41.59870147705078,-85.8634033203125,2024 Elkhart Rd,Goshen,IN,46526,https://www.culvers.com/restaurants/goshen-in-elkhart-rd,Indiana,Culver's,03/09/2024
+499,41.55999755859375,-85.79566955566406,2019 Lincoln Way E,Goshen,IN,46526,https://www.culvers.com/restaurants/goshen-in,Indiana,Culver's,03/09/2024
+486,26.216442108154297,-81.7689437866211,5775 Airport Pulling Rd N,Naples,FL,34109,https://www.culvers.com/restaurants/naples-fl-airport-pulling,Florida,Culver's,03/09/2024
+555,26.10539436340332,-81.74729919433594,5102 Tamiami Trl E,Naples,FL,34113,https://www.culvers.com/restaurants/naples-fl-tamiami-trl,Florida,Culver's,03/09/2024
+672,26.274185180664062,-81.68416595458984,8940 Sage Ave,Naples,FL,34120,https://www.culvers.com/restaurants/naples-fl-immokalee-rd,Florida,Culver's,03/09/2024
+602,26.330821990966797,-81.75643157958984,11905 Bonita Beach Rd SE,Bonita Springs,FL,34135,https://www.culvers.com/restaurants/bonita-springs-fl-saradrienne-ln,Florida,Culver's,03/09/2024
+982,26.392232,-81.809251,8400 Murano Del Lago Dr,Estero,FL,34135,https://www.culvers.com/restaurants/estero-fl-murano-del-lago-dr,Florida,Culver's,03/09/2024
+504,26.43182373046875,-81.78544616699219,10301 Corkscrew Rd,Estero,FL,33928,https://www.culvers.com/restaurants/estero-fl,Florida,Culver's,03/09/2024
+496,26.491455078125,-81.78421020507812,10050 University Plaza Dr,Fort Myers,FL,33913,https://www.culvers.com/restaurants/ft-myers-university-plaza,Florida,Culver's,03/09/2024
+563,35.4464111328125,-82.53199005126953,371 Airport Rd,Arden,NC,28704,https://www.culvers.com/restaurants/arden-nc-airport-rd,North Carolina,Culver's,03/09/2024
+81,43.38614273071289,-87.89720153808594,1407 W Grand Ave,Port Washington,WI,53074,https://www.culvers.com/restaurants/port-washington,Wisconsin,Culver's,03/09/2024
+95,43.32551956176758,-88.18882751464844,W227N16880 Tillie Lake Ct,Jackson,WI,53037,https://www.culvers.com/restaurants/jackson-wi,Wisconsin,Culver's,03/09/2024
+802,40.85200119018555,-81.43930053710938,4896 Everhard Rd NW,Canton,OH,44718,https://www.culvers.com/restaurants/canton-oh-everhard-rd,Ohio,Culver's,03/09/2024
+311,38.780765533447266,-89.94807434082031,6724 Old Troy Rd,Edwardsville,IL,62025,https://www.culvers.com/restaurants/edwardsville,Illinois,Culver's,03/09/2024
+329,38.68870544433594,-90.00940704345703,100 United Dr,Collinsville,IL,62234,https://www.culvers.com/restaurants/collinsville,Illinois,Culver's,03/09/2024
+677,37.74362564086914,-89.16047668457031,2401 Reed Station Pkwy,Carbondale,IL,62901,https://www.culvers.com/restaurants/carbondale-il-reed-station-rd,Illinois,Culver's,03/09/2024
+366,37.310420989990234,-89.55270385742188,295 N Kingshighway,Cape Girardeau,MO,63701,https://www.culvers.com/restaurants/cape-girardeau,Missouri,Culver's,03/09/2024
+601,37.74526596069336,-88.96094512939453,2605 Blue Heron Dr ,Marion,IL,62959,https://www.culvers.com/restaurants/marion-il-blue-heron-dr,Illinois,Culver's,03/09/2024
+222,40.8603515625,-96.68106079101562,4940 N 27th St,Lincoln,NE,68521,https://www.culvers.com/restaurants/lincoln-27th,Nebraska,Culver's,03/09/2024
+205,40.771854400634766,-96.62467193603516,4121 Pioneer Woods Dr,Lincoln,NE,68506,https://www.culvers.com/restaurants/lincoln-pioneer,Nebraska,Culver's,03/09/2024
+111,40.75602340698242,-96.7002944946289,1500 Old Cheney Rd,Lincoln,NE,68512,https://www.culvers.com/restaurants/lincoln-old-cheney,Nebraska,Culver's,03/09/2024
+12,43.79594802856445,-90.05956268310547,640 McEvoy St,Mauston,WI,53948,https://www.culvers.com/restaurants/mauston,Wisconsin,Culver's,03/09/2024
+43,43.62560272216797,-89.78837585449219,351 Hwy 13,Wisconsin Dells,WI,53965,https://www.culvers.com/restaurants/wisconsin-dells,Wisconsin,Culver's,03/09/2024
+2,43.532958984375,-89.97796630859375,2075 E Main St,Reedsburg,WI,53959,https://www.culvers.com/restaurants/reedsburg,Wisconsin,Culver's,03/09/2024
+76,43.577056884765625,-89.77938842773438,1070 Wisconsin Dells Pkwy S,Lake Delton,WI,53913,https://www.culvers.com/restaurants/lake-delton,Wisconsin,Culver's,03/09/2024
+592,42.660133361816406,-83.43150329589844,7313 Highland Rd,Waterford,MI,48327,https://www.culvers.com/restaurants/waterford-mi-highland-rd,Michigan,Culver's,03/09/2024
+647,42.635284423828125,-83.74015045166016,10855 Highland Rd,Hartland,MI,48353,https://www.culvers.com/restaurants/hartland-mi-highland-rd,Michigan,Culver's,03/09/2024
+600,29.625734329223633,-82.38436126708984,4036 SW 30th Pl,Gainesville,FL,32608,https://www.culvers.com/restaurants/gainesville-fl-sw-35th-blvd,Florida,Culver's,03/09/2024
+770,43.04010009765625,-83.32270050048828,840 West St,Lapeer,MI,48446,https://www.culvers.com/restaurants/lapeer-mi-west-st,Michigan,Culver's,03/09/2024
+217,41.70014572143555,-91.60919189453125,2591 Heartland Pl,Coralville,IA,52241,https://www.culvers.com/restaurants/coralville,Iowa,Culver's,03/09/2024
+467,41.648109436035156,-91.54937744140625,710 Hwy 1 W,Iowa City,IA,52246,https://www.culvers.com/restaurants/iowa-city-ia,Iowa,Culver's,03/09/2024
+74,41.95463180541992,-91.71552276611328,2405 Edgewood Rd SW,Cedar Rapids,IA,52404,https://www.culvers.com/restaurants/cedar-rapids,Iowa,Culver's,03/09/2024
+328,42.038490295410156,-91.55107879638672,1375 Red Fox Way,Marion,IA,52302,https://www.culvers.com/restaurants/marion,Iowa,Culver's,03/09/2024
+109,42.0482177734375,-91.68312072753906,1005 N Center Point Rd,Hiawatha,IA,52233,https://www.culvers.com/restaurants/hiawatha,Iowa,Culver's,03/09/2024
+824,32.6265983581543,-85.44920349121094,2080 E University Dr,Auburn,AL,36830,https://www.culvers.com/restaurants/auburn-al-university-dr,Alabama,Culver's,03/09/2024
+498,39.210018157958984,-94.64891052246094,5901 NW 64th St,Kansas City,MO,64151,https://www.culvers.com/restaurants/kansas-city-mo-nw-64th-st,Missouri,Culver's,03/09/2024
+483,39.036102294921875,-94.34355926513672,4220 S Little Blue Pkwy,Independence,MO,64057,https://www.culvers.com/restaurants/independence-mo,Missouri,Culver's,03/09/2024
+407,39.24394989013672,-94.4502182006836,1905 W Kansas St,Liberty,MO,64068,https://www.culvers.com/restaurants/liberty,Missouri,Culver's,03/09/2024
+376,39.004154205322266,-94.2734375,1301 SW State Hwy 7,Blue Springs,MO,64015,https://www.culvers.com/restaurants/blue-springs,Missouri,Culver's,03/09/2024
+922,39.02499008178711,-94.19847106933594,1180 NW Buckner Tarsney Rd,Grain Valley,MO,64029,https://www.culvers.com/restaurants/grain-valley-mo-nw-buckner-tarsney-rd,Missouri,Culver's,03/09/2024
+838,39.267398834228516,-94.91459655761719,600 Eisenhower Rd,Leavenworth,KS,66048,https://www.culvers.com/restaurants/leavenworth-ks-eisenhower-rd,Kansas,Culver's,03/09/2024
+558,39.35708999633789,-94.76699829101562,1650 Prairie View Rd,Platte City,MO,64079,https://www.culvers.com/restaurants/platte-city-mo-prairie-view,Missouri,Culver's,03/09/2024
+251,41.66490173339844,-86.89331817626953,3967 Frontage Rd N,Michigan City,IN,46360,https://www.culvers.com/restaurants/michigan_city,Indiana,Culver's,03/09/2024
+590,41.61798858642578,-86.7341079711914,233 Pine Lake Ave,La Porte,IN,46350,https://www.culvers.com/restaurants/la-porte-in-pine-lake-ave,Indiana,Culver's,03/09/2024
+47,42.51588439941406,-90.74187469482422,4800 Asbury Rd,Dubuque,IA,52002,https://www.culvers.com/restaurants/dubuque,Iowa,Culver's,03/09/2024
+85,42.436222076416016,-90.45032501220703,11371 Oldenburg Ln,Galena,IL,61036,https://www.culvers.com/restaurants/galena,Illinois,Culver's,03/09/2024
+8,42.727569580078125,-90.4736328125,375 E BUS Hwy 151,Platteville,WI,53818,https://www.culvers.com/restaurants/platteville,Wisconsin,Culver's,03/09/2024
+448,42.790287017822266,-83.73373413085938,3202 Owen Rd,Fenton,MI,48430,https://www.culvers.com/restaurants/fenton-mi,Michigan,Culver's,03/09/2024
+526,42.899147033691406,-83.63180541992188,9090 Holly Rd,Grand Blanc,MI,48439,https://www.culvers.com/restaurants/grand-blanc-mi,Michigan,Culver's,03/09/2024
+801,43.0192985534668,-83.55690002441406,7500 E Court St,Davison,MI,48423,https://www.culvers.com/restaurants/davison-mi-court-st,Michigan,Culver's,03/09/2024
+772,43.9552001953125,-86.40630340576172,5089 W. US-10,Ludington,MI,49431,https://www.culvers.com/restaurants/ludington-mi-us-10,Michigan,Culver's,03/09/2024
+799,43.40890121459961,-86.32050323486328,3141 Colby St,Whitehall,MI,49461,https://www.culvers.com/restaurants/whitehall-mi-colby-st,Michigan,Culver's,03/09/2024
+805,34.84260177612305,-87.68910217285156,2713 Cloverdale Road,Florence,AL,35633,https://www.culvers.com/restaurants/florence-al-cloverdale-rd,Alabama,Culver's,03/09/2024
+827,35.74589920043945,-77.96720123291016,3609 Raleigh Rd Pkwy W,Wilson,NC,27896,https://www.culvers.com/restaurants/wilson-nc-raleigh-rd,North Carolina,Culver's,03/09/2024
+856,38.21900177001953,-104.63749694824219,2285 W Pueblo Blvd,Pueblo,CO,81004,https://www.culvers.com/restaurants/pueblo-co,Colorado,Culver's,03/09/2024
+811,43.837398529052734,-84.7667007446289,10401 S Clare Avenue,Clare,MI,48617,https://www.culvers.com/restaurants/clare-mi-clare-ave,Michigan,Culver's,03/09/2024
+323,43.61237335205078,-84.764892578125,1021 E Pickard St,Mt. Pleasant,MI,48858,https://www.culvers.com/restaurants/mt-pleasant,Michigan,Culver's,03/09/2024
+711,41.41189956665039,-82.668701171875,4637 Milan Rd,Sandusky,OH,44870,https://www.culvers.com/restaurants/sandusky-oh-milan-rd,Ohio,Culver's,03/09/2024
+845,38.66400146484375,-94.36650085449219,1415 N Rte 291,Harrisonville,MO,64701,https://www.culvers.com/restaurants/harrisonville-mo-rte-291,Missouri,Culver's,03/09/2024
+336,42.26637649536133,-84.45499420166016,3471 O'Neill Dr,Jackson,MI,49202,https://www.culvers.com/restaurants/jackson-mi,Michigan,Culver's,03/09/2024
+569,27.961000442504883,-82.75420379638672,2008 Gulf to Bay Blvd,Clearwater,FL,33765,https://www.culvers.com/restaurants/clearwater-fl-gulf-to-bay-blvd,Florida,Culver's,03/09/2024
+515,27.91680145263672,-82.75052642822266,3500 E Bay Dr,Largo,FL,33771,https://www.culvers.com/restaurants/largo-fl,Florida,Culver's,03/09/2024
+561,27.839860916137695,-82.78382110595703,10425 Park Blvd,Seminole,FL,33772,https://www.culvers.com/restaurants/seminole-fl-park-blvd,Florida,Culver's,03/09/2024
+703,40.96390151977539,-90.38379669189453,1330 N Henderson St,Galesburg,IL,61401,https://www.culvers.com/restaurants/galesburg-il-n-henderson-st,Illinois,Culver's,03/09/2024
+735,33.708499908447266,-96.5927963256836,5131 Gateway Blvd,Denison,TX,75020,https://www.culvers.com/restaurants/denison-tx-hwy-691,Texas,Culver's,03/09/2024
+550,38.2214241027832,-84.53993225097656,1450 Cherry Blossom Way,Georgetown,KY,40324,https://www.culvers.com/restaurants/georgetown-ky-cherry-blossom,Kentucky,Culver's,03/09/2024
+16,43.092891693115234,-88.47896575927734,1177 Summit Ave,Oconomowoc,WI,53066,https://www.culvers.com/restaurants/oconomowoc,Wisconsin,Culver's,03/09/2024
+987,42.791856,-88.39278,2557 North St,East Troy,WI,53120,https://www.culvers.com/restaurants/east-troy-wi-north-st,Wisconsin,Culver's,03/09/2024
+90,43.0832633972168,-88.76392364501953,525 Village Walk Ln,Johnson Creek,WI,53038,https://www.culvers.com/restaurants/johnson-creek,Wisconsin,Culver's,03/09/2024
+148,42.83528137207031,-88.7605209350586,1414 W Main St,Whitewater,WI,53190,https://www.culvers.com/restaurants/whitewater,Wisconsin,Culver's,03/09/2024
+21,43.17193603515625,-88.7329330444336,1722 S Church St,Watertown,WI,53094,https://www.culvers.com/restaurants/watertown,Wisconsin,Culver's,03/09/2024
+51,42.940696716308594,-88.86106872558594,1551 Madison Ave,Fort Atkinson,WI,53538,https://www.culvers.com/restaurants/fort-atkinson,Wisconsin,Culver's,03/09/2024
+63,42.693206787109375,-88.54239654541016,1000 N Wisconsin St,Elkhorn,WI,53121,https://www.culvers.com/restaurants/elkhorn,Wisconsin,Culver's,03/09/2024
+587,43.08985900878906,-88.9110107421875,190 Tyranena Park Rd,Lake Mills,WI,53551,https://www.culvers.com/restaurants/lake-mills-wi-tyranena-rd,Wisconsin,Culver's,03/09/2024
+304,42.62849044799805,-88.61006164550781,1931 E Geneva St,Delavan,WI,53115,https://www.culvers.com/restaurants/delavan,Wisconsin,Culver's,03/09/2024
+212,43.317264556884766,-88.35797119140625,1285 E Sumner St,Hartford,WI,53027,https://www.culvers.com/restaurants/hartford,Wisconsin,Culver's,03/09/2024
+417,41.229637145996094,-95.87860870361328,3245 S 24th St,Council Bluffs,IA,51501,https://www.culvers.com/restaurants/council-bluffs,Iowa,Culver's,03/09/2024
+156,41.14787673950195,-95.9679946899414,3602 Raynor Pkwy,Bellevue,NE,68123,https://www.culvers.com/restaurants/bellevue,Nebraska,Culver's,03/09/2024
+91,41.2825927734375,-96.10016632080078,11920 Miami St,Omaha,NE,68164,https://www.culvers.com/restaurants/omaha-miami,Nebraska,Culver's,03/09/2024
+384,41.17665100097656,-96.06636047363281,9848 Giles Rd,La Vista,NE,68128,https://www.culvers.com/restaurants/lavista,Nebraska,Culver's,03/09/2024
+183,41.20578384399414,-96.1526107788086,15255 Weir Plz,Omaha,NE,68137,https://www.culvers.com/restaurants/omaha-millard,Nebraska,Culver's,03/09/2024
+949,41.291595458984375,-96.18401336669922,17202 Evans St,Omaha,NE,68116,https://www.culvers.com/restaurants/omaha-ne-evans-st,Nebraska,Culver's,03/09/2024
+950,41.14944839477539,-96.21504974365234,11070 S. 191st St,Gretna,NE,68136,https://www.culvers.com/restaurants/gretna-ne-191-st,Nebraska,Culver's,03/09/2024
+395,43.79079055786133,-87.75958251953125,4225 State Hwy 42,Sheboygan,WI,53083,https://www.culvers.com/restaurants/sheboygan-hwy42,Wisconsin,Culver's,03/09/2024
+39,43.74936294555664,-87.7455825805664,641 S Taylor Dr,Sheboygan,WI,53081,https://www.culvers.com/restaurants/sheboygan-taylor-drive,Wisconsin,Culver's,03/09/2024
+516,43.71986389160156,-87.73948669433594,2510 Washington Ave,Sheboygan,WI,53081,https://www.culvers.com/restaurants/sheboygan-wi-washington,Wisconsin,Culver's,03/09/2024
+116,43.74773025512695,-87.95317077636719,2318 Eastern Ave,Plymouth,WI,53073,https://www.culvers.com/restaurants/plymouth,Wisconsin,Culver's,03/09/2024
+946,43.62283706665039,-87.77644348144531,33 S Business Park Dr,Oostburg,WI,53070,https://www.culvers.com/restaurants/oostburg-wi-s-business-park-dr,Wisconsin,Culver's,03/09/2024
+77,44.074623107910156,-87.70016479492188,4201 Calumet Ave,Manitowoc,WI,54220,https://www.culvers.com/restaurants/manitowoc,Wisconsin,Culver's,03/09/2024
+908,32.543701171875,-84.87560272216797,6859 Midland Commons Blvd,Columbus,GA,31909,https://www.culvers.com/restaurants/columbus-midland-commons-blvd,Georgia,Culver's,03/09/2024
+733,32.49610137939453,-85.04340362548828,3650 Market Place Dr,Phenix City,AL,36867,https://www.culvers.com/restaurants/phenix-city-hwy-280,Alabama,Culver's,03/09/2024
+642,35.91252517700195,-84.08507537841797,9113 Kingston Pike,Knoxville,TN,37923,https://www.culvers.com/restaurants/knoxville-tn-kingston-pike,Tennessee,Culver's,03/09/2024
+785,35.76639938354492,-83.98509979248047,270 Hamilton Crossing Dr,Alcoa,TN,37701,https://www.culvers.com/restaurants/alcoa-tn-hamilton-crossing-blvd,Tennessee,Culver's,03/09/2024
+177,41.38227081298828,-88.42137908935547,1919 N Division St,Morris,IL,60450,https://www.culvers.com/restaurants/morris,Illinois,Culver's,03/09/2024
+474,41.549720764160156,-90.50160217285156,2312 Spruce Hills Dr,Bettendorf,IA,52722,https://www.culvers.com/restaurants/bettendorf-ia,Iowa,Culver's,03/09/2024
+585,41.48794174194336,-90.42036437988281,608 22nd Ave,Silvis,IL,61282,https://www.culvers.com/restaurants/silvis-il-22nd-ave,Illinois,Culver's,03/09/2024
+84,41.575599670410156,-90.54244232177734,5320 Jersey Ridge Rd,Davenport,IA,52807,https://www.culvers.com/restaurants/davenport-jersey,Iowa,Culver's,03/09/2024
+163,41.47255325317383,-90.47740936279297,4011 38th Ave,Moline,IL,61265,https://www.culvers.com/restaurants/moline,Illinois,Culver's,03/09/2024
+302,41.56085968017578,-90.62643432617188,3400 W Kimberly Rd,Davenport,IA,52806,https://www.culvers.com/restaurants/davenport-kimberly-road,Iowa,Culver's,03/09/2024
+145,41.81477355957031,-90.24895477294922,2625 Lincoln Way,Clinton,IA,52732,https://www.culvers.com/restaurants/clinton,Iowa,Culver's,03/09/2024
+344,41.4349250793457,-90.1585693359375,1275 S Oakwood Ave,Geneseo,IL,61254,https://www.culvers.com/restaurants/geneseo,Illinois,Culver's,03/09/2024
+933,34.550445556640625,-82.63086700439453,2109 N. Hwy 81,Anderson,SC,29621,https://www.culvers.com/restaurants/anderson-sc-hwy-81,South Carolina,Culver's,03/09/2024
+840,30.67650032043457,-88.14559936523438,3930 Airport Blvd,Mobile,AL,36608,https://www.culvers.com/restaurants/mobile-al-airport-blvd,Alabama,Culver's,03/09/2024
+485,43.66366958618164,-84.24568939208984,7320 Eastman Ave,Midland,MI,48642,https://www.culvers.com/restaurants/midland-mi,Michigan,Culver's,03/09/2024
+697,43.62350082397461,-83.9352035522461,2910 E Wilder Rd,Bay City,MI,48706,https://www.culvers.com/restaurants/bay-city-mi-wilder-rd,Michigan,Culver's,03/09/2024
+929,38.21751403808594,-90.38520050048828,200 S Truman Blvd,Crystal City,MO,63019,https://www.culvers.com/restaurants/crystal-city-truman-blvd,Missouri,Culver's,03/09/2024
+441,37.78914260864258,-90.4281005859375,525 W Karsch Blvd,Farmington,MO,63640,https://www.culvers.com/restaurants/farmington,Missouri,Culver's,03/09/2024
+972,40.790234,-82.589493,1364 N Lexington-Springmill Rd,Ontario,OH,44906,https://www.culvers.com/restaurants/ontario-oh-lexington-springmill-rd,Ohio,Culver's,03/09/2024
+392,41.16970443725586,-87.87577819824219,983 Convent St,Bourbonnais,IL,60914,https://www.culvers.com/restaurants/bourbonnais,Illinois,Culver's,03/09/2024
+780,42.9833984375,-83.75389862060547,4034 Miller Rd,Flint,MI,48507,https://www.culvers.com/restaurants/flint-mi-miller-rd,Michigan,Culver's,03/09/2024
+3,43.47517013549805,-89.76647186279297,420 Linn St,Baraboo,WI,53913,https://www.culvers.com/restaurants/baraboo,Wisconsin,Culver's,03/09/2024
+15,43.5635871887207,-89.46881103515625,2733 New Pinery Rd,Portage,WI,53901,https://www.culvers.com/restaurants/portage,Wisconsin,Culver's,03/09/2024
+956,38.7771110534668,-85.37995910644531,2481 Franks Dr ,Madison,IN,47250,https://www.culvers.com/restaurants/madison-in-franks-dr,Indiana,Culver's,03/09/2024
+382,36.627052307128906,-88.31317901611328,818 N 12th St,Murray,KY,42071,https://www.culvers.com/restaurants/murray,Kentucky,Culver's,03/09/2024
+426,42.329280853271484,-85.51058197021484,6097 Gull Rd,Kalamazoo,MI,49048,https://www.culvers.com/restaurants/kalamazoo-gull,Michigan,Culver's,03/09/2024
+324,42.21164321899414,-85.59014129638672,7262 S Westnedge Ave,Portage,MI,49002,https://www.culvers.com/restaurants/portage-mi,Michigan,Culver's,03/09/2024
+416,42.260581970214844,-85.19707489013672,5074 Beckley Rd,Battle Creek,MI,49015,https://www.culvers.com/restaurants/battle-creek,Michigan,Culver's,03/09/2024
+114,42.24330139160156,-85.67693328857422,5143 S 9th St,Kalamazoo,MI,49009,https://www.culvers.com/restaurants/kalamazoo,Michigan,Culver's,03/09/2024
+553,42.45047378540039,-85.67803955078125,1369 Allegan St,Otsego,MI,49078,https://www.culvers.com/restaurants/otsego-mi-allegan,Michigan,Culver's,03/09/2024
+848,42.64609909057617,-85.31719970703125,1600 W Green St,Hastings,MI,49058,https://www.culvers.com/restaurants/hastings-mi-green-st,Michigan,Culver's,03/09/2024
+173,40.13780212402344,-88.25967407226562,903 W Marketview Dr,Champaign,IL,61822,https://www.culvers.com/restaurants/champaign-marketview,Illinois,Culver's,03/09/2024
+723,40.1161994934082,-88.20950317382812,201 W University Ave,Urbana,IL,61801,https://www.culvers.com/restaurants/urbana-il-w-university-ave,Illinois,Culver's,03/09/2024
+215,40.085453033447266,-88.24613952636719,2302 S Neil St,Champaign,IL,61820,https://www.culvers.com/restaurants/champaign-neil,Illinois,Culver's,03/09/2024
+641,44.83926010131836,-93.79600524902344,10710 10th St,Waconia,MN,55387,https://www.culvers.com/restaurants/waconia-mn-hwy-5,Minnesota,Culver's,03/09/2024
+951,45.03594207763672,-93.77698516845703,888 St. Peter Ave East,Delano,MN,55328,https://www.culvers.com/restaurants/delano-mn-st-peter-avenue-east,Minnesota,Culver's,03/09/2024
+34,45.176788330078125,-93.86724090576172,500 Hwy 55 E,Buffalo,MN,55313,https://www.culvers.com/restaurants/buffalo,Minnesota,Culver's,03/09/2024
+303,45.201175689697266,-93.5547103881836,13605 Northdale Blvd,Rogers,MN,55374,https://www.culvers.com/restaurants/rogers,Minnesota,Culver's,03/09/2024
+310,36.66337585449219,-93.23817443847656,1309 State Hwy 248,Branson,MO,65616,https://www.culvers.com/restaurants/branson,Missouri,Culver's,03/09/2024
+958,37.9794690649632,-87.4134386402923,8970 High Pointe Dr,Newburgh,IN,47630,https://www.culvers.com/restaurants/newburgh-in-highpointe-dr,Indiana,Culver's,03/09/2024
+261,37.99272537231445,-87.47325897216797,1734 Hirschland Rd,Evansville,IN,47715,https://www.culvers.com/restaurants/evansville,Indiana,Culver's,03/09/2024
+635,37.976356506347656,-87.63446044921875,4850 W Lloyd Expy,Evansville,IN,47712,https://www.culvers.com/restaurants/evansville-in-w-lloyd-expy,Indiana,Culver's,03/09/2024
+409,38.552581787109375,-92.20010375976562,1920 Jefferson St,Jefferson City,MO,65109,https://www.culvers.com/restaurants/jefferson-city,Missouri,Culver's,03/09/2024
+414,38.942848205566406,-104.80059814453125,7660 N Academy Blvd,Colorado Springs ,CO,80920,https://www.culvers.com/restaurants/colorado-springs-academy,Colorado,Culver's,03/09/2024
+275,38.873050689697266,-104.71572875976562,2925 New Center Pt,Colorado Springs,CO,80922,https://www.culvers.com/restaurants/colorado-springs-new-center-point,Colorado,Culver's,03/09/2024
+415,38.937923431396484,-104.61150360107422,7220 N Meridian Rd,Falcon,CO,80831,https://www.culvers.com/restaurants/falcon,Colorado,Culver's,03/09/2024
+312,38.79513931274414,-104.80828094482422,1140 Lake Plaza Dr,Colorado Springs,CO,80906,https://www.culvers.com/restaurants/colorado-spring-lake-plaza,Colorado,Culver's,03/09/2024
+471,38.71540832519531,-104.70104217529297,8065 Fountain Mesa Rd,Fountain,CO,80817,https://www.culvers.com/restaurants/fountain-co,Colorado,Culver's,03/09/2024
+676,43.21867370605469,-85.57056427001953,13960 White Creek Ave,Cedar Springs,MI,49319,https://www.culvers.com/restaurants/cedar-springs-mi-white-creek-ave,Michigan,Culver's,03/09/2024
+889,43.11759948730469,-85.59619903564453,2993 10 Mile Road NE,Rockford,MI,49341,https://www.culvers.com/restaurants/10-mile-rd-rockford-mi,Michigan,Culver's,03/09/2024
+656,43.17661666870117,-85.283447265625,1829 W Washington St,Greenville,MI,48838,https://www.culvers.com/restaurants/greenville-mi-washington,Michigan,Culver's,03/09/2024
+354,43.041446685791016,-85.68914031982422,4280 Alpine Ave,Comstock Park,MI,49321,https://www.culvers.com/restaurants/comstock_park,Michigan,Culver's,03/09/2024
+962,39.19010925292969,-96.5488510131836,529 McCall Rd,Manhattan,KS,66502,https://www.culvers.com/restaurants/manhattan-ks-mccall-rd,Kansas,Culver's,03/09/2024
+233,41.586036682128906,-93.80806732177734,1101 Jordan Creek Pkwy,West Des Moines,IA,50266,https://www.culvers.com/restaurants/west-des-moines-jordan,Iowa,Culver's,03/09/2024
+350,41.5993766784668,-93.73677062988281,1820 22nd St,West Des Moines,IA,50266,https://www.culvers.com/restaurants/west-des-moines-22nd,Iowa,Culver's,03/09/2024
+708,41.6156005859375,-93.86299896240234,455 E Hickman Rd,Waukee,IA,50263,https://www.culvers.com/restaurants/waukee-ia-hickman-rd,Iowa,Culver's,03/09/2024
+165,41.6481819152832,-93.73851776123047,8660 Plum Dr,Urbandale,IA,50322,https://www.culvers.com/restaurants/urbandale,Iowa,Culver's,03/09/2024
+804,41.68920135498047,-93.7771987915039,1601 E 1st St,Grimes,IA,50111,https://www.culvers.com/restaurants/grimes-ia-1st-st,Iowa,Culver's,03/09/2024
+168,41.53177261352539,-93.59600830078125,5941 SE 14th St,Des Moines,IA,50320,https://www.culvers.com/restaurants/des-moines,Iowa,Culver's,03/09/2024
+119,41.70767593383789,-93.58060455322266,2305 SE Delaware Ave,Ankeny,IA,50021,https://www.culvers.com/restaurants/ankeny,Iowa,Culver's,03/09/2024
+955,41.76042938232422,-93.60406494140625,255 NW 36th St,Ankeny,IA,50023,https://www.culvers.com/restaurants/ankeny-ia-nw36th-st,Iowa,Culver's,03/09/2024
+239,41.659793853759766,-93.49285125732422,2535 Adventureland Dr,Altoona,IA,50009,https://www.culvers.com/restaurants/altoona,Iowa,Culver's,03/09/2024
+530,27.24957275390625,-82.51403045654297,7250 S Tamiami Trl,Sarasota,FL,34231,https://www.culvers.com/restaurants/sarasota-fl-tamiami-trl,Florida,Culver's,03/09/2024
+573,27.33616065979004,-82.45012664794922,90 Cattlemen Rd,Sarasota,FL,34232,https://www.culvers.com/restaurants/sarasota-fl-cattlemen,Florida,Culver's,03/09/2024
+507,27.389612197875977,-82.51803588867188,2605 University Pkwy,Sarasota,FL,34243,https://www.culvers.com/restaurants/sarasota-fl-university,Florida,Culver's,03/09/2024
+618,27.105060577392578,-82.38371276855469,19355 Times Cir,Venice,FL,34292,https://www.culvers.com/restaurants/venice-fl-times-cir,Florida,Culver's,03/09/2024
+787,27.072099685668945,-82.42240142822266,1735 Tamiami Trail,Venice,FL,34293,https://www.culvers.com/restaurants/venice-fl-tamiami-trail,Florida,Culver's,03/09/2024
+545,27.439449310302734,-82.45764923095703,5750 Ranch Lake Blvd,Bradenton,FL,34202,https://www.culvers.com/restaurants/bradenton-fl-ranch-lake-blvd,Florida,Culver's,03/09/2024
+548,27.462072372436523,-82.59742736816406,3515 Cortez Rd W,Bradenton,FL,34210,https://www.culvers.com/restaurants/bradenton-fl-cortez-rd,Florida,Culver's,03/09/2024
+904,27.48349952697754,-82.4124984741211,13020 SR 64 East,Bradenton,FL,34211,https://www.culvers.com/restaurants/bradenton-fl-64-east,Florida,Culver's,03/09/2024
+607,27.497554779052734,-82.50362396240234,4714 E State Rd 64,Bradenton,FL,34208,https://www.culvers.com/restaurants/bradenton-fl-fl64e,Florida,Culver's,03/09/2024
+985,27.520747,-82.545729,1707 US 301 N,Palmetto,FL,34221,https://www.culvers.com/restaurants/palmetto-fl-us-301,Florida,Culver's,03/09/2024
+593,27.040674209594727,-82.22534942626953,5648 Tuscola Blvd,North Port,FL,34287,https://www.culvers.com/restaurants/north-port-fl-tuscola-blvd,Florida,Culver's,03/09/2024
+31,44.26774978637695,-88.46147918701172,599 N Westhill Blvd,Appleton,WI,54914,https://www.culvers.com/restaurants/appleton,Wisconsin,Culver's,03/09/2024
+739,44.30229949951172,-88.41819763183594,850 W Evergreen Dr,Appleton,WI,54913,https://www.culvers.com/restaurants/grand-chute-wi-evergreen-dr,Wisconsin,Culver's,03/09/2024
+301,44.174415588378906,-88.49282836914062,1161 Westowne Dr,Neenah,WI,54956,https://www.culvers.com/restaurants/neenah,Wisconsin,Culver's,03/09/2024
+82,44.243141174316406,-88.35250854492188,3631 E Calumet St,Appleton,WI,54915,https://www.culvers.com/restaurants/darboy,Wisconsin,Culver's,03/09/2024
+520,44.29560089111328,-88.31349182128906,2121 Freedom Rd,Little Chute,WI,54140,https://www.culvers.com/restaurants/little-chute-wi,Wisconsin,Culver's,03/09/2024
+140,44.030879974365234,-88.59008026123047,2270 Westowne Ave,Oshkosh,WI,54904,https://www.culvers.com/restaurants/oshkosh-westowne,Wisconsin,Culver's,03/09/2024
+26,44.00333023071289,-88.58126831054688,1580 S Koeller St,Oshkosh,WI,54902,https://www.culvers.com/restaurants/oshkosh-koeller,Wisconsin,Culver's,03/09/2024
+449,44.43386459350586,-88.10536193847656,1499 Lawrence Dr,De Pere,WI,54115,https://www.culvers.com/restaurants/de_pere,Wisconsin,Culver's,03/09/2024
+80,44.61905288696289,-88.7615966796875,105 S Main St,Clintonville,WI,54929,https://www.culvers.com/restaurants/clintonville,Wisconsin,Culver's,03/09/2024
+605,40.043128967285156,-86.13976287841797,17651 Sun Park Dr,Westfield,IN,46074,https://www.culvers.com/restaurants/westfield-in-sun-park-dr,Indiana,Culver's,03/09/2024
+200,40.04645919799805,-86.0259780883789,557 Westfield Rd,Noblesville,IN,46060,https://www.culvers.com/restaurants/noblesville,Indiana,Culver's,03/09/2024
+737,40.071998596191406,-86.47460174560547,2454 N Lebanon St,Lebanon,IN,46052,https://www.culvers.com/restaurants/lebanon-indiana-lebanon-st,Indiana,Culver's,03/09/2024
+289,40.050865173339844,-85.65230560302734,6386 S Scatterfield Rd,Anderson,IN,46013,https://www.culvers.com/restaurants/anderson,Indiana,Culver's,03/09/2024
+981,34.664407,-86.486765,6490 US Highway 431 S,Hampton Cove,AL,35763,https://www.culvers.com/restaurants/hampton-cove-al-us-hwy-431,Alabama,Culver's,03/09/2024
+762,34.70709991455078,-86.75039672851562,4567 Wall Triana Hwy,Madison,AL,35758,https://www.culvers.com/restaurants/madison-al-wall-triana-hwy,Alabama,Culver's,03/09/2024
+960,34.81513214111328,-86.50019836425781,2007 Winchester Road,Huntsville,AL,35811,https://www.culvers.com/restaurants/huntsville-al-winchester-rd,Alabama,Culver's,03/09/2024
+918,34.75000762939453,-86.76482391357422,8382 Hwy 72 W,Madison,AL,35758,https://www.culvers.com/restaurants/madison-us-hwy-72-w,Alabama,Culver's,03/09/2024
+130,45.09365463256836,-87.64691162109375,1225 Marinette Ave,Marinette,WI,54143,https://www.culvers.com/restaurants/marinette,Wisconsin,Culver's,03/09/2024
+54,44.86016082763672,-87.34414672851562,5581 Gordon Rd,Sturgeon Bay,WI,54235,https://www.culvers.com/restaurants/sturgeon-bay,Wisconsin,Culver's,03/09/2024
+171,41.68488311767578,-93.07866668701172,1650 W 19th St S,Newton,IA,50208,https://www.culvers.com/restaurants/newton,Iowa,Culver's,03/09/2024
+469,41.41044616699219,-92.931884765625,1512 Washington St,Pella,IA,50219,https://www.culvers.com/restaurants/pella-ia,Iowa,Culver's,03/09/2024
+210,42.00621795654297,-92.91459655761719,16 Iowa Ave W,Marshalltown,IA,50158,https://www.culvers.com/restaurants/marshalltown,Iowa,Culver's,03/09/2024
+901,39.08879852294922,-108.59829711914062,582 24 1/2 Rd,Grand Junction,CO,81505,https://www.culvers.com/restaurants/grand-junction-co-24-12-road,Colorado,Culver's,03/09/2024
+24,42.71492385864258,-89.0009994506836,2633 Milton Ave,Janesville,WI,53545,https://www.culvers.com/restaurants/janesville-milton,Wisconsin,Culver's,03/09/2024
+287,42.83259582519531,-89.0255126953125,571 E Richardson Springs Rd,Edgerton,WI,53534,https://www.culvers.com/restaurants/edgerton-newville,Wisconsin,Culver's,03/09/2024
+556,42.672420501708984,-88.97785186767578,645 Midland Rd,Janesville,WI,53546,https://www.culvers.com/restaurants/janesville-wi-midland-rd,Wisconsin,Culver's,03/09/2024
+113,42.67890167236328,-89.05020141601562,2421 W Court St,Janesville,WI,53548,https://www.culvers.com/restaurants/janesville-court,Wisconsin,Culver's,03/09/2024
+60,42.52489471435547,-88.98799896240234,2676 Cranston Rd,Beloit,WI,53511,https://www.culvers.com/restaurants/beloit,Wisconsin,Culver's,03/09/2024
+129,42.926509857177734,-89.24980926513672,916 Nygaard St,Stoughton,WI,53589,https://www.culvers.com/restaurants/stoughton,Wisconsin,Culver's,03/09/2024
+911,42.91717529296875,-89.36962890625,1075 Park St,Oregon,WI,53575,https://www.culvers.com/restaurants/oregon-park-st,Wisconsin,Culver's,03/09/2024
+14,43.01375198364258,-89.30239868164062,4700 Farwell St,McFarland,WI,53558,https://www.culvers.com/restaurants/mcfarland,Wisconsin,Culver's,03/09/2024
+765,41.93659973144531,-85.65229797363281,610 S US 131,Three Rivers,MI,49093,https://www.culvers.com/restaurants/three-rivers-mi-us-131,Michigan,Culver's,03/09/2024
+984,37.741132,-97.461574,3220 N Maize Rd,Wichita,KS,67205,https://www.culvers.com/restaurants/wichita-ks-n-maize-rd,Kansas,Culver's,03/09/2024
+225,38.5930061340332,-89.95753479003906,1702 W Hwy 50,O'Fallon,IL,62269,https://www.culvers.com/restaurants/ofallon-il,Illinois,Culver's,03/09/2024
+500,34.57986831665039,-112.36107635498047,2544 N Stoneridge Dr,Prescott Valley,AZ,86314,https://www.culvers.com/restaurants/prescott-valley-stoneridge-az,Arizona,Culver's,03/09/2024
+317,43.25051498413086,-83.78321838378906,8551 Main St,Birch Run,MI,48415,https://www.culvers.com/restaurants/birch-run,Michigan,Culver's,03/09/2024
+943,42.673492431640625,-85.6598892211914,1180 W Superior St,Wayland,MI,49438,https://www.culvers.com/restaurants/wayland-mi-superior-st,Michigan,Culver's,03/09/2024
+839,42.83789825439453,-85.86239624023438,3915 32nd Ave,Hudsonville,MI,49426,https://www.culvers.com/restaurants/hudsonville-mi-32nd-ave,Michigan,Culver's,03/09/2024
+823,42.40330123901367,-86.24729919433594,04287 Cecilia Drive,South Haven,MI,49090,https://www.culvers.com/restaurants/south-haven-mi-cr-388,Michigan,Culver's,03/09/2024
+751,42.811500549316406,-85.67649841308594,500 84th Street SW,Byron Center,MI,49315,https://www.culvers.com/restaurants/byron-center-84th-st,Michigan,Culver's,03/09/2024
+213,42.82365036010742,-86.09213256835938,3035 W Shore Dr,Holland,MI,49424,https://www.culvers.com/restaurants/holland,Michigan,Culver's,03/09/2024
+402,44.77515411376953,-91.43793487548828,4750 Golf Rd,Eau Claire,WI,54701,https://www.culvers.com/restaurants/eau-claire-golf,Wisconsin,Culver's,03/09/2024
+144,44.82900619506836,-91.54603576660156,2520 Folsom St,Eau Claire,WI,54703,https://www.culvers.com/restaurants/eau-claire-folsom,Wisconsin,Culver's,03/09/2024
+22,44.79964065551758,-91.47205352783203,2021 Brackett Ave,Eau Claire,WI,54701,https://www.culvers.com/restaurants/eau-claire-brackett,Wisconsin,Culver's,03/09/2024
+89,44.87877655029297,-91.91336822509766,1330 Stout Rd,Menomonie,WI,54751,https://www.culvers.com/restaurants/menomonie,Wisconsin,Culver's,03/09/2024
+792,41.63639831542969,-83.47949981689453,2866 Navarre Ave,Oregon,OH,43616,https://www.culvers.com/restaurants/oregon-oh-navarre-ave,Ohio,Culver's,03/09/2024
+964,41.6832160949707,-83.62407684326172,3615 Executive Pkwy,Toledo,OH,43606,https://www.culvers.com/restaurants/toldeo-oh-executive-pkwy,Ohio,Culver's,03/09/2024
+813,41.61370086669922,-83.69840240478516,6600 Centers Dr,Holland,OH,43528,https://www.culvers.com/restaurants/holland-oh-center-rd,Ohio,Culver's,03/09/2024
+893,41.546600341796875,-83.59310150146484,10380 Fremont Pike,Perrysburg,OH,43551,https://www.culvers.com/restaurants/perrysburg-oh-fremont-pike,Ohio,Culver's,03/09/2024
+309,43.784034729003906,-88.4092025756836,969 E Johnson St,Fond du Lac,WI,54935,https://www.culvers.com/restaurants/fond-du-lac-johnson,Wisconsin,Culver's,03/09/2024
+28,43.75416564941406,-88.4521484375,81 W Pioneer Rd,Fond du Lac,WI,54935,https://www.culvers.com/restaurants/fond-du-lac,Wisconsin,Culver's,03/09/2024
+93,43.78379821777344,-88.48728942871094,W6606 State Rd 23,Fond du Lac,WI,54937,https://www.culvers.com/restaurants/fond-du-lac-hwy-23,Wisconsin,Culver's,03/09/2024
+79,43.635189056396484,-88.71772003173828,900 Kelly Ave,Waupun,WI,53963,https://www.culvers.com/restaurants/waupun,Wisconsin,Culver's,03/09/2024
+35,43.42807388305664,-88.21224975585938,2350 W Washington St,West Bend,WI,53095,https://www.culvers.com/restaurants/west-bend,Wisconsin,Culver's,03/09/2024
+830,43.158199310302734,-86.20179748535156,1776 Independence Drive,Muskegon,MI,49444,https://www.culvers.com/restaurants/muskegon-mi-independence-drive,Michigan,Culver's,03/09/2024
+136,45.23841094970703,-93.66419219970703,11025 61st St NE,Albertville,MN,55301,https://www.culvers.com/restaurants/albertville,Minnesota,Culver's,03/09/2024
+62,45.32535934448242,-93.5601806640625,19475 Evans St NW,Elk River,MN,55330,https://www.culvers.com/restaurants/elk-river,Minnesota,Culver's,03/09/2024
+978,27.471983,-81.448416,2651 US Hwy 27 S,Sebring,FL,33870,https://www.culvers.com/restaurants/sebring-fl-us-hwy-27,Florida,Culver's,03/09/2024
+365,44.486656188964844,-87.93544006347656,2945 Voyager Dr,Green Bay,WI,54311,https://www.culvers.com/restaurants/green-bay-voyager,Wisconsin,Culver's,03/09/2024
+938,44.46091842651367,-87.98643493652344,2216 Costco Way,Bellevue,WI,54311,https://www.culvers.com/restaurants/bellevue-wi-costco-way,Wisconsin,Culver's,03/09/2024
+67,44.518001556396484,-88.04911804199219,1219 W Mason St,Green Bay,WI,54303,https://www.culvers.com/restaurants/green-bay-mason,Wisconsin,Culver's,03/09/2024
+187,44.476104736328125,-88.07613372802734,909 Hansen Rd,Green Bay,WI,54304,https://www.culvers.com/restaurants/green-bay-hansen,Wisconsin,Culver's,03/09/2024
+536,44.59202575683594,-88.0772476196289,11820 Velp Ave,Suamico,WI,54313,https://www.culvers.com/restaurants/suamico-wi,Wisconsin,Culver's,03/09/2024
+961,30.610321044921875,-87.05632019042969,6389 US-90 E.,Milton,FL,32570,https://www.culvers.com/restaurants/milton-fl-us-hwy-90,Florida,Culver's,03/09/2024
+905,43.464237213134766,-111.98391723632812,3701 S 25th East,Ammon,ID,83406,https://www.culvers.com/restaurants/ammon-id-25th-east,Idaho,Culver's,03/09/2024
+637,43.48879623413086,-112.05171966552734,946 Pancheri Dr,Idaho Falls,ID,83402,https://www.culvers.com/restaurants/idaho-falls-id-pancheri-dr,Idaho,Culver's,03/09/2024
+560,45.1014518737793,-92.53826141357422,124 Grant Way,New Richmond,WI,54017,https://www.culvers.com/restaurants/new-richmond-wi-grant-way,Wisconsin,Culver's,03/09/2024
+364,37.75533676147461,-87.06817626953125,3020 Highland Pointe Dr,Owensboro,KY,42303,https://www.culvers.com/restaurants/owensboro,Kentucky,Culver's,03/09/2024
+685,42.404972076416016,-88.6127700805664,1060 S Division St,Harvard,IL,60033,https://www.culvers.com/restaurants/harvard-il-division-st,Illinois,Culver's,03/09/2024
+83,42.27240753173828,-88.85802459716797,1635 Big Thunder Blvd,Belvidere,IL,61008,https://www.culvers.com/restaurants/belvidere,Illinois,Culver's,03/09/2024
+968,40.70631790161133,-89.44502258300781,115 N Cummings Ln,Washington,IL,61571,https://www.culvers.com/restaurants/washington-il-n-cummings-ln,Illinois,Culver's,03/09/2024
+923,40.816532135009766,-89.6138916015625,10500 N Centerway Dr,Peoria,IL,61615,https://www.culvers.com/restaurants/peoria-il-n-centerway-dr,Illinois,Culver's,03/09/2024
+209,40.74398422241211,-89.61190795898438,4612 N University St,Peoria,IL,61614,https://www.culvers.com/restaurants/peoria-university,Illinois,Culver's,03/09/2024
+281,40.680545806884766,-89.58817291259766,901 Camp St,East Peoria,IL,61611,https://www.culvers.com/restaurants/east-peoria,Illinois,Culver's,03/09/2024
+282,40.629051208496094,-89.4637680053711,121 E Courtland St,Morton,IL,61550,https://www.culvers.com/restaurants/morton,Illinois,Culver's,03/09/2024
+314,40.77518844604492,-89.67236328125,5019 W Holiday Dr,Peoria,IL,61615,https://www.culvers.com/restaurants/peoria-holiday,Illinois,Culver's,03/09/2024
+253,40.54274368286133,-89.59851837158203,3500 Court St,Pekin,IL,61554,https://www.culvers.com/restaurants/pekin,Illinois,Culver's,03/09/2024
+928,40.11408233642578,-85.55784606933594,8801 S. Walnut St,Daleville,IN,47334,https://www.culvers.com/restaurants/daleville-walnut-st,Indiana,Culver's,03/09/2024
+505,40.21928024291992,-85.4012680053711,1312 W McGalliard Rd,Muncie,IN,47303,https://www.culvers.com/restaurants/muncie-in,Indiana,Culver's,03/09/2024
+895,39.925941467285156,-85.38267517089844,605 S Memorial Dr,New Castle,IN,47362,https://www.culvers.com/restaurants/new-castle-in-memorial,Indiana,Culver's,03/09/2024
+153,30.06243896484375,-99.17007446289062,1300 Junction Hwy,Kerrville,TX,78028,https://www.culvers.com/restaurants/kerrville,Texas,Culver's,03/09/2024
+155,41.34721755981445,-89.12422180175781,1600 Midtown Rd,Peru,IL,61354,https://www.culvers.com/restaurants/peru,Illinois,Culver's,03/09/2024
+420,41.37357711791992,-88.83526611328125,3001 Fairfield Ln,Ottawa,IL,61350,https://www.culvers.com/restaurants/ottawa,Illinois,Culver's,03/09/2024
+241,41.39488983154297,-89.46427154541016,224 Ace Rd,Princeton,IL,61356,https://www.culvers.com/restaurants/princeton,Illinois,Culver's,03/09/2024
+547,29.111181259155273,-81.0248794555664,1744 Dunlawton Ave,Port Orange,FL,32127,https://www.culvers.com/restaurants/port-orange-fl-dunlawton,Florida,Culver's,03/09/2024
+693,29.219867706298828,-81.09622955322266,1560 Outlet Blvd,Daytona Beach,FL,32117,https://www.culvers.com/restaurants/daytona-beach-fl-oulet-blvd,Florida,Culver's,03/09/2024
+358,43.06694412231445,-86.2212905883789,520 A Way,Grand Haven,MI,49417,https://www.culvers.com/restaurants/grand_haven,Michigan,Culver's,03/09/2024
+724,42.9718017578125,-85.91280364990234,5128 Lake Michigan Dr NW,Allendale,MI,49401,https://www.culvers.com/restaurants/allendale-mi-lake-michigan-dr,Michigan,Culver's,03/09/2024
+198,42.267398834228516,-89.0054931640625,236 N Phelps Ave,Rockford,IL,61108,https://www.culvers.com/restaurants/rockford-phelps,Illinois,Culver's,03/09/2024
+49,42.318119049072266,-88.98515319824219,6727 E Riverside Blvd,Rockford,IL,61114,https://www.culvers.com/restaurants/rockford-riverside,Illinois,Culver's,03/09/2024
+92,42.237876892089844,-89.00737762451172,5610 Wansford Way,Rockford,IL,61109,https://www.culvers.com/restaurants/rockford-wansford,Illinois,Culver's,03/09/2024
+125,42.317813873291016,-89.07891082763672,1224 Benington Rd,Rockford,IL,61103,https://www.culvers.com/restaurants/rockford-benington,Illinois,Culver's,03/09/2024
+37,42.401954650878906,-89.01033020019531,9779 N 2nd St,Roscoe,IL,61073,https://www.culvers.com/restaurants/roscoe,Illinois,Culver's,03/09/2024
+75,42.27900314331055,-89.24237060546875,807 Cannell Puri Dr,Winnebago,IL,61088,https://www.culvers.com/restaurants/winnebago,Illinois,Culver's,03/09/2024
+313,41.931732177734375,-89.03492736816406,1060 S Dement Rd,Rochelle,IL,61068,https://www.culvers.com/restaurants/rochelle,Illinois,Culver's,03/09/2024
+208,42.86674880981445,-85.66976165771484,245 54th St,Wyoming,MI,49548,https://www.culvers.com/restaurants/wyoming,Michigan,Culver's,03/09/2024
+405,42.91830062866211,-85.58329772949219,2510 E Beltline SE,Grand Rapids,MI,49546,https://www.culvers.com/restaurants/grand_rapids-beltline,Michigan,Culver's,03/09/2024
+841,42.842098236083984,-85.533203125,6697 Broadmoor Ave,Caledonia,MI,49316,https://www.culvers.com/restaurants/caledonia-mi-broadmoor,Michigan,Culver's,03/09/2024
+300,42.912593841552734,-85.5118637084961,6300 28th St SE,Grand Rapids,MI,49546,https://www.culvers.com/restaurants/grand_rapids-28th,Michigan,Culver's,03/09/2024
+259,42.903282165527344,-85.79338073730469,7393 Cottonwood Dr,Jenison,MI,49428,https://www.culvers.com/restaurants/jenison,Michigan,Culver's,03/09/2024
+794,42.970298767089844,-85.7759017944336,330 Wilson Ave,Walker,MI,49534,https://www.culvers.com/restaurants/walker-mi-wilson-ave,Michigan,Culver's,03/09/2024
+867,42.93190002441406,-85.35369873046875,1245 W Main St SE,Lowell,MI,49331,https://www.culvers.com/restaurants/lowell-mi-w-main-st,Michigan,Culver's,03/09/2024
+877,28.888500213623047,-82.48699951171875,1712 North Lecanto Highway ,Lecanto,FL,34461,https://www.culvers.com/restaurants/lecanto-fl-lecanto-hwy,Florida,Culver's,03/09/2024
+478,41.13188934326172,-85.15826416015625,1425 W Washington Center Rd,Fort Wayne,IN,46825,https://www.culvers.com/restaurants/fort-wayne-in-washington-center,Indiana,Culver's,03/09/2024
+401,41.054195404052734,-85.22647857666016,6527 W Jefferson Blvd,Fort Wayne,IN,46804,https://www.culvers.com/restaurants/fort_wayne-jefferson,Indiana,Culver's,03/09/2024
+494,41.11992645263672,-85.06430053710938,6026 Stellhorn Rd,Fort Wayne,IN,46815,https://www.culvers.com/restaurants/ft-wayne-in-stellhorn,Indiana,Culver's,03/09/2024
+295,41.178375244140625,-85.10035705566406,3510 E Dupont Rd,Fort Wayne,IN,46825,https://www.culvers.com/restaurants/fort_wayne,Indiana,Culver's,03/09/2024
+898,41.1702995300293,-85.51010131835938,1001 W Connexion Way,Columbia City,IN,46725,https://www.culvers.com/restaurants/columbia-city-in-connexion-way,Indiana,Culver's,03/09/2024
+715,41.36600112915039,-85.07980346679688,121 Touring Dr,Auburn,IN,46706,https://www.culvers.com/restaurants/auburn-in-w-7th-st,Indiana,Culver's,03/09/2024
+900,38.40489959716797,-86.93710327148438,1907 N Newton St,Jasper,IN,47546,https://www.culvers.com/restaurants/jasper-in-newton-st,Indiana,Culver's,03/09/2024
+385,43.05716323852539,-96.17742156982422,1913 S Main Ave,Sioux Center,IA,51250,https://www.culvers.com/restaurants/sioux-center,Iowa,Culver's,03/09/2024
+286,45.287357330322266,-93.80594635009766,9395 State Hwy 25 NE,Monticello,MN,55362,https://www.culvers.com/restaurants/monticello,Minnesota,Culver's,03/09/2024
+459,37.814266204833984,-92.14348602294922,114 Town Center Blvd,St. Robert,MO,65584,https://www.culvers.com/restaurants/st-robert,Missouri,Culver's,03/09/2024
+920,38.016300201416016,-92.73509979248047,785 E Hwy 54,Camdenton,MO,65020,https://www.culvers.com/restaurants/camdenton-mo-e-hwy-54,Missouri,Culver's,03/09/2024
+559,26.607419967651367,-81.81195831298828,9340 Six Mile Cypress Pkwy,Fort Myers,FL,33966,https://www.culvers.com/restaurants/fort-myers-fl-sixmilecypresspkwy,Florida,Culver's,03/09/2024
+941,26.68186378479,-81.9071578979492,2974 NE Pine Island Rd,Cape Coral,FL,33909,https://www.culvers.com/restaurants/cape-coral-fl-ne-pine-island,Florida,Culver's,03/09/2024
+513,26.558340072631836,-81.87113189697266,12651 S Cleveland Ave,Fort Myers,FL,33907,https://www.culvers.com/restaurants/fort-myers-fl-cleveland,Florida,Culver's,03/09/2024
+518,26.563032150268555,-81.9434585571289,1607 Cape Coral Pkwy E,Cape Coral,FL,33904,https://www.culvers.com/restaurants/cape-coral-fl,Florida,Culver's,03/09/2024
+549,26.6503849029541,-81.98030853271484,309 SW Pine Island Rd,Cape Coral,FL,33991,https://www.culvers.com/restaurants/cape-coral-fl-pine-island-rd,Florida,Culver's,03/09/2024
+826,26.604999542236328,-81.99120330810547,2526 Skyline Blvd,Cape Coral,FL,33914,https://www.culvers.com/restaurants/cape-coral-skyline-blvd,Florida,Culver's,03/09/2024
+603,26.61433219909668,-81.66426086425781,2511 Lee Blvd,Lehigh Acres,FL,33971,https://www.culvers.com/restaurants/lehigh-acres-fl-lee-blvd,Florida,Culver's,03/09/2024
+903,26.895259857177734,-82.0103988647461,26440 Jones Loop Rd,Punta Gorda,FL,33950,https://www.culvers.com/restaurants/punta-gorda-loop-road,Florida,Culver's,03/09/2024
+713,28.246286392211914,-80.72940063476562,6451 Lake Andrew Dr,Viera,FL,32940,https://www.culvers.com/restaurants/viera-fl-lake-andrew-dr,Florida,Culver's,03/09/2024
+654,28.036104202270508,-80.66024780273438,4355 Norfolk Pkwy,West Melbourne,FL,32904,https://www.culvers.com/restaurants/west-melbourne-palm-bay-rd,Florida,Culver's,03/09/2024
+342,43.29228973388672,-91.79693603515625,904 Short St,Decorah,IA,52101,https://www.culvers.com/restaurants/decorah,Iowa,Culver's,03/09/2024
+19,43.02872085571289,-91.12894439697266,1915 S Marquette Rd,Prairie du Chien,WI,53821,https://www.culvers.com/restaurants/prairie-du-chien,Wisconsin,Culver's,03/09/2024
+349,44.43586730957031,-95.7713394165039,1211 Susan Dr,Marshall,MN,56258,https://www.culvers.com/restaurants/marshall,Minnesota,Culver's,03/09/2024
+790,35.22529983520508,-114.03479766845703,1737 Airway Ave,Kingman,AZ,86409,https://www.culvers.com/restaurants/kingman-az-airway-ave,Arizona,Culver's,03/09/2024
+692,35.05419158935547,-114.58908081054688,3699 Hwy 95 #700,Bullhead City ,AZ,86442,https://www.culvers.com/restaurants/bullhead-city-az-hwy-95,Arizona,Culver's,03/09/2024
+372,40.2872200012207,-84.19477081298828,2575 Michigan St,Sidney,OH,45365,https://www.culvers.com/restaurants/sidney,Ohio,Culver's,03/09/2024
+567,43.06105041503906,-89.50675964355469,7206 Mineral Point Rd,Madison,WI,53717,https://www.culvers.com/restaurants/madison-wi-mineral-point-rd,Wisconsin,Culver's,03/09/2024
+44,42.992835998535156,-89.52790832519531,430 E Verona Ave,Verona,WI,53593,https://www.culvers.com/restaurants/verona,Wisconsin,Culver's,03/09/2024
+41,43.03601837158203,-89.415283203125,2102 W Beltline Hwy,Madison,WI,53713,https://www.culvers.com/restaurants/madison-todd-drive,Wisconsin,Culver's,03/09/2024
+5,43.106136322021484,-89.51140594482422,2906 Parmenter St,Middleton,WI,53562,https://www.culvers.com/restaurants/middleton,Wisconsin,Culver's,03/09/2024
+33,43.13417434692383,-89.37311553955078,1325 Northport Dr,Madison,WI,53704,https://www.culvers.com/restaurants/madison-northport,Wisconsin,Culver's,03/09/2024
+6,43.11125183105469,-89.64430236816406,2523 Main St,Cross Plains,WI,53528,https://www.culvers.com/restaurants/cross-plains,Wisconsin,Culver's,03/09/2024
+147,43.083744049072266,-89.30799102783203,4401 Cottage Grove Rd,Madison,WI,53716,https://www.culvers.com/restaurants/madison-cottage-grove,Wisconsin,Culver's,03/09/2024
+78,43.12535858154297,-89.30866241455078,4301 East Towne Blvd,Madison,WI,53704,https://www.culvers.com/restaurants/madison-east-towne,Wisconsin,Culver's,03/09/2024
+243,43.0106201171875,-89.71780395507812,1700 Springdale St,Mt. Horeb,WI,53572,https://www.culvers.com/restaurants/mt-horeb,Wisconsin,Culver's,03/09/2024
+11,43.19129943847656,-89.43656158447266,900 E Main St,Waunakee,WI,53597,https://www.culvers.com/restaurants/waunakee,Wisconsin,Culver's,03/09/2024
+599,43.1044807434082,-89.198486328125,1599 Landmark Dr,Cottage Grove,WI,53527,https://www.culvers.com/restaurants/cottage-grove-wi-landmark-dr,Wisconsin,Culver's,03/09/2024
+885,43.18630599975586,-89.26789093017578,550 Oxford Place,Sun Prairie,WI,53590,https://www.culvers.com/restaurants/sun-prairie-oxford-place,Wisconsin,Culver's,03/09/2024
+7,43.17817687988281,-89.23894500732422,1501 W Main St,Sun Prairie,WI,53590,https://www.culvers.com/restaurants/sun-prairie,Wisconsin,Culver's,03/09/2024
+30,43.25087356567383,-89.37452697753906,4910 Cnty Rd V,DeForest,WI,53532,https://www.culvers.com/restaurants/deforest,Wisconsin,Culver's,03/09/2024
+42,42.805816650390625,-89.63228607177734,1405 State Rd 69,New Glarus,WI,53574,https://www.culvers.com/restaurants/new-glarus,Wisconsin,Culver's,03/09/2024
+1,43.270687103271484,-89.72986602783203,716 Phillips Blvd,Sauk City,WI,53583,https://www.culvers.com/restaurants/sauk-city,Wisconsin,Culver's,03/09/2024
+52,44.35650634765625,-89.10970306396484,1045 W Fulton St,Waupaca,WI,54981,https://www.culvers.com/restaurants/waupaca,Wisconsin,Culver's,03/09/2024
+966,39.354366302490234,-85.48558044433594,1735 N Broadway St,Greensburg,IN,47240,https://www.culvers.com/restaurants/greensburg-in-n-broadway-st,Indiana,Culver's,03/09/2024
+880,41.66265869140625,-85.0000228881836,2207 N. Wayne St. ,Angola,IN,46703,https://www.culvers.com/restaurants/angola-in-wayne,Indiana,Culver's,03/09/2024
+151,41.86111831665039,-89.49872589111328,1317 N Galena Ave,Dixon,IL,61021,https://www.culvers.com/restaurants/dixon,Illinois,Culver's,03/09/2024
+632,43.688446044921875,-85.5146255493164,15295 Waldron Way,Big Rapids,MI,49307,https://www.culvers.com/restaurants/big-rapids-mi-waldron-way,Michigan,Culver's,03/09/2024

@@ -16,7 +16,7 @@ A growing repository of data scrapers that collect location information about po
 | Clothing & Accessories    |     3 |    620 |
 | Coffee Shops & Desserts   |     4 | 21,733 |
 | Electronics & Appliances  |     1 |    526 |
-| Fast Food & Quick Service |    17 | 50,570 |
+| Fast Food & Quick Service |    19 | 51,490 |
 | Food & Beverage           |     2 |    236 |
 | Frozen Yogurt             |     3 |    529 |
 | Home Improvement          |     1 |  2,002 |
@@ -25,7 +25,7 @@ A growing repository of data scrapers that collect location information about po
 | Retail Stores             |    14 | 26,661 |
 | Shoes & Accessories       |     1 |    439 |
 | Specialty Foods           |     5 |   1856 |
-| **Total collected**               |    **62** | **120,035** |
+| **Total collected**               |    **64** | **120,955** |
 
 ### All the companies 
 This repo is a non-commercial exercise in data scraping practice, and it's a work in progress. I make no guarantees about the accuracy or completeness of the data.
@@ -48,6 +48,7 @@ This repo is a non-commercial exercise in data scraping practice, and it's a wor
 | [Costco](https://github.com/stiles/locations/tree/main/costco)                         | Retail Stores             |       588 |
 | [California Pizza Kitchen](https://github.com/stiles/locations/tree/main/cpk)          | Casual Dining             |       121 |
 | [Cracker Barrel](https://github.com/stiles/locations/tree/main/cracker-barrel)         | Casual Dining             |       662 |
+| [Culver's](https://github.com/stiles/locations/tree/main/dunkin-donuts)           | Fast Food & Quick Service |     794 |
 | [CVS](https://github.com/stiles/locations/tree/main/cvs)                               | Retail Stores             |     9,333 |
 | [Del Taco](https://github.com/stiles/locations/tree/main/del-taco)                     | Fast Food & Quick Service |       328 |
 | [DSW](https://github.com/stiles/locations/tree/main/dsw)                               | Shoes & Accessories       |       439 |
@@ -75,6 +76,7 @@ This repo is a non-commercial exercise in data scraping practice, and it's a wor
 | [Pei Wei](https://github.com/stiles/locations/tree/main/petsmart)                      | Specialty Foods           |     1,544 |
 | [Pinkberry](https://github.com/stiles/locations/tree/main/pinkberry)                   | Frozen Yogurt             |        70 |
 | [Pizza Hut](https://github.com/stiles/locations/tree/main/pizza-hut)                   | Fast Food & Quick Service |     5,204 |
+| [Pollo Tropical](https://github.com/stiles/locations/tree/main/dunkin-donuts)           | Fast Food & Quick Service |     126 |
 | [Publix](https://github.com/stiles/locations/tree/main/publix)                         | Retail Stores             |     1,407 |
 | [Safeway](https://github.com/stiles/locations/tree/main/safeway)                       | Retail Stores             |       865 |
 | [Sephora](https://github.com/stiles/locations/tree/main/sephora)                       | Beauty Products           |     1,602 |
