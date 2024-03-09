@@ -48,7 +48,7 @@ This repo is a non-commercial exercise in data scraping practice, and it's a wor
 | [Costco](https://github.com/stiles/locations/tree/main/costco)                         | Retail Stores             |       588 |
 | [California Pizza Kitchen](https://github.com/stiles/locations/tree/main/cpk)          | Casual Dining             |       121 |
 | [Cracker Barrel](https://github.com/stiles/locations/tree/main/cracker-barrel)         | Casual Dining             |       662 |
-| [Culver's](https://github.com/stiles/locations/tree/main/dunkin-donuts)           | Fast Food & Quick Service |     794 |
+| [Culver's](https://github.com/stiles/locations/tree/main/culvers)           | Fast Food & Quick Service |     794 |
 | [CVS](https://github.com/stiles/locations/tree/main/cvs)                               | Retail Stores             |     9,333 |
 | [Del Taco](https://github.com/stiles/locations/tree/main/del-taco)                     | Fast Food & Quick Service |       328 |
 | [DSW](https://github.com/stiles/locations/tree/main/dsw)                               | Shoes & Accessories       |       439 |
@@ -76,7 +76,7 @@ This repo is a non-commercial exercise in data scraping practice, and it's a wor
 | [Pei Wei](https://github.com/stiles/locations/tree/main/petsmart)                      | Specialty Foods           |     1,544 |
 | [Pinkberry](https://github.com/stiles/locations/tree/main/pinkberry)                   | Frozen Yogurt             |        70 |
 | [Pizza Hut](https://github.com/stiles/locations/tree/main/pizza-hut)                   | Fast Food & Quick Service |     5,204 |
-| [Pollo Tropical](https://github.com/stiles/locations/tree/main/dunkin-donuts)           | Fast Food & Quick Service |     126 |
+| [Pollo Tropical](https://github.com/stiles/locations/tree/main/pollo-tropical)           | Fast Food & Quick Service |     126 |
 | [Publix](https://github.com/stiles/locations/tree/main/publix)                         | Retail Stores             |     1,407 |
 | [Safeway](https://github.com/stiles/locations/tree/main/safeway)                       | Retail Stores             |       865 |
 | [Sephora](https://github.com/stiles/locations/tree/main/sephora)                       | Beauty Products           |     1,602 |
