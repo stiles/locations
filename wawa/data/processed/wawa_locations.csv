@@ -1,0 +1,861 @@
+store_number,street,city,state,zip,latitude,longitude,state_name,brand,updated
+8344,966 Route 17 N,Ramsey,NJ,07446,41.06598639,-74.13065176,New Jersey,Wawa,2024-03-10
+8326,150 Essex Street,Lodi,NJ,07644-2701,40.89193,-74.073249,New Jersey,Wawa,2024-03-10
+8338,505 S River Street,Hackensack,NJ,07601-6621,40.8627,-74.0363,New Jersey,Wawa,2024-03-10
+8335,7 Jewell St,Garfield,NJ,07026-3715,40.881211,-74.119048,New Jersey,Wawa,2024-03-10
+8353,7408 Tonnelle Ave,North Bergen,NJ,07047,40.803289,-74.019006,New Jersey,Wawa,2024-03-10
+8457,1512 Route 23,Butler,NJ,07405,41.003617,-74.356339,New Jersey,Wawa,2024-03-10
+8487,1512 Route 23,Wayne,NJ,07470,40.935548,-74.268438,New Jersey,Wawa,2024-03-10
+8349,28 Little Falls Road,Fairfield,NJ,07004,40.888292,-74.273566,New Jersey,Wawa,2024-03-10
+8441,11 South Franklin Ave,Belleville,NJ,07109,40.78890123,-74.17269903,New Jersey,Wawa,2024-03-10
+8318,200 Harrison Ave,Kearny,NJ,07032,40.748888,-74.13657,New Jersey,Wawa,2024-03-10
+8438,1 Njsh 15,Augusta,NJ,07822,41.119196,-74.712797,New Jersey,Wawa,2024-03-10
+8455,164 Main Street,Orange,NJ,07050,40.76999624,-74.22589676,New Jersey,Wawa,2024-03-10
+8302,350 New Road & Edwards Road,Parsippany,NJ,07054,40.85007,-74.350742,New Jersey,Wawa,2024-03-10
+8488,370 Rt 46 East,Mountain Lakes,NJ,07046,40.885046,-74.463744,New Jersey,Wawa,2024-03-10
+8429,767 State Route 15 South,Lake Hopatcong,NJ,07849,40.9615,-74.597,New Jersey,Wawa,2024-03-10
+8350,1511 Springfield Ave,Maplewood,NJ,07040,40.723,-74.2525,New Jersey,Wawa,2024-03-10
+8410,28 Route 10,East Hanover,NJ,07936,40.8129,-74.3916,New Jersey,Wawa,2024-03-10
+8320,595 Spring St,Elizabeth,NJ,07201-2028,40.67318,-74.199879,New Jersey,Wawa,2024-03-10
+8465,1750 Route 22 East,Union,NJ,07083,40.695865,-74.25417,New Jersey,Wawa,2024-03-10
+8445,685 Morris Turnpike,Springfield,NJ,07081,40.7177,-74.3296,New Jersey,Wawa,2024-03-10
+8439,1951 E Edgar Road,Linden,NJ,07036,40.645463,-74.227328,New Jersey,Wawa,2024-03-10
+8434,358 Route 10,Randolph,NJ,07869,40.864715,-74.55761,New Jersey,Wawa,2024-03-10
+8392,1187 St. George Avenue,Roselle,NJ,07203,40.646996,-74.249952,New Jersey,Wawa,2024-03-10
+8379,500 North Avenue E.,Cranford,NJ,07016,40.658785,-74.284304,New Jersey,Wawa,2024-03-10
+8497,800 W. Edgar Road,Linden,NJ,07036,40.619175,-74.251091,New Jersey,Wawa,2024-03-10
+8389,280 St. George Avenue,Rahway,NJ,07065,40.595664,-74.29133,New Jersey,Wawa,2024-03-10
+8323,930 Us Highway 1 North,Avenel,NJ,07001-1321,40.577105,-74.287018,New Jersey,Wawa,2024-03-10
+8464,1470 South Avenue,Plainfield,NJ,07062,40.63461741,-74.39272734,New Jersey,Wawa,2024-03-10
+8306,75 Appleton Avenue,Leonardo,NJ,07737-1348,40.415506,-74.066539,New Jersey,Wawa,2024-03-10
+8317,440 King Georges Road,Woodbridge,NJ,07095-1019,40.536127,-74.297496,New Jersey,Wawa,2024-03-10
+8397,855 Us 22 & Wilson Ave,North Plainfield,NJ,07060,40.624212,-74.443518,New Jersey,Wawa,2024-03-10
+8460,1230 Hwy 35,Middletown,NJ,07748-2013,40.39775537,-74.11400196,New Jersey,Wawa,2024-03-10
+8417,1413 Highway 36,Hazlet,NJ,07730,40.429535,-74.189817,New Jersey,Wawa,2024-03-10
+8026,5121 Milford Road,East Stroudsburg,PA,18302-9106,41.055439,-75.094108,Pennsylvania,Wawa,2024-03-10
+8390,299 Mountain Ave,Hackettstown,NJ,07840,40.83658,-74.822702,New Jersey,Wawa,2024-03-10
+0976,204 Highway 35,Keyport,NJ,07735,40.440449,-74.22501,New Jersey,Wawa,2024-03-10
+0790,14 North Bridge Ave.,Red Bank,NJ,07701,40.351151,-74.076,New Jersey,Wawa,2024-03-10
+8365,2720 Woodbridge Ave,Edison,NJ,08837,40.511759,-74.363493,New Jersey,Wawa,2024-03-10
+8386,555 New Durham Rd,Piscataway,NJ,08854,40.545893,-74.426042,New Jersey,Wawa,2024-03-10
+8404,969 Route 9,South Amboy,NJ,08879,40.46075,-74.295154,New Jersey,Wawa,2024-03-10
+8406,580 Route 1,Edison,NJ,08817,40.5067,-74.393305,New Jersey,Wawa,2024-03-10
+8368,151A Highway 35,Eatontown,NJ,07724,40.294496,-74.052162,New Jersey,Wawa,2024-03-10
+0934,177 Highway 34,Matawan,NJ,07747-2130,40.425542,-74.28648,New Jersey,Wawa,2024-03-10
+8450,308 Highway 35,Eatontown,NJ,07724,40.279043,-74.047547,New Jersey,Wawa,2024-03-10
+0781,42 Washington Road (@ Jernee M,Sayreville,NJ,08872,40.454984,-74.367611,New Jersey,Wawa,2024-03-10
+8341,580 Union Ave,Bridgewater,NJ,08807-3146,40.567578,-74.563748,New Jersey,Wawa,2024-03-10
+0983,656 Old Bridge Pike,South River,NJ,08882,40.46173096,-74.4005127,New Jersey,Wawa,2024-03-10
+8369,1611 Route 35,Oakhurst,NJ,07755,40.25305,-74.038746,New Jersey,Wawa,2024-03-10
+8376,607 Somerset St,Somerset,NJ,08873,40.486792,-74.470439,New Jersey,Wawa,2024-03-10
+0112,207 Prospect Street,East Stroudsburg,PA,18301,40.993871,-75.17708,Pennsylvania,Wawa,2024-03-10
+8435,933 Livingston Ave,North Brunswick,NJ,08902,40.470858,-74.469515,New Jersey,Wawa,2024-03-10
+0914,426 Ryders Land,East Brunswick,NJ,08816-2763,40.435901,-74.422174,New Jersey,Wawa,2024-03-10
+8412,1910 Route 27,North Brunswick,NJ,08902,40.46100722,-74.50704742,New Jersey,Wawa,2024-03-10
+0940,1453 Rt. 18,Old Bridge,NJ,08857,40.390819,-74.339881,New Jersey,Wawa,2024-03-10
+8315,3600 Rt 9 South,Old Bridge,NJ,08857-3516,40.377509,-74.308024,New Jersey,Wawa,2024-03-10
+8366,3222 Rt. 27,Kendall Park,NJ,08824,40.432618,-74.547359,New Jersey,Wawa,2024-03-10
+8660,1215 Seminole Trail,Charlottesville,VA,22901,38.06995296,-78.4842721,Virginia,Wawa,2024-03-10
+8659,3267 Proffit Rd,Charlottesville,VA,22911,38.13224965,-78.43423773,Virginia,Wawa,2024-03-10
+8667,820 Pantops Corner Way,Charlottesville,VA,22911,38.03389709,-78.45362913,Virginia,Wawa,2024-03-10
+8513,1001 W Patrick St,Frederick,MD,21702-3903,39.41707,-77.438781,Maryland,Wawa,2024-03-10
+0554,5833 Ballanger Creek Pike,Frederick,MD,21703,39.392159,-77.438231,Maryland,Wawa,2024-03-10
+8505,5440 Urbana Pike,Frederick,MD,21703-7332,39.381549,-77.40087,Maryland,Wawa,2024-03-10
+8622,510 Frost Avenue,Warrenton,VA,20186,38.716614,-77.808854,Virginia,Wawa,2024-03-10
+0651,14461 Lee Hwy.,Gainesville,VA,20155,38.792423,-77.62237,Virginia,Wawa,2024-03-10
+8662,45950 Russel Branch Parkway,Sterling,VA,20166,39.02796331,-77.43632063,Virginia,Wawa,2024-03-10
+8640,23055 Oakgrove Road,Sterling,VA,20166,38.977994,-77.411535,Virginia,Wawa,2024-03-10
+8658,10691 Davidson Place,Manassas,VA,20109,38.79332,-77.515527,Virginia,Wawa,2024-03-10
+8639,3450 Historic Sully Way,Chantilly,VA,20151-3037,38.91455,-77.4266,Virginia,Wawa,2024-03-10
+8637,11111 Nokesville Rd,Manassas,VA,20112,38.737121,-77.532174,Virginia,Wawa,2024-03-10
+0590,805 Leidy Road,Westminster,MD,21157,39.561286,-76.966855,Maryland,Wawa,2024-03-10
+8644,9471 Liberia Ave,Manassas,VA,20110,38.75053,-77.44889,Virginia,Wawa,2024-03-10
+8669,465 Maple Ave W.,Vienna,VA,22180,38.894901,-77.273923,Virginia,Wawa,2024-03-10
+8529,1310 Liberty Road,Sykesville,MD,21784,39.403975,-76.947949,Maryland,Wawa,2024-03-10
+8671,9700 Fairfax Blvd,Fairfax,VA,22031,38.864645,-77.279817,Virginia,Wawa,2024-03-10
+8674,1172 Garrisonville Road,Stafford,VA,22556,38.47912846,-77.47332854,Virginia,Wawa,2024-03-10
+8501,516 Main Street,Reisterstown,MD,21136,39.455656,-76.826116,Maryland,Wawa,2024-03-10
+0689,15 Eustace Road,Stafford,VA,22554-3717,38.473164,-77.43589,Virginia,Wawa,2024-03-10
+0668,830 Warrenton Road,Fredericksburg,VA,22406-1072,38.355726,-77.51019,Virginia,Wawa,2024-03-10
+0661,13355 Minneville Road,Woodbridge,VA,22192,38.658928,-77.29983,Virginia,Wawa,2024-03-10
+0664,4527 Plank Road Rte 3,Fredericksburg,VA,22407-4811,38.289956,-77.53807,Virginia,Wawa,2024-03-10
+8627,9 South Gateway Dr,Fredericksburg,VA,22406,38.343527,-77.496258,Virginia,Wawa,2024-03-10
+0697,105 Garrisonville Road,Stafford,VA,22554-1523,38.467169,-77.41198,Virginia,Wawa,2024-03-10
+8685,9235 Courthouse Road,Spotsylvania,VA,22553,38.207753,-77.580424,Virginia,Wawa,2024-03-10
+0660,1140 Carl D. Silver Parkway,Fredericksburg,VA,22401,38.297254,-77.51373,Virginia,Wawa,2024-03-10
+8679,3099 Richmond Hwy,Stafford,VA,22554,38.473438,-77.396912,Virginia,Wawa,2024-03-10
+0665,72 Austin Park Drive,Stafford,VA,22554-8461,38.449699,-77.40386,Virginia,Wawa,2024-03-10
+6004,4530 40Th Street Nw A,Washington,DC,20016,38.948237,-77.07896,,Wawa,2024-03-10
+8677,860 Richmond Hwy,Fredericksburg,VA,22405,38.36427708,-77.45611047,Virginia,Wawa,2024-03-10
+0667,2390 Plank Road,Fredericksburg,VA,22401,38.295644,-77.50027,Virginia,Wawa,2024-03-10
+0662,2051 Daniel Stuart Square,Woodbridge,VA,22191,38.632871,-77.27556,Virginia,Wawa,2024-03-10
+0680,15809 Jefferson Davis Highway,Woodbridge,VA,22191-4222,38.60908,-77.29007,Virginia,Wawa,2024-03-10
+0158,1990 Miller Road,East Petersburg,PA,17520-1331,40.092894,-76.35174,Pennsylvania,Wawa,2024-03-10
+0663,10626-1063 Courthouse Road,Fredericksburg,VA,22407-1602,38.247741,-77.5151,Virginia,Wawa,2024-03-10
+0653,4625 Harrison Road,Fredericksburg,VA,22408-1838,38.264408,-77.4941,Virginia,Wawa,2024-03-10
+0688,275 Butler Road,Fredericksburg,VA,22405-2438,38.31648,-77.45028,Virginia,Wawa,2024-03-10
+0691,199 Falcon Drive,Fredericksburg,VA,22408-1930,38.249665,-77.493122,Virginia,Wawa,2024-03-10
+8617,10060 Patriot Highway,Fredericksburg,VA,22407,38.225972,-77.50693,Virginia,Wawa,2024-03-10
+6003,1222 Wisconsin Avenue,Washington,DC,20007,38.905979,-77.063023,,Wawa,2024-03-10
+6001,1111 19Th St Nw,Washington,DC,20036,38.9044036,-77.0432319,,Wawa,2024-03-10
+0658,3402 Shannon Park Dr,Fredericksburg,VA,22408-2373,38.271146,-77.44803,Virginia,Wawa,2024-03-10
+8051,515 Lowland Road,Hamburg,PA,19526-8708,40.564347,-76.007716,Pennsylvania,Wawa,2024-03-10
+8521,9100 Riggs Rd,Hyattsville,MD,20783,39.005287,-76.970233,Maryland,Wawa,2024-03-10
+6007,1 Thomas Circle Nw,Washington,DC,20005,38.90533451,-77.03234581,,Wawa,2024-03-10
+0270,481 State Road 940,White Haven,PA,18661-9513,41.070537,-75.7042,Pennsylvania,Wawa,2024-03-10
+0598,2845 Rolling Road,Baltimore,MD,21244,39.333142,-76.759018,Maryland,Wawa,2024-03-10
+6008,1250 H Street Nw,Washington,DC,20005,38.8997896,-77.029591,,Wawa,2024-03-10
+5323,4322 Sw Archer Rd,Gainesville,FL,32608,29.61623,-82.389709,Florida,Wawa,2024-03-10
+5325,2373 Sw Archer Road,Gainesville,FL,32608,29.633015,-82.358378,Florida,Wawa,2024-03-10
+5384,2305 Nw 13Th Street,Gainesville,FL,32609,29.67421,-82.33873,Florida,Wawa,2024-03-10
+5385,1614 West University Ave,Gainesville,FL,32603,29.65223447,-82.34083441,Florida,Wawa,2024-03-10
+5313,1007 East University Ave,Gainesville,FL,32601,29.651619,-82.312664,Florida,Wawa,2024-03-10
+5300,505 Us Ne Hwy 19,Crystal River,FL,34429,28.8987,-82.58621,Florida,Wawa,2024-03-10
+5320,2932 W Norvell Bryant Hwy,Lecanto,FL,34461,28.89199,-82.48388,Florida,Wawa,2024-03-10
+5108,8519 Us Highway 19,Port Richey,FL,34668-5344,28.280989,-82.717849,Florida,Wawa,2024-03-10
+5115,4026 Us  Hwy 19,New Port Richey,FL,34652-5945,28.2175496,-82.7365908,Florida,Wawa,2024-03-10
+5181,1929 Us Highway 19,Holiday,FL,34691,28.186922,-82.740844,Florida,Wawa,2024-03-10
+5275,9021 State Road 52,Hudson,FL,34669,28.331677,-82.665247,Florida,Wawa,2024-03-10
+5109,8330 Ridge Road,Port Richey,FL,34668-6056,28.2799269,-82.6768375,Florida,Wawa,2024-03-10
+5184,12984 Cortez Blvd,Brooksville,FL,34613-6803,28.533513,-82.5113663,Florida,Wawa,2024-03-10
+5147,12750 Walsingham Rd,Largo,FL,33774,27.87988,-82.8153,Florida,Wawa,2024-03-10
+5176,1215 N. Missouri Ave,Largo,FL,33770,27.92799,-82.78796,Florida,Wawa,2024-03-10
+5294,26508 Us Highway 19 N.,Clearwater,FL,33761,28.012926,-82.738102,Florida,Wawa,2024-03-10
+5397,8380 Sw Hwy 200,Ocala,FL,34481,29.0787322,-82.25736551,Florida,Wawa,2024-03-10
+5163,2177 Gulf To Bay Blvd,Clearwater,FL,33758-4748,27.96019,-82.7466,Florida,Wawa,2024-03-10
+5141,8910 Ulmerton Rd,Largo,FL,33771-3839,27.8936662,-82.7635972,Florida,Wawa,2024-03-10
+5334,12048 State Road 54,Odessa,FL,33556,28.189579,-82.61631,Florida,Wawa,2024-03-10
+5291,3312 W. Silver Springs,Ocala,FL,34475,29.18587,-82.17757,Florida,Wawa,2024-03-10
+5305,4025 Sw College Rd,Ocala,FL,34474,29.144903,-82.191568,Florida,Wawa,2024-03-10
+5266,8251 Old Middleburg Rd S,Jacksonville,FL,32222,30.196208,-81.822915,Florida,Wawa,2024-03-10
+5149,15701 Us Highway 19 N,Clearwater,FL,33764-7712,27.915269,-82.728478,Florida,Wawa,2024-03-10
+5215,8800 Park Blvd,Seminole,FL,33777,27.83906,-82.76117,Florida,Wawa,2024-03-10
+5129,9501 Bay Pines Blvd,Saint Petersburg,FL,33708-3784,27.8146472,-82.7710762,Florida,Wawa,2024-03-10
+5289,1563 Blanding Blvd,Middleburg,FL,32068,30.113312,-81.813115,Florida,Wawa,2024-03-10
+5272,1001 S. Pine Avenue,Ocala,FL,34471,29.17919,-82.14031,Florida,Wawa,2024-03-10
+5259,20075 Cortez Blvd,Brooksville,FL,34601,28.540448,-82.402635,Florida,Wawa,2024-03-10
+5276,6787 Wilson Blvd,Jacksonville,FL,32210,30.270379,-81.756022,Florida,Wawa,2024-03-10
+5351,1004 Edgewood Ave North,Jacksonville,FL,32254,30.3364,-81.7312,Florida,Wawa,2024-03-10
+5340,970 Cassat Avenue,Jacksonville,FL,32205,30.309727,-81.731171,Florida,Wawa,2024-03-10
+5374,5390 66Th St N,Saint Petersburg,FL,33709,27.82089,-82.72867,Florida,Wawa,2024-03-10
+5263,678 Blanding Blvd,Orange Park,FL,32073,30.149368,-81.755921,Florida,Wawa,2024-03-10
+5349,7911 Blanding Blvd,Jacksonville,FL,32244,30.203943,-81.738924,Florida,Wawa,2024-03-10
+5336,3601 East Silver Springs Blvs,Ocala,FL,34470,29.19823,-82.08661,Florida,Wawa,2024-03-10
+5337,3080 Se Maricamp Road,Ocala,FL,34471,29.16351,-82.095344,Florida,Wawa,2024-03-10
+5241,5901 9Th Ave N.,Saint Petersburg,FL,33710,27.781168,-82.715325,Florida,Wawa,2024-03-10
+5110,3101 Gandy Blvd,Pinellas Park,FL,33782-6140,27.845816,-82.677669,Florida,Wawa,2024-03-10
+5125,6200 N 34 St,Pinellas Park,FL,33781-6231,27.828569,-82.680166,Florida,Wawa,2024-03-10
+5148,3650 34 Street N,Saint Petersburg,FL,33713-1521,27.8054802,-82.6809992,Florida,Wawa,2024-03-10
+5328,300 Park Avenue,Orange Park,FL,32073,30.186375,-81.702818,Florida,Wawa,2024-03-10
+5252,8601 4Th Street N,Saint Petersburg,FL,33701,27.850805,-82.638162,Florida,Wawa,2024-03-10
+5159,2465 22 Avenue,Saint Petersburg,FL,33713-3054,27.79259466,-82.66674492,Florida,Wawa,2024-03-10
+5311,7540 W. Hillsborough Ave,Tampa,FL,33615,27.996141,-82.564123,Florida,Wawa,2024-03-10
+5139,5702 W Waters Ave,Tampa,FL,33634-1215,28.0247359,-82.5426016,Florida,Wawa,2024-03-10
+5191,15524 N. Dale Mabry Highway,Tampa,FL,33618,28.093287,-82.50318,Florida,Wawa,2024-03-10
+5306,3637 34Th Street South,Saint Petersburg,FL,33711,27.73386,-82.67948,Florida,Wawa,2024-03-10
+5367,3561 Spring Park Road,Jacksonville,FL,32207,30.29104,-81.62574,Florida,Wawa,2024-03-10
+5273,5726 Se Abshier Blvd,Belleview,FL,34420,29.05884,-82.05321,Florida,Wawa,2024-03-10
+5251,8458 N. Dale Mabry Hwy.,Tampa,FL,33614,28.026769,-82.505847,Florida,Wawa,2024-03-10
+5122,401 N Dale Mabry Hwy,Tampa,FL,33609-1240,27.9490042,-82.5053532,Florida,Wawa,2024-03-10
+5154,804 E. Bears Ave,Tampa,FL,33613,28.0888521,-82.4521834,Florida,Wawa,2024-03-10
+8623,150 Pike View Dr,Midlothian,VA,23113,37.513172,-77.698883,Virginia,Wawa,2024-03-10
+0696,12564 Broad Street,Henrico,VA,23233-7300,37.663798,-77.64978,Virginia,Wawa,2024-03-10
+8651,16000 Otterdale Rd,Midlothian,VA,23114,37.39838435,-77.70860699,Virginia,Wawa,2024-03-10
+8615,11052 West Broad Street,Glen Allen,VA,23060,37.64838,-77.59022,Virginia,Wawa,2024-03-10
+0657,12001 Southshore Point Dr.,Midlothian,VA,23112-2088,37.405186,-77.66518,Virginia,Wawa,2024-03-10
+0659,11021 Midlothian Tpk,Richmond,VA,23235-4709,37.505336,-77.60081,Virginia,Wawa,2024-03-10
+8647,9100 Three Chopt Road,Henrico,VA,23229,37.61227,-77.56387,Virginia,Wawa,2024-03-10
+0674,3850 N. Bailey Bridge Road,Midlothian,VA,23112-2912,37.434614,-77.610548,Virginia,Wawa,2024-03-10
+8603,8017 W. Broad Street,Henrico,VA,23294,37.625114,-77.53161,Virginia,Wawa,2024-03-10
+8625,10135 Hull Street Road,Midlothian,VA,23112-3301,37.442133,-77.583035,Virginia,Wawa,2024-03-10
+8652,100 North Washington Hwy,Ashland,VA,23005,37.75859,-77.47165,Virginia,Wawa,2024-03-10
+0682,8851 Staples Mill Road,Henrico,VA,23228-2014,37.635361,-77.50858,Virginia,Wawa,2024-03-10
+8600,7316 Forest Hill Ave,Richmond,VA,23225,37.537728,-77.53158,Virginia,Wawa,2024-03-10
+8538,10050 Baltimore Ave,College Park,MD,20740,39.021402,-76.926903,Maryland,Wawa,2024-03-10
+0593,10515 Baltimore Avenue,Beltsville,MD,20705,39.02737,-76.917086,Maryland,Wawa,2024-03-10
+5393,1331 University Blvd North,Jacksonville,FL,32211,30.33364,-81.60288,Florida,Wawa,2024-03-10
+5261,2500 Monument Road,Jacksonville,FL,32225,30.35963,-81.503534,Florida,Wawa,2024-03-10
+5333,5735 Phillips Hwy,Jacksonville,FL,32216,30.265474,-81.617316,Florida,Wawa,2024-03-10
+5274,9715 Beach Blvd,Jacksonville,FL,32246,30.287143,-81.558327,Florida,Wawa,2024-03-10
+5264,11812 Beach Blvd,Jacksonville,FL,32224,30.286311,-81.509531,Florida,Wawa,2024-03-10
+5257,4866 Gate Parkway,Jacksonville,FL,32246,30.253816,-81.536762,Florida,Wawa,2024-03-10
+5379,8742 Baymeadows Road,Jacksonville,FL,32256,30.220398,-81.576223,Florida,Wawa,2024-03-10
+5321,13363 Beach Blvd,Jacksonville,FL,32246,30.288152,-81.464686,Florida,Wawa,2024-03-10
+5368,7790 Gate Parkway,Jacksonville,FL,32256,30.236585,-81.519695,Florida,Wawa,2024-03-10
+5382,100 Bartram Market Drive,Saint Johns,FL,32259,30.09961,-81.52219,Florida,Wawa,2024-03-10
+5441,54 Cypress Edge Drive,Saint Johns,FL,32259,30.103567,-81.483217,Florida,Wawa,2024-03-10
+5361,2222 State Road 16,Saint Augustine,FL,32084,29.91567,-81.40304,Florida,Wawa,2024-03-10
+5381,2500 Us 1 South,Saint Augustine,FL,32086,29.85119,-81.32257,Florida,Wawa,2024-03-10
+5310,5600 Sr 100 East,Palm Coast,FL,32164,29.475848,-81.206475,Florida,Wawa,2024-03-10
+5282,11770 Us 301,Oxford,FL,34484,28.927384,-82.037918,Florida,Wawa,2024-03-10
+5322,13535 Us Hwy 441,Lady Lake,FL,32159,28.953336,-81.957754,Florida,Wawa,2024-03-10
+5326,116 N. Highway 27/441,Lady Lake,FL,32159,28.91722,-81.92289,Florida,Wawa,2024-03-10
+5290,1400 W. North Blvd,Leesburg,FL,34748,28.828192,-81.887161,Florida,Wawa,2024-03-10
+5315,600 W. Granada Blvd,Ormond Beach,FL,32174,29.278623,-81.072231,Florida,Wawa,2024-03-10
+5270,17700 Us Hwy 441,Mount Dora,FL,32757,28.821992,-81.663783,Florida,Wawa,2024-03-10
+5332,1000 Mason Ave,Daytona Beach,FL,32117,29.220002,-81.047912,Florida,Wawa,2024-03-10
+5296,1900 International Speedway Bl,Daytona Beach,FL,32114,29.19129,-81.073638,Florida,Wawa,2024-03-10
+5287,120 S. Ridgewood Ave,Daytona Beach,FL,32114,29.20993,-81.022484,Florida,Wawa,2024-03-10
+0159,Blakeslee Corner & Rts 940,Blakeslee,PA,18610,41.092846,-75.591635,Pennsylvania,Wawa,2024-03-10
+0260,602 S. Reading Road,Ephrata,PA,17522,40.172506,-76.195895,Pennsylvania,Wawa,2024-03-10
+8119,910 W. Leesport Road,Dauberville,PA,19533,40.39082,-75.995976,Pennsylvania,Wawa,2024-03-10
+0275,2126 - 2132 Lincoln Highway Ea,Lancaster,PA,17602-1110,40.029484,-76.230393,Pennsylvania,Wawa,2024-03-10
+8506,10111 York Rd,Cockeysville,MD,21030-3305,39.46607,-76.6361,Maryland,Wawa,2024-03-10
+0286,3337 Penn Ave. (Rt 422),Reading,PA,19609-1422,40.326237,-76.00928,Pennsylvania,Wawa,2024-03-10
+0147,2709 North Meridian Boulevard,Wyomissing,PA,19610-3331,40.355336,-75.98064,Pennsylvania,Wawa,2024-03-10
+0672,7500 Midlothian Turnpike,Richmond,VA,23225-5420,37.500523,-77.53506,Virginia,Wawa,2024-03-10
+8688,5900 W Broad Street,Richmond,VA,23230,37.5919901,-77.50595959,Virginia,Wawa,2024-03-10
+0670,11021 Iron Bridge Road (Rt. 10,Chester,VA,23831-1440,37.364281,-77.497729,Virginia,Wawa,2024-03-10
+0673,6001 Ironbridge Road,North Chesterfield,VA,23234-5225,37.435069,-77.48913,Virginia,Wawa,2024-03-10
+8630,2415 Staples Mill Rd,Richmond,VA,23230-2510,37.591706,-77.492698,Virginia,Wawa,2024-03-10
+8648,3100 N. Arthur Ashe Blvd,Richmond,VA,23230,37.574222,-77.464054,Virginia,Wawa,2024-03-10
+0274,3650 Pottsville Pike,Reading,PA,19605-1700,40.389076,-75.93586,Pennsylvania,Wawa,2024-03-10
+8010,2005 Museum Rd.,Wyomissing,PA,19610-2859,40.306368,-75.97575,Pennsylvania,Wawa,2024-03-10
+8124,837 Penn Ave,Wyomissing,PA,19610,40.336509,-75.955552,Pennsylvania,Wawa,2024-03-10
+0153,1946 North 11Th Street,Reading,PA,19604,40.364627,-75.916307,Pennsylvania,Wawa,2024-03-10
+8109,413 Lancaster Avenue,Reading,PA,19611,40.320718,-75.93526,Pennsylvania,Wawa,2024-03-10
+8510,1260 E. Joppa Road,Towson,MD,21284,39.39623,-76.57545,Maryland,Wawa,2024-03-10
+0166,5060 Perkiomen Avenue,Reading,PA,19606-9527,40.301341,-75.853608,Pennsylvania,Wawa,2024-03-10
+8025,787 Rt. 41,Gap,PA,17527,39.990936,-76.020149,Pennsylvania,Wawa,2024-03-10
+0586,601 Hoagie Drive,Bel Air,MD,21014,39.568712,-76.35327,Maryland,Wawa,2024-03-10
+8129,2837 Main Street,Morgantown,PA,19543,40.15196838,-75.90139061,Pennsylvania,Wawa,2024-03-10
+8546,14910 Silver Trail Lane,Laurel,MD,20707,39.08298,-76.889214,Maryland,Wawa,2024-03-10
+0559,3530 Conowingo Road,Street,MD,21154-1944,39.637038,-76.26828,Maryland,Wawa,2024-03-10
+8504,3716 Washington Blvd,Baltimore,MD,21227,39.246429,-76.673129,Maryland,Wawa,2024-03-10
+8500,204 Connolly Road,Fallston,MD,21047-2526,39.503325,-76.383947,Maryland,Wawa,2024-03-10
+0553,709 Bel Air Road,Bel Air,MD,21014-4209,39.522272,-76.357694,Maryland,Wawa,2024-03-10
+8515,9600 Fort Meade Road,Laurel,MD,20708,39.09739,-76.84147,Maryland,Wawa,2024-03-10
+8522,9809 Belair Road,Perry Hall,MD,21128,39.4191132,-76.45591084,Maryland,Wawa,2024-03-10
+0557,1505 E. Churchville Road,Bel Air,MD,21014,39.545963,-76.31395,Maryland,Wawa,2024-03-10
+8525,7710 Milestone Pkwy,Hanover,MD,21076,39.1542,-76.74347,Maryland,Wawa,2024-03-10
+5346,7481 Manatee Ave,Bradenton,FL,34209,27.495514,-82.635594,Florida,Wawa,2024-03-10
+5183,1760 Hillsborough Ave,Tampa,FL,33603-1131,27.99555,-82.47805,Florida,Wawa,2024-03-10
+5301,3660 W Gandy Blvd,Tampa,FL,33611,27.89359,-82.50461,Florida,Wawa,2024-03-10
+5196,8325 N Florida Ave,Tampa,FL,33604-3005,28.0248,-82.45881,Florida,Wawa,2024-03-10
+5267,25155 Maren Way,Land O Lakes,FL,34639,28.189572,-82.400293,Florida,Wawa,2024-03-10
+5199,2325 E. Fletcher Ave,Tampa,FL,33612,28.06924,-82.4306,Florida,Wawa,2024-03-10
+5107,11510 N 30Th Street,Tampa,FL,33612-6278,28.0532971,-82.4268815,Florida,Wawa,2024-03-10
+5271,2509 W. Cortez Road,Bradenton,FL,34207,27.46216,-82.586293,Florida,Wawa,2024-03-10
+5240,28225 State Road 54,Wesley Chapel,FL,33544,28.237012,-82.349057,Florida,Wawa,2024-03-10
+0996,2000 Shafto Road,Tinton Falls,NJ,07712,40.258006,-74.090701,New Jersey,Wawa,2024-03-10
+8329,1344 Corlies Ave,Neptune,NJ,07753-5166,40.208999,-74.026672,New Jersey,Wawa,2024-03-10
+8303,3520 Rt 66,Neptune,NJ,07753-2603,40.225112,-74.076639,New Jersey,Wawa,2024-03-10
+0784,455 Route 520,Marlboro,NJ,07746-2258,40.332717,-74.24628,New Jersey,Wawa,2024-03-10
+0289,100 Ponds Edge Drive @ Rt. 272,Nottingham,PA,19362-9789,39.750828,-76.02265,Pennsylvania,Wawa,2024-03-10
+0263,3711 West Lincoln Highway,Parkesburg,PA,19365-1775,39.984364,-75.93401,Pennsylvania,Wawa,2024-03-10
+0160,761 Gap Newport Pike,Avondale,PA,19311-9545,39.834773,-75.79533,Pennsylvania,Wawa,2024-03-10
+8094,105 Reeceville Road,Coatesville,PA,19320,40.00865678,-75.78989171,Pennsylvania,Wawa,2024-03-10
+0582,2300 Churchville Rd.,Bel Air,MD,21015-1721,39.555875,-76.278221,Maryland,Wawa,2024-03-10
+8011,3025 Lincoln Highway,Thorndale,PA,19372,39.993898,-75.76311,Pennsylvania,Wawa,2024-03-10
+0585,2031 Pulaski Highway,North East,MD,21901-3740,39.613053,-75.93051,Maryland,Wawa,2024-03-10
+8098,3710 Lincoln Hwy,Downingtown,PA,19335,39.995618,-75.746182,Pennsylvania,Wawa,2024-03-10
+0034,504 West Cypress (@ Washington,Kennett Square,PA,19348-3213,39.844553,-75.71734,Pennsylvania,Wawa,2024-03-10
+0567,231 N. Philadelphia Blvd.,Aberdeen,MD,21001,39.513008,-76.16031,Maryland,Wawa,2024-03-10
+0245,100 Boot Road,Downingtown,PA,19335-3445,40.000549,-75.701261,Pennsylvania,Wawa,2024-03-10
+0547,1657 Elkton Road,Elkton,MD,21921-4129,39.653315,-75.790826,Maryland,Wawa,2024-03-10
+8015,901 East Baltimore Pike,Kennett Square,PA,19348-1802,39.864005,-75.67945,Pennsylvania,Wawa,2024-03-10
+0842,605 Yorklyn Road,Hockessin,DE,19707,39.788657,-75.697324,Delaware,Wawa,2024-03-10
+8512,302 W. Pulaski Highway,Elkton,MD,21921-5279,39.60336,-75.84034,Maryland,Wawa,2024-03-10
+0118,1083 East Lancaster Avenue,Downingtown,PA,19335-3329,40.019025,-75.678412,Pennsylvania,Wawa,2024-03-10
+0860,601 Ogletown Road,Newark,DE,19711,39.68489,-75.73322,Delaware,Wawa,2024-03-10
+0201,1800 Ticonderoga Boulevard,Chester Springs,PA,19425-9542,40.074729,-75.685907,Pennsylvania,Wawa,2024-03-10
+0831,4555 New Linden Hill Road,Wilmington,DE,19808,39.735133,-75.69122,Delaware,Wawa,2024-03-10
+0581,3500 Woodsdale Road,Abingdon,MD,21009-2006,39.464955,-76.31091,Maryland,Wawa,2024-03-10
+0819,274 East Chestnut Hill Road,Newark,DE,19713,39.662455,-75.7356,Delaware,Wawa,2024-03-10
+8033,551 West Uwchlan Ave,Exton,PA,19341-1563,40.047518,-75.66307,Pennsylvania,Wawa,2024-03-10
+0861,1750 Capitol Trail,Newark,DE,19711-5720,39.700005,-75.700613,Delaware,Wawa,2024-03-10
+8140,1150 Pottstown Pike,Chester Springs,PA,19425,40.1163,-75.6941,Pennsylvania,Wawa,2024-03-10
+0085,750 N. Pottstown Pike,Exton,PA,19341-1525,40.05509,-75.64716,Pennsylvania,Wawa,2024-03-10
+0850,2748-54 Pulaski Hwy.,Newark,DE,19702,39.602471,-75.76222,Delaware,Wawa,2024-03-10
+0880,120 Corporate Blvd,Newark,DE,19702,39.61656449,-75.74599409,Delaware,Wawa,2024-03-10
+0081,1195 Pottstown Pike,West Chester,PA,19380-4137,39.990756,-75.61559,Pennsylvania,Wawa,2024-03-10
+8534,2200 Pulaski Highway,Edgewood,MD,21040,39.437034,-76.306712,Maryland,Wawa,2024-03-10
+0858,2030 Limestone Rd,Marshallton,DE,19808,39.721268,-75.656802,Delaware,Wawa,2024-03-10
+0868,4651 Ogletown Stanton Rd,Newark,DE,19713,39.6867,-75.6781,Delaware,Wawa,2024-03-10
+0599,1419 S. Mountain Rd,Joppa,MD,21085-3236,39.440013,-76.345575,Maryland,Wawa,2024-03-10
+0203,10 Boot Road,West Chester,PA,19380-2158,40.009384,-75.616307,Pennsylvania,Wawa,2024-03-10
+8183,690 East Lincoln Highway,Exton,PA,19341,40.029033,-75.610501,Pennsylvania,Wawa,2024-03-10
+8537,2151 Brooks Drive,District Heights,MD,20747,38.86107803,-76.91861723,Maryland,Wawa,2024-03-10
+8523,10620 Martin Luther King Jr Hw,Lanham,MD,20706,38.956577,-76.824788,Maryland,Wawa,2024-03-10
+8507,7800 Parke West Dr,Glen Burnie,MD,21061-4701,39.14177,-76.6493,Maryland,Wawa,2024-03-10
+8511,4901 Boston St,Baltimore,MD,21224,39.276817,-76.553889,Maryland,Wawa,2024-03-10
+0754,345 Union Hill Road,Manalapan,NJ,07726-1875,40.336054,-74.3191,New Jersey,Wawa,2024-03-10
+5177,5306 14 Street,Bradenton,FL,34207,27.44733,-82.5757,Florida,Wawa,2024-03-10
+5165,701 1St Street E,Bradenton,FL,34205,27.49343,-82.56234,Florida,Wawa,2024-03-10
+5319,5011 E Busch Blvd,Tampa,FL,33617,28.032067,-82.400734,Florida,Wawa,2024-03-10
+5178,4455 Sr 64 East,Bradenton,FL,34208,27.4989,-82.5084,Florida,Wawa,2024-03-10
+5172,1031 Dunlawton Ave,Port Orange,FL,32127,29.1273515,-81.0068662,Florida,Wawa,2024-03-10
+5173,1740 Dunlawton Ave,Port Orange,FL,32127-8929,29.1116145,-81.0246111,Florida,Wawa,2024-03-10
+5292,1700 S. Woodland Blvd,Deland,FL,32720,28.998416,-81.303805,Florida,Wawa,2024-03-10
+5222,1780 Sr 44,New Smyrna Beach,FL,32168,29.014832,-80.94057,Florida,Wawa,2024-03-10
+5354,3400 Howland Blvd,Deltona,FL,32725,28.949584,-81.250894,Florida,Wawa,2024-03-10
+5171,2522 Enterprise Rd,Orange City,FL,32763-7906,28.91703,-81.295449,Florida,Wawa,2024-03-10
+0282,10 Maplewood Drive,Douglassville,PA,19518-1544,40.259563,-75.72943,Pennsylvania,Wawa,2024-03-10
+8067,1111 Grosser Rd,Gilbertsville,PA,19525,40.31108,-75.63319,Pennsylvania,Wawa,2024-03-10
+0146,260 W. Schuylkill Road,Pottstown,PA,19465-6954,40.232609,-75.65822,Pennsylvania,Wawa,2024-03-10
+0295,1417 South Hanover Street,Pottstown,PA,19465-7434,40.208435,-75.661064,Pennsylvania,Wawa,2024-03-10
+8040,1520 High Street,Pottstown,PA,19464,40.243304,-75.61476,Pennsylvania,Wawa,2024-03-10
+0134,1906 Swamp Pike,Gilbertsville,PA,19525-9342,40.299662,-75.586289,Pennsylvania,Wawa,2024-03-10
+8155,8053 Chestnut Street,Hereford,PA,18056,40.44854172,-75.55244421,Pennsylvania,Wawa,2024-03-10
+0258,3380 Schuylkill Road,Spring City,PA,19475-1125,40.182907,-75.569259,Pennsylvania,Wawa,2024-03-10
+8005,579 N. Lewis Road,Royersford,PA,19468-1129,40.214953,-75.54668,Pennsylvania,Wawa,2024-03-10
+0266,7572 Schantz Road,Allentown,PA,18106-9032,40.572317,-75.6167,Pennsylvania,Wawa,2024-03-10
+0098,3321 Willow Lane (Rt. 100),Macungie,PA,18062,40.519659,-75.56456,Pennsylvania,Wawa,2024-03-10
+8038,451 West Ridge Pike,Royersford,PA,19468-1415,40.232262,-75.5285,Pennsylvania,Wawa,2024-03-10
+8186,6216 Hamilton Blvd,Allentown,PA,18106,40.556178,-75.577534,Pennsylvania,Wawa,2024-03-10
+8178,2100 Northgate Blvd,Pennsburg,PA,18073,40.40626578,-75.48545889,Pennsylvania,Wawa,2024-03-10
+0284,934 Main Street,Royersford,PA,19468,40.192906,-75.52833,Pennsylvania,Wawa,2024-03-10
+0281,3 Big Road,Zieglerville,PA,19492-9706,40.277817,-75.480933,Pennsylvania,Wawa,2024-03-10
+0141,1860 Ridge Pike,Royersford,PA,19468-2819,40.214043,-75.49944,Pennsylvania,Wawa,2024-03-10
+0287,4900 Hamilton Boulevard,Wescosville,PA,18106,40.566455,-75.55207,Pennsylvania,Wawa,2024-03-10
+8153,201 S. Cedar Crest Blvd,Emmaus,PA,18049,40.529561,-75.507365,Pennsylvania,Wawa,2024-03-10
+8024,120 Schuykill Road,Phoenixville,PA,19460-2232,40.132042,-75.536999,Pennsylvania,Wawa,2024-03-10
+8078,408 Cedar Crest Blvd.,Allentown,PA,18103,40.582249,-75.52304,Pennsylvania,Wawa,2024-03-10
+8019,1860 South Collegeville Rd,Collegeville,PA,19426-3930,40.177154,-75.458815,Pennsylvania,Wawa,2024-03-10
+8021,1960 John Fries Highway,Quakertown,PA,18951-2124,40.436648,-75.41412,Pennsylvania,Wawa,2024-03-10
+0120,2209 Lehigh Street,Allentown,PA,18103,40.572649,-75.47957,Pennsylvania,Wawa,2024-03-10
+0595,701 Annapolis Rd,Gambrills,MD,21054-1309,39.056566,-76.656624,Maryland,Wawa,2024-03-10
+0572,8300 Veterans Hwy,Millersville,MD,21108-1409,39.110618,-76.63172,Maryland,Wawa,2024-03-10
+8503,7124 Ritchie Hwy,Glen Burnie,MD,21061-2904,39.180183,-76.615541,Maryland,Wawa,2024-03-10
+0562,163 Southeast Crain Highway,Upper Marlboro,MD,20774-8804,38.889121,-76.720142,Maryland,Wawa,2024-03-10
+0549,628 Admiral Drive,Annapolis,MD,21401-2151,38.994748,-76.53262,Maryland,Wawa,2024-03-10
+0577,3166 Solomons Island Rd.,Edgewater,MD,21037,38.935887,-76.567951,Maryland,Wawa,2024-03-10
+0597,1401 Hampton Park Blvd,Capitol Heights,MD,20743,38.870193,-76.851064,Maryland,Wawa,2024-03-10
+0569,321 Buschs Frontage Road,Annapolis,MD,21401,39.026841,-76.45624,Maryland,Wawa,2024-03-10
+8502,6541 Eastern Avenue,Baltimore,MD,21224,39.287286,-76.535408,Maryland,Wawa,2024-03-10
+0578,4017 North Point Blvd,Dundalk,MD,21222-3619,39.268474,-76.47031,Maryland,Wawa,2024-03-10
+8540,7501 Pulaski Hwy,Rosedale,MD,21237,39.311632,-76.525331,Maryland,Wawa,2024-03-10
+8514,6101 Allentown Road,Suitland,MD,20746,38.8071,-76.904315,Maryland,Wawa,2024-03-10
+0558,8731 Pulaski Hwy.,Essex,MD,21221,39.335885,-76.481644,Maryland,Wawa,2024-03-10
+0573,10205 Kirksville Lane,Dunkirk,MD,20754,38.717591,-76.661045,Maryland,Wawa,2024-03-10
+0580,16410 Mckendree Rd.,Brandywine,MD,20613-8063,38.664594,-76.875845,Maryland,Wawa,2024-03-10
+8518,101 Hissey Road,Grasonville,MD,21638,38.965518,-76.193185,Maryland,Wawa,2024-03-10
+0565,11505 Berry Road,Waldorf,MD,20603,38.629589,-76.91908,Maryland,Wawa,2024-03-10
+0568,4210 Crain Hwy (@ Billingsley),White Plains,MD,20695-3000,38.595198,-76.937156,Maryland,Wawa,2024-03-10
+0591,305 Market Square Drive,Prince Frederick,MD,20678,38.557041,-76.59899,Maryland,Wawa,2024-03-10
+8162,3190 Rt 940,Mount Pocono,PA,18344,41.12086532,-75.37607043,Pennsylvania,Wawa,2024-03-10
+0929,1310 Highway 34,Farmingdale,NJ,07727-4000,40.215855,-74.12591,New Jersey,Wawa,2024-03-10
+0917,2432 Highway 35,Manasquan,NJ,08736-1102,40.123674,-74.06863,New Jersey,Wawa,2024-03-10
+0278,706 East Gay Street,West Chester,PA,19380-4546,39.965266,-75.593791,Pennsylvania,Wawa,2024-03-10
+0025,2 East Rhodes Avenue,West Chester,PA,19382-5520,39.943617,-75.591667,Pennsylvania,Wawa,2024-03-10
+8607,10373 Sliding Hill Road,Ashland,VA,23005,37.68628,-77.460297,Virginia,Wawa,2024-03-10
+0677,8800 Brook Road,Glen Allen,VA,23060,37.64291078,-77.46098279,Virginia,Wawa,2024-03-10
+8602,9179 Chamberlayne Road,Mechanicsville,VA,23116,37.649469,-77.404251,Virginia,Wawa,2024-03-10
+0655,5221 Brook Road,Richmond,VA,23227,37.604618,-77.453998,Virginia,Wawa,2024-03-10
+0669,5362 James Madison Highway,King George,VA,22485-5355,38.339674,-77.07762,Virginia,Wawa,2024-03-10
+8634,7847 Compass Point Lane,Mechanicsville,VA,23111-6515,37.613293,-77.328321,Virginia,Wawa,2024-03-10
+8635,1300 N. Laburnum Avenue,Richmond,VA,23223-2618,37.562,-77.3767,Virginia,Wawa,2024-03-10
+0750,2 Carroll Avenue,Pennsville,NJ,08070-2130,39.640672,-75.516367,New Jersey,Wawa,2024-03-10
+0459,Route  45 & Bailey Street,Woodstown,NJ,08098,39.645033,-75.33774,New Jersey,Wawa,2024-03-10
+8332,418 N Broadway,Pennsville,NJ,08070,39.677161,-75.494581,New Jersey,Wawa,2024-03-10
+0828,2398 Dupont Parkway,Middletown,DE,19709,39.500383,-75.6486,Delaware,Wawa,2024-03-10
+0446,759 Rt. 40 (@ Rt. 77),Elmer,NJ,08318,39.616437,-75.229078,New Jersey,Wawa,2024-03-10
+0857,1400  Beaver Brook Plaza,New Castle,DE,19720,39.64128,-75.62612,Delaware,Wawa,2024-03-10
+0866,117 S. Dupont Hwy,New Castle,DE,19720,39.663394,-75.608339,Delaware,Wawa,2024-03-10
+0966,1090 State Highway 77,Bridgeton,NJ,08302,39.462336,-75.207633,New Jersey,Wawa,2024-03-10
+8442,101 E Broad Street,Bridgeton,NJ,08302,39.42569729,-75.23081824,New Jersey,Wawa,2024-03-10
+0852,1515 North Dupont Highway,New Castle,DE,19720,39.692757,-75.580528,Delaware,Wawa,2024-03-10
+0870,3601 Wrangle Hill Rd,Bear,DE,19701,39.584893,-75.68422,Delaware,Wawa,2024-03-10
+0823,1100 Pulaski Highway,Bear,DE,19701,39.632016,-75.660327,Delaware,Wawa,2024-03-10
+0859,690 Middletown Odessa Road,Middletown,DE,19709,39.452979,-75.680228,Delaware,Wawa,2024-03-10
+0840,4000 N. Dupont Hwy. (Motor Inn,New Castle,DE,19720,39.709741,-75.562401,Delaware,Wawa,2024-03-10
+0863,7  E. Commons Blvd,New Castle,DE,19720-1734,39.69444,-75.598866,Delaware,Wawa,2024-03-10
+0841,183 Airport Road,New Castle,DE,19720,39.676692,-75.627413,Delaware,Wawa,2024-03-10
+0844,1605 Pulaski Highway,Bear,DE,19701,39.619575,-75.694568,Delaware,Wawa,2024-03-10
+0873,970 Christiana Road,Newark,DE,19702,39.666566,-75.667369,Delaware,Wawa,2024-03-10
+0879,5018 Summit Bridge Road,Middletown,DE,19709,39.48046108,-75.72021499,Delaware,Wawa,2024-03-10
+0961,1700 Center Square Road,Swedesboro,NJ,08085-1797,39.75947,-75.36001,New Jersey,Wawa,2024-03-10
+0843,528 West Main Street,Middletown,DE,19709,39.448171,-75.7281,Delaware,Wawa,2024-03-10
+0810,915 New Road,Wilmington,DE,19805,39.739932,-75.598422,Delaware,Wawa,2024-03-10
+0801,727 Philadelphia Pike,Wilmington,DE,19809,39.771302,-75.49998,Delaware,Wawa,2024-03-10
+0974,123 Paulsboro Rd,Swedesboro,NJ,08085-1363,39.760456,-75.30401,New Jersey,Wawa,2024-03-10
+0830,5632 Dupont Parkway,Smyrna,DE,19977,39.316323,-75.61474,Delaware,Wawa,2024-03-10
+0854,2621 Philadelphia Pike,Claymont,DE,19703,39.794283,-75.468955,Delaware,Wawa,2024-03-10
+0811,400 Wilson Road,Wilmington,DE,19803,39.788766,-75.53316,Delaware,Wawa,2024-03-10
+0853,500 Jimmy Drive,Smyrna,DE,19977,39.282446,-75.594152,Delaware,Wawa,2024-03-10
+0816,301 Ridge Road,Claymont,DE,19703,39.812716,-75.4444,Delaware,Wawa,2024-03-10
+8308,631 Mullica Hill Road,Mullica Hill,NJ,08062,39.721477,-75.159863,New Jersey,Wawa,2024-03-10
+0867,601 Naamans Rd,Claymont,DE,19703,39.817336,-75.455642,Delaware,Wawa,2024-03-10
+8470,2515 Delsea Drive,Franklinville,NJ,08322,39.61751335,-75.08072502,New Jersey,Wawa,2024-03-10
+0862,4030 Concord Pike,Talleyville,DE,19803-1718,39.81018,-75.55075,Delaware,Wawa,2024-03-10
+8484,1935 W Landis Ave,Vineland,NJ,08360,39.48781234,-75.06156323,New Jersey,Wawa,2024-03-10
+0007,1439 Market Street,Linwood,PA,19061-4357,39.825761,-75.42134,Pennsylvania,Wawa,2024-03-10
+0486,450 Delsea Drive,Malaga,NJ,08328,39.57204,-75.052671,New Jersey,Wawa,2024-03-10
+8151,2608 Chichester Ave,Boothwyn,PA,19061,39.83195598,-75.44074762,Pennsylvania,Wawa,2024-03-10
+0872,1702 Rocky Run Parkway,Wilmington,DE,19803,39.825722,-75.545548,Delaware,Wawa,2024-03-10
+0942,501 N. Delsea Drive,Vineland,NJ,08360,39.493718,-75.04147,New Jersey,Wawa,2024-03-10
+8327,692 N Delsea Drive,Glassboro,NJ,08028,39.718935,-75.113434,New Jersey,Wawa,2024-03-10
+0924,2802 South Delsea Drive,Vineland,NJ,08360,39.446174,-75.043,New Jersey,Wawa,2024-03-10
+5233,7705 N. State Road 7,Parkland,FL,33073,26.327046,-80.202961,Florida,Wawa,2024-03-10
+5195,2271 W. Sample Rd,Deerfield Beach,FL,33442,26.274901,-80.152778,Florida,Wawa,2024-03-10
+5338,7305 W Sample Road,Coral Springs,FL,33065,26.272467,-80.223449,Florida,Wawa,2024-03-10
+5235,2000 N. State Road 7,Margate,FL,33063,26.253823,-80.200265,Florida,Wawa,2024-03-10
+5242,20 Sw 12Th Ave.,Deerfield Beach,FL,33442,26.317182,-80.119384,Florida,Wawa,2024-03-10
+5288,1 N Andrews Ave,Pompano Beach,FL,33069,26.23161204,-80.14123055,Florida,Wawa,2024-03-10
+5194,3601 N. Federal Hwy,Pompano Beach,FL,33064,26.276423,-80.09727,Florida,Wawa,2024-03-10
+5372,7105 Mcnab Road,North Lauderdale,FL,33068,26.20899,-80.22071,Florida,Wawa,2024-03-10
+5234,6191 Powerline Road,Fort Lauderdale,FL,33309,26.202469,-80.156238,Florida,Wawa,2024-03-10
+5347,1675 Oakland Park Blvd,Oakland Park,FL,33311,26.166338,-80.165238,Florida,Wawa,2024-03-10
+5278,4401 Nw 76 Avenue,Lauderhill,FL,33351,26.179639,-80.252294,Florida,Wawa,2024-03-10
+5236,9400 W. Commercial Blvd,Sunrise,FL,33351,26.193111,-80.276659,Florida,Wawa,2024-03-10
+5339,10100 Atlantic Ave,Delray Beach,FL,33446,26.45367,-80.20484,Florida,Wawa,2024-03-10
+5303,2 W. Sunrise Blvd,Fort Lauderdale,FL,33311,26.136577,-80.144599,Florida,Wawa,2024-03-10
+5232,2620 W. Broward Blvd,Fort Lauderdale,FL,33312,26.121155,-80.177583,Florida,Wawa,2024-03-10
+5331,13 S State Road 7,Plantation,FL,33317,26.12027,-80.202403,Florida,Wawa,2024-03-10
+5249,2500 Sw 64Th Avenue,Davie,FL,33317,26.090877,-80.226862,Florida,Wawa,2024-03-10
+5330,9926 Lyons Road,Boynton Beach,FL,33472,26.52885,-80.18779,Florida,Wawa,2024-03-10
+5362,2505 W Woolbright Rd,Boynton Beach,FL,33426,26.513706,-80.089427,Florida,Wawa,2024-03-10
+5388,9910 S. Jog Road,Boynton Beach,FL,33437,26.528902,-80.146593,Florida,Wawa,2024-03-10
+5314,4700 South State Road 7,Davie,FL,33314,26.06329,-80.207264,Florida,Wawa,2024-03-10
+5193,6350 Stirling Road,Davie,FL,33314,26.045367,-80.230696,Florida,Wawa,2024-03-10
+5364,1851 N. Federal Highway,Hollywood,FL,33020,26.027702,-80.142993,Florida,Wawa,2024-03-10
+5239,1965 Hypoluxo Road,Boynton Beach,FL,33426,26.572722,-80.073824,Florida,Wawa,2024-03-10
+5350,4530 Lantana Road,Lake Worth,FL,33463,26.588071,-80.114755,Florida,Wawa,2024-03-10
+5396,1201 West Lantana Road,Lantana,FL,33462,26.58793,-80.062211,Florida,Wawa,2024-03-10
+5417,3199 Hallandl Beach Blvd,Pembroke Park,FL,33023,25.985427,-80.174897,Florida,Wawa,2024-03-10
+5353,1700 South Douglas Road,Miramar,FL,33025,25.9938,-80.26358,Florida,Wawa,2024-03-10
+5309,1600 S. Hiatus Road,Pembroke Pines,FL,33025,25.99393,-80.296629,Florida,Wawa,2024-03-10
+5212,6566 Lake Worth Road,Greenacres,FL,33467,26.618111,-80.147773,Florida,Wawa,2024-03-10
+5213,3950 South Congress Ave,Palm Springs,FL,33461,26.617745,-80.088861,Florida,Wawa,2024-03-10
+5227,3288 S. Military Trail,Lake Worth,FL,33461,26.629243,-80.11257,Florida,Wawa,2024-03-10
+5223,1771 South Congress Ave,Palm Springs,FL,33406,26.650097,-80.088645,Florida,Wawa,2024-03-10
+5284,2700 Nw 183Rd Street,Miami Gardens,FL,33056,25.940413,-80.246353,Florida,Wawa,2024-03-10
+5244,590 Ne 167 Street,Miami,FL,33162,25.928073,-80.188637,Florida,Wawa,2024-03-10
+5348,8115 Southern Blvd,West Palm Beach,FL,33411,26.68036,-80.174819,Florida,Wawa,2024-03-10
+5211,1530 Belvedere Rd,West Palm Beach,FL,33405,26.690201,-80.07395,Florida,Wawa,2024-03-10
+5302,4950 Okeechobee Blvd,West Palm Beach,FL,33417,26.70653,-80.118659,Florida,Wawa,2024-03-10
+5358,13891 West Okeechobee Road,Hialeah Gardens,FL,33018,25.8965,-80.3785,Florida,Wawa,2024-03-10
+5392,11590 Nw South River Dr,Medley,FL,33178,25.878054,-80.356782,Florida,Wawa,2024-03-10
+5378,7878 Nw 103Rd Street,Hialeah Gardens,FL,33016,25.86695,-80.32561,Florida,Wawa,2024-03-10
+5359,2901 W. 16 Ave,Hialeah,FL,33012,25.84808,-80.31425,Florida,Wawa,2024-03-10
+5403,2370 45Th Street,West Palm Beach,FL,33407,26.758456,-80.0892,Florida,Wawa,2024-03-10
+5214,7289 Garden Rd.,Riviera Beach,FL,33404,26.782449,-80.092593,Florida,Wawa,2024-03-10
+5357,3300 Nw 87Th Avenue,Doral,FL,33172,25.8055,-80.3375,Florida,Wawa,2024-03-10
+5406,7870 W. Flagler Street,Miami,FL,33144,25.76957942,-80.32447728,Florida,Wawa,2024-03-10
+5260,6971 Sw 24Th Street,Miami,FL,33155,25.74846,-80.308693,Florida,Wawa,2024-03-10
+5245,11990 Sw 137 Avenue,Miami,FL,33186,25.656325,-80.416445,Florida,Wawa,2024-03-10
+5243,11101 Sw 184 Street,Miami,FL,33157,25.598674,-80.372357,Florida,Wawa,2024-03-10
+5360,11200 Sw 248 Street,Homestead,FL,33032,25.536568,-80.372745,Florida,Wawa,2024-03-10
+0693,604 Boulevard,Colonial Heights,VA,23834-3261,37.244293,-77.41088,Virginia,Wawa,2024-03-10
+0684,15840 Jefferson Davis Highway,Colonial Heights,VA,23834-5202,37.306045,-77.409794,Virginia,Wawa,2024-03-10
+0692,11701 Jefferson Davis Hwy.,Chester,VA,23831,37.367534,-77.416508,Virginia,Wawa,2024-03-10
+8624,1270 Temple Ave,Colonial Heights,VA,23834-2984,37.254414,-77.383566,Virginia,Wawa,2024-03-10
+0683,3199 South Crater Road,Petersburg,VA,23805,37.189407,-77.370036,Virginia,Wawa,2024-03-10
+0676,600 E. Hundred Rd.,Chester,VA,23836-2757,37.347104,-77.34548,Virginia,Wawa,2024-03-10
+0698,907 Colonial Corner Drive,Hopewell,VA,23860,37.271472,-77.31685,Virginia,Wawa,2024-03-10
+8626,5301 South Laburnum Ave,Henrico,VA,23231-4413,37.511781,-77.348803,Virginia,Wawa,2024-03-10
+8605,500 South Airport Drive,Sandston,VA,23150,37.524799,-77.32899,Virginia,Wawa,2024-03-10
+0910,909 Route 33,Freehold,NJ,07728-8437,40.238923,-74.22818,New Jersey,Wawa,2024-03-10
+8683,1461 Armory Drive,Franklin,VA,23851,36.66754764,-76.95311545,Virginia,Wawa,2024-03-10
+8638,2916 Godwin Blvd,Suffolk,VA,23434-8040,36.7778,-76.5826,Virginia,Wawa,2024-03-10
+8613,101 Hillcrest Pkwy,Chesapeake,VA,23328,36.657751,-76.22484,Virginia,Wawa,2024-03-10
+8668,3400 S. Military Hwy,Chesapeake,VA,23323,36.77229357,-76.34429932,Virginia,Wawa,2024-03-10
+8612,4005 Victory Blvd,Portsmouth,VA,23701,36.810551,-76.35991,Virginia,Wawa,2024-03-10
+0695,3408 Western Branch Blvd,Chesapeake,VA,23321,36.866388,-76.41615,Virginia,Wawa,2024-03-10
+8636,1200 Frederick Blvd,Portsmouth,VA,23707-4119,36.8278,-76.3392,Virginia,Wawa,2024-03-10
+8632,471 Kempsville Rd,Chesapeake,VA,23320-3721,36.7425,-76.2262,Virginia,Wawa,2024-03-10
+8672,720 London Blvd,Portsmouth,VA,23704,36.83715,-76.30657,Virginia,Wawa,2024-03-10
+0654,720 Woodlake Drive,Chesapeake,VA,23320,36.790994,-76.23562,Virginia,Wawa,2024-03-10
+8670,1921 Centerville Tpk,Virginia Beach,VA,23464,36.7799219,-76.19224725,Virginia,Wawa,2024-03-10
+8618,5048 Ferrell Parkway,Virginia Beach,VA,23454,36.794321,-76.16797,Virginia,Wawa,2024-03-10
+8633,3360 E Princess Anne Red,Norfolk,VA,23502-1564,36.863276,-76.245142,Virginia,Wawa,2024-03-10
+8641,5280 W Mercury Blvd,Newport News,VA,23605-2700,37.022279,-76.440365,Virginia,Wawa,2024-03-10
+8606,8105 Hampton Blvd,Norfolk,VA,23505,36.926766,-76.31815,Virginia,Wawa,2024-03-10
+8654,11124 Jefferson Avenue,Newport News,VA,23601,37.05939,-76.464792,Virginia,Wawa,2024-03-10
+8645,1146 N. Military Hwy.,Norfolk,VA,23502,36.8613,-76.2096,Virginia,Wawa,2024-03-10
+8661,701 N. Newtown Rd,Norfolk,VA,23502,36.8485,-76.1807,Virginia,Wawa,2024-03-10
+8629,2401 W. Mercury Blvd,Hampton,VA,23666-3101,37.0365,-76.4095,Virginia,Wawa,2024-03-10
+0656,14803 Warwick Boulevard,Newport News,VA,23608,37.136763,-76.54673,Virginia,Wawa,2024-03-10
+8631,12095 Jefferson Ave,Newport News,VA,23606-4325,37.100383,-76.492595,Virginia,Wawa,2024-03-10
+0197,1781 Route 209,Brodheadsville,PA,18322,40.924552,-75.39345,Pennsylvania,Wawa,2024-03-10
+0116,1015 West Main Street,Stroudsburg,PA,18360,40.983126,-75.20099,Pennsylvania,Wawa,2024-03-10
+8014,2985 Macarthur Rd,Whitehall,PA,18052-3422,40.65121,-75.49972,Pennsylvania,Wawa,2024-03-10
+0297,3300 Schoenersville Road,Bethlehem,PA,18017-2231,40.658813,-75.41803,Pennsylvania,Wawa,2024-03-10
+0137,1501-09 Gordon Street,Allentown,PA,18102,40.603517,-75.491113,Pennsylvania,Wawa,2024-03-10
+8043,4089 Jandy Blvd,Nazareth,PA,18064,40.73080639,-75.31353754,Pennsylvania,Wawa,2024-03-10
+0299,911-941 Union Blvd.,Allentown,PA,18109,40.624902,-75.44252,Pennsylvania,Wawa,2024-03-10
+8150,364 Susquehanna Street,Allentown,PA,18103,40.59019207,-75.45991929,Pennsylvania,Wawa,2024-03-10
+8046,3820 Easton Nazareth Hwy,Easton,PA,18045-8326,40.719309,-75.289676,Pennsylvania,Wawa,2024-03-10
+8001,1584 8Th Avenue,Bethlehem,PA,18015,40.635637,-75.395163,Pennsylvania,Wawa,2024-03-10
+8036,2525 Easton Ave,Bethlehem,PA,18017,40.644389,-75.34835,Pennsylvania,Wawa,2024-03-10
+0087,1429 Broadway,Fountain Hill,PA,18015,40.60011,-75.40161,Pennsylvania,Wawa,2024-03-10
+8037,741 East Broad Street,Bethlehem,PA,18018,40.622881,-75.36085,Pennsylvania,Wawa,2024-03-10
+8032,631 South 25Th St,Easton,PA,18045-5336,40.680481,-75.248432,Pennsylvania,Wawa,2024-03-10
+8142,770 Hellertown Road,Bethlehem,PA,18015,40.6044884,-75.34145992,Pennsylvania,Wawa,2024-03-10
+0101,225 Cattell Street,Easton,PA,18042,40.700153,-75.205536,Pennsylvania,Wawa,2024-03-10
+0089,310 Larry Holmes Drive,Easton,PA,18042,40.687102,-75.209857,Pennsylvania,Wawa,2024-03-10
+0985,411 Roseberry St,Phillipsburg,NJ,08865,40.696569,-75.17511,New Jersey,Wawa,2024-03-10
+8126,6680 Route 309,Coopersburg,PA,18036,40.52213966,-75.38846875,Pennsylvania,Wawa,2024-03-10
+8313,1300 Route 22,Phillipsburg,NJ,08865-4108,40.675319,-75.141681,New Jersey,Wawa,2024-03-10
+8664,6446 Richmond Road,Williamsburg,VA,23188,37.340324,-76.754341,Virginia,Wawa,2024-03-10
+8682,1735 Tappahannock Blvd,Tappahannock,VA,22560,37.8997474,-76.86993665,Virginia,Wawa,2024-03-10
+0681,315 Richmond Rd.,Williamsburg,VA,23185,37.273297,-76.71193,Virginia,Wawa,2024-03-10
+0699,842 Merrimac Trail,Williamsburg,VA,23185-5314,37.266111,-76.67656,Virginia,Wawa,2024-03-10
+0652,5120 George Washington Memoria,Hayes,VA,23072-2826,37.344598,-76.523282,Virginia,Wawa,2024-03-10
+5217,3703 N Washington Blvd,Sarasota,FL,34234,27.367147,-82.53084,Florida,Wawa,2024-03-10
+5312,2257 Fruitville Road,Sarasota,FL,34237,27.338108,-82.525161,Florida,Wawa,2024-03-10
+5203,4506 53Rd Ave,Bradenton,FL,34203,27.445373,-82.504835,Florida,Wawa,2024-03-10
+5224,5208 University Pkwy,Sarasota,FL,34234,27.387494,-82.465487,Florida,Wawa,2024-03-10
+5304,5321 Clark Road,Sarasota,FL,34233,27.269679,-82.462815,Florida,Wawa,2024-03-10
+5231,2502 N. 50Th St,Tampa,FL,33619,27.965717,-82.402878,Florida,Wawa,2024-03-10
+0161,2000 Hamilton Street,Philadelphia,PA,19130,39.962291,-75.173109,Pennsylvania,Wawa,2024-03-10
+0086,1707 Arch Street,Philadelphia,PA,19103,39.9550826,-75.168469,Pennsylvania,Wawa,2024-03-10
+8154,33 S. 16Th St,Philadelphia,PA,19102,39.95183714,-75.16705165,Pennsylvania,Wawa,2024-03-10
+8141,3300 Market Street,Philadelphia,PA,19104,39.955459,-75.191319,Pennsylvania,Wawa,2024-03-10
+0055,3604 Chestnut Street,Philadelphia,PA,19104,39.954701,-75.1951,Pennsylvania,Wawa,2024-03-10
+8105,2131 South Street,Philadelphia,PA,19146,39.945345,-75.178594,Pennsylvania,Wawa,2024-03-10
+0103,912-916 Walnut Street,Philadelphia,PA,19107,39.948289,-75.156638,Pennsylvania,Wawa,2024-03-10
+0179,3724-3744 Spruce Street,Philadelphia,PA,19104,39.951065,-75.19898,Pennsylvania,Wawa,2024-03-10
+8131,150 S. Independ W Ml #102/103,Philadelphia,PA,19106,39.949084,-75.150854,Pennsylvania,Wawa,2024-03-10
+8013,2535 Aramingo Ave.,Philadelphia,PA,19125-3728,39.977182,-75.11823,Pennsylvania,Wawa,2024-03-10
+0191,1602-04 Delaware Avenue,Philadelphia,PA,19148,39.926456,-75.145407,Pennsylvania,Wawa,2024-03-10
+0119,3230 Richmond Street,Philadelphia,PA,19134,39.983653,-75.10092,Pennsylvania,Wawa,2024-03-10
+0011,460 South 69Th Street,Upper Darby,PA,19082-4901,39.952475,-75.257527,Pennsylvania,Wawa,2024-03-10
+8132,2600 Penrose Ave,Philadelphia,PA,19145,39.903539,-75.197467,Pennsylvania,Wawa,2024-03-10
+0040,193 Belmont Avenue,Bala Cynwyd,PA,19004-1933,40.023222,-75.23086,Pennsylvania,Wawa,2024-03-10
+0155,801 Conshohocken State Road,Bala Cynwyd,PA,19004-2045,40.018669,-75.240112,Pennsylvania,Wawa,2024-03-10
+8065,3901 Aramingo Ave,Philadelphia,PA,19137,39.997332,-75.088345,Pennsylvania,Wawa,2024-03-10
+0240,4510 Castor Avenue,Philadelphia,PA,19124,40.018802,-75.09729,Pennsylvania,Wawa,2024-03-10
+0073,67 N. Lansdowne Ave,Lansdowne,PA,19050,39.9409779,-75.2726519,Pennsylvania,Wawa,2024-03-10
+8449,8000 S. Crescent Blvd,Pennsauken,NJ,08109,39.928274,-75.083401,New Jersey,Wawa,2024-03-10
+0014,202 South State Road,Upper Darby,PA,19082-2908,39.96122,-75.27861,Pennsylvania,Wawa,2024-03-10
+0294,949 Montgomery Ave.,Narberth,PA,19072-1501,40.012268,-75.262005,Pennsylvania,Wawa,2024-03-10
+8070,8240 West Chester Pk,Upper Darby,PA,19082-2723,39.965574,-75.280898,Pennsylvania,Wawa,2024-03-10
+0252,4371 Richmond Street,Philadelphia,PA,19137,39.996728,-75.07429,Pennsylvania,Wawa,2024-03-10
+8049,6701 Ridge Ave,Philadelphia,PA,19128,40.040692,-75.223499,Pennsylvania,Wawa,2024-03-10
+0965,5221 Route 70,Pennsauken,NJ,08109,39.934642,-75.068688,New Jersey,Wawa,2024-03-10
+8053,8220 West Bartram Ave,Philadelphia,PA,19153,39.891314,-75.241963,Pennsylvania,Wawa,2024-03-10
+8104,5597 Tulip Street,Philadelphia,PA,19124,40.012341,-75.068497,Pennsylvania,Wawa,2024-03-10
+0778,1317 Market Street,Gloucester City,NJ,08030,39.887948,-75.11111,New Jersey,Wawa,2024-03-10
+0125,7236-40 Germantown Ave.,Philadelphia,PA,19119,40.060921,-75.191957,Pennsylvania,Wawa,2024-03-10
+0990,2290 Clement Avenue,Pennsauken,NJ,08110,39.964236,-75.050479,New Jersey,Wawa,2024-03-10
+0352,668 Haddon Avenue,Collingswood,NJ,08108,39.916465,-75.06979,New Jersey,Wawa,2024-03-10
+8160,1100 Calcon Hook Rd,Sharon Hill,PA,19079,39.899032,-75.263274,Pennsylvania,Wawa,2024-03-10
+0212,3800 Garrett  Ave,Drexel Hill,PA,19026,39.943979,-75.297279,Pennsylvania,Wawa,2024-03-10
+8108,910 Macdade Blvd,Collingdale,PA,19023,39.910383,-75.278666,Pennsylvania,Wawa,2024-03-10
+0265,1000 Darby Road,Havertown,PA,19083-3616,39.976279,-75.3037,Pennsylvania,Wawa,2024-03-10
+0012,525 Burmont Avenue,Drexel Hill,PA,19026,39.947078,-75.30158,Pennsylvania,Wawa,2024-03-10
+8424,690 Crescent Blvd,Brooklawn,NJ,08030,39.877895,-75.114955,New Jersey,Wawa,2024-03-10
+8336,500 New Jersey Highway 38,Cherry Hill,NJ,08002-2935,39.936428,-75.048616,New Jersey,Wawa,2024-03-10
+0066,195 West Lancaster Avenue,Ardmore,PA,19003,40.01064,-75.29543,Pennsylvania,Wawa,2024-03-10
+8492,1006 White Horse Pike,Oaklyn,NJ,08107,39.89884523,-75.0739083,New Jersey,Wawa,2024-03-10
+8007,1550 Chester Pike,Folcroft,PA,19032,39.904548,-75.28294,Pennsylvania,Wawa,2024-03-10
+0972,602 Black Horse Pike,Mount Ephraim,NJ,08059,39.886989,-75.08717,New Jersey,Wawa,2024-03-10
+0115,6400 Bustleton Avenue,Philadelphia,PA,19149,40.036242,-75.070251,Pennsylvania,Wawa,2024-03-10
+0054,33-35 East Eagle Road,Havertown,PA,19083-1531,39.988593,-75.30934,Pennsylvania,Wawa,2024-03-10
+0468,1 Haddon Avenue,Collingswood,NJ,08108-2705,39.913013,-75.056343,New Jersey,Wawa,2024-03-10
+8128,418 W. Baltimore Pike,Clifton Heights,PA,19018,39.926556,-75.30339,Pennsylvania,Wawa,2024-03-10
+8006,6858 Rising Sun Avenue,Philadelphia,PA,19111,40.055801,-75.09063,Pennsylvania,Wawa,2024-03-10
+0174,3 N Macdade Blvd,Glenolden,PA,19036,39.904903,-75.29179,Pennsylvania,Wawa,2024-03-10
+8009,6506 Frankford Ave.,Philadelphia,PA,19135,40.030297,-75.05609,Pennsylvania,Wawa,2024-03-10
+0986,885 Cranbury- South River Road,Jamesburg,NJ,08831-3034,40.378687,-74.455314,New Jersey,Wawa,2024-03-10
+0476,350 Georges Road,Dayton,NJ,08810-1425,40.375161,-74.511208,New Jersey,Wawa,2024-03-10
+0306,1273 Route 206,Skillman,NJ,08558,40.403249,-74.648913,New Jersey,Wawa,2024-03-10
+0916,800 Rt. 202 (@ Sumner Rd).,Neshanic Station,NJ,08853-3606,40.532371,-74.77739,New Jersey,Wawa,2024-03-10
+0989,1886  Englishtown Road,Old Bridge,NJ,08857-3902,40.355854,-74.354682,New Jersey,Wawa,2024-03-10
+0365,337 Applegarth Rd. Suite 1A,Monroe Township,NJ,08831,40.323018,-74.470379,New Jersey,Wawa,2024-03-10
+8331,152 Alexander Street,Princeton,NJ,08540-7102,40.34186,-74.65903,New Jersey,Wawa,2024-03-10
+0991,20 Highway 31,Flemington,NJ,08822,40.5049604,-74.8520522,New Jersey,Wawa,2024-03-10
+8330,960 Route 33,Monroe Township,NJ,08831-5913,40.266631,-74.472021,New Jersey,Wawa,2024-03-10
+0735,104 Hickory Corner Road,Hightstown,NJ,08520-2460,40.260656,-74.549587,New Jersey,Wawa,2024-03-10
+0563,601 Sunburst Highway,Cambridge,MD,21613,38.561096,-76.06626,Maryland,Wawa,2024-03-10
+0589,8118 Ocean Gateway,Easton,MD,21601,38.771816,-76.06135,Maryland,Wawa,2024-03-10
+0587,22530 Three Notch Rd.,Lexington Park,MD,20653-2131,38.286931,-76.476776,Maryland,Wawa,2024-03-10
+0592,23141 Three Notch Rd.,California,MD,20619,38.302751,-76.51936,Maryland,Wawa,2024-03-10
+0555,668 S. Salisbury Blvd.,Salisbury,MD,21801,38.358175,-75.60073,Maryland,Wawa,2024-03-10
+0561,2740 North Salisbury Blvd.,Salisbury,MD,21801,38.420697,-75.56596,Maryland,Wawa,2024-03-10
+0856,38711 Sussex Highway,Delmar,DE,19940,38.456094,-75.557044,Delaware,Wawa,2024-03-10
+0874,22929 Sussex Hwy,Seaford,DE,19973,38.660032,-75.593416,Delaware,Wawa,2024-03-10
+0864,18586 Sussex Highway,Bridgeville,DE,19933,38.726056,-75.591548,Delaware,Wawa,2024-03-10
+0583,27605 Three Notch Rd.,Mechanicsville,MD,20659-3374,38.426744,-76.71574,Maryland,Wawa,2024-03-10
+0588,30320 Three Notch Road,Charlotte Hall,MD,20622-3189,38.501543,-76.773898,Maryland,Wawa,2024-03-10
+0884,20938 Dupont Blvd,Georgetown,DE,19947,38.68802468,-75.39755108,Delaware,Wawa,2024-03-10
+0837,102 East Dupont Highway,Millsboro,DE,19966,38.584683,-75.29594,Delaware,Wawa,2024-03-10
+0851,902 N. Dupont Blvd,Milford,DE,19963,38.928291,-75.43156,Delaware,Wawa,2024-03-10
+0865,24930 John J Williams Hwy,Millsboro,DE,19966,38.633941,-75.195383,Delaware,Wawa,2024-03-10
+0584,5955 Crain Hwy.,La Plata,MD,20646-4264,38.548741,-76.98655,Maryland,Wawa,2024-03-10
+0876,200 East Street,Camden,DE,19934,39.108979,-75.540307,Delaware,Wawa,2024-03-10
+0834,17663 Dartmouth Dr.,Lewes,DE,19958,38.743921,-75.15401,Delaware,Wawa,2024-03-10
+0556,12502 Ocean Gateway,Ocean City,MD,21842-9538,38.338407,-75.119081,Maryland,Wawa,2024-03-10
+0845,1525 E. Lebanon Road,Dover,DE,19904,39.123122,-75.50131,Delaware,Wawa,2024-03-10
+0849,"4500 Highway 1, Rt. 1 & Rt. 24",Rehoboth Beach,DE,19971,38.731499,-75.132262,Delaware,Wawa,2024-03-10
+0855,1450 Forest Avenue,Dover,DE,19904,39.15806,-75.5589,Delaware,Wawa,2024-03-10
+0836,774 Garfield Parkway,Bethany Beach,DE,19930,38.539808,-75.0709,Delaware,Wawa,2024-03-10
+0871,30155 Veterans Way,Rehoboth Beach,DE,19971,38.712962,-75.103297,Delaware,Wawa,2024-03-10
+0838,298 S. Dupont Highway,Dover,DE,19901,39.158265,-75.513333,Delaware,Wawa,2024-03-10
+0566,12001 A Coastal Highway,Ocean City,MD,21842,38.426237,-75.05672,Maryland,Wawa,2024-03-10
+0848,2800 North Dupont Highway,Dover,DE,19901,39.194962,-75.547247,Delaware,Wawa,2024-03-10
+5146,7408 Hillsborough Ave,Tampa,FL,33610-4228,27.996738,-82.372715,Florida,Wawa,2024-03-10
+5114,3942 N. Us Highway 301,Tampa,FL,33619,27.98094,-82.36146,Florida,Wawa,2024-03-10
+5127,2604 South Us Highway,Tampa,FL,33619,27.92432,-82.34858,Florida,Wawa,2024-03-10
+5133,10115 Bloomingdale Ave,Riverview,FL,33578,27.8930892,-82.3364252,Florida,Wawa,2024-03-10
+5197,1710 W. Brandon Blvd,Brandon,FL,33510,27.937242,-82.309747,Florida,Wawa,2024-03-10
+5335,11623 E. Dr Mlk Blvd,Seffner,FL,33584,27.9814,-82.30232,Florida,Wawa,2024-03-10
+5226,27866 State Road 56,Wesley Chapel,FL,33543,28.185681,-82.354987,Florida,Wawa,2024-03-10
+5167,9615 S Us Highway 301,Riverview,FL,33578,27.8584322,-82.3280642,Florida,Wawa,2024-03-10
+5175,13026 S Us Highway 301,Riverview,FL,33578,27.79701,-82.33374,Florida,Wawa,2024-03-10
+5286,13323 Boyette Road,Riverview,FL,33569,27.8529,-82.2699,Florida,Wawa,2024-03-10
+5152,2926 E. State Rd 60,Valrico,FL,33594,27.9386262,-82.2364072,Florida,Wawa,2024-03-10
+5151,2224 Bloomingdale Ave,Valrico,FL,33594-6212,27.8938175,-82.2451643,Florida,Wawa,2024-03-10
+5198,16620 S. Us 301,Wimauma,FL,33598,27.711878,-82.334282,Florida,Wawa,2024-03-10
+0687,5824 George Washington Memoria,Yorktown,VA,23692-2774,37.165506,-76.46499,Virginia,Wawa,2024-03-10
+8657,2610 George Washington Mem Hwy,Yorktown,VA,23693,37.120749,-76.456763,Virginia,Wawa,2024-03-10
+0685,772 J. Clyde Morris Blvd,Newport News,VA,23607,37.080586,-76.45954,Virginia,Wawa,2024-03-10
+8642,301 E. Mercury Blvd,Hampton,VA,23663,37.03298,-76.32487,Virginia,Wawa,2024-03-10
+8044,600 N.W. End Blvd,Quakertown,PA,18951-4100,40.459467,-75.369398,Pennsylvania,Wawa,2024-03-10
+0272,1095 South West End Boulevard,Quakertown,PA,18951-2633,40.417793,-75.34321,Pennsylvania,Wawa,2024-03-10
+0105,370 Main Street,Souderton,PA,18964,40.313446,-75.328463,Pennsylvania,Wawa,2024-03-10
+8135,201 Main Street,Harleysville,PA,19438,40.26490275,-75.37136851,Pennsylvania,Wawa,2024-03-10
+8008,3520 Bethlehem Pike,Souderton,PA,18964-1040,40.320177,-75.30396,Pennsylvania,Wawa,2024-03-10
+0143,4121 Skippack Pike,Schwenksville,PA,19473,40.228541,-75.404795,Pennsylvania,Wawa,2024-03-10
+8050,200 Forty Foot Road,Lansdale,PA,19446-4005,40.263141,-75.320685,Pennsylvania,Wawa,2024-03-10
+0343,157 Newtons Corner Road,Howell,NJ,07731,40.119926,-74.144189,New Jersey,Wawa,2024-03-10
+8463,10 Lanes Mill Rd,Brick,NJ,08723,40.09735,-74.14466,New Jersey,Wawa,2024-03-10
+5106,4320 Us Highway 98 North,Lakeland,FL,33805,28.09827,-81.9742,Florida,Wawa,2024-03-10
+5253,3105 Us Highway 98 South,Lakeland,FL,33803,28.012655,-81.91349,Florida,Wawa,2024-03-10
+5137,334 Havendale Blvd,Auburndale,FL,33823,28.0545444,-81.7789764,Florida,Wawa,2024-03-10
+5342,5410 S. Florida Ave,Lakeland,FL,33813,27.967379,-81.964332,Florida,Wawa,2024-03-10
+5126,1490 3Rd St Sw,Winter Haven,FL,33880-3915,28.00787,-81.73045,Florida,Wawa,2024-03-10
+5162,2705 Thonotosassa Rd,Plant City,FL,33563,28.0258952,-82.1526492,Florida,Wawa,2024-03-10
+5230,43582 Hwy 27,Davenport,FL,33837,28.228805,-81.648727,Florida,Wawa,2024-03-10
+5285,6450 Gall Blvd,Zephyrhills,FL,33542,28.251734,-82.187814,Florida,Wawa,2024-03-10
+5277,23623 Us Hwy 27,Lake Wales,FL,33859,27.956546,-81.620925,Florida,Wawa,2024-03-10
+5299,8103 Lake Wilson Rd,Davenport,FL,33896,28.259329,-81.590236,Florida,Wawa,2024-03-10
+5119,8849 W Irlo Bronson Memorial H,Winter Garden,FL,34787,28.34768,-81.64676,Florida,Wawa,2024-03-10
+5121,16126 Greater Groves Blvd,Clermont,FL,34714,28.378378,-81.688073,Florida,Wawa,2024-03-10
+5166,7940 W Irlo Bronson Memorial H,Kissimmee,FL,34747,28.34539617,-81.60470442,Florida,Wawa,2024-03-10
+5124,5035 S. Orange Blossom Trail,Kissimmee,FL,34758-2044,28.256006,-81.48463,Florida,Wawa,2024-03-10
+5293,1095 Cypress Pkwy,Kissimmee,FL,34759,28.14751,-81.44379,Florida,Wawa,2024-03-10
+5116,3140 Vineland Road,Kissimmee,FL,34746-4657,28.341,-81.48371,Florida,Wawa,2024-03-10
+5143,4397 W Vine St,Kissimmee,FL,34746-6345,28.3047862,-81.4579622,Florida,Wawa,2024-03-10
+5209,8894 Vinings Way Blvd,Orlando,FL,32836,28.389167,-81.50585,Florida,Wawa,2024-03-10
+5144,1909 S  Highway 27,Clermont,FL,34711-6497,28.542587,-81.740513,Florida,Wawa,2024-03-10
+5391,7785 Palm Parkway,Orlando,FL,32836,28.39842,-81.48965,Florida,Wawa,2024-03-10
+5104,2499 N Orange Blossom Trail,Kissimmee,FL,34744-2345,28.318503,-81.403044,Florida,Wawa,2024-03-10
+5101,5910 Central Florida Pkwy,Orlando,FL,32821-6004,28.405788,-81.457566,Florida,Wawa,2024-03-10
+5102,2184 E Irlo Bronson Memorial H,Kissimmee,FL,34744-4415,28.285959,-81.355723,Florida,Wawa,2024-03-10
+5160,6500 W Sand Lake Rd,Orlando,FL,32819-8902,28.4494144,-81.4664581,Florida,Wawa,2024-03-10
+5205,3951 Central Florida Pkwy,Orlando,FL,32837,28.41153,-81.42195,Florida,Wawa,2024-03-10
+5155,12083 S Orange Blossom Trail,Orlando,FL,32837-5912,28.39058,-81.40453,Florida,Wawa,2024-03-10
+5210,13501 W Colonial Dr,Winter Garden,FL,34787,28.551483,-81.583899,Florida,Wawa,2024-03-10
+5218,4660 W Sr 46,Sanford,FL,32771,28.81177,-81.33388,Florida,Wawa,2024-03-10
+5158,2690 W 25 St,Sanford,FL,32771-7505,28.7868,-81.2972,Florida,Wawa,2024-03-10
+5140,449 West Main Street,Apopka,FL,32712-3453,28.679571,-81.521344,Florida,Wawa,2024-03-10
+5117,3510 N Us Hwy 17-92,Lake Mary,FL,32746-4500,28.7324536,-81.3095987,Florida,Wawa,2024-03-10
+5156,162 E Sr 434,Longwood,FL,32750-5214,28.6974,-81.34523,Florida,Wawa,2024-03-10
+5179,919 West Sr 436,Altamonte Springs,FL,32714-2931,28.66577,-81.4206,Florida,Wawa,2024-03-10
+5112,1615 S Orange Blossom Trail,Apopka,FL,32703-7755,28.6539389,-81.4686223,Florida,Wawa,2024-03-10
+5128,23 Seminola Blvd,Casselberry,FL,32707-3045,28.6835,-81.3331,Florida,Wawa,2024-03-10
+5186,1390 E Altamonte Drive,Altamonte Springs,FL,32701-5012,28.663017,-81.345949,Florida,Wawa,2024-03-10
+5324,1033 Sr 436,Casselberry,FL,32707,28.643789,-81.322763,Florida,Wawa,2024-03-10
+5164,5820 Edgewater Dr,Orlando,FL,32810-5261,28.610197,-81.416327,Florida,Wawa,2024-03-10
+5135,901 N Orlando Ave,Winter Park,FL,32789-2923,28.6050562,-81.3665472,Florida,Wawa,2024-03-10
+5100,2507 N John Young Pkwy,Orlando,FL,32804,28.577463,-81.415538,Florida,Wawa,2024-03-10
+5219,1020 West Mitchell Hammock Rd,Oviedo,FL,32765,28.655593,-81.22602,Florida,Wawa,2024-03-10
+5280,4256 Aloma Avenue,Winter Park,FL,32792,28.6118,-81.280304,Florida,Wawa,2024-03-10
+5150,1200 W. Colonial Dr,Orlando,FL,32805-7116,28.55275,-81.39597,Florida,Wawa,2024-03-10
+5111,2239 N Semoran Blvd,Orlando,FL,32807-3707,28.57431,-81.31041,Florida,Wawa,2024-03-10
+5118,3000 Alafaya Trail,Oviedo,FL,32765-7678,28.6267,-81.20823,Florida,Wawa,2024-03-10
+5308,5810 Raleigh St,Orlando,FL,32811,28.52787,-81.45943,Florida,Wawa,2024-03-10
+5153,4100 E Colonial Drive,Orlando,FL,32803,28.5527692,-81.3345812,Florida,Wawa,2024-03-10
+5113,8049 E Colonial Drive,Orlando,FL,32818-6679,28.5689,-81.27792,Florida,Wawa,2024-03-10
+5145,11750 University Blvd,Orlando,FL,32817,28.5970632,-81.2151362,Florida,Wawa,2024-03-10
+5134,608 N Goldenrod Rd,Orlando,FL,32807-6202,28.5532992,-81.2872952,Florida,Wawa,2024-03-10
+5130,3025 Curry Ford Rd,Orlando,FL,32806-3331,28.52468,-81.34498,Florida,Wawa,2024-03-10
+5157,3100 S. Orange Ave,Orlando,FL,32806-6122,28.50899,-81.37672,Florida,Wawa,2024-03-10
+5206,1201 S Semoran Blvd,Orlando,FL,32807,28.528127,-81.309866,Florida,Wawa,2024-03-10
+5189,3501 Millenia Blvd,Orlando,FL,32839,28.49341,-81.41833,Florida,Wawa,2024-03-10
+5161,12321 E. Colonial Dr,Orlando,FL,32826-4712,28.56601,-81.19546,Florida,Wawa,2024-03-10
+5131,2225 S Goldenrod Road,Orlando,FL,32822-4676,28.51495,-81.28928,Florida,Wawa,2024-03-10
+5142,14548 E Colonial Drive,Orlando,FL,32826,28.56475,-81.16596,Florida,Wawa,2024-03-10
+5279,4416 Hoffner Ave,Belle Isle,FL,32812,28.480291,-81.332522,Florida,Wawa,2024-03-10
+5105,7030 S Orange Blossom Trail,Orlando,FL,32809-5715,28.46352,-81.39757,Florida,Wawa,2024-03-10
+5207,10052 Curry Ford Rd,Orlando,FL,32825,28.5093042,-81.2416362,Florida,Wawa,2024-03-10
+5103,4700 S Golden Rod Road,Orlando,FL,32822-2027,28.48009,-81.28814,Florida,Wawa,2024-03-10
+5136,6500 South Semoran Blvd,Orlando,FL,32822,28.4695402,-81.3115762,Florida,Wawa,2024-03-10
+5208,8099 Orange Ave,Orlando,FL,32809-6711,28.45137,-81.36328,Florida,Wawa,2024-03-10
+5138,8574 S. Orange Blossom Trail,Orlando,FL,32809,28.4405642,-81.4049752,Florida,Wawa,2024-03-10
+5182,9955 Lee Vista Blvd,Orlando,FL,32829,28.47969,-81.2455,Florida,Wawa,2024-03-10
+8068,1050 West Chester Pike,West Chester,PA,19382-5003,39.96775,-75.57673,Pennsylvania,Wawa,2024-03-10
+0088,1594 Route 352 & Paoli Pike,West Chester,PA,19380-6107,39.994199,-75.54522,Pennsylvania,Wawa,2024-03-10
+0208,567 Lancaster Avenue,Malvern,PA,19355-1814,40.035876,-75.571785,Pennsylvania,Wawa,2024-03-10
+8045,1501 West Chester Pike,West Chester,PA,19382-7753,39.967453,-75.526977,Pennsylvania,Wawa,2024-03-10
+0236,105 King St (Malvern Shop),Malvern,PA,19355,40.035614,-75.51638,Pennsylvania,Wawa,2024-03-10
+0205,5 Matthews Road,Malvern,PA,19355-1749,40.050612,-75.524571,Pennsylvania,Wawa,2024-03-10
+0298,1413 Wilmington Pike,West Chester,PA,19382-8316,39.900831,-75.56201,Pennsylvania,Wawa,2024-03-10
+8091,605 Morehall Rd,Malvern,PA,19355,40.066753,-75.535967,Pennsylvania,Wawa,2024-03-10
+0057,52 W. Lancaster Avenue,Paoli,PA,19301,40.041515,-75.485852,Pennsylvania,Wawa,2024-03-10
+0198,970 Baltimore Pike,Glen Mills,PA,19342,39.882932,-75.53483,Pennsylvania,Wawa,2024-03-10
+0269,36 Baltimore Pike,Glen Mills,PA,19342-9441,39.896461,-75.485462,Pennsylvania,Wawa,2024-03-10
+8083,1242 W. Baltimore Pike,Media,PA,19063,39.910855,-75.442783,Pennsylvania,Wawa,2024-03-10
+0170,721 Naamans Creek Road,Chadds Ford,PA,19317-9030,39.84986,-75.536871,Pennsylvania,Wawa,2024-03-10
+8148,1073 Baltimore Pike,Media,PA,19063,39.914938,-75.431093,Pennsylvania,Wawa,2024-03-10
+8086,50 N Newtown Street Rd,Newtown Square,PA,19073,39.98875,-75.40264,Pennsylvania,Wawa,2024-03-10
+0291,151 Sugartown Rd. & Morris Ave,Strafford,PA,19087,40.044899,-75.40524,Pennsylvania,Wawa,2024-03-10
+8114,1260 N. Providence Rd,Media,PA,19063,39.933951,-75.391168,Pennsylvania,Wawa,2024-03-10
+0257,215 West Lancaster Avenue,Wayne,PA,19087-3306,40.044479,-75.39257,Pennsylvania,Wawa,2024-03-10
+0100,100 East Baltimore Pike,Media,PA,19063,39.916213,-75.387627,Pennsylvania,Wawa,2024-03-10
+8027,5008 Pennell Rd,Aston,PA,19014-1868,39.86538,-75.42698,Pennsylvania,Wawa,2024-03-10
+8082,435 E. Baltimore Ave,Media,PA,19063,39.91579,-75.38101,Pennsylvania,Wawa,2024-03-10
+8059,489 Conchester Hwy,Aston,PA,19014-3105,39.849276,-75.437411,Pennsylvania,Wawa,2024-03-10
+0008,2050 Sproul Road,Broomall,PA,19008-2725,39.966343,-75.35965,Pennsylvania,Wawa,2024-03-10
+8062,1600 Egypt Road,Phoenixville,PA,19460-6100,40.134394,-75.451377,Pennsylvania,Wawa,2024-03-10
+0042,196 S Gulph Road,King Of Prussia,PA,19406,40.08469,-75.387148,Pennsylvania,Wawa,2024-03-10
+8042,4703 Edgmont Avenue,Brookhaven,PA,19015,39.876699,-75.39336,Pennsylvania,Wawa,2024-03-10
+8003,705 South Trooper Road,Norristown,PA,19403-2310,40.127292,-75.405954,Pennsylvania,Wawa,2024-03-10
+0679,1579 Lynnhaven Parkway,Virginia Beach,VA,23456,36.795911,-76.10241,Virginia,Wawa,2024-03-10
+0690,4377 Holland Road,Virginia Beach,VA,23462,36.822372,-76.126289,Virginia,Wawa,2024-03-10
+8628,6301 N Military Hwy,Norfolk,VA,23518-5436,36.897126,-76.22626,Virginia,Wawa,2024-03-10
+0671,201 South Rosemont Rd.,Virginia Beach,VA,23452,36.833618,-76.0961,Virginia,Wawa,2024-03-10
+8604,975 East Little Creek Road,Norfolk,VA,23518,36.913941,-76.24232,Virginia,Wawa,2024-03-10
+8609,5701 Northampton Blvd,Virginia Beach,VA,23455,36.885646,-76.179228,Virginia,Wawa,2024-03-10
+8678,1280 General Booth Blvd,Virginia Beach,VA,23451,36.7938935,-75.99516851,Virginia,Wawa,2024-03-10
+0694,2954 Virginia Beach Blvd.,Virginia Beach,VA,23462,36.844503,-76.074698,Virginia,Wawa,2024-03-10
+0678,2501 Virginia Beach Blvd,Virginia Beach,VA,23452,36.840471,-76.05592,Virginia,Wawa,2024-03-10
+0675,4800 Shore Drive,Virginia Beach,VA,23455,36.905203,-76.13609,Virginia,Wawa,2024-03-10
+8608,1700 Virginia Beach Blvd,Virginia Beach,VA,23454,36.843244,-76.02165,Virginia,Wawa,2024-03-10
+5132,13585 S Orange Ave,Orlando,FL,32824,28.36572,-81.38275,Florida,Wawa,2024-03-10
+5366,13830 Boggy Creek Rd,Orlando,FL,32824,28.364467,-81.310514,Florida,Wawa,2024-03-10
+5174,9235 Narcoosee Rd,Orlando,FL,32827,28.4330172,-81.2567132,Florida,Wawa,2024-03-10
+5187,14876 Narcoosse Rd,Orlando,FL,32832,28.34851,-81.233716,Florida,Wawa,2024-03-10
+8080,8250 Limekiln Pk,Wyncote,PA,19095,40.078909,-75.160561,Pennsylvania,Wawa,2024-03-10
+8158,200 Easton Rd,Glenside,PA,19038,40.098396,-75.155995,Pennsylvania,Wawa,2024-03-10
+0111,82 Limekiln Pike,Glenside,PA,19038,40.104708,-75.16489,Pennsylvania,Wawa,2024-03-10
+0021,1601 Bethlehem Pike,Flourtown,PA,19031-1916,40.106592,-75.213911,Pennsylvania,Wawa,2024-03-10
+0097,406 Germantown Pike,Lafayette Hill,PA,19444-1804,40.092422,-75.26154,Pennsylvania,Wawa,2024-03-10
+8066,816 Old York Rd,Jenkintown,PA,19046,40.105748,-75.125005,Pennsylvania,Wawa,2024-03-10
+0276,7913-29 Oxford Avenue,Philadelphia,PA,19111,40.074939,-75.08407,Pennsylvania,Wawa,2024-03-10
+0067,1726 Butler Pike,Conshohocken,PA,19428-1565,40.090168,-75.29099,Pennsylvania,Wawa,2024-03-10
+0156,106 Bethlehem Pike,Fort Washington,PA,19034-1206,40.138141,-75.21267,Pennsylvania,Wawa,2024-03-10
+8171,1345-51 Easton Road,Abington,PA,19001,40.127222,-75.130854,Pennsylvania,Wawa,2024-03-10
+8060,1145 Virginia Drive,Fort Washington,PA,19034-3203,40.139187,-75.172083,Pennsylvania,Wawa,2024-03-10
+0183,6919-6935 Castor Avenue,Philadelphia,PA,19149,40.046581,-75.0702,Pennsylvania,Wawa,2024-03-10
+0253,100 Crawford Avenue,West Conshohocken,PA,19428,40.068072,-75.31009,Pennsylvania,Wawa,2024-03-10
+8052,7001 Roosevelt Blvd,Philadelphia,PA,19149,40.040209,-75.057297,Pennsylvania,Wawa,2024-03-10
+0181,8144-8152 Castor Avenue,Philadelphia,PA,19152,40.064118,-75.05461,Pennsylvania,Wawa,2024-03-10
+0168,201 South Bryn Mawr Avenue,Bryn Mawr,PA,19010-2273,40.017186,-75.32227,Pennsylvania,Wawa,2024-03-10
+8063,201 York Rd,Willow Grove,PA,19090-3213,40.144995,-75.115235,Pennsylvania,Wawa,2024-03-10
+8087,7912 E. Roosevelt Blvd,Philadelphia,PA,19152,40.05557761,-75.04906265,Pennsylvania,Wawa,2024-03-10
+8156,132 Welsh Road,Horsham,PA,19044,40.160222,-75.146337,Pennsylvania,Wawa,2024-03-10
+8071,1300 E. Ridge Pike,Plymouth Meeting,PA,19462,40.107195,-75.319863,Pennsylvania,Wawa,2024-03-10
+8054,9377 Krewstown Rd,Philadelphia,PA,19115-3710,40.087571,-75.044338,Pennsylvania,Wawa,2024-03-10
+5281,100 S. Tamiami Trail,Nokomis,FL,34275,27.124733,-82.453696,Florida,Wawa,2024-03-10
+5258,10807 Sr 64 East,Bradenton,FL,34211,27.485912,-82.434647,Florida,Wawa,2024-03-10
+5216,2344 South Tamiami Trail,Venice,FL,34293,27.049227,-82.405057,Florida,Wawa,2024-03-10
+5185,14510 State Rd Sr 70 East,Bradenton,FL,34202,27.43154,-82.3951,Florida,Wawa,2024-03-10
+5225,19289 Times Circle,Venice,FL,34292,27.105301,-82.383646,Florida,Wawa,2024-03-10
+5427,1245 Grumman Place,Titusville,FL,32780,28.532114,-80.814391,Florida,Wawa,2024-03-10
+8372,1902 Route 88,Brick,NJ,08724,40.0715,-74.12096,New Jersey,Wawa,2024-03-10
+0949,3485 Route 35 North,Lavallette,NJ,08735-3231,39.994356,-74.063645,New Jersey,Wawa,2024-03-10
+0035,510 Fairview Road,Woodlyn,PA,19094,39.882717,-75.34609,Pennsylvania,Wawa,2024-03-10
+8048,111 Morton Avenue,Folsom,PA,19033,39.883658,-75.329935,Pennsylvania,Wawa,2024-03-10
+8133,390 E. Chester Pike,Ridley Park,PA,19078,39.877323,-75.317217,Pennsylvania,Wawa,2024-03-10
+0178,21 Kedron Avenue,Morton,PA,19070,39.907376,-75.32599,Pennsylvania,Wawa,2024-03-10
+8081,1730 Macdade Blvd,Folsom,PA,19033-1314,39.8952,-75.315651,Pennsylvania,Wawa,2024-03-10
+0154,195 Saxer Avenue,Springfield,PA,19064,39.927374,-75.33321,Pennsylvania,Wawa,2024-03-10
+0239,2306 Macdade Blvd,Holmes,PA,19043-1501,39.898275,-75.30771,Pennsylvania,Wawa,2024-03-10
+0254,600 S. Governor Printz Blvd.,Essington,PA,19029-1330,39.866481,-75.294071,Pennsylvania,Wawa,2024-03-10
+0293,19 North Bishop Avenue,Clifton Heights,PA,19018-1812,39.925625,-75.310294,Pennsylvania,Wawa,2024-03-10
+8145,5100 State Rd,Drexel Hill,PA,19026,39.945445,-75.32554,Pennsylvania,Wawa,2024-03-10
+8305,51 Berkley Rd,Paulsboro,NJ,08066,39.822019,-75.240365,New Jersey,Wawa,2024-03-10
+0926,610 South Brewster Road,Vineland,NJ,08361,39.475451,-74.97789,New Jersey,Wawa,2024-03-10
+0999,61 South Main Rd,Vineland,NJ,08361,39.483873,-74.998977,New Jersey,Wawa,2024-03-10
+0964,2105 North Second Street,Millville,NJ,08332,39.421497,-75.038526,New Jersey,Wawa,2024-03-10
+0720,1711 East Main St,Millville,NJ,08332,39.393364,-75.01741,New Jersey,Wawa,2024-03-10
+0380,731 S. Harding Highway,Buena,NJ,08310,39.515198,-74.92554,New Jersey,Wawa,2024-03-10
+0710,13 Main Street West,Millville,NJ,08332,39.394893,-75.04147,New Jersey,Wawa,2024-03-10
+0944,624 West Main Street,Millville,NJ,08332,39.398238,-75.05551,New Jersey,Wawa,2024-03-10
+0759,3904 Route 47,Dorchester,NJ,08316,39.289268,-74.96913,New Jersey,Wawa,2024-03-10
+0749,300 North Route 50,Mays Landing,NJ,08330-1708,39.454428,-74.725713,New Jersey,Wawa,2024-03-10
+0925,5201 Harding Highway,Mays Landing,NJ,08330-2247,39.446604,-74.70233,New Jersey,Wawa,2024-03-10
+0383,100 12Th Street & Washington A,Hammonton,NJ,08037,39.633603,-74.80545,New Jersey,Wawa,2024-03-10
+0775,1413 South Black Horse Pike,Williamstown,NJ,08094,39.668616,-74.97434,New Jersey,Wawa,2024-03-10
+8431,8 North White Horse Pike,Hammonton,NJ,08037,39.64794,-74.78974,New Jersey,Wawa,2024-03-10
+0721,332 South Black Horse Pike,Williamstown,NJ,08094,39.686009,-74.98829,New Jersey,Wawa,2024-03-10
+0969,5100 English Creek Rd,Egg Harbor Township,NJ,08234-5749,39.390484,-74.63734,New Jersey,Wawa,2024-03-10
+0941,4262 Black Horse Pike,Mays Landing,NJ,08330-3137,39.444683,-74.62982,New Jersey,Wawa,2024-03-10
+0379,882 Glassboro Rd,Williamstown,NJ,08094-3501,39.690061,-75.01716,New Jersey,Wawa,2024-03-10
+8467,600 White Horse Pike,Egg Harbor City,NJ,08215,39.52843174,-74.64745904,New Jersey,Wawa,2024-03-10
+0470,1180 Rt. 47 (@ Main Street),Dennisville,NJ,08214,39.190591,-74.82143,New Jersey,Wawa,2024-03-10
+0936,716 White Horse Pike,Egg Harbor City,NJ,08215,39.500049,-74.607484,New Jersey,Wawa,2024-03-10
+0416,519 Williamstown Rd.,Sicklerville,NJ,08081-2553,39.718309,-74.97007,New Jersey,Wawa,2024-03-10
+0377,672 Berlin Cross Keys Road Sui,Sicklerville,NJ,08081-4178,39.727687,-75.01272,New Jersey,Wawa,2024-03-10
+0322,1 North White Horse Pike,Waterford Works,NJ,08089,39.722673,-74.860242,New Jersey,Wawa,2024-03-10
+0920,2422-28 Tilton Road,Egg Harbor Township,NJ,08234-5151,39.432176,-74.57701,New Jersey,Wawa,2024-03-10
+0758,30 South Shore Road,Marmora,NJ,08223,39.263405,-74.64964,New Jersey,Wawa,2024-03-10
+8343,275 W. White Horse Pike,Galloway,NJ,08205,39.47925,-74.5752,New Jersey,Wawa,2024-03-10
+0947,6678 Black Horse Pike,Egg Harbor Township,NJ,08234-1835,39.411195,-74.56837,New Jersey,Wawa,2024-03-10
+0461,112 New Road,Somers Point,NJ,08244,39.330999,-74.59204,New Jersey,Wawa,2024-03-10
+8324,16 Macarthur Blvd,Somers Point,NJ,08244,39.310342,-74.600742,New Jersey,Wawa,2024-03-10
+0975,4231 Rt 42,Turnersville,NJ,08012-1712,39.738429,-75.043086,New Jersey,Wawa,2024-03-10
+0984,501 Berlin-Cross Keys Rd,Sicklerville,NJ,08081-4368,39.745676,-74.994731,New Jersey,Wawa,2024-03-10
+0433,502 Shore Road,Somers Point,NJ,08244,39.319496,-74.59113,New Jersey,Wawa,2024-03-10
+0780,464 Hurffvillle-Cross Keys Roa,Sewell,NJ,08080-2340,39.736472,-75.071097,New Jersey,Wawa,2024-03-10
+0701,2403 New Road,Northfield,NJ,08225,39.362802,-74.565268,New Jersey,Wawa,2024-03-10
+8333,6743 Black Horse Pike,Egg Harbor Township,NJ,08234-3901,39.398451,-74.555814,New Jersey,Wawa,2024-03-10
+0465,2500 Sea Isle Blvd. Unit 1,Ocean View,NJ,08230,39.176577,-74.7326,New Jersey,Wawa,2024-03-10
+0499,388 Egg Harbor Rd (@ Greentree,Sewell,NJ,08080-1858,39.751328,-75.075918,New Jersey,Wawa,2024-03-10
+0771,110 34Th Street,Ocean City,NJ,08226,39.252259,-74.613159,New Jersey,Wawa,2024-03-10
+0968,241 E. White Horse Pike,Galloway,NJ,08205,39.446968,-74.52826,New Jersey,Wawa,2024-03-10
+0728,1250 West Avenue,Ocean City,NJ,08226,39.275666,-74.582627,New Jersey,Wawa,2024-03-10
+0262,7715 Frankford Avenue,Philadelphia,PA,19136,40.039413,-75.03261,Pennsylvania,Wawa,2024-03-10
+0460,600 Cinnaminson Street,Palmyra,NJ,08065,40.003721,-75.02104,New Jersey,Wawa,2024-03-10
+8030,2600 Grant Ave.,Philadelphia,PA,19114,40.077481,-75.023952,Pennsylvania,Wawa,2024-03-10
+0952,1505 Rt. 73,Pennsauken,NJ,08110-1325,39.98726,-75.022866,New Jersey,Wawa,2024-03-10
+8152,9101 Frankford Ave,Philadelphia,PA,19114,40.052521,-75.006788,Pennsylvania,Wawa,2024-03-10
+8064,3341 Grant Avenue,Philadelphia,PA,19114-2629,40.068885,-75.005211,Pennsylvania,Wawa,2024-03-10
+8428,2114 Church Road,Cinnaminson,NJ,08077,39.987012,-75.008234,New Jersey,Wawa,2024-03-10
+8057,2500 Philmont Ave,Huntingdon Valley,PA,19006-6240,40.121051,-75.058776,Pennsylvania,Wawa,2024-03-10
+0108,9440 State Road,Philadelphia,PA,19114,40.049315,-74.989492,Pennsylvania,Wawa,2024-03-10
+8047,10901A Bustleton Ave,Philadelphia,PA,19115,40.11126,-75.02405,Pennsylvania,Wawa,2024-03-10
+8325,50 Haddonfield Rd,Cherry Hill,NJ,08002-1446,39.94957,-75.02811,New Jersey,Wawa,2024-03-10
+0950,9300 Ventnor Avenue,Margate City,NJ,08402,39.322099,-74.51364,New Jersey,Wawa,2024-03-10
+0753,5206 Ventor Ave (@ Little Rock,Ventnor City,NJ,08406,39.343161,-74.47132,New Jersey,Wawa,2024-03-10
+0970,513 West Delilah Road,Pleasantville,NJ,08232,39.40779,-74.52159,New Jersey,Wawa,2024-03-10
+0736,611 New Jersey Ave (@ Mill Roa,Absecon,NJ,08201,39.432339,-74.509177,New Jersey,Wawa,2024-03-10
+0438,336 S Pitney Rd,Galloway,NJ,08205-9628,39.462394,-74.493742,New Jersey,Wawa,2024-03-10
+0713,3932 Brigantine Boulevard,Brigantine,NJ,08203,39.394279,-74.39686,New Jersey,Wawa,2024-03-10
+0485,813 West Brigantine Blvd.,Brigantine,NJ,08203,39.404438,-74.36887,New Jersey,Wawa,2024-03-10
+0482,8 South New York Road,Absecon,NJ,08205-9610,39.492264,-74.45763,New Jersey,Wawa,2024-03-10
+0300,3801 Landis Avenue,Sea Isle City,NJ,08243,39.157393,-74.68942,New Jersey,Wawa,2024-03-10
+0432,2701 Ocean Drive,Avalon,NJ,08202,39.098628,-74.72321,New Jersey,Wawa,2024-03-10
+0978,195 Mathistown Road,Little Egg Harbor,NJ,08087,39.581116,-74.36956,New Jersey,Wawa,2024-03-10
+0497,20 East Main Street,Tuckerton,NJ,08087,39.602861,-74.3404,New Jersey,Wawa,2024-03-10
+0342,9404 Third Avenue,Stone Harbor,NJ,08247,39.055563,-74.7596,New Jersey,Wawa,2024-03-10
+0492,224 South Main Street (@ Atlan,Cape May Court House,NJ,08210,39.078018,-74.825523,New Jersey,Wawa,2024-03-10
+0371,1201 Route 539,Tuckerton,NJ,08087-4213,39.625481,-74.34199,New Jersey,Wawa,2024-03-10
+0977,13115 Long Beach Blvd,Beach Haven,NJ,08008-2747,39.585381,-74.22407,New Jersey,Wawa,2024-03-10
+8322,330 W Spruce Ave,North Wildwood,NJ,08260-3058,39.012033,-74.796077,New Jersey,Wawa,2024-03-10
+0954,3200 New Jersey Ave.,Wildwood,NJ,08260,38.992195,-74.814569,New Jersey,Wawa,2024-03-10
+8473,3303 Route 9,Freehold,NJ,07728,40.221384,-74.267386,New Jersey,Wawa,2024-03-10
+0993,146 Woodward Rd,Manalapan,NJ,07726-4102,40.254961,-74.367845,New Jersey,Wawa,2024-03-10
+0955,2485 Rt 9 North,Howell,NJ,07731-3741,40.178289,-74.242541,New Jersey,Wawa,2024-03-10
+0938,4690 Us Highway 9,Howell,NJ,07731-3319,40.136661,-74.22563,New Jersey,Wawa,2024-03-10
+8328,329 North County Line Road,Jackson,NJ,08527-4426,40.1385,-74.2985,New Jersey,Wawa,2024-03-10
+5238,4787 Radio Road,Naples,FL,34104,26.154168,-81.751137,Florida,Wawa,2024-03-10
+5297,4939 Tamiami Trail E,Naples,FL,34113,26.107384,-81.747688,Florida,Wawa,2024-03-10
+5228,12456 Tamiami Trail E.,Naples,FL,34113,26.065572,-81.704443,Florida,Wawa,2024-03-10
+5237,16971 Aaron Warnek Place,Fort Myers,FL,33912,26.493385,-81.803082,Florida,Wawa,2024-03-10
+5169,12701 S Cleveland Ave,Fort Myers,FL,33907-3807,26.557572,-81.87119,Florida,Wawa,2024-03-10
+5168,2370 Colonial Blvd,Fort Myers,FL,33907-1414,26.5963402,-81.8648262,Florida,Wawa,2024-03-10
+5200,11031 Colonial Blvd,Fort Myers,FL,33905-5400,26.617479,-81.769824,Florida,Wawa,2024-03-10
+5356,2603 Santa Barbara Blvd,Cape Coral,FL,33914,26.603602,-81.973893,Florida,Wawa,2024-03-10
+5170,761 Del Prado Blvd North,Cape Coral,FL,33909-1730,26.667134,-81.940488,Florida,Wawa,2024-03-10
+5343,26415 Indian Trail Drive,Punta Gorda,FL,33950,26.89513,-82.01126,Florida,Wawa,2024-03-10
+5255,2525 Tamiami Trail,Port Charlotte,FL,33952,26.993761,-82.116499,Florida,Wawa,2024-03-10
+5345,14560 Chancellor Blvd,Port Charlotte,FL,33953,27.03197,-82.2042,Florida,Wawa,2024-03-10
+5295,1055 Sun Market Place,North Port,FL,34288,27.067209,-82.155461,Florida,Wawa,2024-03-10
+5375,1509 E Oak Street,Arcadia,FL,34266,27.20966,-81.84283,Florida,Wawa,2024-03-10
+5371,611 Dal Hall Blvd,Lake Placid,FL,33852,27.29992,-81.35869,Florida,Wawa,2024-03-10
+5370,3838 Us Hwy 27 S,Sebring,FL,33870,27.46483,-81.43406,Florida,Wawa,2024-03-10
+5383,200 Nw Park Street,Okeechobee,FL,34972,27.244051,-80.831682,Florida,Wawa,2024-03-10
+5373,6400 Us 27 N,Sebring,FL,33870,27.53947,-81.5038,Florida,Wawa,2024-03-10
+0452,1426-28 Texas Avenue,Cape May,NJ,08204,38.946751,-74.909118,New Jersey,Wawa,2024-03-10
+0980,3719 Bayshore Rd,Cape May,NJ,08204-3553,38.982979,-74.941231,New Jersey,Wawa,2024-03-10
+0963,1515 Bayshore Rd.,Villas,NJ,08251,39.023124,-74.93451,New Jersey,Wawa,2024-03-10
+0946,3601 Route 9 South,Rio Grande,NJ,08242,39.015658,-74.87641,New Jersey,Wawa,2024-03-10
+0729,418 West Rio Grande Avenue,Wildwood,NJ,08260,38.987176,-74.82944,New Jersey,Wawa,2024-03-10
+8339,2936 Brunswick Pike,Lawrence Township,NJ,08648,40.27354,-74.706847,New Jersey,Wawa,2024-03-10
+8399,1220 Route 130,Robbinsville,NJ,08691,40.2337,-74.590797,New Jersey,Wawa,2024-03-10
+8356,51 Flock Road,Hamilton,NJ,08619-1401,40.248453,-74.684073,New Jersey,Wawa,2024-03-10
+5123,1125 E Irlo Bronson Memorial H,Saint Cloud,FL,34769-4744,28.24658,-81.25647,Florida,Wawa,2024-03-10
