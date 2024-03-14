@@ -25,7 +25,7 @@ A growing repository of data scrapers that collect location information about po
 | Retail Stores             |    18 | 63,849 |
 | Shoes & Accessories       |     1 |    439 |
 | Specialty Foods           |     5 |   1856 |
-| **Total collected**               |    **687** | **158,143** |
+| **Total collected**               |    **68** | **158,143** |
 
 ### All the companies 
 This repo is a non-commercial exercise in data scraping practice, and it's a work in progress. I make no guarantees about the accuracy or completeness of the data.
