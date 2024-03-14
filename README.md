@@ -22,10 +22,10 @@ A growing repository of data scrapers that collect location information about po
 | Home Improvement          |     1 |  2,002 |
 | Jewelry                   |     1 |    234 |
 | Pet Supplies              |     1 |    121 |
-| Retail Stores             |    14 | 26,661 |
+| Retail Stores             |    18 | 63,849 |
 | Shoes & Accessories       |     1 |    439 |
 | Specialty Foods           |     5 |   1856 |
-| **Total collected**               |    **64** | **120,955** |
+| **Total collected**               |    **687** | **158,143** |
 
 ### All the companies 
 This repo is a non-commercial exercise in data scraping practice, and it's a work in progress. I make no guarantees about the accuracy or completeness of the data.
@@ -51,9 +51,12 @@ This repo is a non-commercial exercise in data scraping practice, and it's a wor
 | [Culver's](https://github.com/stiles/locations/tree/main/culvers)           | Fast Food & Quick Service |     794 |
 | [CVS](https://github.com/stiles/locations/tree/main/cvs)                               | Retail Stores             |     9,333 |
 | [Del Taco](https://github.com/stiles/locations/tree/main/del-taco)                     | Fast Food & Quick Service |       328 |
+| [Dollar General](https://github.com/stiles/locations/tree/main/dollar-general)                     | Retail Stores |       19,780 |
+| [Dollar Tree](https://github.com/stiles/locations/tree/main/dollar-tree)                     | Retail Stores |       8,159 |
 | [DSW](https://github.com/stiles/locations/tree/main/dsw)                               | Shoes & Accessories       |       439 |
 | [Dunkin Donuts](https://github.com/stiles/locations/tree/main/dunkin-donuts)           | Fast Food & Quick Service |     9,538 |
 | [El Pollo Loco](https://github.com/stiles/locations/tree/main/el-pollo-loco)           | Fast Food & Quick Service |       500 |
+| [Family Dollar](https://github.com/stiles/locations/tree/main/family-dollar)                     | Retail Stores |       8,389 |
 | [Ford dealers](https://github.com/stiles/locations/tree/main/ford)           | Automotive |       2,901 |
 | [Forever 21](https://github.com/stiles/locations/tree/main/forever-21)                               | Retail Stores             |     380 |
 | [Giant Food Stores](https://github.com/stiles/locations/tree/main/giant)               | Food & Beverage           |       165 |
@@ -91,6 +94,7 @@ This repo is a non-commercial exercise in data scraping practice, and it's a wor
 | [Vons](https://github.com/stiles/locations/tree/main/vons)                             | Retail Stores             |       186 |
 | [Wahoo's](https://github.com/stiles/locations/tree/main/wahoos)                        | Specialty Foods           |        46 |
 | [Walgreens](https://github.com/stiles/locations/tree/main/walgreens)                   | Retail Stores             |     8,446 |
+| [Wawa](https://github.com/stiles/locations/tree/main/wawa)                   | Retail Stores             |     860 |
 | [Wendy's](https://github.com/stiles/locations/tree/main/wendys)                        | Fast Food & Quick Service |     6,150 |
 | [Whataburger](https://github.com/stiles/locations/tree/main/whataburger)               | Fast Food & Quick Service |     1,014 |
 | [Wienerschnitzel](https://github.com/stiles/locations/tree/main/wienerschnitzel)       | Fast Food & Quick Service |       320 |
