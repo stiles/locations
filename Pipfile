@@ -23,6 +23,9 @@ jupyter-black = "*"
 tqdm = "*"
 pyarrow = "*"
 black = "*"
+scikit-learn = "*"
+pyogrio = "*"
+fiona = "*"
 
 [dev-packages]
 
