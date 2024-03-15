@@ -104,7 +104,7 @@ An expanding collection of data scrapers designed to gather location details on 
 
 ## Notes
 
-This repository serves as a non-commercial project to practice data scraping skills. It gets location data from the store lookup directories found on each company’s website. While the findings are consistent with public estimates and company disclosures about inventory levels, they likely aren't complete, as locations open and close and some may have been unintentionally missed in the scraping process.
+This repository serves as a non-commercial project to practice data scraping skills (though sometimes the data ends up [getting published](https://www.cnn.com/2024/03/15/business/family-dollar-closure-city-leaders-reactions/index.html)). The scrapers get location data from the store lookup directories found on each company’s website. While the findings are consistent with public estimates and company disclosures about inventory levels, they likely aren't complete, as locations open and close and some may have been unintentionally missed in the scraping process.
 
 *Please [let me know](mailto:mattstiles@gmail.com) if you have questions or concerns — or if there's a company you'd like to see on this list.*
 
