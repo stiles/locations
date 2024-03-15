@@ -16,7 +16,7 @@ An expanding collection of data scrapers designed to gather location details on 
 | Clothing & Accessories    |     3 |    620 |
 | Coffee Shops & Desserts   |     4 | 21,733 |
 | Electronics & Appliances  |     1 |    526 |
-| Fast Food & Quick Service |    19 | 51,490 |
+| Fast Food & Quick Service |    19 | 60,058 |
 | Food & Beverage           |     2 |    236 |
 | Frozen Yogurt             |     3 |    529 |
 | Home Improvement          |     1 |  2,002 |
@@ -25,12 +25,13 @@ An expanding collection of data scrapers designed to gather location details on 
 | Retail Stores             |    19 | 63,919 |
 | Shoes & Accessories       |     1 |    439 |
 | Specialty Foods           |     5 |   1856 |
-| **Total collected**               |    **69** | **158,020** |
+| **Total collected**               |    **70** | **166,588** |
 
 ### All the companies 
 
 | Company                                                                                   | Category                  | Locations |
 | ----------------------------------------------------------------------------------------- | ------------------------- | --------: |
+| [7-Eleven](https://github.com/stiles/locations/tree/main/7-eleven)               | Fast Food & Quick Service           |        8,568 |
 | [99 Ranch Market](https://github.com/stiles/locations/tree/main/99ranch)               | Specialty Foods           |        62 |
 | [99 Cents Only](https://github.com/stiles/locations/tree/main/99-cents-only)               | Retail Stores           |        370 |
 | [Abercrombie & Fitch](https://github.com/stiles/locations/tree/main/abercrombie-fitch) | Clothing & Accessories    |       221 |
@@ -40,7 +41,7 @@ An expanding collection of data scrapers designed to gather location details on 
 | [Au Bon Pain](https://github.com/stiles/locations/tree/main/au-bon-pain)               | Food & Beverage           |        71 |
 | [Bank of America](https://github.com/stiles/locations/tree/main/bank-of-america)       | Banking                   |     6,066 |
 | [Bass Pro/Cabela's](https://github.com/stiles/locations/tree/main/bass-pro-shops)       | Retail Stores                   |     155 |
-[Buc-ee's](https://github.com/stiles/locations/tree/main/buc-ees)                   | Retail Stores |     47 |
+| [Buc-ee's](https://github.com/stiles/locations/tree/main/buc-ees)                   | Retail Stores |     47 |
 | [Carl's Jr.](https://github.com/stiles/locations/tree/main/carls-jr)                   | Fast Food & Quick Service |     1,026 |
 | [Chick-Fil-A](https://github.com/stiles/locations/tree/main/chick-fil-a)               | Fast Food & Quick Service |     2,896 |
 | [Chili's](https://github.com/stiles/locations/tree/main/chilis)                        | Casual Dining             |     1,229 |
