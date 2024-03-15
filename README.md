@@ -28,7 +28,9 @@ A growing repository of data scrapers that collect location information about po
 | **Total collected**               |    **69** | **158,020** |
 
 ### All the companies 
-This repo is a non-commercial exercise in data scraping practice, and it's a work in progress. I make no guarantees about the accuracy or completeness of the data.
+This repo is a non-commercial exercise in data scraping practice. Locations were extracted from the store lookup directories on each company’s website. The results align closely with public estimates and company statements regarding their inventory counts but remain approximate. Some locations may have been inadvertently omitted during the scraping process.
+
+
 
 | Company                                                                                   | Category                  | Locations |
 | ----------------------------------------------------------------------------------------- | ------------------------- | --------: |
