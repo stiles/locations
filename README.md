@@ -160,4 +160,6 @@ jupyter lab
 
 This command launches Jupyter Lab in your browser, where you can open, edit and run the notebooks.
 
-Scrape away.
+### Scrape away!
+
+Please be mindful of each company's service terms and also polite to its servers.
