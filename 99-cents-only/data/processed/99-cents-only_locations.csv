@@ -1,0 +1,371 @@
+store_id,store_name,street,city,state,zip,url,latitude,longitude,state_name,brand,updated
+2242860,Richmond,3600 Klose Way,Richmond,CA,94806,https://locations.99only.com/ca/richmond/discount-store-297.html,37.9825283,-122.3179684,California,99 Cents Only,2024-03-14
+2242847,Pinole,620 San Pablo Ave,Pinole,CA,94564,https://locations.99only.com/ca/pinole/discount-store-275.html,38.0035999,-122.3152692,California,99 Cents Only,2024-03-14
+2242779,San Leandro,699 Lewelling Boulevard,San Leandro,CA,94578,https://locations.99only.com/ca/sanleandro/discount-store-180.html,37.6878718,-122.1351291,California,99 Cents Only,2024-03-14
+2242809,Hayward,20882 Mission Blvd,Hayward,CA,94541,https://locations.99only.com/ca/hayward/discount-store-217.html,37.684944,-122.0980352,California,99 Cents Only,2024-03-14
+2242834,Concord - Willow Pass,1701 A Willow Pass Rd,Concord,CA,94520,https://locations.99only.com/ca/concord/discount-store-247.html,37.9742306,-122.0413494,California,99 Cents Only,2024-03-14
+2242823,Vallejo,42 Springstowne Center,Vallejo,CA,94591,https://locations.99only.com/ca/vallejo/discount-store-232.html,38.1044467,-122.2158396,California,99 Cents Only,2024-03-14
+2242951,Vallejo - Sonoma,3684 Sonoma Blvd,Vallejo,CA,94590,https://locations.99only.com/ca/vallejo/discount-store-410.html,38.1248284,-122.2538234,California,99 Cents Only,2024-03-14
+2242796,Concord,4665 Clayton Rd,Concord,CA,94521,https://locations.99only.com/ca/concord/discount-store-201.html,37.9624119,-121.9835335,California,99 Cents Only,2024-03-14
+2242872,Fremont,41989 Fremont Blvd,Fremont,CA,94538,https://locations.99only.com/ca/fremont/discount-store-320.html,37.5243848,-121.9584204,California,99 Cents Only,2024-03-14
+2242820,Antioch,2515 Somersville Rd,Antioch,CA,94509,https://locations.99only.com/ca/antioch/discount-store-228.html,38.0002186,-121.8385581,California,99 Cents Only,2024-03-14
+2242697,Silverlake,3600 W. Sunset Blvd,Los Angeles,CA,90026,https://locations.99only.com/ca/losangeles/discount-store-83.html,34.08999,-118.27736,California,99 Cents Only,2024-03-14
+2242680,Los Angeles - Washington,422 E. Washington Blvd,Los Angeles,CA,90015,https://locations.99only.com/ca/losangeles/discount-store-62.html,34.0287877,-118.2611832,California,99 Cents Only,2024-03-14
+2242681,Sunset,5270 Sunset Blvd,Los Angeles,CA,90027,https://locations.99only.com/ca/losangeles/discount-store-63.html,34.0976862,-118.3050067,California,99 Cents Only,2024-03-14
+2242670,Los Angeles - North Broadway,2606 North Broadway,Los Angeles,CA,90031,https://locations.99only.com/ca/losangeles/discount-store-51.html,34.0732892,-118.2153355,California,99 Cents Only,2024-03-14
+2242938,Crenshaw,3060 Crenshaw Blvd,Los Angeles,CA,90016,https://locations.99only.com/ca/losangeles/discount-store-394.html,34.0259197,-118.3347939,California,99 Cents Only,2024-03-14
+2242698,La Brea,852 N. La Brea Ave,Los Angeles,CA,90038,https://locations.99only.com/ca/losangeles/discount-store-84.html,34.0868782,-118.3437293,California,99 Cents Only,2024-03-14
+2242651,Fairfax,601 S. Fairfax Ave,Los Angeles,CA,90036,https://locations.99only.com/ca/losangeles/discount-store-16.html,34.0646705,-118.3616753,California,99 Cents Only,2024-03-14
+2242661,Wilshire,6121 Wilshire Blvd,Los Angeles,CA,90048,https://locations.99only.com/ca/losangeles/discount-store-41.html,34.0634111,-118.3623813,California,99 Cents Only,2024-03-14
+2242677,East LA,3451 Whittier Blvd,Los Angeles,CA,90023,https://locations.99only.com/ca/losangeles/discount-store-59.html,34.0272627,-118.1990224,California,99 Cents Only,2024-03-14
+2242656,Huntington Park - Pacific,6124 Pacific Blvd,Huntington Park,CA,90255,https://locations.99only.com/ca/huntingtonpark/discount-store-33.html,33.9846696,-118.224805,California,99 Cents Only,2024-03-14
+2242660,Lankershim,4304 Lankershim Blvd,North Hollywood,CA,91602,https://locations.99only.com/ca/northhollywood/discount-store-40.html,34.1485731,-118.3644056,California,99 Cents Only,2024-03-14
+2242978,Livermore,1490 Railroad Ave,Livermore,CA,94550,https://locations.99only.com/ca/livermore/discount-store-447.html,37.6814209,-121.7783869,California,99 Cents Only,2024-03-14
+2242936,Inglewood - Crenshaw,8451 Crenshaw Blvd,Inglewood,CA,90305,https://locations.99only.com/ca/inglewood/discount-store-392.html,33.9613371,-118.3272915,California,99 Cents Only,2024-03-14
+2242673,Glendale,6401 San Fernando Rd,Glendale,CA,91201,https://locations.99only.com/ca/glendale/discount-store-54.html,34.1659314,-118.2887022,California,99 Cents Only,2024-03-14
+2242664,Walnut Park,2566 E. Florence Ave,Huntington Park,CA,90255,https://locations.99only.com/ca/huntingtonpark/discount-store-44.html,33.9740068,-118.2258445,California,99 Cents Only,2024-03-14
+2242650,Maywood,6161 Atlantic Blvd,Maywood,CA,90270,https://locations.99only.com/ca/maywood/discount-store-14.html,33.981915,-118.1867752,California,99 Cents Only,2024-03-14
+2242736,Lynwood,10821 Long Beach Blvd.,Lynwood,CA,90262,https://locations.99only.com/ca/lynwood/discount-store-130.html,33.9346308,-118.2136905,California,99 Cents Only,2024-03-14
+2242684,Downey,11916 Paramount Blvd,Downey,CA,90241,https://locations.99only.com/ca/downey/discount-store-67.html,33.9340483,-118.1438117,California,99 Cents Only,2024-03-14
+2242977,Via Campo,2809 Via Campo,Montebello,CA,90640,https://locations.99only.com/ca/montebello/discount-store-445.html,34.0314707,-118.1279549,California,99 Cents Only,2024-03-14
+2242646,Montebello,1521 Beverly Blvd,Montebello,CA,90640,https://locations.99only.com/ca/montebello/discount-store-3.html,34.018947,-118.1155139,California,99 Cents Only,2024-03-14
+2242909,Inglewood - Imperial,2762 Imperial Hwy,Inglewood,CA,90303,https://locations.99only.com/ca/inglewood/discount-store-364.html,33.9309083,-118.3244133,California,99 Cents Only,2024-03-14
+2242919,Ladera Heights,6921 La Tijera Blvd,Los Angeles,CA,90045,https://locations.99only.com/ca/losangeles/discount-store-375.html,33.9760305,-118.3742313,California,99 Cents Only,2024-03-14
+2242720,Burbank,2407 W. Victory Blvd,Burbank,CA,91506,https://locations.99only.com/ca/burbank/discount-store-111.html,34.1848362,-118.3375197,California,99 Cents Only,2024-03-14
+2242732,Highland Park,6235 York Blvd,Los Angeles,CA,90042,https://locations.99only.com/ca/losangeles/discount-store-125.html,34.1152155,-118.1827535,California,99 Cents Only,2024-03-14
+2242783,Alhambra,2810 W. Alhambra Rd,Alhambra,CA,91801,https://locations.99only.com/ca/alhambra/discount-store-184.html,34.0978818,-118.1545993,California,99 Cents Only,2024-03-14
+2242648,Pasadena,442 N. Los Robles Ave,Pasadena,CA,91101,https://locations.99only.com/ca/pasadena/discount-store-7.html,34.1534338,-118.1404085,California,99 Cents Only,2024-03-14
+2242652,Hawthorne - 118th Street,11811 Hawthorne Blvd,Hawthorne,CA,90250,https://locations.99only.com/ca/hawthorne/discount-store-19.html,33.9270991,-118.3537639,California,99 Cents Only,2024-03-14
+2242795,Gardena,15505 S. Normandie Ave,Gardena,CA,90247,https://locations.99only.com/ca/gardena/discount-store-199.html,33.8898509,-118.3006263,California,99 Cents Only,2024-03-14
+2242900,Long Beach - Willow,1851 Willow St,Long Beach,CA,90755,https://locations.99only.com/ca/longbeach/discount-store-355.html,33.8051803,-118.1690426,California,99 Cents Only,2024-03-14
+2242835,Long Beach - 20th Street,2012 Long Beach Blvd,Long Beach,CA,90806,https://locations.99only.com/ca/longbeach/discount-store-251.html,33.7943944,-118.1886032,California,99 Cents Only,2024-03-14
+2242772,Long Beach - Orange Street,1190 E. Carson Street,Long Beach,CA,90806,https://locations.99only.com/ca/longbeach/discount-store-173.html,33.8317687,-118.1770865,California,99 Cents Only,2024-03-14
+2242676,Lakewood,4929 Woodruff Ave,Lakewood,CA,90713,https://locations.99only.com/ca/lakewood/discount-store-58.html,33.8471723,-118.1167655,California,99 Cents Only,2024-03-14
+2242666,Hawaiian Gardens,12125 Carson Blvd,Hawaiian Gardens,CA,90716,https://locations.99only.com/ca/hawaiiangardens/discount-store-46.html,33.8319694,-118.0733103,California,99 Cents Only,2024-03-14
+2242873,Artesia,11732 South St,Artesia,CA,90701,https://locations.99only.com/ca/artesia/discount-store-321.html,33.8580158,-118.0835475,California,99 Cents Only,2024-03-14
+2242851,Wilmington,401 W Anaheim St,Wilmington,CA,90744,https://locations.99only.com/ca/wilmington/discount-store-283.html,33.7800475,-118.2673385,California,99 Cents Only,2024-03-14
+2242745,Garden Grove - Valley View,12431 Valley View St,Garden Grove,CA,92845,https://locations.99only.com/ca/gardengrove/discount-store-141.html,33.7817379,-118.0309592,California,99 Cents Only,2024-03-14
+2242958,Cypress - Walker,9937 Walker St,Cypress,CA,90630,https://locations.99only.com/ca/cypress/discount-store-418.html,33.8180747,-118.0380947,California,99 Cents Only,2024-03-14
+2242947,Paramount - Downey,15727 Downey Ave,Paramount,CA,90723,https://locations.99only.com/ca/paramount/discount-store-406.html,33.8904001,-118.1527755,California,99 Cents Only,2024-03-14
+2242662,Woodman,8625 Woodman Ave,Arleta,CA,91331,https://locations.99only.com/ca/arleta/discount-store-42.html,34.2269624,-118.4342909,California,99 Cents Only,2024-03-14
+2242819,North Hills,8723 Sepulveda Blvd,North Hills,CA,91343,https://locations.99only.com/ca/northhills/discount-store-227.html,34.2290839,-118.4689832,California,99 Cents Only,2024-03-14
+2242695,Van Nuys,6755 Van Nuys Blvd,Van Nuys,CA,91405,https://locations.99only.com/ca/vannuys/discount-store-81.html,34.1937993,-118.4489349,California,99 Cents Only,2024-03-14
+2242679,North Hollywood,12711 Sherman Way,North Hollywood,CA,91605,https://locations.99only.com/ca/northhollywood/discount-store-61.html,34.2023039,-118.4098295,California,99 Cents Only,2024-03-14
+2242940,Sun Valley,8437 Laurel Canyon Blvd,Sun Valley,CA,91352,https://locations.99only.com/ca/sunvalley/discount-store-399.html,34.224329,-118.3982821,California,99 Cents Only,2024-03-14
+2242868,North Hollywood - Laurel Canyon,6639 Laurel Canyon Bl,North Hollywood,CA,91606,https://locations.99only.com/ca/northhollywood/discount-store-315.html,34.1913992,-118.3974605,California,99 Cents Only,2024-03-14
+2243029,Van Nuys,16107 Victory Blvd,Van Nuys,CA,91406,https://locations.99only.com/ca/vannuys/discount-store-450.html,34.1870079,-118.4850363,California,99 Cents Only,2024-03-14
+2242674,Granada Hill,17040 Chatsworth St,Granada Hills,CA,91344,https://locations.99only.com/ca/granadahills/discount-store-55.html,34.2639928,-118.5038219,California,99 Cents Only,2024-03-14
+2242821,North Hollywood - Victory,10911 Victory Boulevard,North Hollywood,CA,91506,https://locations.99only.com/ca/northhollywood/discount-store-230.html,34.187210,-118.368960,California,99 Cents Only,2024-03-14
+2242667,Reseda,18215 Sherman Way,Reseda,CA,91335,https://locations.99only.com/ca/reseda/discount-store-47.html,34.2020416,-118.5299114,California,99 Cents Only,2024-03-14
+2242906,West LA - Pico,11040 W Pico Blvd,Los Angeles,CA,90064,https://locations.99only.com/ca/losangeles/discount-store-361.html,34.0373645,-118.4333762,California,99 Cents Only,2024-03-14
+2242657,Santa Monica,2801 Pico Blvd,Santa Monica,CA,90405,https://locations.99only.com/ca/santamonica/discount-store-35.html,34.024626,-118.4604925,California,99 Cents Only,2024-03-14
+2242863,Redondo Beach,2701 Manhattan Beach Blvd,Redondo Beach,CA,90278,https://locations.99only.com/ca/redondobeach/discount-store-310.html,33.8885475,-118.3624299,California,99 Cents Only,2024-03-14
+2242842,Torrance - 182nd Street,1820 W. 182nd St,Torrance,CA,90504,https://locations.99only.com/ca/torrance/discount-store-266.html,33.8645752,-118.3100422,California,99 Cents Only,2024-03-14
+2242921,El Segundo,300 Richmond St,El Segundo,CA,90245,https://locations.99only.com/ca/elsegundo/discount-store-377.html,33.919876,-118.4169601,California,99 Cents Only,2024-03-14
+2242683,South Bay,5130 190th St,Torrance,CA,90504,https://locations.99only.com/ca/torrance/discount-store-65.html,33.8581561,-118.3669202,California,99 Cents Only,2024-03-14
+2242659,Santa Ana,1514 N. Main St,Santa Ana,CA,92701,https://locations.99only.com/ca/santaana/discount-store-39.html,33.7583434,-117.8678641,California,99 Cents Only,2024-03-14
+2242928,Tustin,13721 Newport Ave,Tustin,CA,92780,https://locations.99only.com/ca/tustin/discount-store-384.html,33.7418548,-117.8203528,California,99 Cents Only,2024-03-14
+2242889,Orange,789 South Tustin St,Orange,CA,92866,https://locations.99only.com/ca/orange/discount-store-341.html,33.7755169,-117.8350749,California,99 Cents Only,2024-03-14
+2242963,Tustin - Red Hill,14551 Red Hill Ave,Tustin,CA,92780,https://locations.99only.com/ca/tustin/discount-store-425.html,33.7276803,-117.8226253,California,99 Cents Only,2024-03-14
+2242692,Santa Ana - Bristol,2311 S. Bristol St,Santa Ana,CA,92704,https://locations.99only.com/ca/santaana/discount-store-77.html,33.7154917,-117.8844042,California,99 Cents Only,2024-03-14
+2242647,Garden Grove,13061 Harbor Blvd,Garden Grove,CA,92843,https://locations.99only.com/ca/gardengrove/discount-store-5.html,33.7733897,-117.9216506,California,99 Cents Only,2024-03-14
+2242663,Garden Grove - Westminster,9920 Westminster Ave,Garden Grove,CA,92844,https://locations.99only.com/ca/gardengrove/discount-store-43.html,33.7583988,-117.9557452,California,99 Cents Only,2024-03-14
+2242712,Anaheim - State College,2270 E. Lincoln Ave,Anaheim,CA,92806,https://locations.99only.com/ca/anaheim/discount-store-100.html,33.8378922,-117.8848486,California,99 Cents Only,2024-03-14
+2242709,Huntington Beach - Brookhurst,19050 Brookhurst St,Huntington Beach,CA,92646,https://locations.99only.com/ca/huntingtonbeach/discount-store-97.html,33.6858654,-117.9529066,California,99 Cents Only,2024-03-14
+2242954,Anaheim - Euclid,910 S. Euclid St,Anaheim,CA,92802,https://locations.99only.com/ca/anaheim/discount-store-414.html,33.819685,-117.9406554,California,99 Cents Only,2024-03-14
+2242690,Huntington Beach - Beach Blvd,16672 Beach Blvd,Huntington Beach,CA,92647,https://locations.99only.com/ca/huntingtonbeach/discount-store-75.html,33.7203397,-117.9875915,California,99 Cents Only,2024-03-14
+2242916,Garden Grove - Magnolia,11072 Magnolia St.,Garden Grove,CA,92841,https://locations.99only.com/ca/gardengrove/discount-store-372.html,33.8021122,-117.9742314,California,99 Cents Only,2024-03-14
+2242756,Bellflower,14317 Clark Ave,Bellflower,CA,90706,https://locations.99only.com/ca/bellflower/discount-store-152.html,33.9032882,-118.1352177,California,99 Cents Only,2024-03-14
+2242908,Santa Fe Springs,11550 Telegraph Rd,Santa Fe Springs,CA,90670,https://locations.99only.com/ca/santafesprings/discount-store-363.html,33.9471863,-118.087486,California,99 Cents Only,2024-03-14
+2242668,Harbor City,955 W. Sepulveda Blvd,Harbor City,CA,90502,https://locations.99only.com/ca/harborcity/discount-store-48.html,33.8117539,-118.2913055,California,99 Cents Only,2024-03-14
+2242665,San Pedro,938 S. Gaffey St,San Pedro,CA,90731,https://locations.99only.com/ca/sanpedro/discount-store-45.html,33.7354332,-118.2920819,California,99 Cents Only,2024-03-14
+2242922,Carson,619 E. University Dr,Carson,CA,90746,https://locations.99only.com/ca/carson/discount-store-378.html,33.859165,-118.2651789,California,99 Cents Only,2024-03-14
+2242864,Lomita,2159-2167 Pacific Coast Hwy,Lomita,CA,90717,https://locations.99only.com/ca/lomita/discount-store-311.html,33.7902843,-118.3188894,California,99 Cents Only,2024-03-14
+2243014,Houston - Bellaire,5800 Bellaire Suite 1-101,Houston,TX,77081,https://locations.99only.com/tx/houston/discount-store-2860.html,29.7062061,-95.4839459,Texas,99 Cents Only,2024-03-14
+2242981,Houston - Westheimer,7639 Westheimer,Houston,TX,77063,https://locations.99only.com/tx/houston/discount-store-2802.html,29.7363451,-95.5039196,Texas,99 Cents Only,2024-03-14
+2242990,Houston - Gessner,"8700 S. Gessner, #100",Houston,TX,77074,https://locations.99only.com/tx/houston/discount-store-2816.html,29.685835,-95.5296598,Texas,99 Cents Only,2024-03-14
+2243026,Houston - Stella Link,9333 Stella Link Rd,Houston,TX,77025,https://locations.99only.com/tx/houston/discount-store-2883.html,29.6805473,-95.4392094,Texas,99 Cents Only,2024-03-14
+2242999,Houston - Chimney Rock,11320 Chimney Rock Rd,Houston,TX,77035,https://locations.99only.com/tx/houston/discount-store-2836.html,29.657472,-95.4780269,Texas,99 Cents Only,2024-03-14
+2242988,Houston - Bissonnet,11873 Bissonnet St,Houston,TX,77099,https://locations.99only.com/tx/houston/discount-store-2814.html,29.6741349,-95.5860573,Texas,99 Cents Only,2024-03-14
+2242998,Houston - Westheimer/Hwy 6,14310 Westheimer Rd,Houston,TX,77077,https://locations.99only.com/tx/houston/discount-store-2835.html,29.736546,-95.6411278,Texas,99 Cents Only,2024-03-14
+2243017,Houston - Tidwell,5550 N. Fwy,Houston,TX,77076,https://locations.99only.com/tx/houston/discount-store-2874.html,29.8480935,-95.3927726,Texas,99 Cents Only,2024-03-14
+2243010,Houston - Lawndale,7061 Lawndale St,Houston,TX,77023,https://locations.99only.com/tx/houston/discount-store-2852.html,29.7182918,-95.2957943,Texas,99 Cents Only,2024-03-14
+2243008,Houston - Hobby,8330 Broadway St,Houston,TX,77061,https://locations.99only.com/tx/houston/discount-store-2850.html,29.6708081,-95.2779809,Texas,99 Cents Only,2024-03-14
+2242701,Woodland Hills,19836 Ventura Blvd,Woodland Hills,CA,91364,https://locations.99only.com/ca/woodlandhills/discount-store-87.html,34.1715144,-118.5642234,California,99 Cents Only,2024-03-14
+2242654,Pico Rivera,9535 Whittier Blvd,Pico Rivera,CA,90660,https://locations.99only.com/ca/picorivera/discount-store-31.html,33.99783,-118.0746821,California,99 Cents Only,2024-03-14
+2242710,Pasadena - Colorado,1720 E. Colorado Blvd,Pasadena,CA,91106,https://locations.99only.com/ca/pasadena/discount-store-98.html,34.1456324,-118.1151025,California,99 Cents Only,2024-03-14
+2242653,Temple City,9565 Las Tunas Dr,Temple City,CA,91780,https://locations.99only.com/ca/templecity/discount-store-28.html,34.1068232,-118.0616297,California,99 Cents Only,2024-03-14
+2242686,Arcadia,140 E. Duarte Rd,Arcadia,CA,91006,https://locations.99only.com/ca/arcadia/discount-store-69.html,34.1299324,-118.026568,California,99 Cents Only,2024-03-14
+2242671,El Monte,11114 Ramona Blvd,El Monte,CA,91731,https://locations.99only.com/ca/elmonte/discount-store-52.html,34.0726051,-118.0309592,California,99 Cents Only,2024-03-14
+2242844,San Jose,1915 W. San Carlos St,San Jose,CA,95128,https://locations.99only.com/ca/sanjose/discount-store-270.html,37.3237555,-121.9292671,California,99 Cents Only,2024-03-14
+2242816,Gilroy,260 East 10th St,Gilroy,CA,95020,https://locations.99only.com/ca/gilroy/discount-store-224.html,37.0001673,-121.5619227,California,99 Cents Only,2024-03-14
+2242969,Tracy - Grant Line,2888 W Grant Line Rd,Tracy,CA,95304,https://locations.99only.com/ca/tracy/discount-store-433.html,37.7523169,-121.4695184,California,99 Cents Only,2024-03-14
+2242784,Tracy,1320 W. 11th St,Tracy,CA,95376,https://locations.99only.com/ca/tracy/discount-store-185.html,37.7391972,-121.4422254,California,99 Cents Only,2024-03-14
+2242853,San Diego - Market Street,2611 Market Street,San Diego,CA,92101,https://locations.99only.com/ca/sandiego/discount-store-287.html,32.7112935,-117.1377935,California,99 Cents Only,2024-03-14
+2242805,San Diego - Marketplace,265 Marketplace Ave,San Diego,CA,92113,https://locations.99only.com/ca/sandiego/discount-store-212.html,32.7029596,-117.1000473,California,99 Cents Only,2024-03-14
+2242748,San Diego - University,5931 University Ave,San Diego,CA,92115,https://locations.99only.com/ca/sandiego/discount-store-144.html,32.7494904,-117.0692488,California,99 Cents Only,2024-03-14
+2242713,National City,1320 Highland Ave,National City,CA,91950,https://locations.99only.com/ca/nationalcity/discount-store-101.html,32.6730826,-117.0977238,California,99 Cents Only,2024-03-14
+2242754,La Mesa,7908 El Cajon Blvd,La Mesa,CA,91941,https://locations.99only.com/ca/lamesa/discount-store-150.html,32.7700679,-117.0269048,California,99 Cents Only,2024-03-14
+2242746,San Diego - Clairemont,4140 Clairemont Mesa Blvd,San Diego,CA,92117,https://locations.99only.com/ca/sandiego/discount-store-142.html,32.830411,-117.2022827,California,99 Cents Only,2024-03-14
+2242858,El Cajon - Fletcher,2320 Fletcher Pkwy,El Cajon,CA,92020,https://locations.99only.com/ca/elcajon/discount-store-293.html,32.8032086,-116.9960035,California,99 Cents Only,2024-03-14
+2242975,Chula Vista - 3rd Ave,1030 3rd Ave,Chula Vista,CA,91911,https://locations.99only.com/ca/chulavista/discount-store-443.html,32.6154852,-117.0715014,California,99 Cents Only,2024-03-14
+2242955,Santee - Mission Gorge,9751 Mission Gorge Rd,Santee,CA,92071,https://locations.99only.com/ca/santee/discount-store-415.html,32.8372428,-116.9851502,California,99 Cents Only,2024-03-14
+2242689,San Diego,1862 Palm Ave,San Diego,CA,92154,https://locations.99only.com/ca/sandiego/discount-store-73.html,32.5846273,-117.0934743,California,99 Cents Only,2024-03-14
+2243004,Dallas - Live Oak,4500 Live Oak St,Dallas,TX,75204,https://locations.99only.com/tx/dallas/discount-store-2845.html,32.7991208,-96.7755859,Texas,99 Cents Only,2024-03-14
+2243005,Dallas - Bruton,9009 Bruton Rd,Dallas,TX,75217,https://locations.99only.com/tx/dallas/discount-store-2847.html,32.7491775,-96.6662969,Texas,99 Cents Only,2024-03-14
+2243000,Dallas - Preston,13444 Preston Rd,Dallas,TX,75240,https://locations.99only.com/tx/dallas/discount-store-2837.html,32.9313022,-96.8025304,Texas,99 Cents Only,2024-03-14
+2242993,Garland - Centerville,950 W. Centerville Rd,Garland,TX,75041,https://locations.99only.com/tx/garland/discount-store-2821.html,32.8585714,-96.643602,Texas,99 Cents Only,2024-03-14
+2243019,Mesquite,3330 N. Galloway Ave,Mesquite,TX,75150,https://locations.99only.com/tx/mesquite/discount-store-2876.html,32.8118397,-96.6090008,Texas,99 Cents Only,2024-03-14
+2243022,Duncanville,410 E.Camp Wisdom Rd,Duncanville,TX,75116,https://locations.99only.com/tx/duncanville/discount-store-2879.html,32.661428,-96.902027,Texas,99 Cents Only,2024-03-14
+2242994,Garland - Buckingham,1445 West Buckingham Road,Garland,TX,75040,https://locations.99only.com/tx/garland/discount-store-2822.html,32.9317057,-96.6498884,Texas,99 Cents Only,2024-03-14
+2243002,Dallas - Frankford,3632 Frankford Rd,Dallas,TX,75287,https://locations.99only.com/tx/dallas/discount-store-2840.html,32.9956878,-96.8542551,Texas,99 Cents Only,2024-03-14
+2243027,Arlington,908 E. Pioneer Pkwy,Arlington,TX,76010,https://locations.99only.com/tx/arlington/discount-store-2885.html,32.7069288,-97.0964924,Texas,99 Cents Only,2024-03-14
+2242992,Colleyville,3901 Colleyville Blvd,Colleyville,TX,76034,https://locations.99only.com/tx/colleyville/discount-store-2818.html,32.8668879,-97.171029,Texas,99 Cents Only,2024-03-14
+2242944,S. El Monte - Durfee,2035 Durfee St,South El Monte,CA,91733,https://locations.99only.com/ca/southelmonte/discount-store-403.html,34.0472292,-118.0298762,California,99 Cents Only,2024-03-14
+2242688,Baldwin Park,14151 Ramona Blvd,Baldwin Park,CA,91706,https://locations.99only.com/ca/baldwinpark/discount-store-72.html,34.0867895,-117.9653546,California,99 Cents Only,2024-03-14
+2242675,La Puente,1617 Hacienda Blvd,La Puente,CA,91744,https://locations.99only.com/ca/lapuente/discount-store-56.html,34.0494561,-117.9473251,California,99 Cents Only,2024-03-14
+2242885,Duarte,1327 E. Huntington Dr,Duarte,CA,91010,https://locations.99only.com/ca/duarte/discount-store-336.html,34.1405291,-117.9758786,California,99 Cents Only,2024-03-14
+2242791,Hacienda Heights,1120 Hacienda Blvd,Hacienda Heights,CA,91745,https://locations.99only.com/ca/haciendaheights/discount-store-193.html,34.0098399,-117.9619338,California,99 Cents Only,2024-03-14
+2242888,Covina - Azusa Avenue,543 N. Azusa Ave,Covina,CA,91722,https://locations.99only.com/ca/covina/discount-store-340.html,34.0897646,-117.9089722,California,99 Cents Only,2024-03-14
+2242965,West Covina - Amar,1516 Amar Rd,West Covina,CA,91792,https://locations.99only.com/ca/westcovina/discount-store-428.html,34.0294197,-117.9141443,California,99 Cents Only,2024-03-14
+2242655,Norwalk,14029 Pioneer Blvd,Norwalk,CA,90650,https://locations.99only.com/ca/norwalk/discount-store-32.html,33.9035403,-118.0834163,California,99 Cents Only,2024-03-14
+2242941,Canoga Park - DeSoto,6820 De Soto Ave,Canoga Park,CA,91303,https://locations.99only.com/ca/canogapark/discount-store-400.html,34.1946272,-118.5872752,California,99 Cents Only,2024-03-14
+2242970,Northridge - Tampa,8750 Tampa Ave,Northridge,CA,91324,https://locations.99only.com/ca/northridge/discount-store-435.html,34.2296496,-118.5527188,California,99 Cents Only,2024-03-14
+2242672,Fullerton,1845 N. Orangethorpe Ave,Fullerton,CA,92833,https://locations.99only.com/ca/fullerton/discount-store-53.html,33.859812,-117.961748,California,99 Cents Only,2024-03-14
+2242786,Fullerton - Chapman,2450 E. Chapman Ave,Fullerton,CA,92831,https://locations.99only.com/ca/fullerton/discount-store-187.html,33.8731389,-117.8878242,California,99 Cents Only,2024-03-14
+2242966,Norwalk - NW,12301 Norwalk Blvd,Norwalk,CA,90650,https://locations.99only.com/ca/norwalk/discount-store-429.html,33.9197218,-118.0739505,California,99 Cents Only,2024-03-14
+2242802,Salinas,102 E. Laurel Dr,Salinas,CA,93906,https://locations.99only.com/ca/salinas/discount-store-208.html,36.6982184,-121.6508584,California,99 Cents Only,2024-03-14
+2242711,San Ysidro,121 Louisiana Ave,San Ysidro,CA,92173,https://locations.99only.com/ca/sanysidro/discount-store-99.html,32.5498475,-117.0381238,California,99 Cents Only,2024-03-14
+2242773,Costa Mesa,2180 Harbor Blvd,Costa Mesa,CA,92627,https://locations.99only.com/ca/costamesa/discount-store-174.html,33.6538034,-117.9188358,California,99 Cents Only,2024-03-14
+2242729,Placentia,1260 E. Yorba Linda Blvd,Placentia,CA,92870,https://locations.99only.com/ca/placentia/discount-store-122.html,33.8874163,-117.8400246,California,99 Cents Only,2024-03-14
+2242669,Huntington Beach,15962 Springdale  St,Huntington Beach,CA,92649,https://locations.99only.com/ca/huntingtonbeach/discount-store-49.html,33.7307532,-118.0225998,California,99 Cents Only,2024-03-14
+2242658,La Mirada,14540 E. Leffingwell Rd,La Mirada,CA,90638,https://locations.99only.com/ca/lamirada/discount-store-37.html,33.9241108,-118.0213534,California,99 Cents Only,2024-03-14
+2243003,Houston - Little York,10702 Easttex Fwy,Houston,TX,77093,https://locations.99only.com/tx/houston/discount-store-2843.html,29.8680007,-95.3273248,Texas,99 Cents Only,2024-03-14
+2242996,Houston - Almeda Genoa,10220 Almeda Genoa Road,Houston,TX,77034,https://locations.99only.com/tx/houston/discount-store-2830.html,29.6267414,-95.2324589,Texas,99 Cents Only,2024-03-14
+2242983,Houston - Hwy 6/Keith,4980 N. Highway 6,Houston,TX,77084,https://locations.99only.com/tx/houston/discount-store-2804.html,29.8497982,-95.6445628,Texas,99 Cents Only,2024-03-14
+2243020,Katy - Fry,3111 N. Fry Rd,Katy,TX,77449,https://locations.99only.com/tx/katy/discount-store-2877.html,29.8168612,-95.7210974,Texas,99 Cents Only,2024-03-14
+2242836,Brea - Imperial,820 East Imperial Hwy,Brea,CA,92821,https://locations.99only.com/ca/brea/discount-store-253.html,33.9126688,-117.8927565,California,99 Cents Only,2024-03-14
+2242813,Brea,1261 W. Central Ave,Brea,CA,92821,https://locations.99only.com/ca/brea/discount-store-221.html,33.9326429,-117.9171194,California,99 Cents Only,2024-03-14
+2242962,Sylmar - Gladstone,13237 Gladstone Ave,Sylmar,CA,91342,https://locations.99only.com/ca/sylmar/discount-store-422.html,34.3114001,-118.4297275,California,99 Cents Only,2024-03-14
+2242987,Houston - Bammel,13749 State Hwy 249,Houston,TX,77086,https://locations.99only.com/tx/houston/discount-store-2813.html,29.9195,-95.4957244,Texas,99 Cents Only,2024-03-14
+2242781,Phoenix - Thomas,7620 W. Thomas Rd,Phoenix,AZ,85033,https://locations.99only.com/az/phoenix/discount-store-182.html,33.4816262,-112.2217582,Arizona,99 Cents Only,2024-03-14
+2242817,Phoenix - 51st Avenue,5010 W. Indian School Rd,Phoenix,AZ,85031,https://locations.99only.com/az/phoenix/discount-store-225.html,33.4963304,-112.1665875,Arizona,99 Cents Only,2024-03-14
+2242777,Glendale (AZ),5340 W. Glendale Ave,Glendale,AZ,85301,https://locations.99only.com/az/glendale/discount-store-178.html,33.5393014,-112.1741811,Arizona,99 Cents Only,2024-03-14
+2242917,Laveen,3610 W. Baseline Rd,Laveen,AZ,85339,https://locations.99only.com/az/laveen/discount-store-373.html,33.3791032,-112.136408,Arizona,99 Cents Only,2024-03-14
+2242724,Phoenix - Indian School,1240 Indian School Rd,Phoenix,AZ,85014,https://locations.99only.com/az/phoenix/discount-store-116.html,33.4950599,-112.0549959,Arizona,99 Cents Only,2024-03-14
+2242737,Phoenix - Peoria,3518 W. Peoria Ave,Phoenix,AZ,85029,https://locations.99only.com/az/phoenix/discount-store-131.html,33.5833307,-112.1354766,Arizona,99 Cents Only,2024-03-14
+2242850,Phoenix - Central Avenue,6018 S. Central Ave,Phoenix,AZ,85042,https://locations.99only.com/az/phoenix/discount-store-282.html,33.3916291,-112.0747811,Arizona,99 Cents Only,2024-03-14
+2242822,Goodyear,13540 W. Van Buren St,Goodyear,AZ,85338,https://locations.99only.com/az/goodyear/discount-store-231.html,33.450992,-112.3508209,Arizona,99 Cents Only,2024-03-14
+2242815,Phoenix - 12th Street,7830 N. 12th St,Phoenix,AZ,85020,https://locations.99only.com/az/phoenix/discount-store-223.html,33.5520185,-112.0583493,Arizona,99 Cents Only,2024-03-14
+2242812,Peoria,8375 W. Thunderbird Rd,Peoria,AZ,85381,https://locations.99only.com/az/peoria/discount-store-220.html,33.6085347,-112.23924,Arizona,99 Cents Only,2024-03-14
+2242914,Mira Mesa,10765 Camino Ruiz Blvd,San Diego,CA,92126,https://locations.99only.com/ca/sandiego/discount-store-369.html,32.9147336,-117.142744,California,99 Cents Only,2024-03-14
+2242721,Rowland Heights,19033 E. Colima Rd,Rowland Heights,CA,91748,https://locations.99only.com/ca/rowlandheights/discount-store-112.html,33.9882724,-117.8882887,California,99 Cents Only,2024-03-14
+2242960,Glendora - Barranca,1788 South Barranca Ave,Glendora,CA,91740,https://locations.99only.com/ca/glendora/discount-store-420.html,34.107246,-117.88059,California,99 Cents Only,2024-03-14
+2242691,Whittier,15345 Whittier Blvd,Whittier,CA,90603,https://locations.99only.com/ca/whittier/discount-store-76.html,33.946775,-117.9987547,California,99 Cents Only,2024-03-14
+2242887,Santa Barbara,424 State St,Santa Barbara,CA,93101,https://locations.99only.com/ca/santabarbara/discount-store-339.html,34.4166803,-119.6946927,California,99 Cents Only,2024-03-14
+2242731,Ventura,2709 E. Main St,Ventura,CA,93003,https://locations.99only.com/ca/ventura/discount-store-124.html,34.2743125,-119.2601473,California,99 Cents Only,2024-03-14
+2242806,Ventura - Victoria,1425 South Victoria Ave,Ventura,CA,93003,https://locations.99only.com/ca/ventura/discount-store-213.html,34.2616976,-119.2132275,California,99 Cents Only,2024-03-14
+2242699,Port Hueneme,2551 N. Ventura Rd,Port Hueneme,CA,93041,https://locations.99only.com/ca/porthueneme/discount-store-85.html,34.1768977,-119.1962057,California,99 Cents Only,2024-03-14
+2242726,Oxnard - Ventura Blvd,1855 E. Ventura Blvd,Oxnard,CA,93036,https://locations.99only.com/ca/oxnard/discount-store-118.html,34.2264501,-119.1522743,California,99 Cents Only,2024-03-14
+2242925,Oxnard - Rose,4917 S Rose Ave,Oxnard,CA,93033,https://locations.99only.com/ca/oxnard/discount-store-381.html,34.1558542,-119.1607333,California,99 Cents Only,2024-03-14
+2242722,Camarillo,301 Arneil Rd,Camarillo,CA,93010,https://locations.99only.com/ca/camarillo/discount-store-113.html,34.2197879,-119.0408558,California,99 Cents Only,2024-03-14
+2242743,Lompoc,1309 N. H St,Lompoc,CA,93436,https://locations.99only.com/ca/lompoc/discount-store-139.html,34.659016,-120.4592677,California,99 Cents Only,2024-03-14
+2242694,El Cajon,1766 E. Main St,El Cajon,CA,92021,https://locations.99only.com/ca/elcajon/discount-store-80.html,32.814494,-116.9183625,California,99 Cents Only,2024-03-14
+2242825,Fresno - McKinley,1520 N. First St,Fresno,CA,93703,https://locations.99only.com/ca/fresno/discount-store-235.html,36.7636663,-119.7716468,California,99 Cents Only,2024-03-14
+2242798,Fresno - Kings Canyon,4979 Kings Canyon Blvd,Fresno,CA,93727,https://locations.99only.com/ca/fresno/discount-store-204.html,36.7375294,-119.7287478,California,99 Cents Only,2024-03-14
+2242845,Fresno - West Avenue,3110 N. West Ave,Fresno,CA,93705,https://locations.99only.com/ca/fresno/discount-store-271.html,36.7786092,-119.8257353,California,99 Cents Only,2024-03-14
+2242742,Clovis,770 W. Shaw Ave,Clovis,CA,93612,https://locations.99only.com/ca/clovis/discount-store-138.html,36.8069864,-119.7256821,California,99 Cents Only,2024-03-14
+2242757,Fresno,6036 N. First St,Fresno,CA,93710,https://locations.99only.com/ca/fresno/discount-store-154.html,36.8237524,-119.7703802,California,99 Cents Only,2024-03-14
+2242879,Fresno - West Shaw,4170 West Shaw Ave,Fresno,CA,93722,https://locations.99only.com/ca/fresno/discount-store-328.html,36.809113,-119.8666043,California,99 Cents Only,2024-03-14
+2242894,Sanger,2680 Jensen Ave,Sanger,CA,93657,https://locations.99only.com/ca/sanger/discount-store-348.html,36.7072754,-119.5759846,California,99 Cents Only,2024-03-14
+2242789,Madera,1333 Country Club Dr,Madera,CA,93638,https://locations.99only.com/ca/madera/discount-store-191.html,36.9783259,-120.0720301,California,99 Cents Only,2024-03-14
+2242855,Hanford,550 N. 11th Ave,Hanford,CA,93230,https://locations.99only.com/ca/hanford/discount-store-290.html,36.3297834,-119.6569786,California,99 Cents Only,2024-03-14
+2242758,Visalia,2701 S. Mooney Blvd,Visalia,CA,93277,https://locations.99only.com/ca/visalia/discount-store-155.html,36.306585,-119.3153242,California,99 Cents Only,2024-03-14
+2242933,Lake Forest - Muirlands,22631 Lake Forest Dr,Lake Forest,CA,92630,https://locations.99only.com/ca/lakeforest/discount-store-389.html,33.6347094,-117.7110376,California,99 Cents Only,2024-03-14
+2242878,Foothill Ranch,26542 Towne Centre Dr,Foothill Ranch,CA,92610,https://locations.99only.com/ca/foothillranch/discount-store-327.html,33.6793335,-117.6679603,California,99 Cents Only,2024-03-14
+2242794,Lake Forest,23829 El Toro Rd,Lake Forest,CA,92630,https://locations.99only.com/ca/lakeforest/discount-store-198.html,33.6169432,-117.7064554,California,99 Cents Only,2024-03-14
+2242747,Las Vegas - Charleston,1155 E. Charleston Blvd,Las Vegas,NV,89104,https://locations.99only.com/nv/lasvegas/discount-store-143.html,36.1595051,-115.1376854,Nevada,99 Cents Only,2024-03-14
+2242715,Las Vegas - Nellis,45 North Nellis Blvd,Las Vegas,NV,89110,https://locations.99only.com/nv/lasvegas/discount-store-105.html,36.1606265,-115.0636512,Nevada,99 Cents Only,2024-03-14
+2242930,Las Vegas - Cheyenne,3258 N. Las Vegas Blvd,Las Vegas,NV,89115,https://locations.99only.com/nv/lasvegas/discount-store-386.html,36.2162334,-115.0930257,Nevada,99 Cents Only,2024-03-14
+2242706,Las Vegas - Flamingo,1325 E. Flamingo Rd,Las Vegas,NV,89119,https://locations.99only.com/nv/lasvegas/discount-store-94.html,36.1139553,-115.1361104,Nevada,99 Cents Only,2024-03-14
+2242792,Las Vegas - Decatur,1200 S. Decatur Blvd,Las Vegas,NV,89102,https://locations.99only.com/nv/lasvegas/discount-store-195.html,36.1573953,-115.2072944,Nevada,99 Cents Only,2024-03-14
+2242859,Las Vegas - Ocotillo,2419 E. Tropicana,Las Vegas,NV,89121,https://locations.99only.com/nv/lasvegas/discount-store-294.html,36.0987103,-115.1182634,Nevada,99 Cents Only,2024-03-14
+2242725,Las Vegas - Craig,"1435 W. Craig Rd., Ste 3",North Las Vegas,NV,89032,https://locations.99only.com/nv/northlasvegas/discount-store-117.html,36.2378222,-115.1607472,Nevada,99 Cents Only,2024-03-14
+2242738,Las Vegas - Tropicana,4910 Tropicana Ave,Las Vegas,NV,89121,https://locations.99only.com/nv/lasvegas/discount-store-132.html,36.1010066,-115.0656895,Nevada,99 Cents Only,2024-03-14
+2242883,Las Vegas - Rancho,3141 N. Rancho Dr,Las Vegas,NV,89130,https://locations.99only.com/nv/lasvegas/discount-store-333.html,36.216137,-115.2133427,Nevada,99 Cents Only,2024-03-14
+2242728,Las Vegas - Spring Mountain,7239 Spring Mountain Rd.,Las Vegas,NV,89117,https://locations.99only.com/nv/lasvegas/discount-store-120.html,36.1253256,-115.2497704,Nevada,99 Cents Only,2024-03-14
+2242703,Azusa,307 N. Citrus Ave,Azusa,CA,91702,https://locations.99only.com/ca/azusa/discount-store-90.html,34.126854,-117.8914864,California,99 Cents Only,2024-03-14
+2242890,San Dimas,602 W Arrow Hwy,San Dimas,CA,91773,https://locations.99only.com/ca/sandimas/discount-store-343.html,34.1035935,-117.8189998,California,99 Cents Only,2024-03-14
+2242818,Pomona - Arrow Hwy,602 East Arrow Hwy,Pomona,CA,91767,https://locations.99only.com/ca/pomona/discount-store-226.html,34.0895682,-117.7386659,California,99 Cents Only,2024-03-14
+2242696,Pomona,606 E. Holt Ave,Pomona,CA,91767,https://locations.99only.com/ca/pomona/discount-store-82.html,34.0618117,-117.7390783,California,99 Cents Only,2024-03-14
+2242752,Montclair,5200 Moreno St,Montclair,CA,91763,https://locations.99only.com/ca/montclair/discount-store-148.html,34.0899963,-117.6919748,California,99 Cents Only,2024-03-14
+2242682,Ontario,430 N. Mountain Ave,Ontario,CA,91761,https://locations.99only.com/ca/ontario/discount-store-64.html,34.067906,-117.6692436,California,99 Cents Only,2024-03-14
+2242753,Chino,12170 Central Avenue,Chino,CA,91762,https://locations.99only.com/ca/chino/discount-store-149.html,34.0321859,-117.6912075,California,99 Cents Only,2024-03-14
+2242716,Upland,229 E. Foothill Blvd,Upland,CA,91786,https://locations.99only.com/ca/upland/discount-store-107.html,34.10706,-117.6481019,California,99 Cents Only,2024-03-14
+2242979,Ontario - S. Euclid,1714 S. Euclid Ave,Ontario,CA,91762,https://locations.99only.com/ca/ontario/discount-store-448.html,34.0425342,-117.65201,California,99 Cents Only,2024-03-14
+2242708,Chino Hills,4050 Chino Hills Pkwy,Chino,CA,91710,https://locations.99only.com/ca/chino/discount-store-96.html,33.9838544,-117.7161695,California,99 Cents Only,2024-03-14
+2242920,Ontario - Grove,2522 S. Grove Ave,Ontario,CA,91761,https://locations.99only.com/ca/ontario/discount-store-376.html,34.0276995,-117.6286386,California,99 Cents Only,2024-03-14
+2242760,Las Vegas - Lake Mead,7470 W. Lakemead Blvd,Las Vegas,NV,89128,https://locations.99only.com/nv/lasvegas/discount-store-159.html,36.1974586,-115.2569943,Nevada,99 Cents Only,2024-03-14
+2242804,Las Vegas - Beltway,4920 S. Fort Apache Rd,Las Vegas,NV,89148,https://locations.99only.com/nv/lasvegas/discount-store-211.html,36.0992136,-115.2958896,Nevada,99 Cents Only,2024-03-14
+2242870,Poway,12369 Poway Rd,Poway,CA,92064,https://locations.99only.com/ca/poway/discount-store-318.html,32.9509348,-117.0632228,California,99 Cents Only,2024-03-14
+2242874,Phoenix - 43rd Avenue,4240 W. Bell Rd,Glendale,AZ,85308,https://locations.99only.com/az/glendale/discount-store-322.html,33.6408339,-112.1505305,Arizona,99 Cents Only,2024-03-14
+2242797,Phoenix - Tatum,12805 N. Tatum Blvd,Phoenix,AZ,85032,https://locations.99only.com/az/phoenix/discount-store-203.html,33.6021495,-111.9765435,Arizona,99 Cents Only,2024-03-14
+2242769,Sacramento - Elkhorn,4319 Elkhorn Blvd,Sacramento,CA,95842,https://locations.99only.com/ca/sacramento/discount-store-168.html,38.69561,-121.3625614,California,99 Cents Only,2024-03-14
+2242956,Citrus Heights,7424 Greenback Ln,Citrus Heights,CA,95610,https://locations.99only.com/ca/citrusheights/discount-store-416.html,38.6775318,-121.2911319,California,99 Cents Only,2024-03-14
+2242774,El Camino,2224 El Camino Ave,Sacramento,CA,95821,https://locations.99only.com/ca/sacramento/discount-store-175.html,38.6098144,-121.4137419,California,99 Cents Only,2024-03-14
+2242881,Roseville - Douglas,1617 Douglas Blvd Suite 2,Roseville,CA,95661,https://locations.99only.com/ca/roseville/discount-store-331.html,38.7454703,-121.2642908,California,99 Cents Only,2024-03-14
+2242761,Rancho Cordova,2868 Zinfandel Dr,Rancho Cordova,CA,95670,https://locations.99only.com/ca/ranchocordova/discount-store-160.html,38.594089,-121.2892796,California,99 Cents Only,2024-03-14
+2242929,Roseville - Fairway,10261 Fairway Dr,Roseville,CA,95678,https://locations.99only.com/ca/roseville/discount-store-385.html,38.787622,-121.2816807,California,99 Cents Only,2024-03-14
+2242782,Northgate,2351 Northgate Blvd,Sacramento,CA,95833,https://locations.99only.com/ca/sacramento/discount-store-183.html,38.6093295,-121.4772173,California,99 Cents Only,2024-03-14
+2242803,Sacramento - Folsom,8387 Folsom Blvd,Sacramento,CA,95826,https://locations.99only.com/ca/sacramento/discount-store-209.html,38.5488821,-121.3953446,California,99 Cents Only,2024-03-14
+2242950,Folsom - Riley,1012 Riley St,Folsom,CA,95630,https://locations.99only.com/ca/folsom/discount-store-409.html,38.6705358,-121.168512,California,99 Cents Only,2024-03-14
+2242827,Sacramento - Stockton,5930 Stockton Blvd,Sacramento,CA,95824,https://locations.99only.com/ca/sacramento/discount-store-237.html,38.5184594,-121.4412433,California,99 Cents Only,2024-03-14
+2242918,Las Vegas - Blue Diamond,3835 Blue Diamond Rd,Las Vegas,NV,89139,https://locations.99only.com/nv/lasvegas/discount-store-374.html,36.0384333,-115.1909852,Nevada,99 Cents Only,2024-03-14
+2242961,Las Vegas - Eastern / Warm Springs,7380 S. Eastern Ave,Las Vegas,NV,89123,https://locations.99only.com/nv/lasvegas/discount-store-421.html,36.055626,-115.1167462,Nevada,99 Cents Only,2024-03-14
+2242771,Henderson - Marks,520 Marks St. #C,Henderson,NV,89014,https://locations.99only.com/nv/henderson/discount-store-171.html,36.0599995,-115.0355707,Nevada,99 Cents Only,2024-03-14
+2242891,Henderson - Boulder,716 S Boulder Hwy,Henderson,NV,89015,https://locations.99only.com/nv/henderson/discount-store-344.html,36.0309305,-114.9690215,Nevada,99 Cents Only,2024-03-14
+2242751,Las Vegas - Eastern,9230 S. Eastern Ave,Henderson,NV,89052,https://locations.99only.com/nv/henderson/discount-store-147.html,36.0216502,-115.1169315,Nevada,99 Cents Only,2024-03-14
+2242982,Katy - Mason,21961 Katy Fwy,Katy,TX,77450,https://locations.99only.com/tx/katy/discount-store-2803.html,29.7816724,-95.7531051,Texas,99 Cents Only,2024-03-14
+2242974,Los Baños - Pacheco,1209 W Pacheco Blvd,Los Baños,CA,93635,https://locations.99only.com/ca/losbanos/discount-store-441.html,37.0562804,-120.8715159,California,99 Cents Only,2024-03-14
+2242897,Sacramento - Florin,4440 Florin Rd,Sacramento,CA,95823,https://locations.99only.com/ca/sacramento/discount-store-352.html,38.4947732,-121.4530276,California,99 Cents Only,2024-03-14
+2242949,Escondido - Parkway,385 N. Escondido Blvd,Escondido,CA,92025,https://locations.99only.com/ca/escondido/discount-store-408.html,33.1221254,-117.0873532,California,99 Cents Only,2024-03-14
+2242985,Houston - Jones,10787 Jones Rd,Houston,TX,77065,https://locations.99only.com/tx/houston/discount-store-2809.html,29.9306017,-95.5864676,Texas,99 Cents Only,2024-03-14
+2243007,San Antonio - Basse West,3025 West Ave,San Antonio,TX,78201,https://locations.99only.com/tx/sanantonio/discount-store-2849.html,29.4880414,-98.5268744,Texas,99 Cents Only,2024-03-14
+2243013,San Antonio - Callaghan,4350 Callaghan  Rd,San Antonio,TX,78228,https://locations.99only.com/tx/sanantonio/discount-store-2859.html,29.467531,-98.6011286,Texas,99 Cents Only,2024-03-14
+2243011,San Antonio - Dellcrest,1864 S. WW White Rd,San Antonio,TX,78220,https://locations.99only.com/tx/sanantonio/discount-store-2855.html,29.3997877,-98.4041595,Texas,99 Cents Only,2024-03-14
+2243006,San Antonio - Walzem,"5464 Walzem Rd, Suite 3",San Antonio,TX,78218,https://locations.99only.com/tx/sanantonio/discount-store-2848.html,29.5086978,-98.3833912,Texas,99 Cents Only,2024-03-14
+2243001,San Antonio - Thousand Oaks Drive,2942 Thousand Oaks Dr,San Antonio,TX,78247,https://locations.99only.com/tx/sanantonio/discount-store-2839.html,29.5752471,-98.4402716,Texas,99 Cents Only,2024-03-14
+2242904,Thousand Oaks,950 E. Avenida de los Arboles,Thousand Oaks,CA,91360,https://locations.99only.com/ca/thousandoaks/discount-store-359.html,34.2151787,-118.8615986,California,99 Cents Only,2024-03-14
+2242807,Simi Valley - Los Angeles Ave,1293B Los Angeles Ave,Simi Valley,CA,93065,https://locations.99only.com/ca/simivalley/discount-store-214.html,34.2732522,-118.7752754,California,99 Cents Only,2024-03-14
+2242832,Vista,705 E. Vista Way,Vista,CA,92084,https://locations.99only.com/ca/vista/discount-store-244.html,33.2070565,-117.2353684,California,99 Cents Only,2024-03-14
+2242862,San Marcos,155 S. Rancho Sante Fe Rd,San Marcos,CA,92078,https://locations.99only.com/ca/sanmarcos/discount-store-307.html,33.1470846,-117.1988015,California,99 Cents Only,2024-03-14
+2242707,Oceanside,1036 Mission Ave,Oceanside,CA,92054,https://locations.99only.com/ca/oceanside/discount-store-95.html,33.1997705,-117.3753268,California,99 Cents Only,2024-03-14
+2242957,Escondido - Ash,415 North Ash St,Escondido,CA,92027,https://locations.99only.com/ca/escondido/discount-store-417.html,33.1306917,-117.0682834,California,99 Cents Only,2024-03-14
+2242902,Escondido - Valley,2010 E. Valley Pkwy,Escondido,CA,92027,https://locations.99only.com/ca/escondido/discount-store-357.html,33.1386301,-117.051733,California,99 Cents Only,2024-03-14
+2242884,Temecula,40355 Winchester Rd,Temecula,CA,92591,https://locations.99only.com/ca/temecula/discount-store-334.html,33.5332584,-117.1517315,California,99 Cents Only,2024-03-14
+2242733,Murrieta,25270 Madison St,Murrieta,CA,92562,https://locations.99only.com/ca/murrieta/discount-store-127.html,33.554828,-117.1971669,California,99 Cents Only,2024-03-14
+2243018,Houston - Greens,251 W Greens Rd,Houston,TX,77067,https://locations.99only.com/tx/houston/discount-store-2875.html,29.9479219,-95.4215699,Texas,99 Cents Only,2024-03-14
+2243015,Houston - FM 1960,4849 FM1960 W,Houston,TX,77069,https://locations.99only.com/tx/houston/discount-store-2872.html,29.9841328,-95.5036449,Texas,99 Cents Only,2024-03-14
+2243024,Humble - FM 1960,216 FM 1960,Humble,TX,77338,https://locations.99only.com/tx/humble/discount-store-2881.html,30.0027296,-95.2657502,Texas,99 Cents Only,2024-03-14
+2242971,Fairfield - N. Texas,2525 N. Texas Street Ste B,Fairfield,CA,94533,https://locations.99only.com/ca/fairfield/discount-store-436.html,38.2752533,-122.0359767,California,99 Cents Only,2024-03-14
+2242785,San Clemente,55 Via Pico Plz,San Clemente,CA,92672,https://locations.99only.com/ca/sanclemente/discount-store-186.html,33.4360264,-117.62002,California,99 Cents Only,2024-03-14
+2242719,Rancho Cucamonga,9640 Baseline Rd,Rancho Cucamonga,CA,91701,https://locations.99only.com/ca/ranchocucamonga/discount-store-110.html,34.1225466,-117.5949356,California,99 Cents Only,2024-03-14
+2242952,Moreno Valley - Cottonwood,22985 Cottonwood Ave,Moreno Valley,CA,92553,https://locations.99only.com/ca/morenovalley/discount-store-412.html,33.9237294,-117.261641,California,99 Cents Only,2024-03-14
+2242700,Moreno Valley,24899 Alessandro Blvd,Moreno Valley,CA,92553,https://locations.99only.com/ca/morenovalley/discount-store-86.html,33.915925,-117.2277432,California,99 Cents Only,2024-03-14
+2242946,Moreno Valley - Ironwood,23920 Ironwood Ave,Moreno Valley,CA,92557,https://locations.99only.com/ca/morenovalley/discount-store-405.html,33.9474688,-117.2454257,California,99 Cents Only,2024-03-14
+2242869,Moreno Valley - Day Street,12530 Day St,Moreno Valley,CA,92553,https://locations.99only.com/ca/morenovalley/discount-store-317.html,33.9382192,-117.2780031,California,99 Cents Only,2024-03-14
+2242714,Riverside,3477 Arlington Ave,Riverside,CA,92506,https://locations.99only.com/ca/riverside/discount-store-104.html,33.9471529,-117.3867102,California,99 Cents Only,2024-03-14
+2242829,Colton,1080 S. Mount Vernon Ave,Colton,CA,92324,https://locations.99only.com/ca/colton/discount-store-240.html,34.0514468,-117.3067374,California,99 Cents Only,2024-03-14
+2242780,Redlands,1678 W. Redlands Blvd,Redlands,CA,92373,https://locations.99only.com/ca/redlands/discount-store-181.html,34.0637032,-117.2120547,California,99 Cents Only,2024-03-14
+2242685,San Bernardino,975-A South E. St,San Bernardino,CA,92408,https://locations.99only.com/ca/sanbernardino/discount-store-68.html,34.0833877,-117.2926861,California,99 Cents Only,2024-03-14
+2242892,Colton - La Cadena,1481 N. La Cadena Dr,Colton,CA,92324,https://locations.99only.com/ca/colton/discount-store-345.html,34.0846836,-117.3153239,California,99 Cents Only,2024-03-14
+2242740,Riverside - Magnolia,9915 Magnolia Ave,Riverside,CA,92503,https://locations.99only.com/ca/riverside/discount-store-134.html,33.9170068,-117.45518,California,99 Cents Only,2024-03-14
+2242989,Pasadena (TX),4100 Fairmont Pkwy,Pasadena,TX,77504,https://locations.99only.com/tx/pasadena/discount-store-2815.html,29.6497639,-95.1818248,Texas,99 Cents Only,2024-03-14
+2242986,Houston - Wallisville,5809 E. Sam Houston Pkwy,Houston,TX,77049,https://locations.99only.com/tx/houston/discount-store-2810.html,29.81008,-95.16641,Texas,99 Cents Only,2024-03-14
+2242765,Scottsdale - Thomas,7919 E. Thomas Rd.,Scottsdale,AZ,85251,https://locations.99only.com/az/scottsdale/discount-store-164.html,33.478899,-111.9096963,Arizona,99 Cents Only,2024-03-14
+2242739,Tempe - Southern,790 E. Southern Ave,Tempe,AZ,85282,https://locations.99only.com/az/tempe/discount-store-133.html,33.393727,-111.9286812,Arizona,99 Cents Only,2024-03-14
+2242767,Phoenix - Bell,2315 E. Bell Rd,Phoenix,AZ,85022,https://locations.99only.com/az/phoenix/discount-store-166.html,33.6390459,-112.0322671,Arizona,99 Cents Only,2024-03-14
+2242801,Glendale - 67th Avenue,20165 N. 67th Ave,Glendale,AZ,85308,https://locations.99only.com/az/glendale/discount-store-207.html,33.6649594,-112.2016522,Arizona,99 Cents Only,2024-03-14
+2242734,Bakersfield - Ming,4200 Ming Ave,Bakersfield,CA,93309,https://locations.99only.com/ca/bakersfield/discount-store-128.html,35.3401801,-119.0499362,California,99 Cents Only,2024-03-14
+2242750,Bakersfield - White Lane,1501 White Ln,Bakersfield,CA,93307,https://locations.99only.com/ca/bakersfield/discount-store-146.html,35.3163797,-119.0195333,California,99 Cents Only,2024-03-14
+2242838,Bakersfield - Olive,1121 Olive Dr,Bakersfield,CA,93308,https://locations.99only.com/ca/bakersfield/discount-store-258.html,35.4112479,-119.0446289,California,99 Cents Only,2024-03-14
+2242735,Bakersfield - Mt. Vernon,2682 Mt. Vernon Ave,Bakersfield,CA,93306,https://locations.99only.com/ca/bakersfield/discount-store-129.html,35.3962627,-118.9690569,California,99 Cents Only,2024-03-14
+2242972,Bakersfield - Niles,3815 Niles St,Bakersfield,CA,93306,https://locations.99only.com/ca/bakersfield/discount-store-438.html,35.3754766,-118.9413217,California,99 Cents Only,2024-03-14
+2242937,Bakersfield - Centennial,8200 Centennial Plaza Way,Bakersfield,CA,93312,https://locations.99only.com/ca/bakersfield/discount-store-393.html,35.4019233,-119.0938989,California,99 Cents Only,2024-03-14
+2242943,Wasco - Hwy 46,1304 Hwy 46,Wasco,CA,93280,https://locations.99only.com/ca/wasco/discount-store-402.html,35.6023111,-119.3416308,California,99 Cents Only,2024-03-14
+2242882,Delano,626 Cecil Ave,Delano,CA,93215,https://locations.99only.com/ca/delano/discount-store-332.html,35.775536,-119.250747,California,99 Cents Only,2024-03-14
+2242841,Stockton - March Lane,1449 W. March Ln,Stockton,CA,95207,https://locations.99only.com/ca/stockton/discount-store-264.html,37.9897927,-121.3233346,California,99 Cents Only,2024-03-14
+2242776,Stockton - Hammer Lane,1120 E. Hammer Ln,Stockton,CA,95210,https://locations.99only.com/ca/stockton/discount-store-177.html,38.0193696,-121.2978613,California,99 Cents Only,2024-03-14
+2242759,Lodi,300 W. Kettleman Ln,Lodi,CA,95240,https://locations.99only.com/ca/lodi/discount-store-157.html,38.1141564,-121.2773447,California,99 Cents Only,2024-03-14
+2242866,Modesto - McHenry,2205 McHenry Ave,Modesto,CA,95350,https://locations.99only.com/ca/modesto/discount-store-313.html,37.6752558,-120.995429,California,99 Cents Only,2024-03-14
+2242766,Ceres,1450 E. Hatch Rd,Modesto,CA,95351,https://locations.99only.com/ca/modesto/discount-store-165.html,37.6079937,-120.9709164,California,99 Cents Only,2024-03-14
+2243025,Fort Worth - Alta Mere,455 Sherry Ln,Fort Worth,TX,76114,https://locations.99only.com/tx/fortworth/discount-store-2882.html,32.7520975,-97.428418,Texas,99 Cents Only,2024-03-14
+2242995,Fort Worth,6732 Camp Bowie Blvd,Fort Worth,TX,76116,https://locations.99only.com/tx/fortworth/discount-store-2823.html,32.722308,-97.4338275,Texas,99 Cents Only,2024-03-14
+2242964,Mesa - Gilbert,1045 S. Gilbert Rd,Mesa,AZ,85204,https://locations.99only.com/az/mesa/discount-store-426.html,33.3960107,-111.786898,Arizona,99 Cents Only,2024-03-14
+2242861,Gilbert,750 N. Gilbert Rd,Gilbert,AZ,85233,https://locations.99only.com/az/gilbert/discount-store-306.html,33.3636775,-111.7925806,Arizona,99 Cents Only,2024-03-14
+2242749,Mesa - Country Club,1120 S. Country Club Dr,Mesa,AZ,85210,https://locations.99only.com/az/mesa/discount-store-145.html,33.3949085,-111.8418819,Arizona,99 Cents Only,2024-03-14
+2242959,Mesa - Stapley,2009 N Stapley Dr,Mesa,AZ,85203,https://locations.99only.com/az/mesa/discount-store-419.html,33.4521072,-111.8038526,Arizona,99 Cents Only,2024-03-14
+2242764,Mesa - Main,4433 E. Main St,Mesa,AZ,85205,https://locations.99only.com/az/mesa/discount-store-163.html,33.4141798,-111.7351861,Arizona,99 Cents Only,2024-03-14
+2242768,Chandler,1996 N. Alma School Rd,Chandler,AZ,85224,https://locations.99only.com/az/chandler/discount-store-167.html,33.334679,-111.8608643,Arizona,99 Cents Only,2024-03-14
+2242875,Mesa - Power,2070 S. Power Rd,Mesa,AZ,85208,https://locations.99only.com/az/mesa/discount-store-324.html,33.3782064,-111.6879976,Arizona,99 Cents Only,2024-03-14
+2242932,Scottsdale - Indian Bend,8950 E. Talking Stick Way,Scottsdale,AZ,85250,https://locations.99only.com/az/scottsdale/discount-store-388.html,33.5403989,-111.8892201,Arizona,99 Cents Only,2024-03-14
+2242910,Rancho Cucamonga - Foothill,10848 Foothill Blvd,Rancho Cucamonga,CA,91730,https://locations.99only.com/ca/ranchocucamonga/discount-store-365.html,34.1078664,-117.5682032,California,99 Cents Only,2024-03-14
+2242787,Turlock,701 N. Golden State Blvd,Turlock,CA,95380,https://locations.99only.com/ca/turlock/discount-store-188.html,37.4992757,-120.8515991,California,99 Cents Only,2024-03-14
+2242857,Atwater,1870 Bellevue Rd,Atwater,CA,95301,https://locations.99only.com/ca/atwater/discount-store-292.html,37.3592954,-120.6129345,California,99 Cents Only,2024-03-14
+2242755,Merced,1111 Olive Ave,Merced,CA,95348,https://locations.99only.com/ca/merced/discount-store-151.html,37.3203868,-120.4876936,California,99 Cents Only,2024-03-14
+2242763,Porterville,825 W. Henderson Ave,Porterville,CA,93257,https://locations.99only.com/ca/porterville/discount-store-162.html,36.0791738,-119.0357186,California,99 Cents Only,2024-03-14
+2242901,San Bernardino - Waterman,1003 N. Waterman Ave.,San Bernardino,CA,92410,https://locations.99only.com/ca/sanbernardino/discount-store-356.html,34.1179555,-117.2767049,California,99 Cents Only,2024-03-14
+2242826,Rialto - Baseline,212 W. Baseline Rd,Rialto,CA,92376,https://locations.99only.com/ca/rialto/discount-store-236.html,34.1227842,-117.3730776,California,99 Cents Only,2024-03-14
+2242905,San Bernardino - Rio,2028 E Highland Ave,San Bernardino,CA,92404,https://locations.99only.com/ca/sanbernardino/discount-store-360.html,34.1360529,-117.2426661,California,99 Cents Only,2024-03-14
+2242730,Rialto,1321 W. Foothill Blvd,Rialto,CA,92376,https://locations.99only.com/ca/rialto/discount-store-123.html,34.1054926,-117.3969914,California,99 Cents Only,2024-03-14
+2242702,Fontana,9255 Sierra Ave,Fontana,CA,92335,https://locations.99only.com/ca/fontana/discount-store-89.html,34.086327,-117.4351739,California,99 Cents Only,2024-03-14
+2242852,Riverside - Limonite,8900 Limonite Ave,Riverside,CA,92509,https://locations.99only.com/ca/riverside/discount-store-285.html,33.9746972,-117.4777532,California,99 Cents Only,2024-03-14
+2242927,Riverside - Van Buren,6230 Van Buren Blvd,Riverside,CA,92503,https://locations.99only.com/ca/riverside/discount-store-383.html,33.9444618,-117.455547,California,99 Cents Only,2024-03-14
+2242903,Rohnert Park,415 Rohnert Park Expy,Rohnert Park,CA,94928,https://locations.99only.com/ca/rohnertpark/discount-store-358.html,38.3465129,-122.7191081,California,99 Cents Only,2024-03-14
+2242790,Vacaville,551 Peabody Rd,Vacaville,CA,95687,https://locations.99only.com/ca/vacaville/discount-store-192.html,38.3455222,-121.9722906,California,99 Cents Only,2024-03-14
+2242762,Surprise,12801 W. Bell Rd,Surprise,AZ,85374,https://locations.99only.com/az/surprise/discount-store-161.html,33.6371458,-112.3370272,Arizona,99 Cents Only,2024-03-14
+2242984,Houston - Atascocita,7130 FM 1960,Humble,TX,77346,https://locations.99only.com/tx/humble/discount-store-2806.html,29.9974294,-95.1696928,Texas,99 Cents Only,2024-03-14
+2242865,Tucson - Oracle,4144 N. Oracle Rd,Tucson,AZ,85705,https://locations.99only.com/az/tucson/discount-store-312.html,32.282403,-110.977177,Arizona,99 Cents Only,2024-03-14
+2242800,Tucson - Golf Links,7125 E. Golf Links Rd,Tucson,AZ,85730,https://locations.99only.com/az/tucson/discount-store-206.html,32.1933855,-110.8395525,Arizona,99 Cents Only,2024-03-14
+2242799,Tucson - Valencia,1675 W. Valencia Blvd,Tucson,AZ,85746,https://locations.99only.com/az/tucson/discount-store-205.html,32.1322397,-111.0006801,Arizona,99 Cents Only,2024-03-14
+2242814,Tucson - Marana,4160 W. Ina Rd,Tucson,AZ,85741,https://locations.99only.com/az/tucson/discount-store-222.html,32.3385163,-111.0544265,Arizona,99 Cents Only,2024-03-14
+2242831,Sahuarita,750 W. Calle Arroyo Sur,Sahuarita,AZ,85614,https://locations.99only.com/az/sahuarita/discount-store-243.html,31.913204,-110.9811204,Arizona,99 Cents Only,2024-03-14
+2242953,Sonora,740 Mono Way,Sonora,CA,95370,https://locations.99only.com/ca/sonora/discount-store-413.html,37.974868,-120.3715635,California,99 Cents Only,2024-03-14
+2242678,Newhall,24200 Lyons Ave,Newhall,CA,91321,https://locations.99only.com/ca/newhall/discount-store-60.html,34.3777469,-118.5587326,California,99 Cents Only,2024-03-14
+2242924,Corona - McKinley,450 N McKinley,Corona,CA,92879,https://locations.99only.com/ca/corona/discount-store-380.html,33.8881755,-117.5227083,California,99 Cents Only,2024-03-14
+2242968,Riverside - Magnolia / La Sierra,11160 Magnolia Ave,Riverside,CA,92505,https://locations.99only.com/ca/riverside/discount-store-431.html,33.9017776,-117.4767898,California,99 Cents Only,2024-03-14
+2242923,Eastvale,7115 Hamner Ave,Eastvale,CA,91752,https://locations.99only.com/ca/eastvale/discount-store-379.html,33.9573739,-117.5588483,California,99 Cents Only,2024-03-14
+2243028,El Paso,1000 S. Stanton Street,El Paso,TX,79901,https://locations.99only.com/tx/elpaso/discount-store-2886.html,31.7499518,-106.4828291,Texas,99 Cents Only,2024-03-14
+2242915,Menifee,26100 Newport Rd,Menifee,CA,92586,https://locations.99only.com/ca/menifee/discount-store-371.html,33.685735,-117.2047739,California,99 Cents Only,2024-03-14
+2242948,Chico - Pillsbury,2156 Pillsbury Rd,Chico,CA,95926,https://locations.99only.com/ca/chico/discount-store-407.html,39.7583904,-121.8458531,California,99 Cents Only,2024-03-14
+2242871,Yuba City,830 Colusa Ave,Yuba City,CA,95991,https://locations.99only.com/ca/yubacity/discount-store-319.html,39.1411102,-121.6281654,California,99 Cents Only,2024-03-14
+2242893,Reno,5695 S. Virginia St,Reno,NV,89502,https://locations.99only.com/nv/reno/discount-store-346.html,39.4735054,-119.7883369,Nevada,99 Cents Only,2024-03-14
+2242895,Sparks,580 E. Prater Way,Sparks,NV,89431,https://locations.99only.com/nv/sparks/discount-store-349.html,39.5430136,-119.7363603,Nevada,99 Cents Only,2024-03-14
+2242935,Carson City - William,2080 E. Williman St,Carson City,NV,89701,https://locations.99only.com/nv/carsoncity/discount-store-391.html,39.1746128,-119.7450018,Nevada,99 Cents Only,2024-03-14
+2242811,Apache Junction,3003 W. Apache Trail,Apache Junction,AZ,85120,https://locations.99only.com/az/apachejunction/discount-store-219.html,33.413779,-111.5782244,Arizona,99 Cents Only,2024-03-14
+2242991,Rosenberg,2516 Avenue H,Rosenberg,TX,77471,https://locations.99only.com/tx/rosenberg/discount-store-2817.html,29.5576739,-95.8005312,Texas,99 Cents Only,2024-03-14
+2243021,McAllen,2246 W. Nolana Ave,McAllen,TX,78504,https://locations.99only.com/tx/mcallen/discount-store-2878.html,26.2418822,-98.2386877,Texas,99 Cents Only,2024-03-14
+2243012,Harlingen,701 N. 13th St,Harlingen,TX,78550,https://locations.99only.com/tx/harlingen/discount-store-2857.html,26.199427,-97.6840756,Texas,99 Cents Only,2024-03-14
+2242926,Ramona,1326 Main St.,Ramona,CA,92065,https://locations.99only.com/ca/ramona/discount-store-382.html,33.0385202,-116.8739177,California,99 Cents Only,2024-03-14
+2242880,Valencia,23300 Valencia Blvd,Valencia,CA,91355,https://locations.99only.com/ca/valencia/discount-store-330.html,34.421452,-118.5452347,California,99 Cents Only,2024-03-14
+2242997,Conroe,1420 Loop 336,Conroe,TX,77304,https://locations.99only.com/tx/conroe/discount-store-2831.html,30.3340028,-95.4823724,Texas,99 Cents Only,2024-03-14
+2242839,Coachella,50249 Harrison St. #J,Coachella,CA,92236,https://locations.99only.com/ca/coachella/discount-store-261.html,33.6825035,-116.1822982,California,99 Cents Only,2024-03-14
+2242727,La Quinta,79840 Hwy. 111,La Quinta,CA,92253,https://locations.99only.com/ca/laquinta/discount-store-119.html,33.708845,-116.2718944,California,99 Cents Only,2024-03-14
+2242808,Palm Desert - A & B,72845 A & B Hwy 111,Palm Desert,CA,92260,https://locations.99only.com/ca/palmdesert/discount-store-216.html,33.7205202,-116.3932607,California,99 Cents Only,2024-03-14
+2242886,Palm Desert - Monterey,34660 Monterey Ave,Palm Desert,CA,92211,https://locations.99only.com/ca/palmdesert/discount-store-338.html,33.7962578,-116.3875733,California,99 Cents Only,2024-03-14
+2242840,Cathedral City,31033 Date Palm Dr,Cathedral City,CA,92234,https://locations.99only.com/ca/cathedralcity/discount-store-262.html,33.8225055,-116.4594062,California,99 Cents Only,2024-03-14
+2242976,Palm Springs,102 S Sunrise Way,Palm Springs,CA,92262,https://locations.99only.com/ca/palmsprings/discount-store-444.html,33.8225054,-116.5273654,California,99 Cents Only,2024-03-14
+2242934,Yucca Valley - 29 Palms,57980 29 Palms Hwy,Yucca Valley,CA,92284,https://locations.99only.com/ca/yuccavalley/discount-store-390.html,34.1294073,-116.3996545,California,99 Cents Only,2024-03-14
+2242717,Hemet,3385 W. Florida Ave,Hemet,CA,92545,https://locations.99only.com/ca/hemet/discount-store-108.html,33.7454323,-117.0079599,California,99 Cents Only,2024-03-14
+2242824,Lake Elsinore,18286 Collier Ave,Lake Elsinore,CA,92530,https://locations.99only.com/ca/lakeelsinore/discount-store-234.html,33.6923998,-117.33977,California,99 Cents Only,2024-03-14
+2242945,Boulder City,800 Buchanan Blvd,Boulder City,NV,89005,https://locations.99only.com/nv/bouldercity/discount-store-404.html,35.972352,-114.8467083,Nevada,99 Cents Only,2024-03-14
+2242912,Maricopa,44515 W. Edison Rd,Maricopa,AZ,85138,https://locations.99only.com/az/maricopa/discount-store-367.html,33.064366,-112.0464261,Arizona,99 Cents Only,2024-03-14
+2242778,Yucaipa,12013 5th St,Yucaipa,CA,92399,https://locations.99only.com/ca/yucaipa/discount-store-179.html,34.0350724,-117.0555029,California,99 Cents Only,2024-03-14
+2242705,Victorville,14670 Seventh St,Victorville,CA,92395,https://locations.99only.com/ca/victorville/discount-store-93.html,34.5182613,-117.3127067,California,99 Cents Only,2024-03-14
+2242741,Victorville - Amargosa,12480 Amargosa Rd,Victorville,CA,92392,https://locations.99only.com/ca/victorville/discount-store-137.html,34.4779465,-117.3430092,California,99 Cents Only,2024-03-14
+2242837,Apple Valley,19201 Bear Valley Rd,Apple Valley,CA,92308,https://locations.99only.com/ca/applevalley/discount-store-254.html,34.4705034,-117.2435468,California,99 Cents Only,2024-03-14
+2242973,Apple Valley - Hwy 18,20220 Hwy 18,Apple Valley,CA,92307,https://locations.99only.com/ca/applevalley/discount-store-440.html,34.5289301,-117.2217714,California,99 Cents Only,2024-03-14
+2242907,Hesperia - Main Street,17255 Main St,Hesperia,CA,92345,https://locations.99only.com/ca/hesperia/discount-store-362.html,34.4182918,-117.2871755,California,99 Cents Only,2024-03-14
+2242849,Hesperia - Topaz,"14073 Main St., Suite 108",Hesperia,CA,92345,https://locations.99only.com/ca/hesperia/discount-store-281.html,34.4260584,-117.3567816,California,99 Cents Only,2024-03-14
+2243023,Waco,"5912 Bosque Blvd, Suite 323",Waco,TX,76710,https://locations.99only.com/tx/waco/discount-store-2880.html,31.5297336,-97.1961597,Texas,99 Cents Only,2024-03-14
+2242830,Yuma - 4th Avenue,1701 S. 4th Ave,Yuma,AZ,85364,https://locations.99only.com/az/yuma/discount-store-242.html,32.696118,-114.6235581,Arizona,99 Cents Only,2024-03-14
+2242911,Yuma - Fortuna,11274 S Fortuna Rd,Yuma,AZ,85367,https://locations.99only.com/az/yuma/discount-store-366.html,32.6679493,-114.4451353,Arizona,99 Cents Only,2024-03-14
+2242828,Calexico,401 E. 2nd St,Calexico,CA,92231,https://locations.99only.com/ca/calexico/discount-store-238.html,32.6669291,-115.4932524,California,99 Cents Only,2024-03-14
+2242939,El Centro - Danenberg,524 E. Danenberg Dr,El Centro,CA,92243,https://locations.99only.com/ca/elcentro/discount-store-395.html,32.7669565,-115.518951,California,99 Cents Only,2024-03-14
+2242896,Santa Maria - Broadway,1627 N. Broadway,Santa Maria,CA,93458,https://locations.99only.com/ca/santamaria/discount-store-351.html,34.968732,-120.436583,California,99 Cents Only,2024-03-14
+2242744,Santa Maria,312 E. Betteravia Rd,Santa Maria,CA,93454,https://locations.99only.com/ca/santamaria/discount-store-140.html,34.9207017,-120.4321264,California,99 Cents Only,2024-03-14
+2242942,San Luis Obispo,1308 Madonna Rd,San Luis Obispo,CA,93405,https://locations.99only.com/ca/sanluisobispo/discount-store-401.html,35.2580627,-120.6897691,California,99 Cents Only,2024-03-14
+2242898,Atascadero,7101 El Camino Real,Atascadero,CA,93422,https://locations.99only.com/ca/atascadero/discount-store-353.html,35.4865554,-120.6629941,California,99 Cents Only,2024-03-14
+2242687,Lancaster,44601 Valley Central Way,Lancaster,CA,93536,https://locations.99only.com/ca/lancaster/discount-store-70.html,34.6924537,-118.1736614,California,99 Cents Only,2024-03-14
+2242876,Lancaster - Avenue J,1030 E. Avenue J,Lancaster,CA,93535,https://locations.99only.com/ca/lancaster/discount-store-325.html,34.6880241,-118.111355,California,99 Cents Only,2024-03-14
+2242718,Palmdale,442 West Avenue P,Palmdale,CA,93350,https://locations.99only.com/ca/palmdale/discount-store-109.html,34.598050,-118.139060,California,99 Cents Only,2024-03-14
+2242877,Palmdale - 20th Street,38360-B 20th St E,Palmdale,CA,93550,https://locations.99only.com/ca/palmdale/discount-store-326.html,34.579026,-118.0919671,California,99 Cents Only,2024-03-14
+2242848,Tulare,1035 E. Prosperity Ave,Tulare,CA,93274,https://locations.99only.com/ca/tulare/discount-store-279.html,36.2242205,-119.3316592,California,99 Cents Only,2024-03-14
+2242856,Barstow,1308 E. Main St,Barstow,CA,92311,https://locations.99only.com/ca/barstow/discount-store-291.html,34.8949085,-117.0075921,California,99 Cents Only,2024-03-14
+2242788,Redding,2611 Hilltop Dr,Redding,CA,96002,https://locations.99only.com/ca/redding/discount-store-190.html,40.5697038,-122.3575415,California,99 Cents Only,2024-03-14
+2242931,Casa Grande,1683 E. Florence Blvd,Casa Grande,AZ,85122,https://locations.99only.com/az/casagrande/discount-store-387.html,32.8782385,-111.7153996,Arizona,99 Cents Only,2024-03-14
+2242843,El Centro,2101 Imperial Blvd,El Centro,CA,92243,https://locations.99only.com/ca/elcentro/discount-store-267.html,32.8131016,-115.567322,California,99 Cents Only,2024-03-14
+2242967,Bullhead City - Hwy 46,3699 Highway 95,Bullhead City,AZ,86442,https://locations.99only.com/az/bullheadcity/discount-store-430.html,35.0528237,-114.5918998,Arizona,99 Cents Only,2024-03-14
+2242913,Kingman,3140 Stockton Hill Rd.,Kingman,AZ,86401,https://locations.99only.com/az/kingman/discount-store-368.html,35.2152166,-114.0340271,Arizona,99 Cents Only,2024-03-14
+2242867,Lake Havasu City,1795 Kiowa Blvd,Lake Havasu,AZ,86403,https://locations.99only.com/az/lakehavasu/discount-store-314.html,34.5033378,-114.3515065,Arizona,99 Cents Only,2024-03-14
+2242980,Douglas - 5th St,204 5th St,Douglas,AZ,85607,https://locations.99only.com/az/douglas/discount-store-449.html,31.3390485,-109.5587434,Arizona,99 Cents Only,2024-03-14

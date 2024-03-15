@@ -22,10 +22,10 @@ A growing repository of data scrapers that collect location information about po
 | Home Improvement          |     1 |  2,002 |
 | Jewelry                   |     1 |    234 |
 | Pet Supplies              |     1 |    121 |
-| Retail Stores             |    18 | 63,849 |
+| Retail Stores             |    19 | 63,919 |
 | Shoes & Accessories       |     1 |    439 |
 | Specialty Foods           |     5 |   1856 |
-| **Total collected**               |    **68** | **157,650** |
+| **Total collected**               |    **69** | **158,020** |
 
 ### All the companies 
 This repo is a non-commercial exercise in data scraping practice, and it's a work in progress. I make no guarantees about the accuracy or completeness of the data.
@@ -33,6 +33,7 @@ This repo is a non-commercial exercise in data scraping practice, and it's a wor
 | Company                                                                                   | Category                  | Locations |
 | ----------------------------------------------------------------------------------------- | ------------------------- | --------: |
 | [99 Ranch Market](https://github.com/stiles/locations/tree/main/99ranch)               | Specialty Foods           |        62 |
+| [99 Cents Only](https://github.com/stiles/locations/tree/main/99-cents-only)               | Retail Stores           |        370 |
 | [Abercrombie & Fitch](https://github.com/stiles/locations/tree/main/abercrombie-fitch) | Clothing & Accessories    |       221 |
 | [Aldi](https://github.com/stiles/locations/tree/main/aldi)                             | Retail Stores             |     2,362 |
 | [Apple Stores](https://github.com/stiles/locations/tree/main/apple-stores)             | Electronics & Appliances  |       526 |
