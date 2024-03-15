@@ -1,7 +1,7 @@
 ![starbucks locations](starbucks/visuals/visualization.png)
 
 # Locations
-A growing repository of data scrapers that collect location information about popular stores, restaurants and other consumer sites **in the United States**.
+An expanding collection of data scrapers designed to gather location details on prominent stores, restaurants and other consumer destinations **across the United States**.
 
 ## Collection summary
 
@@ -28,9 +28,6 @@ A growing repository of data scrapers that collect location information about po
 | **Total collected**               |    **69** | **158,020** |
 
 ### All the companies 
-This repo is a non-commercial exercise in data scraping practice. Locations were extracted from the store lookup directories on each company’s website. The results align closely with public estimates and company statements regarding their inventory counts but remain approximate. Some locations may have been inadvertently omitted during the scraping process.
-
-
 
 | Company                                                                                   | Category                  | Locations |
 | ----------------------------------------------------------------------------------------- | ------------------------- | --------: |
@@ -102,44 +99,65 @@ This repo is a non-commercial exercise in data scraping practice. Locations were
 | [Whataburger](https://github.com/stiles/locations/tree/main/whataburger)               | Fast Food & Quick Service |     1,014 |
 | [Wienerschnitzel](https://github.com/stiles/locations/tree/main/wienerschnitzel)       | Fast Food & Quick Service |       320 |
 
-*Please [let me know](mailto:mattstiles@gmail.com) if you have questions or concerns — or if there's a company you'd like to see on this list.*
+---
+
+## Notes
+
+This repository serves as a non-commercial project to practice data scraping skills. It gets location data from the store lookup directories found on each company’s website. While the findings are consistent with public estimates and company disclosures about inventory levels, they likely aren't complete, as locations open and close and some may have been unintentionally missed in the scraping process.
+
+*Please [let me know](mailto:mattstiles@gmail.com) if you have questions or concerns — or if there's a company you'd like to see on this list.*
 
 ---
 
-## Installation
+## Use this code
 
-### Pipenv
+### Prerequisites
 
-The notebooks in this repo require Python 3.10 and Jupyer Lab. A virtual environment, such as [`pipenv`](https://pipenv.pypa.io/en/latest/), is reccommended. 
+Before you begin, ensure you have the following installed on your system:
+- Python 3.10
+- [Jupyter Lab](https://jupyter.org/install)
 
-To get stated, clone the repo and navigate into it using the terminal. 
+We recommend using a virtual environment for Python projects. For this repo, [`pipenv`](https://pipenv.pypa.io/en/latest/) is the chosen manager.
 
-Next, run `pipenv shell` to create a virual environment. 
+### Getting Started
 
-Then, run `pipenv install` to add the dependancies ([Pandas](https://pandas.pydata.org/), [Geopandas](https://geopandas.org/en/stable/), etc.) you'll need.
+Follow these steps to prepare your environment:
 
-You should be ready to work. Run `jupyter lab` to launch the browser interface.
+#### 1. **Clone the repo**
 
-### Alternative approach
+First, clone this repository to your local machine and navigate into it using your terminal:
 
-Clone repo and navigate into it using the terminal. Install a few requirements, if not already installed (assumes macOS and homebrew):
+```bash
+git clone <repository-url>
+cd <repository-name>
+```
 
-    $ brew install geos
-    $ brew install freetype
+#### 2. **Create a virtual environment**
+Inside the repository directory, initiate a virtual environment using pipenv:
 
-Create and activate virtual environment:
+```
+pipenv shell
+```
 
-    $ python3 -m venv env
-    $ source env/bin/activate
+This command creates a virtual environment and activates it.
 
-Install Rust and its package manager, Cargo. Get the latest install instructions [here](https://www.rust-lang.org/tools/install).
+#### 3. Install dependencies
 
-Install Python packages:
+Install the required dependencies, including [Pandas](https://pandas.pydata.org/), [Geopandas](https://geopandas.org/en/stable/) and others, with the following command:
 
-    $ pip install -r requirements.txt
+```
+pipenv install
+```
 
-You should be ready to work. Run `jupyter lab` to launch the browser interface.
+### Launching Jupyter Lab
 
-When finished, run `deactivate` to "leave" the virtual environment.
+With your environment set up and dependencies installed, you are ready to start working with the notebooks:
 
-You'll need to run `source env/bin/activate` each time, which is a bit more cumbersome than using pipenv.
+
+```
+jupyter lab
+```
+
+This command launches Jupyter Lab in your browser, where you can open, edit and run the notebooks.
+
+Scrape away.
