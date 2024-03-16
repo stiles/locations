@@ -16,7 +16,7 @@ An expanding collection of data scrapers designed to gather location details on 
 | Clothing & Accessories    |     3 |    620 |
 | Coffee Shops & Desserts   |     4 | 21,733 |
 | Electronics & Appliances  |     1 |    526 |
-| Fast Food & Quick Service |    19 | 60,058 |
+| Fast Food & Quick Service |    19 | 81,287 |
 | Food & Beverage           |     2 |    236 |
 | Frozen Yogurt             |     3 |    529 |
 | Home Improvement          |     1 |  2,002 |
@@ -25,7 +25,7 @@ An expanding collection of data scrapers designed to gather location details on 
 | Retail Stores             |    19 | 63,919 |
 | Shoes & Accessories       |     1 |    439 |
 | Specialty Foods           |     5 |   1856 |
-| **Total collected**               |    **70** | **166,588** |
+| **Total collected**               |    **71** | **187,817** |
 
 ### All the companies 
 
@@ -86,6 +86,7 @@ An expanding collection of data scrapers designed to gather location details on 
 | [Sephora](https://github.com/stiles/locations/tree/main/sephora)                       | Beauty Products           |     1,602 |
 | [Sonic](https://github.com/stiles/locations/tree/main/shipley-donuts)                  | Fast Food & Quick Service |     3,529 |
 | [Shipley Do-Nuts](https://github.com/stiles/locations/tree/main/sonic)                 | Coffee Shops & Desserts   |       374 |
+| [Subway](https://github.com/stiles/locations/tree/main/subway)                 | Fast Food & Quick Service   |       21,229 |
 | [Starbucks](https://github.com/stiles/locations/tree/main/starbucks)                   | Coffee Shops & Desserts   |    16,288 |
 | [Taco Bell](https://github.com/stiles/locations/tree/main/taco-bell)                   | Fast Food & Quick Service |     7,148 |
 | [TCBY](https://github.com/stiles/locations/tree/main/tcby)                             | Frozen Yogurt             |       135 |
