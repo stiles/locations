@@ -1,0 +1,555 @@
+theater_name,street,city,state,postal_code,url,latitude,longitude,state_name,brand,updated
+AMC CLASSIC Albany 16,2823 Nottingham Way,Albany,GA,31707-4010,https://www.amctheatres.com/movie-theatres/albany-ga/amc-classic-albany-16,31.62187,-84.20607,Georgia,AMC Theaters,2024-03-17
+AMC CLASSIC Albuquerque 12,3810 Las Estancias Way SW,Albuquerque,NM,87121,https://www.amctheatres.com/movie-theatres/albuquerque-nm/amc-classic-albuquerque-12,35.024249,-106.712746,New Mexico,AMC Theaters,2024-03-17
+AMC Tilghman Square 8,4608 Broadway,Allentown,PA,18104-0000,https://www.amctheatres.com/movie-theatres/allentown/amc-tilghman-square-8,40.587133,-75.5582456,Pennsylvania,AMC Theaters,2024-03-17
+AMC CLASSIC Altoona 12,234 Convention Center Drive,Duncansville,PA,16635,https://www.amctheatres.com/movie-theatres/altoona-pa/amc-classic-altoona-12,40.452223,-78.408285,Pennsylvania,AMC Theaters,2024-03-17
+AMC North Dekalb 16,2042 Lawrenceville Hwy,Decatur,GA,30033,https://www.amctheatres.com/movie-theatres/atlanta/amc-north-dekalb-16,33.806903,-84.277669,Georgia,AMC Theaters,2024-03-17
+AMC Sugarloaf Mills 18,5900 Sugarloaf Parkway,Lawrenceville,GA,30043-0000,https://www.amctheatres.com/movie-theatres/atlanta/amc-sugarloaf-mills-18,33.981351,-84.078528,Georgia,AMC Theaters,2024-03-17
+AMC Avenue Forsyth 12,350 Peachtree Pkwy,Cumming,GA,30041,https://www.amctheatres.com/movie-theatres/atlanta/amc-avenue-forsyth-12,34.154757,-84.173975,Georgia,AMC Theaters,2024-03-17
+AMC DINE-IN North Point Mall 12,4500 North Point Circle,Alpharetta,GA,30022,https://www.amctheatres.com/movie-theatres/atlanta/amc-dine-in-north-point-mall-12,34.048321,-84.296374,Georgia,AMC Theaters,2024-03-17
+AMC Phipps Plaza 14,3500 Peachtree Road N.e.,Atlanta,GA,30326,https://www.amctheatres.com/movie-theatres/atlanta/amc-phipps-plaza-14,33.852954,-84.362683,Georgia,AMC Theaters,2024-03-17
+AMC Colonial 18,825 Lawrenceville-suwanee Rd,Lawrenceville,GA,30043-5484,https://www.amctheatres.com/movie-theatres/atlanta/amc-colonial-18,33.9693232208,-84.0189974628,Georgia,AMC Theaters,2024-03-17
+AMC Madison Yards 8,975 Memorial Drive,Atlanta,GA,30316,https://www.amctheatres.com/movie-theatres/atlanta/amc-madison-yards-8,33.745322,-84.3591397,Georgia,AMC Theaters,2024-03-17
+AMC Southlake 24,7065 Mount Zion Circle,Morrow,GA,30260-0000,https://www.amctheatres.com/movie-theatres/atlanta/amc-southlake-24,33.563531,-84.328914,Georgia,AMC Theaters,2024-03-17
+AMC Barrett Commons 24,2600 Cobb Place Lane Nw,Kennesaw,GA,30144-0000,https://www.amctheatres.com/movie-theatres/atlanta/amc-barrett-commons-24,34.015629,-84.571376,Georgia,AMC Theaters,2024-03-17
+AMC Parkway Pointe 15,3101 Cobb Pkwy,Atlanta,GA,30339-3497,https://www.amctheatres.com/movie-theatres/atlanta/amc-parkway-pointe-15,33.87901129,-84.45605292,Georgia,AMC Theaters,2024-03-17
+AMC Camp Creek 14,3760 Princeton Lakes Pkwy.,Atlanta,GA,30331,https://www.amctheatres.com/movie-theatres/atlanta/amc-camp-creek-14,33.6579,-84.510653,Georgia,AMC Theaters,2024-03-17
+AMC CLASSIC Riverstone 15,5 Reinhardt College Pkwy,Canton,GA,30114,https://www.amctheatres.com/movie-theatres/atlanta/amc-classic-riverstone-15,34.250054,-84.480315,Georgia,AMC Theaters,2024-03-17
+AMC CLASSIC Cartersville 12,1129 North Tennessee St.,Cartersville,GA,30120,https://www.amctheatres.com/movie-theatres/atlanta/amc-classic-cartersville-12,34.194464,-84.796075,Georgia,AMC Theaters,2024-03-17
+AMC Conyers Crossing 16,1536 Dogwood Dr Se,Conyers,GA,30013-5041,https://www.amctheatres.com/movie-theatres/atlanta/amc-conyers-crossing-16,33.649036,-83.994619,Georgia,AMC Theaters,2024-03-17
+AMC Hiram 14,185 Metromont Rd,Hiram,GA,30141,https://www.amctheatres.com/movie-theatres/atlanta/amc-hiram-14,33.88383,-84.740113,Georgia,AMC Theaters,2024-03-17
+AMC CLASSIC LaGrange 10,201 Main St.,Lagrange,GA,30240,https://www.amctheatres.com/movie-theatres/atlanta/amc-classic-lagrange-10,33.03727,-85.031061,Georgia,AMC Theaters,2024-03-17
+AMC CLASSIC Snellville 12,1905 Scenic Hwy N,Snellville,GA,30078,https://www.amctheatres.com/movie-theatres/atlanta/amc-classic-snellville-12,33.877027,-84.014752,Georgia,AMC Theaters,2024-03-17
+AMC CLASSIC Bethlehem 12,416 Exchange Blvd,Bethlehem,GA,30620,https://www.amctheatres.com/movie-theatres/atlanta/amc-classic-bethlehem-12,33.942505,-83.739595,Georgia,AMC Theaters,2024-03-17
+AMC DINE-IN Webb Gin 11,1210 Scenic Highway,Lawrenceville,GA,30045,https://www.amctheatres.com/movie-theatres/atlanta/amc-dine-in-webb-gin-11,33.903779,-84.004243,Georgia,AMC Theaters,2024-03-17
+AMC Lakeline 9,11200 Lakeline Mall Dr,Cedar Park,TX,78613,https://www.amctheatres.com/movie-theatres/austin/amc-lakeline-9,30.470626,-97.807444,Texas,AMC Theaters,2024-03-17
+AMC DINE-IN Tech Ridge 10,12625 N Interstate Hwy 35,Austin,TX,78753,https://www.amctheatres.com/movie-theatres/austin/amc-dine-in-tech-ridge-10,30.4091234,-97.6739826,Texas,AMC Theaters,2024-03-17
+AMC Barton Creek Square 14,2901 Capital Of Texas Hwy,Austin,TX,78746-0000,https://www.amctheatres.com/movie-theatres/austin/amc-barton-creek-square-14,30.253913,-97.807167,Texas,AMC Theaters,2024-03-17
+AMC Bakersfield 6,4200 California Ave,Bakersfield,CA,93309,https://www.amctheatres.com/movie-theatres/bakersfield/amc-bakersfield-6,35.369079,-119.048243,California,AMC Theaters,2024-03-17
+AMC Columbia 14,10300 LITTLE PATUXENT PKWY,Columbia,MD,21044-3341,https://www.amctheatres.com/movie-theatres/baltimore/amc-columbia-14,39.217147,-76.863581,Maryland,AMC Theaters,2024-03-17
+AMC Annapolis Mall 11,1020 Annapolis Mall Rd,Annapolis,MD,21401,https://www.amctheatres.com/movie-theatres/baltimore/amc-annapolis-mall-11,38.98808,-76.545547,Maryland,AMC Theaters,2024-03-17
+AMC Owings Mills 17,10100 Mill Run Circle,Owings Mills,MD,21117-4228,https://www.amctheatres.com/movie-theatres/baltimore/amc-owings-mills-17,39.405019,-76.78841,Maryland,AMC Theaters,2024-03-17
+AMC Security Square 8,1717 N ROLLING RD,Baltimore,MD,21244-2409,https://www.amctheatres.com/movie-theatres/baltimore/amc-security-square-8,39.308765,-76.753199,Maryland,AMC Theaters,2024-03-17
+AMC White Marsh 16,8141 Honeygo Blvd.,Baltimore,MD,21236,https://www.amctheatres.com/movie-theatres/baltimore/amc-white-marsh-16,39.37088493,-76.46462907,Maryland,AMC Theaters,2024-03-17
+AMC CLASSIC Churchville 7,2408 Churchville Rd,Bel Air,MD,21015-1721,https://www.amctheatres.com/movie-theatres/baltimore/amc-classic-churchville-7,39.555453,-76.272181,Maryland,AMC Theaters,2024-03-17
+AMC Baton Rouge 16,16040 Hatteras Avenue,Baton Rouge,LA,70816,https://www.amctheatres.com/movie-theatres/baton-rouge/amc-baton-rouge-16,30.44032,-91.0101,Louisiana,AMC Theaters,2024-03-17
+AMC Mall of Louisiana 15,9168 Mall Of Louisiana Blvd,Baton Rouge,LA,70836,https://www.amctheatres.com/movie-theatres/baton-rouge/amc-mall-of-louisiana-15,30.38616,-91.0845,Louisiana,AMC Theaters,2024-03-17
+AMC CLASSIC Shiloh 14,1001 Shiloh Crossing Blvd.,Billings,MT,59102,https://www.amctheatres.com/movie-theatres/billings-mt/amc-classic-shiloh-14,45.751351,-108.613635,Montana,AMC Theaters,2024-03-17
+AMC CLASSIC Billings 10,2456 Central Ave,Billings,MT,59102,https://www.amctheatres.com/movie-theatres/billings-mt/amc-classic-billings-10,45.769877,-108.578573,Montana,AMC Theaters,2024-03-17
+AMC Vestal Town Square 9,2425 Vestal Parkway,Vestal,NY,13850,https://www.amctheatres.com/movie-theatres/binghamton/amc-vestal-town-square-9,42.097473751,-76.0105840879,New York,AMC Theaters,2024-03-17
+AMC Summit 16,321 Summit Blvd,Birmingham,AL,35243,https://www.amctheatres.com/movie-theatres/birmingham-al/amc-summit-16,33.451647,-86.730541,Alabama,AMC Theaters,2024-03-17
+AMC CLASSIC Lee Branch 15,801 Doug Baker Blvd.,Birmingham,AL,35242,https://www.amctheatres.com/movie-theatres/birmingham-al/amc-classic-lee-branch-15,33.405672,-86.666926,Alabama,AMC Theaters,2024-03-17
+AMC Patton Creek 15,4450 Creekside Road,Birmingham,AL,35244,https://www.amctheatres.com/movie-theatres/birmingham-al/amc-patton-creek-15,33.372675,-86.81458,Alabama,AMC Theaters,2024-03-17
+AMC DINE-IN Vestavia Hills 10,1911 Kentucky Ave,Vestavia Hills,AL,35216,https://www.amctheatres.com/movie-theatres/birmingham-al/amc-dine-in-vestavia-hills-10,33.446576,-86.793238,Alabama,AMC Theaters,2024-03-17
+AMC CLASSIC Marktplatz 10,1950 Marketplatz Center Southwest,Cullman,AL,35055,https://www.amctheatres.com/movie-theatres/birmingham-al/amc-classic-marktplatz-10,34.148951,-86.840009,Alabama,AMC Theaters,2024-03-17
+AMC CLASSIC Normal 14,201 McKnight Street,Normal,IL,61761,https://www.amctheatres.com/movie-theatres/bloomington-il/amc-classic-normal-14,40.537583,-88.98961,Illinois,AMC Theaters,2024-03-17
+AMC CLASSIC Bloomington 12,2929 W 3rd St,Bloomington,IN,47404,https://www.amctheatres.com/movie-theatres/bloomington-in/amc-classic-bloomington-12,39.164494,-86.572925,Indiana,AMC Theaters,2024-03-17
+AMC CLASSIC Columbus 12,555 Creekview Ct,Columbus,IN,47201,https://www.amctheatres.com/movie-theatres/bloomington-in/amc-classic-columbus-12,39.204568,-85.883555,Indiana,AMC Theaters,2024-03-17
+AMC Causeway 13,60 Causeway St,Boston,MA,02114,https://www.amctheatres.com/movie-theatres/boston/amc-causeway-13,42.365208,-71.06217,Massachusetts,AMC Theaters,2024-03-17
+AMC Assembly Row 12,395 Artisan Way,Somerville,MA,02145,https://www.amctheatres.com/movie-theatres/boston/amc-assembly-row-12,42.39446,-71.07914,Massachusetts,AMC Theaters,2024-03-17
+AMC South Bay Center 12,25 District Avenue,Dorchester,MA,02125,https://www.amctheatres.com/movie-theatres/boston/amc-south-bay-center-12,42.3251585,-71.0630502,Massachusetts,AMC Theaters,2024-03-17
+AMC DINE-IN Framingham 16,22 Flutie Pass,Framingham,MA,01701,https://www.amctheatres.com/movie-theatres/boston/amc-dine-in-framingham-16,42.30301,-71.390665,Massachusetts,AMC Theaters,2024-03-17
+AMC Tyngsboro 12,440 Middlesex Road,Tyngsboro,MA,01879-1070,https://www.amctheatres.com/movie-theatres/boston/amc-tyngsboro-12,42.6966269334,-71.4432441072,Massachusetts,AMC Theaters,2024-03-17
+AMC Braintree 10,121 Grandview Road,Braintree,MA,02184,https://www.amctheatres.com/movie-theatres/boston/amc-braintree-10,42.21832744,-71.03297485,Massachusetts,AMC Theaters,2024-03-17
+AMC Burlington Cinema 10,20 South Avenue,Burlington,MA,01803-4904,https://www.amctheatres.com/movie-theatres/boston/amc-burlington-cinema-10,42.480052,-71.219196,Massachusetts,AMC Theaters,2024-03-17
+AMC Dartmouth Mall 11,140 North Dartmouth Mall,North Dartmouth,MA,02747-4257,https://www.amctheatres.com/movie-theatres/boston/amc-dartmouth-mall-11,41.639449,-70.986361,Massachusetts,AMC Theaters,2024-03-17
+AMC Boston Common 19,175 Tremont St,Boston,MA,02111,https://www.amctheatres.com/movie-theatres/boston/amc-boston-common-19,42.353212,-71.06417,Massachusetts,AMC Theaters,2024-03-17
+AMC Methuen 20,90 Pleasant Valley Street,Methuen,MA,01844,https://www.amctheatres.com/movie-theatres/boston/amc-methuen-20,42.742892,-71.154267,Massachusetts,AMC Theaters,2024-03-17
+AMC Liberty Tree Mall 20,100 Independence Way,Danvers,MA,01923,https://www.amctheatres.com/movie-theatres/boston/amc-liberty-tree-mall-20,42.551452,-70.939858,Massachusetts,AMC Theaters,2024-03-17
+AMC CLASSIC Londonderry 10,16 Orchard View Drive,Londonderry,NH,03053-3366,https://www.amctheatres.com/movie-theatres/boston/amc-classic-londonderry-10,42.862705,-71.351837,New Hampshire,AMC Theaters,2024-03-17
+AMC Brick Plaza 10,3 Brick Plaza,Brick,NJ,08723,https://www.amctheatres.com/movie-theatres/brick/amc-brick-plaza-10,40.058378,-74.141137,New Jersey,AMC Theaters,2024-03-17
+AMC DINE-IN Bridgewater 7,400 Commons Way Ste 380,Bridgewater,NJ,08807-2840,https://www.amctheatres.com/movie-theatres/bridgewater/amc-dine-in-bridgewater-7,40.586458,-74.618213,New Jersey,AMC Theaters,2024-03-17
+AMC CLASSIC Rio Grande 10,4586 E US Hwy 83,Rio Grande City,TX,78582,https://www.amctheatres.com/movie-theatres/brownsville/amc-classic-rio-grande-10,26.363669,-98.792045,Texas,AMC Theaters,2024-03-17
+AMC Edinburg 18,3003 Us 281 Bus,Edinburg,TX,78539,https://www.amctheatres.com/movie-theatres/brownsville/amc-edinburg-18,26.273072,-98.156224,Texas,AMC Theaters,2024-03-17
+AMC Maple Ridge 8,4276 Maple Road,Amherst,NY,14226-0000,https://www.amctheatres.com/movie-theatres/buffalo/amc-maple-ridge-8,42.993142,-78.804652,New York,AMC Theaters,2024-03-17
+AMC Market Arcade 8,639 Main Street,Buffalo,NY,14203,https://www.amctheatres.com/movie-theatres/buffalo/amc-market-arcade-8,42.89116,-78.87198,New York,AMC Theaters,2024-03-17
+AMC Allegany 8,1875 Cinema Dr,Allegany,NY,14760,https://www.amctheatres.com/movie-theatres/buffalo/amc-allegany-8,42.080609,-78.465896,New York,AMC Theaters,2024-03-17
+AMC University Place 8,1370 E Main St,Carbondale,IL,62901,https://www.amctheatres.com/movie-theatres/carbondale/amc-university-place-8,37.736351,-89.188943,Illinois,AMC Theaters,2024-03-17
+AMC CLASSIC Illinois Centre 8,3107 Civic Circle Blvd,Marion,IL,62959,https://www.amctheatres.com/movie-theatres/carbondale/amc-classic-illinois-centre-8,37.7507376696,-88.9791707613,Illinois,AMC Theaters,2024-03-17
+AMC Northlake 14,7325 Northlake Mall Drive,Charlotte,NC,28216-0000,https://www.amctheatres.com/movie-theatres/charlotte/amc-northlake-14,35.353522,-80.850328,North Carolina,AMC Theaters,2024-03-17
+AMC Carolina Pavilion 22,9541 South Boulevard,Charlotte,NC,28273-0000,https://www.amctheatres.com/movie-theatres/charlotte/amc-carolina-pavilion-22,35.1083680321,-80.8751205548,North Carolina,AMC Theaters,2024-03-17
+AMC Concord Mills 24,8421 Concord Mills Blvd.,Concord,NC,28027-6461,https://www.amctheatres.com/movie-theatres/charlotte/amc-concord-mills-24,35.370589,-80.726156,North Carolina,AMC Theaters,2024-03-17
+AMC Park Terrace 6,4289 Park Rd,Charlotte,NC,28209,https://www.amctheatres.com/movie-theatres/charlotte/amc-park-terrace-6,35.172911,-80.850086,North Carolina,AMC Theaters,2024-03-17
+AMC Hickory 15,2000 Catawba Valley Blvd Se,Hickory,NC,28602-4149,https://www.amctheatres.com/movie-theatres/charlotte/amc-hickory-15,35.69958,-81.30369,North Carolina,AMC Theaters,2024-03-17
+AMC CLASSIC Shelby 10,2002 E Dixon Blvd,Shelby,NC,28152,https://www.amctheatres.com/movie-theatres/charlotte/amc-classic-shelby-10,35.269501,-81.482769,North Carolina,AMC Theaters,2024-03-17
+AMC CLASSIC Walnut Square 12,875 Walnut Square Boulevard,Dalton,GA,30721,https://www.amctheatres.com/movie-theatres/chattanooga-tn/amc-classic-walnut-square-12,34.761692,-84.933138,Georgia,AMC Theaters,2024-03-17
+AMC CLASSIC Battlefield 10,1100 Battlefield Pkwy,Fort Oglethorpe,GA,30742,https://www.amctheatres.com/movie-theatres/chattanooga-tn/amc-classic-battlefield-10,34.952871,-85.246349,Georgia,AMC Theaters,2024-03-17
+AMC Chattanooga 18,5080 South Ter,Chattanooga,TN,37412,https://www.amctheatres.com/movie-theatres/chattanooga-tn/amc-chattanooga-18,35.00274,-85.223705,Tennessee,AMC Theaters,2024-03-17
+AMC CLASSIC Majestic 12,311 Broad St,Chattanooga,TN,37402,https://www.amctheatres.com/movie-theatres/chattanooga-tn/amc-classic-majestic-12,35.0527,-85.31115,Tennessee,AMC Theaters,2024-03-17
+AMC CLASSIC Bradley Square 12,200 Paul Huff Park,Cleveland,TN,37312,https://www.amctheatres.com/movie-theatres/chattanooga-tn/amc-classic-bradley-square-12,35.206347,-84.847873,Tennessee,AMC Theaters,2024-03-17
+AMC CLASSIC Northgate 14,310 Northgate Mall Drive,Hixson,TN,37343,https://www.amctheatres.com/movie-theatres/chattanooga-tn/amc-classic-northgate-14,35.129433,-85.237275,Tennessee,AMC Theaters,2024-03-17
+AMC Randhurst 12,200 Randhurst Village Drive,Mt Prospect,IL,60056-1297,https://www.amctheatres.com/movie-theatres/chicago/amc-randhurst-12,42.0855554231,-87.9315537751,Illinois,AMC Theaters,2024-03-17
+"AMC River East 21, Featuring Heated AMC Signature Recliners",322 East Illinois Street,Chicago,IL,60611,https://www.amctheatres.com/movie-theatres/chicago/amc-river-east-21,41.891061,-87.619032,Illinois,AMC Theaters,2024-03-17
+AMC Norridge 6,4520 N. Harlem Avenue,Norridge,IL,60706,https://www.amctheatres.com/movie-theatres/chicago/amc-norridge-6,41.9622154,-87.8095247,Illinois,AMC Theaters,2024-03-17
+AMC DINE-IN Block 37,108 N. State Street,Chicago,IL,60602,https://www.amctheatres.com/movie-theatres/chicago/amc-dine-in-block-37,41.883403,-87.627984,Illinois,AMC Theaters,2024-03-17
+AMC South Barrington 24,175 Studio Drive,South Barrington,IL,60010,https://www.amctheatres.com/movie-theatres/chicago/amc-south-barrington-24,42.070436,-88.148578,Illinois,AMC Theaters,2024-03-17
+AMC Evanston 12,1715 Maple Ave,Evanston,IL,60201,https://www.amctheatres.com/movie-theatres/chicago/amc-evanston-12,42.048991,-87.684317,Illinois,AMC Theaters,2024-03-17
+AMC Oakbrook Center 4,300 Oakbrook Center,Oak Brook,IL,60523,https://www.amctheatres.com/movie-theatres/chicago/amc-oakbrook-center-4,41.850415,-87.952809,Illinois,AMC Theaters,2024-03-17
+AMC Oakbrook Center 12,600 Oakbrook Center,Oak Brook,IL,60523,https://www.amctheatres.com/movie-theatres/chicago/amc-oakbrook-center-12,41.852667,-87.953032,Illinois,AMC Theaters,2024-03-17
+AMC NEWCITY 14,1500 North Clybourn,Chicago,IL,60610,https://www.amctheatres.com/movie-theatres/chicago/amc-newcity-14,41.908236,-87.646738,Illinois,AMC Theaters,2024-03-17
+AMC DINE-IN Yorktown 18,80 Yorktown Shopping Center,Lombard,IL,60148,https://www.amctheatres.com/movie-theatres/chicago/amc-dine-in-yorktown-18,41.842767,-88.005286,Illinois,AMC Theaters,2024-03-17
+AMC Ford City 14,7601 South Cicero Ave,Chicago,IL,60652,https://www.amctheatres.com/movie-theatres/chicago/amc-ford-city-14,41.758241,-87.740774,Illinois,AMC Theaters,2024-03-17
+AMC DINE-IN Northbrook 14,1525 Lake Cook Road,Northbrook,IL,60062-1441,https://www.amctheatres.com/movie-theatres/chicago/amc-dine-in-northbrook-14,42.1495625124,-87.8168285179,Illinois,AMC Theaters,2024-03-17
+AMC Crestwood 18,13221 Rivercrest Drive,Crestwood,IL,60418,https://www.amctheatres.com/movie-theatres/chicago/amc-crestwood-18,41.6516111407,-87.7442271839,Illinois,AMC Theaters,2024-03-17
+AMC Chicago Ridge 6,500 Chicago Ridge Mall,Chicago Ridge,IL,60415,https://www.amctheatres.com/movie-theatres/chicago/amc-chicago-ridge-6,41.719489,-87.782532,Illinois,AMC Theaters,2024-03-17
+AMC DINE-IN 600 North Michigan 9,600 North Michigan,Chicago,IL,60611-0000,https://www.amctheatres.com/movie-theatres/chicago/amc-dine-in-600-north-michigan-9,41.892764,-87.624475,Illinois,AMC Theaters,2024-03-17
+AMC Quarry Cinemas 14,9201 63rd Street,Hodgkins,IL,60525,https://www.amctheatres.com/movie-theatres/chicago/amc-quarry-cinemas-14,41.776401,-87.859597,Illinois,AMC Theaters,2024-03-17
+AMC Streets of Woodfield 20,601 N. Martingale Rd,Schaumburg,IL,60173,https://www.amctheatres.com/movie-theatres/chicago/amc-streets-of-woodfield-20,42.039817,-88.033775,Illinois,AMC Theaters,2024-03-17
+AMC Market Square 10,2160 Sycamore Rd,Dekalb,IL,60115-2045,https://www.amctheatres.com/movie-theatres/chicago/amc-market-square-10,41.947486,-88.720969,Illinois,AMC Theaters,2024-03-17
+AMC CLASSIC Morris 10,515 Gore Rd,Morris,IL,60450-9380,https://www.amctheatres.com/movie-theatres/chicago/amc-classic-morris-10,41.38623,-88.42906,Illinois,AMC Theaters,2024-03-17
+AMC Peru Mall 8,3940 State Route 51,Peru,IL,61354-1054,https://www.amctheatres.com/movie-theatres/chicago/amc-peru-mall-8,41.357467,-89.125393,Illinois,AMC Theaters,2024-03-17
+AMC DINE-IN Rosemont 12,9701 Bryn Mawr Ave,Rosemont,IL,60018,https://www.amctheatres.com/movie-theatres/chicago/amc-dine-in-rosemont-12,41.980039,-87.86781,Illinois,AMC Theaters,2024-03-17
+AMC Galewood Crossings 14,5530 W Homer St,Chicago,IL,60639,https://www.amctheatres.com/movie-theatres/chicago/amc-galewood-crossings-14,41.9156747848,-87.7644208181,Illinois,AMC Theaters,2024-03-17
+"AMC Cicero 14, Guests under 18 must be accompanied by an adult 21 or older for movies starting at 4pm or later.",4779 W Cermak Rd,Cicero,IL,60804,https://www.amctheatres.com/movie-theatres/chicago/amc-cicero-14,41.849012,-87.742815,Illinois,AMC Theaters,2024-03-17
+AMC Lake In The Hills 12,311 N Randall Rd,Lake In The Hills,IL,60156,https://www.amctheatres.com/movie-theatres/chicago/amc-lake-in-the-hills-12,42.179978501,-88.33347666,Illinois,AMC Theaters,2024-03-17
+AMC Naperville 16,2815 Show Place Dr,Naperville,IL,60564,https://www.amctheatres.com/movie-theatres/chicago/amc-naperville-16,41.712962,-88.208925,Illinois,AMC Theaters,2024-03-17
+AMC New Lenox 14,1320 W Maple St,New Lenox,IL,60451,https://www.amctheatres.com/movie-theatres/chicago/amc-new-lenox-14,41.516403,-87.991115,Illinois,AMC Theaters,2024-03-17
+AMC Niles 12,301 Golf Mill Ctr,Niles,IL,60714,https://www.amctheatres.com/movie-theatres/chicago/amc-niles-12,42.0497760041,-87.8388037606,Illinois,AMC Theaters,2024-03-17
+AMC Village Crossing 18,7000 Carpenter Rd,Skokie,IL,60077,https://www.amctheatres.com/movie-theatres/chicago/amc-village-crossing-18,42.008586,-87.761678,Illinois,AMC Theaters,2024-03-17
+AMC West Chester 18,9415 Civic Center Blvd,West Chester,OH,45069,https://www.amctheatres.com/movie-theatres/cincinnati/amc-west-chester-18,39.319284,-84.420903,Ohio,AMC Theaters,2024-03-17
+AMC Newport On The Levee 20,One Levee Way,Newport,KY,41071,https://www.amctheatres.com/movie-theatres/cincinnati/amc-newport-on-the-levee-20,39.094932,-84.495646,Kentucky,AMC Theaters,2024-03-17
+AMC DINE-IN Anderson Towne Center 9,7490 Beechmont Ave,Anderson Township,OH,45255,https://www.amctheatres.com/movie-theatres/cincinnati/amc-dine-in-anderson-towne-center-9,39.076777,-84.349841,Ohio,AMC Theaters,2024-03-17
+AMC CLASSIC Hamilton 8,1453 Main St,Hamilton,OH,45013,https://www.amctheatres.com/movie-theatres/cincinnati/amc-classic-hamilton-8,39.423917404,-84.5962528823,Ohio,AMC Theaters,2024-03-17
+AMC Ridge Park Square 8,4788 Ridge Road,Brooklyn,OH,44144-3327,https://www.amctheatres.com/movie-theatres/cleveland/amc-ridge-park-square-8,41.426265,-81.73693,Ohio,AMC Theaters,2024-03-17
+AMC Westwood Town Center 6,21653 Center Ridge Road,Rocky River,OH,44116-3917,https://www.amctheatres.com/movie-theatres/cleveland/amc-westwood-town-center-6,41.458158,-81.859832,Ohio,AMC Theaters,2024-03-17
+AMC Clifton Commons 16,405 Route 3,Clifton,NJ,07014-1911,https://www.amctheatres.com/movie-theatres/clifton/amc-clifton-commons-16,40.82875767,-74.14042854,New Jersey,AMC Theaters,2024-03-17
+AMC Chapel Hills 13,1710 Briargate Blvd,Colorado Springs,CO,80920,https://www.amctheatres.com/movie-theatres/colorado-springs-co/amc-chapel-hills-13,38.945129,-104.796512,Colorado,AMC Theaters,2024-03-17
+AMC Harbison 14,122 Afton Ct,Columbia,SC,29212,https://www.amctheatres.com/movie-theatres/columbia/amc-harbison-14,34.075817,-81.161134,South Carolina,AMC Theaters,2024-03-17
+AMC Dublin Village 18,6700 Village Parkway,Dublin,OH,43017-2073,https://www.amctheatres.com/movie-theatres/columbus/amc-dublin-village-18,40.105452,-83.097496,Ohio,AMC Theaters,2024-03-17
+AMC Indian Mound 9,771 South 30th St,Heath,OH,43056,https://www.amctheatres.com/movie-theatres/columbus/amc-indian-mound-9,40.031569,-82.44788,Ohio,AMC Theaters,2024-03-17
+AMC DINE-IN Easton Town Center 30,275 Easton Town Center,Columbus,OH,43219,https://www.amctheatres.com/movie-theatres/columbus/amc-dine-in-easton-town-center-30,40.051538,-82.915338,Ohio,AMC Theaters,2024-03-17
+AMC Grove City 14,4218 Buckeye Parkway,Grove City,OH,43123,https://www.amctheatres.com/movie-theatres/columbus/amc-grove-city-14,39.873401,-83.037393,Ohio,AMC Theaters,2024-03-17
+AMC Columbus 10,5275 Westpointe Plaza Drive,Columbus,OH,43228,https://www.amctheatres.com/movie-theatres/columbus/amc-columbus-10,39.982674,-83.148869,Ohio,AMC Theaters,2024-03-17
+"AMC CLASSIC Auburn 14, Located across from the Auburn Mall.",2111 E. University Drive,Auburn,AL,36830,https://www.amctheatres.com/movie-theatres/columbus-ga/amc-classic-auburn-14,32.627284,-85.451553,Alabama,AMC Theaters,2024-03-17
+"AMC CLASSIC Tiger 13, Located off of Exit 58, near the Tiger Town Shopping Center",1900 Capps Landing,Opelika,AL,36804,https://www.amctheatres.com/movie-theatres/columbus-ga/amc-classic-tiger-13,32.612052,-85.391194,Alabama,AMC Theaters,2024-03-17
+AMC CLASSIC Columbus Park 15,5556 Whittlesey Blvd,Columbus,GA,31909,https://www.amctheatres.com/movie-theatres/columbus-ga/amc-classic-columbus-park-15,32.548624,-84.941792,Georgia,AMC Theaters,2024-03-17
+AMC CLASSIC Ritz 13,1683 Whittlesey Rd,Columbus,GA,31904,https://www.amctheatres.com/movie-theatres/columbus-ga/amc-classic-ritz-13,32.539679,-84.96909,Georgia,AMC Theaters,2024-03-17
+AMC Corpus Christi 16,5218 Silverberry,Corpus Christi,TX,78417,https://www.amctheatres.com/movie-theatres/corpus-christi/amc-corpus-christi-16,27.736667,-97.436044,Texas,AMC Theaters,2024-03-17
+AMC The Parks At Arlington 18,3861 South Cooper Street,Arlington,TX,76015,https://www.amctheatres.com/movie-theatres/dallas-ft-worth/amc-the-parks-at-arlington-18,32.683147,-97.13304,Texas,AMC Theaters,2024-03-17
+AMC NorthPark 15,8687 N Central Expy,Dallas,TX,75225-0000,https://www.amctheatres.com/movie-theatres/dallas-ft-worth/amc-northpark-15,32.868072,-96.775534,Texas,AMC Theaters,2024-03-17
+AMC Highland Village 12,4090 Barton Creek,Highland Village,TX,75077,https://www.amctheatres.com/movie-theatres/dallas-ft-worth/amc-highland-village-12,33.07206,-97.083503,Texas,AMC Theaters,2024-03-17
+AMC Village On The Parkway 9,5100 Belt Line Rd,Addison,TX,75254,https://www.amctheatres.com/movie-theatres/dallas-ft-worth/amc-village-on-the-parkway-9,32.951147,-96.819066,Texas,AMC Theaters,2024-03-17
+AMC Eastchase 9,8301 Ederville Road,Fort Worth,TX,76120,https://www.amctheatres.com/movie-theatres/dallas-ft-worth/amc-eastchase-9,32.75696,-97.1712,Texas,AMC Theaters,2024-03-17
+AMC Burleson 14,301 W Rendon Crowley Road,Burleson,TX,76028,https://www.amctheatres.com/movie-theatres/dallas-ft-worth/amc-burleson-14,32.57653,-97.324389,Texas,AMC Theaters,2024-03-17
+AMC Grapevine Mills 24,3150 Grapevine Mills Parkway,Grapevine,TX,76051,https://www.amctheatres.com/movie-theatres/dallas-ft-worth/amc-grapevine-mills-24,32.968747,-97.037021,Texas,AMC Theaters,2024-03-17
+AMC Palace 9,220 East Third Street,Fort Worth,TX,76102-0000,https://www.amctheatres.com/movie-theatres/dallas-ft-worth/amc-palace-9,32.755597,-97.330577,Texas,AMC Theaters,2024-03-17
+AMC DINE-IN Clearfork 8,5015 Trailhead Bend Way,Fort Worth,TX,76109,https://www.amctheatres.com/movie-theatres/dallas-ft-worth/amc-dine-in-clearfork-8,32.708549,-97.4012895,Texas,AMC Theaters,2024-03-17
+AMC DINE-IN Stonebriar 24,2601 Preston Road  Ste 300,Frisco,TX,75034-0000,https://www.amctheatres.com/movie-theatres/dallas-ft-worth/amc-dine-in-stonebriar-24,33.098641,-96.811081,Texas,AMC Theaters,2024-03-17
+AMC Firewheel 18,100 Coneflower Drive,Garland,TX,75040,https://www.amctheatres.com/movie-theatres/dallas-ft-worth/amc-firewheel-18,32.950445,-96.613813,Texas,AMC Theaters,2024-03-17
+AMC DINE-IN Mesquite 30,19919 Lyndon B Johnson Fwy,Mesquite,TX,75149,https://www.amctheatres.com/movie-theatres/dallas-ft-worth/amc-dine-in-mesquite-30,32.78816,-96.627181,Texas,AMC Theaters,2024-03-17
+AMC CLASSIC Forney 12,600 N FM 548,Forney,TX,75126,https://www.amctheatres.com/movie-theatres/dallas-ft-worth/amc-classic-forney-12,32.748364,-96.44973,Texas,AMC Theaters,2024-03-17
+AMC Hulen 10,6330 Hulen Bend Blvd,Fort Worth,TX,76132,https://www.amctheatres.com/movie-theatres/dallas-ft-worth/amc-hulen-10,32.6601,-97.40372,Texas,AMC Theaters,2024-03-17
+AMC Lake Worth 14,6600 NW Loop 820,Fort Worth,TX,76135,https://www.amctheatres.com/movie-theatres/dallas-ft-worth/amc-lake-worth-14,32.803741,-97.429944,Texas,AMC Theaters,2024-03-17
+AMC Irving Mall 14,2433 Irving Mall,Irving,TX,75062-5154,https://www.amctheatres.com/movie-theatres/dallas-ft-worth/amc-irving-mall-14,32.841082,-96.994418,Texas,AMC Theaters,2024-03-17
+AMC Flatiron Crossing 14,61 West Flatiron Crossing Dr.,Broomfield,CO,80021-8870,https://www.amctheatres.com/movie-theatres/denver/amc-flatiron-crossing-14,39.930182,-105.136121,Colorado,AMC Theaters,2024-03-17
+AMC Orchard 12,14653 Orchard Pkwy,Westminster,CO,80023-9177,https://www.amctheatres.com/movie-theatres/denver/amc-orchard-12,39.961519,-104.993843,Colorado,AMC Theaters,2024-03-17
+AMC 9+CO 10,826 Albion Street,Denver,CO,80220,https://www.amctheatres.com/movie-theatres/denver/amc-9-co-10,39.72969123,-104.93930515,Colorado,AMC Theaters,2024-03-17
+AMC Highlands Ranch 24,103 W Centennial Blvd,Highlands Ranch,CO,80129-2303,https://www.amctheatres.com/movie-theatres/denver/amc-highlands-ranch-24,39.5602257345,-104.9912913314,Colorado,AMC Theaters,2024-03-17
+AMC Westminster Promenade 24,10655 Westminster Blvd.,Westminster,CO,80020-4166,https://www.amctheatres.com/movie-theatres/denver/amc-westminster-promenade-24,39.88969,-105.072257,Colorado,AMC Theaters,2024-03-17
+AMC Fort Collins 10,3636 Manhattan Ave,Fort Collins,CO,80526-3273,https://www.amctheatres.com/movie-theatres/denver/amc-fort-collins-10,40.536453,-105.081472,Colorado,AMC Theaters,2024-03-17
+AMC DINE-IN Southlands 16,23955 E Plaza Ave,Aurora,CO,80016,https://www.amctheatres.com/movie-theatres/denver/amc-dine-in-southlands-16,39.606547,-104.708823,Colorado,AMC Theaters,2024-03-17
+AMC Arapahoe Crossing 16,6696 S Parker Rd,Aurora,CO,80016,https://www.amctheatres.com/movie-theatres/denver/amc-arapahoe-crossing-16,39.5961468405,-104.7981573234,Colorado,AMC Theaters,2024-03-17
+AMC Brighton 12,250 Pavilions Place,Brighton,CO,80601,https://www.amctheatres.com/movie-theatres/denver/amc-brighton-12,39.983913,-104.824712,Colorado,AMC Theaters,2024-03-17
+AMC Castle Rock 12,3960 Limelight Ave,Castle Rock,CO,80109,https://www.amctheatres.com/movie-theatres/denver/amc-castle-rock-12,39.40231,-104.879636,Colorado,AMC Theaters,2024-03-17
+"AMC DINE-IN Cherry Creek 8, Parking Validation Available",3000 E 1st Ave,Denver,CO,80206,https://www.amctheatres.com/movie-theatres/denver/amc-dine-in-cherry-creek-8,39.717483,-104.952908,Colorado,AMC Theaters,2024-03-17
+AMC Bowles Crossing 12,8035 W Bowles Ave,Littleton,CO,80123,https://www.amctheatres.com/movie-theatres/denver/amc-bowles-crossing-12,39.611638,-105.08576,Colorado,AMC Theaters,2024-03-17
+AMC Twenty Mile 10,18625 Stage Run Rd,Parker,CO,80134,https://www.amctheatres.com/movie-theatres/denver/amc-twenty-mile-10,39.5203638033,-104.7724465404,Colorado,AMC Theaters,2024-03-17
+AMC Destin Commons 14,4000 Legendary Drive,Destin,FL,32541,https://www.amctheatres.com/movie-theatres/destin/amc-destin-commons-14,30.39207,-86.4238,Florida,AMC Theaters,2024-03-17
+AMC Livonia 20,19500 Haggerty Road,Livonia,MI,48152,https://www.amctheatres.com/movie-theatres/detroit/amc-livonia-20,42.4283894,-83.43039416,Michigan,AMC Theaters,2024-03-17
+AMC Forum 30,44681 Mound Road,Sterling Heights,MI,48314-1321,https://www.amctheatres.com/movie-theatres/detroit/amc-forum-30,42.622183,-83.052192,Michigan,AMC Theaters,2024-03-17
+AMC John R 15,32289 John R Road,Madison Heights,MI,48071,https://www.amctheatres.com/movie-theatres/detroit/amc-john-r-15,42.5311301795,-83.1106393142,Michigan,AMC Theaters,2024-03-17
+AMC Star Gratiot 15,35705 South Gratiot Ave.,Clinton Twp,MI,48035,https://www.amctheatres.com/movie-theatres/detroit/amc-star-gratiot-15,42.5591921947,-82.8997562626,Michigan,AMC Theaters,2024-03-17
+AMC Star Great Lakes 25,4300 Baldwin Rd,Auburn Hills,MI,48326,https://www.amctheatres.com/movie-theatres/detroit/amc-star-great-lakes-25,42.702043,-83.293894,Michigan,AMC Theaters,2024-03-17
+AMC Birchwood 10,4350 24th Ave,Fort Gratiot,MI,48059-3851,https://www.amctheatres.com/movie-theatres/detroit/amc-birchwood-10,43.037733,-82.456641,Michigan,AMC Theaters,2024-03-17
+AMC CLASSIC Dothan Pavilion 12,4883 Montgomery Highway,Dothan,AL,36303,https://www.amctheatres.com/movie-theatres/dothan-al/amc-classic-dothan-pavilion-12,31.270319,-85.447847,Alabama,AMC Theaters,2024-03-17
+AMC CLASSIC Dothan 6,209 Executive Park Drive,Dothan,AL,36303-5936,https://www.amctheatres.com/movie-theatres/dothan-al/amc-classic-dothan-6,31.254927,-85.430374,Alabama,AMC Theaters,2024-03-17
+AMC CLASSIC Dubuque 14,2835 Nw Arterial,Dubuque,IA,52002,https://www.amctheatres.com/movie-theatres/dubuque/amc-classic-dubuque-14,42.524321,-90.738101,Iowa,AMC Theaters,2024-03-17
+AMC Brunswick Square 13,755 NJ-18,East Brunswick,NJ,08816,https://www.amctheatres.com/movie-theatres/east-brunswick/amc-brunswick-square-13,40.4226,-74.3831,New Jersey,AMC Theaters,2024-03-17
+AMC East Hanover 12,145 NJ-10,East Hanover,NJ,07936,https://www.amctheatres.com/movie-theatres/east-hanover/amc-east-hanover-12,40.808754,-74.381931,New Jersey,AMC Theaters,2024-03-17
+AMC Monmouth Mall 15,Route 35 & 36,Eatontown,NJ,07724,https://www.amctheatres.com/movie-theatres/eatontown/amc-monmouth-mall-15,40.294706,-74.053376,New Jersey,AMC Theaters,2024-03-17
+AMC DINE-IN Menlo Park 12,55 Parsonage Rd,Edison,NJ,08837,https://www.amctheatres.com/movie-theatres/edison/amc-dine-in-menlo-park-12,40.548087,-74.334319,New Jersey,AMC Theaters,2024-03-17
+AMC CLASSIC East Pointe 12,8300 Gateway East,El Paso,TX,79907,https://www.amctheatres.com/movie-theatres/el-paso/amc-classic-east-pointe-12,31.739573,-106.32813,Texas,AMC Theaters,2024-03-17
+AMC El Paso 16,9840 Gateway Blvd N,El Paso,TX,79924,https://www.amctheatres.com/movie-theatres/el-paso/amc-el-paso-16,31.894443,-106.438154,Texas,AMC Theaters,2024-03-17
+AMC Jersey Gardens 20,651 Kapkowski Road,Elizabeth,NJ,07201,https://www.amctheatres.com/movie-theatres/elizabeth/amc-jersey-gardens-20,40.65923596,-74.16846962,New Jersey,AMC Theaters,2024-03-17
+AMC CLASSIC Corvallis 12,750 Ne Circle Blvd,Corvallis,OR,97330,https://www.amctheatres.com/movie-theatres/eugene-or/amc-classic-corvallis-12,44.587694,-123.248824,Oregon,AMC Theaters,2024-03-17
+AMC Evansville 16,5600 Pearl Dr,Evansville,IN,47712,https://www.amctheatres.com/movie-theatres/evansville/amc-evansville-16,37.972956,-87.643888,Indiana,AMC Theaters,2024-03-17
+AMC CLASSIC Vincennes 8,1496 S Hart Street Rd,Vincennes,IN,47591,https://www.amctheatres.com/movie-theatres/evansville/amc-classic-vincennes-8,38.672237,-87.517928,Indiana,AMC Theaters,2024-03-17
+AMC Fiesta Square 12,3033 North College,Fayetteville,AR,72703,https://www.amctheatres.com/movie-theatres/fayetteville/amc-fiesta-square-12,36.1079530321,-94.1490094332,Arkansas,AMC Theaters,2024-03-17
+AMC CLASSIC Fort Smith 14,5716 Towson Ave,Fort Smith,AR,72901,https://www.amctheatres.com/movie-theatres/fayetteville/amc-classic-fort-smith-14,35.329435,-94.424237,Arkansas,AMC Theaters,2024-03-17
+AMC CLASSIC Fashion Square 10,4511 Fashion Square Blvd,Saginaw,MI,48604-2615,https://www.amctheatres.com/movie-theatres/flint-mi/amc-classic-fashion-square-10,43.472884,-83.969601,Michigan,AMC Theaters,2024-03-17
+AMC Merchants Crossing 16,15201 N. Cleveland Avenue,North Fort Myers,FL,33903,https://www.amctheatres.com/movie-theatres/fort-myers/amc-merchants-crossing-16,26.685433,-81.904537,Florida,AMC Theaters,2024-03-17
+AMC Freehold 14,101 Trotters Way,Freehold,NJ,07728,https://www.amctheatres.com/movie-theatres/freehold/amc-freehold-14,40.249677,-74.294567,New Jersey,AMC Theaters,2024-03-17
+AMC CLASSIC Jefferson Point 18,4250 W Jefferson Blvd,Fort Wayne,IN,46804-6818,https://www.amctheatres.com/movie-theatres/ft-wayne-in/amc-classic-jefferson-point-18,41.072726,-85.198956,Indiana,AMC Theaters,2024-03-17
+AMC CLASSIC Galesburg 8,1401 W Carl Sandburg Dr,Galesburg,IL,61401,https://www.amctheatres.com/movie-theatres/galesburg/amc-classic-galesburg-8,40.968948,-90.393148,Illinois,AMC Theaters,2024-03-17
+AMC CLASSIC Hobart 12,2590 Southlake Mall Dr,Merrillville,IN,46410,https://www.amctheatres.com/movie-theatres/gary/amc-classic-hobart-12,41.468206,-87.305294,Indiana,AMC Theaters,2024-03-17
+AMC CLASSIC Michigan City 14,100 Meijer Dr,Michigan City,IN,46360,https://www.amctheatres.com/movie-theatres/gary/amc-classic-michigan-city-14,41.676208,-86.893932,Indiana,AMC Theaters,2024-03-17
+AMC Schererville 16,875 Deer Creek Dr,Schererville,IN,46375,https://www.amctheatres.com/movie-theatres/gary/amc-schererville-16,41.500422,-87.476084,Indiana,AMC Theaters,2024-03-17
+AMC Schererville 12,1400 Eagle Ridge Dr,Schererville,IN,46375,https://www.amctheatres.com/movie-theatres/gary/amc-schererville-12,41.507804,-87.474077,Indiana,AMC Theaters,2024-03-17
+AMC Holland 8,12270 James St,Holland,MI,49424,https://www.amctheatres.com/movie-theatres/grand-rapids/amc-holland-8,42.80772,-86.08469,Michigan,AMC Theaters,2024-03-17
+AMC Grand Rapids 18,3000 Alpine Ave Nw,Walker,MI,49544-8213,https://www.amctheatres.com/movie-theatres/grand-rapids/amc-grand-rapids-18,43.0184998416,-85.6861363075,Michigan,AMC Theaters,2024-03-17
+AMC CLASSIC Great Falls 10,1601 Marketplace Dr,Great Falls,MT,59404,https://www.amctheatres.com/movie-theatres/great-falls-mt/amc-classic-great-falls-10,47.482373,-111.342088,Montana,AMC Theaters,2024-03-17
+AMC CLASSIC Manitowoc 10,2555 S 44th St,Manitowoc,WI,54220,https://www.amctheatres.com/movie-theatres/green-bay-wi/amc-classic-manitowoc-10,44.07026,-87.706444,Wisconsin,AMC Theaters,2024-03-17
+AMC High Point 8,2705 N Main St,High Point,NC,27265,https://www.amctheatres.com/movie-theatres/greensboro-nc/amc-high-point-8,35.993316,-80.032618,North Carolina,AMC Theaters,2024-03-17
+AMC Hanes 12,1501 Sw Hanes Mall Blvd,Winston Salem,NC,27103,https://www.amctheatres.com/movie-theatres/greensboro-nc/amc-hanes-12,36.069355,-80.33393,North Carolina,AMC Theaters,2024-03-17
+AMC River Hills 10,121 River Hills Rd,Asheville,NC,28805,https://www.amctheatres.com/movie-theatres/greenville-nc/amc-river-hills-10,35.5708,-82.5204,North Carolina,AMC Theaters,2024-03-17
+AMC Fire Tower 12,1685 E Firetower Road,Greenville,NC,27834,https://www.amctheatres.com/movie-theatres/greenville-nc/amc-fire-tower-12,35.56652,-77.36091,North Carolina,AMC Theaters,2024-03-17
+AMC CLASSIC Havelock 6,500 Mccotter Blvd,Havelock,NC,28532,https://www.amctheatres.com/movie-theatres/greenville-nc/amc-classic-havelock-6,34.85611,-76.89327,North Carolina,AMC Theaters,2024-03-17
+AMC CLASSIC Jacksonville 16,350 Western Blvd,Jacksonville,NC,28546,https://www.amctheatres.com/movie-theatres/greenville-nc/amc-classic-jacksonville-16,34.763923,-77.378222,North Carolina,AMC Theaters,2024-03-17
+AMC CLASSIC Kalli 12,1000 Kalli Drive,Jacksonville,NC,28546,https://www.amctheatres.com/movie-theatres/greenville-nc/amc-classic-kalli-12,34.797198,-77.417045,North Carolina,AMC Theaters,2024-03-17
+AMC DINE-IN Shops At Riverside 9,390 Hackensack Ave.,Hackensack,NJ,07601,https://www.amctheatres.com/movie-theatres/hackensack/amc-dine-in-shops-at-riverside-9,40.907768,-74.03094,New Jersey,AMC Theaters,2024-03-17
+AMC CLASSIC Camp Hill 12,3432 Simpson Ferry Rd,Camp Hill,PA,17011,https://www.amctheatres.com/movie-theatres/harrisburg-pa/amc-classic-camp-hill-12,40.227392,-76.939439,Pennsylvania,AMC Theaters,2024-03-17
+AMC CLASSIC Hampden 8,4950 Carlisle Pike,Mechanicsburg,PA,17050,https://www.amctheatres.com/movie-theatres/harrisburg-pa/amc-classic-hampden-8,40.235165,-76.970065,Pennsylvania,AMC Theaters,2024-03-17
+AMC CLASSIC Lisbon 12,162 River Rd,Lisbon,CT,06351,https://www.amctheatres.com/movie-theatres/hartford-new-haven/amc-classic-lisbon-12,41.585271,-71.98933,Connecticut,AMC Theaters,2024-03-17
+AMC Katy Mills 20,"5000 Katy Mills Circle, #131",Katy,TX,77494,https://www.amctheatres.com/movie-theatres/houston/amc-katy-mills-20,29.776307,-95.811998,Texas,AMC Theaters,2024-03-17
+AMC Willowbrook 24,17145 Tomball Parkway,Houston,TX,77064,https://www.amctheatres.com/movie-theatres/houston/amc-willowbrook-24,29.95318,-95.541181,Texas,AMC Theaters,2024-03-17
+AMC Metropark Square 10,8870 Metropark Drive,Shenandoah,TX,77385,https://www.amctheatres.com/movie-theatres/houston/amc-metropark-square-10,30.1954118,-95.4537144,Texas,AMC Theaters,2024-03-17
+AMC Deerbrook 24,20131 Highway 59 N,Humble,TX,77338,https://www.amctheatres.com/movie-theatres/houston/amc-deerbrook-24,30.009796397,-95.2714632203,Texas,AMC Theaters,2024-03-17
+AMC First Colony 24,3301 Town Centre Blvd South,Sugar Land,TX,77479-2327,https://www.amctheatres.com/movie-theatres/houston/amc-first-colony-24,29.5871974499,-95.6274641297,Texas,AMC Theaters,2024-03-17
+AMC Gulf Pointe 30,11801 S Sam Houston Pkwy E,Houston,TX,77089,https://www.amctheatres.com/movie-theatres/houston/amc-gulf-pointe-30,29.602357,-95.212731,Texas,AMC Theaters,2024-03-17
+AMC Brazos Mall 14,100 Highway 332 West,Lake Jackson,TX,77566,https://www.amctheatres.com/movie-theatres/houston/amc-brazos-mall-14,29.050843,-95.458488,Texas,AMC Theaters,2024-03-17
+AMC Spring 10,20115 Holzwarth Road,Spring,TX,77388,https://www.amctheatres.com/movie-theatres/houston/amc-spring-10,30.057531,-95.43792,Texas,AMC Theaters,2024-03-17
+AMC Fountains 18,11225 Fountain Lake Drive,Stafford,TX,77477,https://www.amctheatres.com/movie-theatres/houston/amc-fountains-18,29.640936,-95.584413,Texas,AMC Theaters,2024-03-17
+AMC Houston 8,510 Texas St.,Houston,TX,77002,https://www.amctheatres.com/movie-theatres/houston/amc-houston-8,29.7617665,-95.3667868,Texas,AMC Theaters,2024-03-17
+AMC CLASSIC Decatur 12,1801 Beltline Rd. Sw,Decatur,AL,35601,https://www.amctheatres.com/movie-theatres/huntsville-al/amc-classic-decatur-12,34.572212,-87.017932,Alabama,AMC Theaters,2024-03-17
+AMC CLASSIC Florence 12,301 Cox Creek Pkwy,Florence,AL,35630,https://www.amctheatres.com/movie-theatres/huntsville-al/amc-classic-florence-12,34.8342,-87.6366,Alabama,AMC Theaters,2024-03-17
+AMC Valley Bend 18,1485 Four Mile Road South East,Huntsville,AL,35802,https://www.amctheatres.com/movie-theatres/huntsville-al/amc-valley-bend-18,34.673103,-86.544841,Alabama,AMC Theaters,2024-03-17
+AMC CLASSIC Pine Ridge 11,4355 Yellowstone Ave,Chubbuck,ID,83202,https://www.amctheatres.com/movie-theatres/idaho-falls-id/amc-classic-pine-ridge-11,42.912054,-112.472301,Idaho,AMC Theaters,2024-03-17
+AMC Castleton Square 14,6020 E. 82nd Street,Indianapolis,IN,46250,https://www.amctheatres.com/movie-theatres/indianapolis/amc-castleton-square-14,39.9076111629,-86.0639767063,Indiana,AMC Theaters,2024-03-17
+AMC CLASSIC Crawfordsville 8,205 Dry Branch Dr,Crawfordsville,IN,47933-3817,https://www.amctheatres.com/movie-theatres/indianapolis/amc-classic-crawfordsville-8,40.0206,-86.9015,Indiana,AMC Theaters,2024-03-17
+AMC Perry Crossing 18,380 Cinema Boulevard,Plainfield,IN,46168,https://www.amctheatres.com/movie-theatres/indianapolis/amc-perry-crossing-18,39.711197,-86.360543,Indiana,AMC Theaters,2024-03-17
+AMC Indianapolis 17,4325 S Meridian St,Indianapolis,IN,46217,https://www.amctheatres.com/movie-theatres/indianapolis/amc-indianapolis-17,39.7023,-86.152961,Indiana,AMC Theaters,2024-03-17
+AMC Washington Square 12,10280 E Washington St,Indianapolis,IN,46229,https://www.amctheatres.com/movie-theatres/indianapolis/amc-washington-square-12,39.778722,-85.983538,Indiana,AMC Theaters,2024-03-17
+AMC Traders Point 12,5920 W 86th St,Indianapolis,IN,46278,https://www.amctheatres.com/movie-theatres/indianapolis/amc-traders-point-12,39.9139840835,-86.2655430212,Indiana,AMC Theaters,2024-03-17
+AMC Regency 24,9451 Regency Square Blvd.,Jacksonville,FL,32225-0000,https://www.amctheatres.com/movie-theatres/jacksonville/amc-regency-24,30.326434,-81.553595,Florida,AMC Theaters,2024-03-17
+AMC Orange Park 24,1910 Wells Road,Orange Park,FL,32073,https://www.amctheatres.com/movie-theatres/jacksonville/amc-orange-park-24,30.1847281,-81.7356529,Florida,AMC Theaters,2024-03-17
+AMC Fleming Island 12,1820 Town Center Blvd,Fleming Island,FL,32003,https://www.amctheatres.com/movie-theatres/jacksonville/amc-fleming-island-12,30.098164,-81.714638,Florida,AMC Theaters,2024-03-17
+AMC CLASSIC Yulee 10,96012 Lofton Square Court,Yulee,FL,32097,https://www.amctheatres.com/movie-theatres/jacksonville/amc-classic-yulee-10,30.623392,-81.544335,Florida,AMC Theaters,2024-03-17
+AMC Newport Centre 11,30-300 Mall Drive West,Jersey City,NJ,07310,https://www.amctheatres.com/movie-theatres/jersey-city/amc-newport-centre-11,40.72923,-74.038365,New Jersey,AMC Theaters,2024-03-17
+AMC CLASSIC Pittsburg 8,202 Centennial Drive,Pittsburg,KS,66762,https://www.amctheatres.com/movie-theatres/joplin/amc-classic-pittsburg-8,37.381441,-94.70438,Kansas,AMC Theaters,2024-03-17
+AMC Ward Parkway 14,8600 Ward Parkway,Kansas City,MO,64114,https://www.amctheatres.com/movie-theatres/kansas-city/amc-ward-parkway-14,38.967384,-94.606619,Missouri,AMC Theaters,2024-03-17
+AMC Independence Commons 20,19200 E 39th St S,Independence,MO,64057-2319,https://www.amctheatres.com/movie-theatres/kansas-city/amc-independence-commons-20,39.05001484,-94.35309845,Missouri,AMC Theaters,2024-03-17
+AMC Town Center 20,11701 Nall Avenue,Leawood,KS,66211-2025,https://www.amctheatres.com/movie-theatres/kansas-city/amc-town-center-20,38.915971,-94.648142,Kansas,AMC Theaters,2024-03-17
+AMC Legends 14,1841 Village West Parkway,Kansas City,KS,66111,https://www.amctheatres.com/movie-theatres/kansas-city/amc-legends-14,39.125696,-94.829342,Kansas,AMC Theaters,2024-03-17
+AMC Barrywoods 24,8101 Roanridge Road,Kansas City,MO,64151-1356,https://www.amctheatres.com/movie-theatres/kansas-city/amc-barrywoods-24,39.2433468829,-94.6560483459,Missouri,AMC Theaters,2024-03-17
+AMC DINE-IN Studio 28,12075 So Strang Line Road,Olathe,KS,66062-5256,https://www.amctheatres.com/movie-theatres/kansas-city/amc-dine-in-studio-28,38.907652,-94.76736,Kansas,AMC Theaters,2024-03-17
+AMC DINE-IN Prairiefire 17,5724 W 136th Terrace,Overland Park,KS,66223,https://www.amctheatres.com/movie-theatres/kansas-city/amc-dine-in-prairiefire-17,38.8825,-94.6515,Kansas,AMC Theaters,2024-03-17
+AMC CLASSIC Warrensburg 10,386 Hawthorne Blvd,Warrensburg,MO,64093,https://www.amctheatres.com/movie-theatres/kansas-city/amc-classic-warrensburg-10,38.782491,-93.733077,Missouri,AMC Theaters,2024-03-17
+AMC CLASSIC Foothills 12,134 Foothills Mall Dr,Maryville,TN,37801,https://www.amctheatres.com/movie-theatres/knoxville-tn/amc-classic-foothills-12,35.737289,-83.992075,Tennessee,AMC Theaters,2024-03-17
+AMC CLASSIC College Square 12,2550 E Morris Blvd,Morristown,TN,37813,https://www.amctheatres.com/movie-theatres/knoxville-tn/amc-classic-college-square-12,36.222601,-83.261003,Tennessee,AMC Theaters,2024-03-17
+AMC CLASSIC Kokomo 12,1530 E Boulevard,Kokomo,IN,46902,https://www.amctheatres.com/movie-theatres/kokomo/amc-classic-kokomo-12,40.46469864,-86.11168696,Indiana,AMC Theaters,2024-03-17
+AMC CLASSIC Marion 12,713 N Theatre Rd,Marion,IN,46952,https://www.amctheatres.com/movie-theatres/kokomo/amc-classic-marion-12,40.571806,-85.682739,Indiana,AMC Theaters,2024-03-17
+AMC CLASSIC Desert Star 15,1301 Kalahari Dr,Baraboo,WI,53913,https://www.amctheatres.com/movie-theatres/lake-delton/amc-classic-desert-star-15,43.57199603,-89.77568478,Wisconsin,AMC Theaters,2024-03-17
+AMC Rainbow Promenade 10,2321 N Rainbow Blvd,Las Vegas,NV,89108,https://www.amctheatres.com/movie-theatres/las-vegas/amc-rainbow-promenade-10,36.202141,-115.242275,Nevada,AMC Theaters,2024-03-17
+AMC Town Square 18,6587 Las Vegas Blvd South,Las Vegas,NV,89119,https://www.amctheatres.com/movie-theatres/las-vegas/amc-town-square-18,36.068146,-115.178529,Nevada,AMC Theaters,2024-03-17
+AMC Aviation 12,1200 South Stiles Street,Linden,NJ,07036-4724,https://www.amctheatres.com/movie-theatres/linden/amc-aviation-12,40.622135,-74.246296,New Jersey,AMC Theaters,2024-03-17
+AMC Porter Ranch 9,20059 Rinaldi Street,Porter Ranch,CA,91326,https://www.amctheatres.com/movie-theatres/los-angeles/amc-porter-ranch-9,34.2753415,-118.5732404,California,AMC Theaters,2024-03-17
+AMC Santa Monica 7,1310 3rd Street,Santa Monica,CA,90401-1310,https://www.amctheatres.com/movie-theatres/los-angeles/amc-santa-monica-7,34.016857,-118.497643,California,AMC Theaters,2024-03-17
+AMC Santa Anita 16,400 South Baldwin Avenue,Arcadia,CA,91007-0000,https://www.amctheatres.com/movie-theatres/los-angeles/amc-santa-anita-16,34.1350533321,-118.0487459284,California,AMC Theaters,2024-03-17
+"AMC Burbank Town Center 8, On Magnolia between First and Third inside the mall",201 E. Magnolia Blvd #345,Burbank,CA,91501-1159,https://www.amctheatres.com/movie-theatres/los-angeles/amc-burbank-town-center-8,34.1832943769,-118.3120169941,California,AMC Theaters,2024-03-17
+AMC DINE-IN Topanga 12,6600 N Topanga Canyon Blvd #3100,Canoga Park,CA,91303,https://www.amctheatres.com/movie-theatres/los-angeles/amc-dine-in-topanga-12,34.18937,-118.603849,California,AMC Theaters,2024-03-17
+AMC Anaheim GardenWalk 6,400 West Disney Way,Anaheim,CA,92802,https://www.amctheatres.com/movie-theatres/los-angeles/amc-anaheim-gardenwalk-6,33.8058554,-117.912123,California,AMC Theaters,2024-03-17
+"AMC Burbank 16, On First Between Magnolia and Orange Grove",125 East Palm Avenue,Burbank,CA,91502-1833,https://www.amctheatres.com/movie-theatres/los-angeles/amc-burbank-16,34.181696,-118.311654,California,AMC Theaters,2024-03-17
+AMC Montebello 10,1475 N. Montebello Blvd,Montebello,CA,90640-2584,https://www.amctheatres.com/movie-theatres/los-angeles/amc-montebello-10,34.033716,-118.09276,California,AMC Theaters,2024-03-17
+AMC Marina Pacifica 12,6346 E. Pacific Coast Hwy,Long Beach,CA,90803-4863,https://www.amctheatres.com/movie-theatres/los-angeles/amc-marina-pacifica-12,33.760524,-118.113505,California,AMC Theaters,2024-03-17
+AMC Victoria Gardens 12,12600 North Mainstreet,Rancho Cucamonga,CA,91739-0000,https://www.amctheatres.com/movie-theatres/los-angeles/amc-victoria-gardens-12,34.112834,-117.530114,California,AMC Theaters,2024-03-17
+AMC Covina 17,1414 North Azusa Avenue,Covina,CA,91722-0000,https://www.amctheatres.com/movie-theatres/los-angeles/amc-covina-17,34.10515,-117.905384,California,AMC Theaters,2024-03-17
+AMC Rolling Hills 20,2591 Airport Drive,Torrance,CA,90505-6137,https://www.amctheatres.com/movie-theatres/los-angeles/amc-rolling-hills-20,33.792456,-118.329561,California,AMC Theaters,2024-03-17
+AMC Century City 15,"10250 Santa Monica Blvd,2000",Los Angeles,CA,90067,https://www.amctheatres.com/movie-theatres/los-angeles/amc-century-city-15,34.060464,-118.418674,California,AMC Theaters,2024-03-17
+AMC DINE-IN Fullerton 20,1001 S Lemon St,Fullerton,CA,92832,https://www.amctheatres.com/movie-theatres/los-angeles/amc-dine-in-fullerton-20,33.862704,-117.919903,California,AMC Theaters,2024-03-17
+AMC Puente Hills 20,1560 South Azusa Avenue,City Of Industry,CA,91748,https://www.amctheatres.com/movie-theatres/los-angeles/amc-puente-hills-20,33.99487,-117.926388,California,AMC Theaters,2024-03-17
+AMC Del Amo 18,3525 W. Carson St,Torrance,CA,90503-5704,https://www.amctheatres.com/movie-theatres/los-angeles/amc-del-amo-18,33.833057,-118.348063,California,AMC Theaters,2024-03-17
+AMC Tyler Galleria 16,3775 Tyler Avenue,Riverside,CA,92503,https://www.amctheatres.com/movie-theatres/los-angeles/amc-tyler-galleria-16,33.912871,-117.458058,California,AMC Theaters,2024-03-17
+AMC Tustin 14 at The District,2457 Park Ave,Tustin,CA,92782-2705,https://www.amctheatres.com/movie-theatres/los-angeles/amc-tustin-14-at-the-district,33.698383,-117.82732,California,AMC Theaters,2024-03-17
+AMC Glendora 12,1337 East Gladstone St.,Glendora,CA,91740,https://www.amctheatres.com/movie-theatres/los-angeles/amc-glendora-12,34.117098,-117.836118,California,AMC Theaters,2024-03-17
+AMC DINE-IN Ontario Mills 30,4549 Mills Circle,Ontario,CA,91764,https://www.amctheatres.com/movie-theatres/los-angeles/amc-dine-in-ontario-mills-30,34.074322,-117.552291,California,AMC Theaters,2024-03-17
+AMC DINE-IN Montclair Place 12,2200 Montclair Plaza Lane,Montclair,CA,91763,https://www.amctheatres.com/movie-theatres/los-angeles/amc-dine-in-montclair-place-12,34.0897674,-117.6949438,California,AMC Theaters,2024-03-17
+AMC Orange 30,20 City Blvd West,Orange,CA,92868-3130,https://www.amctheatres.com/movie-theatres/los-angeles/amc-orange-30,33.780103,-117.894348,California,AMC Theaters,2024-03-17
+AMC Norwalk 20,12300 E. Civic Center Drive,Norwalk,CA,90650-3171,https://www.amctheatres.com/movie-theatres/los-angeles/amc-norwalk-20,33.9139203253,-118.0712351964,California,AMC Theaters,2024-03-17
+"AMC Burbank Town Center 6, On First St. near San Fernando",770 North 1st Street,Burbank,CA,91501-0000,https://www.amctheatres.com/movie-theatres/los-angeles/amc-burbank-town-center-6,34.184719,-118.31448,California,AMC Theaters,2024-03-17
+AMC Marina Marketplace 6,4335 Glencoe Ave,Marina Del Rey,CA,90292,https://www.amctheatres.com/movie-theatres/los-angeles/amc-marina-marketplace-6,33.985832,-118.439505,California,AMC Theaters,2024-03-17
+AMC The Grove 14,189 The Grove Dr,Los Angeles,CA,90036,https://www.amctheatres.com/movie-theatres/los-angeles/amc-the-grove-14,34.0718782988,-118.3578432014,California,AMC Theaters,2024-03-17
+AMC The Americana at Brand 18,322 Americana Way,Glendale,CA,91210,https://www.amctheatres.com/movie-theatres/los-angeles/amc-the-americana-at-brand-18,34.144393,-118.25525,California,AMC Theaters,2024-03-17
+AMC Northridge 10,9400 Shirley Ave,Northridge,CA,91324,https://www.amctheatres.com/movie-theatres/los-angeles/amc-northridge-10,34.2400997,-118.5577136,California,AMC Theaters,2024-03-17
+AMC La Mirada 7,15296 Rosecrans Avenue,La Mirada,CA,90638,https://www.amctheatres.com/movie-theatres/los-angeles/amc-la-mirada-7,33.898744,-118.005413,California,AMC Theaters,2024-03-17
+AMC Woodbridge 5,4626 Barranca Parkway,Irvine,CA,92604,https://www.amctheatres.com/movie-theatres/los-angeles/amc-woodbridge-5,33.677368,-117.800179,California,AMC Theaters,2024-03-17
+AMC DINE-IN South Bay Galleria 16,1815 Hawthorne Blvd,Redondo Beach,CA,90278-3420,https://www.amctheatres.com/movie-theatres/los-angeles/amc-dine-in-south-bay-galleria-16,33.868102,-118.356318,California,AMC Theaters,2024-03-17
+AMC Atlantic Times Square 14,450 N Atlantic Blvd,Monterey Park,CA,91754,https://www.amctheatres.com/movie-theatres/los-angeles/amc-atlantic-times-square-14,34.067714,-118.134051,California,AMC Theaters,2024-03-17
+Universal Cinema AMC at CityWalk Hollywood,100 Universal City Plaza,Universal City,CA,91608,https://www.amctheatres.com/movie-theatres/los-angeles/universal-cinema-amc-at-citywalk-hollywood,34.1370311799,-118.3526099987,California,AMC Theaters,2024-03-17
+AMC Broadway 4,1441 3rd St. Promenade,Santa Monica,CA,90401-0000,https://www.amctheatres.com/movie-theatres/los-angeles/amc-broadway-4,34.014806,-118.494903,California,AMC Theaters,2024-03-17
+AMC DINE-IN Marina 6,13455 Maxella Ave,Marina Del Rey,CA,90292,https://www.amctheatres.com/movie-theatres/los-angeles/amc-dine-in-marina-6,33.98737618,-118.4408225,California,AMC Theaters,2024-03-17
+AMC Temecula 10,27531 Ynez Rd,Temecula,CA,92591-4631,https://www.amctheatres.com/movie-theatres/los-angeles/amc-temecula-10,33.503406,-117.15117,California,AMC Theaters,2024-03-17
+AMC DINE-IN Thousand Oaks 14,166 W. Hillcrest Drive,Thousand Oaks,CA,91360,https://www.amctheatres.com/movie-theatres/los-angeles/amc-dine-in-thousand-oaks-14,34.1819,-118.8856,California,AMC Theaters,2024-03-17
+AMC Stonybrook 20,2745 S Hurstbourne Pkwy,Louisville,KY,40220,https://www.amctheatres.com/movie-theatres/louisville-ky/amc-stonybrook-20,38.210522,-85.595936,Kentucky,AMC Theaters,2024-03-17
+AMC CLASSIC Milledgeville 6,2400 N Columbia St,Milledgeville,GA,31061,https://www.amctheatres.com/movie-theatres/macon-ga/amc-classic-milledgeville-6,33.10946,-83.25508,Georgia,AMC Theaters,2024-03-17
+AMC Fitchburg 18,6091 Mckee Rd,Fitchburg,WI,53719,https://www.amctheatres.com/movie-theatres/madison/amc-fitchburg-18,43.0144854,-89.46637,Wisconsin,AMC Theaters,2024-03-17
+AMC CLASSIC Johnson Creek 12,420 Village Walk Ln,Johnson Creek,WI,53038,https://www.amctheatres.com/movie-theatres/madison/amc-classic-johnson-creek-12,43.081277,-88.765635,Wisconsin,AMC Theaters,2024-03-17
+AMC CLASSIC Mattoon 10,2509 Hurst Dr,Mattoon,IL,61938,https://www.amctheatres.com/movie-theatres/mattoon/amc-classic-mattoon-10,39.482548,-88.307573,Illinois,AMC Theaters,2024-03-17
+AMC DINE-IN Coral Ridge 10,3401 N.e. 26th Avenue,Fort Lauderdale,FL,33306-0000,https://www.amctheatres.com/movie-theatres/miami-ft-lauderdale/amc-dine-in-coral-ridge-10,26.16999,-80.11506,Florida,AMC Theaters,2024-03-17
+AMC Tamiami 18,11865 Sw 26th St,Miami,FL,33175,https://www.amctheatres.com/movie-theatres/miami-ft-lauderdale/amc-tamiami-18,25.747734,-80.389511,Florida,AMC Theaters,2024-03-17
+AMC Sunset Place 24,5701 Sunset Drive,South Miami,FL,33143-0000,https://www.amctheatres.com/movie-theatres/miami-ft-lauderdale/amc-sunset-place-24,25.704396,-80.286462,Florida,AMC Theaters,2024-03-17
+AMC Weston 8,1338 Sw 160th Avenue,Sunrise,FL,33326,https://www.amctheatres.com/movie-theatres/miami-ft-lauderdale/amc-weston-8,26.104613,-80.361326,Florida,AMC Theaters,2024-03-17
+AMC Sunrise 8,4321 Nw 88th Avenue,Sunrise,FL,33351,https://www.amctheatres.com/movie-theatres/miami-ft-lauderdale/amc-sunrise-8,26.177621,-80.268003,Florida,AMC Theaters,2024-03-17
+AMC Aventura 24,19501 Biscayne Blvd #3001,Aventura,FL,33180-0000,https://www.amctheatres.com/movie-theatres/miami-ft-lauderdale/amc-aventura-24,25.956328,-80.14226,Florida,AMC Theaters,2024-03-17
+AMC Pembroke Lake 9,12085 Pines Blvd,Pembroke Pines,FL,33026,https://www.amctheatres.com/movie-theatres/miami-ft-lauderdale/amc-pembroke-lake-9,26.007849,-80.308276,Florida,AMC Theaters,2024-03-17
+AMC Hialeah 12,780 W 49th St,Hialeah,FL,33012-3609,https://www.amctheatres.com/movie-theatres/miami-ft-lauderdale/amc-hialeah-12,25.865364,-80.297871,Florida,AMC Theaters,2024-03-17
+AMC Pompano Beach 18,2315 N Federal Hwy,Pompano Beach,FL,33062-1010,https://www.amctheatres.com/movie-theatres/miami-ft-lauderdale/amc-pompano-beach-18,26.2602,-80.1009,Florida,AMC Theaters,2024-03-17
+AMC Crystal Run 16,1 Galleria Drive,Middletown,NY,10940,https://www.amctheatres.com/movie-theatres/middletown/amc-crystal-run-16,41.4535590447,-74.3668362559,New York,AMC Theaters,2024-03-17
+AMC Mayfair Mall 18,2500 N Mayfair Rd Ste M186,Wauwatosa,WI,53226-1464,https://www.amctheatres.com/movie-theatres/milwaukee/amc-mayfair-mall-18,43.06395,-88.044369,Wisconsin,AMC Theaters,2024-03-17
+AMC Eden Prairie Mall 18,8251 Flying Cloud Drive,Eden Prairie,MN,55344,https://www.amctheatres.com/movie-theatres/minneapolis-st-paul/amc-eden-prairie-mall-18,44.854469,-93.424537,Minnesota,AMC Theaters,2024-03-17
+AMC Rosedale 14,1595 Highway 36 W,Roseville,MN,55113,https://www.amctheatres.com/movie-theatres/minneapolis-st-paul/amc-rosedale-14,45.013331,-93.169174,Minnesota,AMC Theaters,2024-03-17
+AMC Southdale 16,400 Southdale Ctr,Edina,MN,55435-7020,https://www.amctheatres.com/movie-theatres/minneapolis-st-paul/amc-southdale-16,44.880556,-93.326111,Minnesota,AMC Theaters,2024-03-17
+AMC CLASSIC Mounds View 15,2430 Co Hwy 10,Mounds View,MN,55112,https://www.amctheatres.com/movie-theatres/minneapolis-st-paul/amc-classic-mounds-view-15,45.1018542,-93.2065835,Minnesota,AMC Theaters,2024-03-17
+AMC Coon Rapids 16,10051 Woodcrest Dr Nw,Coon Rapids,MN,55433,https://www.amctheatres.com/movie-theatres/minneapolis-st-paul/amc-coon-rapids-16,45.152408,-93.277735,Minnesota,AMC Theaters,2024-03-17
+AMC Inver Grove 16,5567 Bishop Ave,Inver Grove Heights,MN,55076,https://www.amctheatres.com/movie-theatres/minneapolis-st-paul/amc-inver-grove-16,44.868345,-93.058078,Minnesota,AMC Theaters,2024-03-17
+AMC Dakota Square 9,2400 10th Street Sw Dakota Sq Mall,Minot,ND,58701,https://www.amctheatres.com/movie-theatres/minot-nd/amc-dakota-square-9,48.20747,-101.30667,North Dakota,AMC Theaters,2024-03-17
+AMC CLASSIC Boulevard 10,465 Grand Boulevard,Miramar Beach,FL,32550,https://www.amctheatres.com/movie-theatres/miramar-beach-fl/amc-classic-boulevard-10,30.379701,-86.315554,Florida,AMC Theaters,2024-03-17
+AMC CLASSIC Missoula 12,3640 Mullan Rd,Missoula,MT,59802,https://www.amctheatres.com/movie-theatres/missoula-mt/amc-classic-missoula-12,46.887183,-114.04338,Montana,AMC Theaters,2024-03-17
+AMC DINE-IN Southgate 9,2901 Brooks Street,Missoula,MT,59801,https://www.amctheatres.com/movie-theatres/missoula-mt/amc-dine-in-southgate-9,46.845241,-114.0303642,Montana,AMC Theaters,2024-03-17
+AMC Festival Plaza 16,7925 Vaughn Road,Montgomery,AL,36116,https://www.amctheatres.com/movie-theatres/montgomery/amc-festival-plaza-16,32.34066,-86.1772,Alabama,AMC Theaters,2024-03-17
+AMC CLASSIC Chantilly 13,10477 Chantilly Parkway,Montgomery,AL,36117,https://www.amctheatres.com/movie-theatres/montgomery/amc-classic-chantilly-13,32.3602492,-86.1320681,Alabama,AMC Theaters,2024-03-17
+AMC CLASSIC Prattville 12,2399 Cobbs Ford Rd,Prattville,AL,36066-7705,https://www.amctheatres.com/movie-theatres/montgomery/amc-classic-prattville-12,32.4619026,-86.3993264,Alabama,AMC Theaters,2024-03-17
+AMC Headquarters Plaza 10,72 Headquarters Plaza,Morristown,NJ,07960,https://www.amctheatres.com/movie-theatres/morristown/amc-headquarters-plaza-10,40.80022,-74.4815,New Jersey,AMC Theaters,2024-03-17
+AMC Mountainside 10,1021 Route 22,Mountainside,NJ,07092-2806,https://www.amctheatres.com/movie-theatres/mountainside/amc-mountainside-10,40.683689,-74.337423,New Jersey,AMC Theaters,2024-03-17
+AMC Muncie 12,860 E Princeton Ave,Muncie,IN,47303,https://www.amctheatres.com/movie-theatres/muncie-richmond/amc-muncie-12,40.225395,-85.376251,Indiana,AMC Theaters,2024-03-17
+AMC CLASSIC Richmond 11,4713 National Rd E,Richmond,IN,47374,https://www.amctheatres.com/movie-theatres/muncie-richmond/amc-classic-richmond-11,39.829482,-84.83642,Indiana,AMC Theaters,2024-03-17
+AMC CLASSIC Myrtle Beach 12,10177 North Kings Highway,Myrtle Beach,SC,29572,https://www.amctheatres.com/movie-theatres/myrtle-beach-sc/amc-classic-myrtle-beach-12,33.791916,-78.766587,South Carolina,AMC Theaters,2024-03-17
+AMC CLASSIC Governor's Square 10,2801 Guthrie Hwy,Clarksville,TN,37040,https://www.amctheatres.com/movie-theatres/nashville-tn/amc-classic-governor-s-square-10,36.588379,-87.287729,Tennessee,AMC Theaters,2024-03-17
+AMC CLASSIC Highland 12,1181 S Jefferson Ave,Cookeville,TN,38506-4220,https://www.amctheatres.com/movie-theatres/nashville-tn/amc-classic-highland-12,36.13172,-85.5056,Tennessee,AMC Theaters,2024-03-17
+AMC DINE-IN Thoroughbred 20,633 Frazier Drive,Franklin,TN,37067,https://www.amctheatres.com/movie-theatres/nashville-tn/amc-dine-in-thoroughbred-20,35.943309,-86.823589,Tennessee,AMC Theaters,2024-03-17
+AMC CLASSIC Murfreesboro 16,2626 Cason Square Blvd.,Murfreesboro,TN,37128,https://www.amctheatres.com/movie-theatres/nashville-tn/amc-classic-murfreesboro-16,35.84341,-86.43837,Tennessee,AMC Theaters,2024-03-17
+AMC Antioch 8,901 Bell Rd,Antioch,TN,37013,https://www.amctheatres.com/movie-theatres/nashville-tn/amc-antioch-8,36.050639,-86.651675,Tennessee,AMC Theaters,2024-03-17
+AMC CLASSIC Spring Hill 12,2068 Crossing Circle,Springhill,TN,37174,https://www.amctheatres.com/movie-theatres/nashville-tn/amc-classic-spring-hill-12,35.737286,-86.944049,Tennessee,AMC Theaters,2024-03-17
+AMC Bellevue 12,8125 Sawyer Brown Road,Nashville,TN,37221,https://www.amctheatres.com/movie-theatres/nashville-tn/amc-bellevue-12,36.084569,-86.943778,Tennessee,AMC Theaters,2024-03-17
+AMC Stones River 9,1706 Old Fort Parkway,Murfreesboro,TN,37129,https://www.amctheatres.com/movie-theatres/nashville-tn/amc-stones-river-9,35.846374,-86.416096,Tennessee,AMC Theaters,2024-03-17
+AMC New Brunswick 18,17 US-1,New Brunswick,NJ,08901,https://www.amctheatres.com/movie-theatres/new-brunswick/amc-new-brunswick-18,40.488952,-74.415618,New Jersey,AMC Theaters,2024-03-17
+AMC Elmwood Palace 20,1200 Elmwood Park Blvd,Harahan,LA,70123-2313,https://www.amctheatres.com/movie-theatres/new-orleans/amc-elmwood-palace-20,29.9622762877,-90.1912881991,Louisiana,AMC Theaters,2024-03-17
+AMC Westbank Palace 16,1151 Manhattan Blvd,Harvey,LA,70058-4500,https://www.amctheatres.com/movie-theatres/new-orleans/amc-westbank-palace-16,29.8988345125,-90.0607165139,Louisiana,AMC Theaters,2024-03-17
+AMC DINE-IN Clearview Palace 12,4486 VETERANS MEMORIAL BLVD,Metairie,LA,70006-5329,https://www.amctheatres.com/movie-theatres/new-orleans/amc-dine-in-clearview-palace-12,30.0021153878,-90.1829949102,Louisiana,AMC Theaters,2024-03-17
+AMC Hammond Palace 10,801 C M Fagan Dr,Hammond,LA,70403-6050,https://www.amctheatres.com/movie-theatres/new-orleans/amc-hammond-palace-10,30.481665861,-90.4637013876,Louisiana,AMC Theaters,2024-03-17
+AMC Houma Palace 10,5737 W Park Ave,Houma,LA,70364-1400,https://www.amctheatres.com/movie-theatres/new-orleans/amc-houma-palace-10,29.640612,-90.757217,Louisiana,AMC Theaters,2024-03-17
+AMC Glen Cove 6,5 School St,Glen Cove,NY,11542,https://www.amctheatres.com/movie-theatres/new-york-city/amc-glen-cove-6,40.866325,-73.631466,New York,AMC Theaters,2024-03-17
+AMC Empire 25,234 West 42nd Street,New York,NY,10036,https://www.amctheatres.com/movie-theatres/new-york-city/amc-empire-25,40.7568430475,-73.9891790357,New York,AMC Theaters,2024-03-17
+AMC DINE-IN Huntington Square 12,4000 Jericho Turnpike,East Northport,NY,11731,https://www.amctheatres.com/movie-theatres/new-york-city/amc-dine-in-huntington-square-12,40.8390989,-73.3174212,New York,AMC Theaters,2024-03-17
+AMC DINE-IN Staten Island 11,2655 Richmond Avenue,Staten Island,NY,10314,https://www.amctheatres.com/movie-theatres/new-york-city/amc-dine-in-staten-island-11,40.5811274,-74.1676775,New York,AMC Theaters,2024-03-17
+AMC Marquis 16,100 Quarry Rd,Trumbull,CT,06611,https://www.amctheatres.com/movie-theatres/new-york-city/amc-marquis-16,41.228826,-73.184198,Connecticut,AMC Theaters,2024-03-17
+AMC Royale 6,542 Westport Ave,Norwalk,CT,06851,https://www.amctheatres.com/movie-theatres/new-york-city/amc-royale-6,41.127145,-73.38459,Connecticut,AMC Theaters,2024-03-17
+AMC SoNo 8,64 N Main St,Norwalk,CT,06854,https://www.amctheatres.com/movie-theatres/new-york-city/amc-sono-8,41.100559,-73.420328,Connecticut,AMC Theaters,2024-03-17
+AMC Majestic 6,118 Summer St,Stamford,CT,06901,https://www.amctheatres.com/movie-theatres/new-york-city/amc-majestic-6,41.05436,-73.54084,Connecticut,AMC Theaters,2024-03-17
+AMC Landmark 8,5 Landmark Square,Stamford,CT,06905,https://www.amctheatres.com/movie-theatres/new-york-city/amc-landmark-8,41.054861,-73.537444,Connecticut,AMC Theaters,2024-03-17
+AMC Bay Plaza Cinema 13,2210 Bartow Avenue,Bronx,NY,10475-4618,https://www.amctheatres.com/movie-theatres/new-york-city/amc-bay-plaza-cinema-13,40.86696332,-73.82503038,New York,AMC Theaters,2024-03-17
+AMC 84th Street 6,2310 Broadway,New York,NY,10024,https://www.amctheatres.com/movie-theatres/new-york-city/amc-84th-street-6,40.7867,-73.977691,New York,AMC Theaters,2024-03-17
+AMC Orpheum 7,1538 Third Ave (86th St.),New York,NY,10028,https://www.amctheatres.com/movie-theatres/new-york-city/amc-orpheum-7,40.779342,-73.953861,New York,AMC Theaters,2024-03-17
+AMC Village 7,66 Third Ave (11th St.),New York,NY,10003,https://www.amctheatres.com/movie-theatres/new-york-city/amc-village-7,40.73141,-73.988568,New York,AMC Theaters,2024-03-17
+AMC 19th St. East 6,890 Broadway,New York,NY,10003,https://www.amctheatres.com/movie-theatres/new-york-city/amc-19th-st-east-6,40.738673,-73.989829,New York,AMC Theaters,2024-03-17
+AMC Lincoln Square 13,1998 Broadway,New York,NY,10023,https://www.amctheatres.com/movie-theatres/new-york-city/amc-lincoln-square-13,40.775116,-73.981747,New York,AMC Theaters,2024-03-17
+AMC 34th Street 14,312 West 34th Street,New York,NY,10001,https://www.amctheatres.com/movie-theatres/new-york-city/amc-34th-street-14,40.75251,-73.994396,New York,AMC Theaters,2024-03-17
+AMC Bay Terrace 6,211-01 26th Ave,Bayside,NY,11360,https://www.amctheatres.com/movie-theatres/new-york-city/amc-bay-terrace-6,40.779063,-73.778679,New York,AMC Theaters,2024-03-17
+AMC Stony Brook 17,2196 Nesconset Highway,Stony Brook,NY,11790,https://www.amctheatres.com/movie-theatres/new-york-city/amc-stony-brook-17,40.87541783,-73.12657565,New York,AMC Theaters,2024-03-17
+AMC DINE-IN Levittown 10,3585 Hempstead Turnpike,Levittown,NY,11756,https://www.amctheatres.com/movie-theatres/new-york-city/amc-dine-in-levittown-10,40.72789414,-73.50285989,New York,AMC Theaters,2024-03-17
+AMC Roosevelt Field 8,630 Old Country Road,Garden City,NY,11530,https://www.amctheatres.com/movie-theatres/new-york-city/amc-roosevelt-field-8,40.73975965,-73.61514641,New York,AMC Theaters,2024-03-17
+AMC Raceway 10,1025 Corporate Drive,Westbury,NY,11590,https://www.amctheatres.com/movie-theatres/new-york-city/amc-raceway-10,40.74231144,-73.5965722,New York,AMC Theaters,2024-03-17
+AMC Fresh Meadows 7,190-02 Horace Harding Blvd.,Fresh Meadows,NY,11365,https://www.amctheatres.com/movie-theatres/new-york-city/amc-fresh-meadows-7,40.741229,-73.783583,New York,AMC Theaters,2024-03-17
+AMC Fantasy 5,18 North Park Avenue,Rockville Ctr.,NY,11570,https://www.amctheatres.com/movie-theatres/new-york-city/amc-fantasy-5,40.656804,-73.645246,New York,AMC Theaters,2024-03-17
+AMC Shore 8,37 Wall Street,Huntington,NY,11743,https://www.amctheatres.com/movie-theatres/new-york-city/amc-shore-8,40.872698,-73.427811,New York,AMC Theaters,2024-03-17
+AMC Kips Bay 15,570 Second Avenue,New York,NY,10016,https://www.amctheatres.com/movie-theatres/new-york-city/amc-kips-bay-15,40.742973,-73.977009,New York,AMC Theaters,2024-03-17
+AMC Magic Johnson Harlem 9,2309 Frederick Douglass Blvd.,New York,NY,10027,https://www.amctheatres.com/movie-theatres/new-york-city/amc-magic-johnson-harlem-9,40.809226,-73.951894,New York,AMC Theaters,2024-03-17
+AMC Lynnhaven 18,1001 Lynnhaven Mall Loop,Virginia Beach,VA,23452-7206,https://www.amctheatres.com/movie-theatres/norfolk/amc-lynnhaven-18,36.815885,-76.072756,Virginia,AMC Theaters,2024-03-17
+AMC Hampton Towne Centre 24,1 TOWN CENTER WAY,Hampton,VA,23666-1999,https://www.amctheatres.com/movie-theatres/norfolk/amc-hampton-towne-centre-24,37.06177,-76.423452,Virginia,AMC Theaters,2024-03-17
+AMC Bay Street 16,5614 Bay Street,Emeryville,CA,94608,https://www.amctheatres.com/movie-theatres/oakland/amc-bay-street-16,37.832951,-122.292965,California,AMC Theaters,2024-03-17
+AMC Brentwood 14,2525 Sand Creek Road,Brentwood,CA,94513,https://www.amctheatres.com/movie-theatres/oakland/amc-brentwood-14,37.945746,-121.740478,California,AMC Theaters,2024-03-17
+AMC Robinson Crossing 6,1300 Interstate Drive,Norman,OK,73072-0000,https://www.amctheatres.com/movie-theatres/oklahoma-city/amc-robinson-crossing-6,35.23332,-97.48788,Oklahoma,AMC Theaters,2024-03-17
+AMC Quail Springs Mall 24,2501 W. Memorial Rd,Oklahoma City,OK,73134-8025,https://www.amctheatres.com/movie-theatres/oklahoma-city/amc-quail-springs-mall-24,35.612151,-97.561189,Oklahoma,AMC Theaters,2024-03-17
+AMC Penn Square 10,1901 N.w.expressway,Oklahoma City,OK,73118,https://www.amctheatres.com/movie-theatres/oklahoma-city/amc-penn-square-10,35.525145,-97.543198,Oklahoma,AMC Theaters,2024-03-17
+AMC West End Pointe 8,12825 NW 10th Street,Yukon,OK,73099,https://www.amctheatres.com/movie-theatres/oklahoma-city/amc-west-end-pointe-8,35.479006,-97.756181,Oklahoma,AMC Theaters,2024-03-17
+AMC Stillwater 10,1909 N Perkins Rd,Stillwater,OK,74074,https://www.amctheatres.com/movie-theatres/oklahoma-city/amc-stillwater-10,36.139816,-97.050422,Oklahoma,AMC Theaters,2024-03-17
+Cinema Centre 8,3031 N Harrison,Shawnee,OK,74804,https://www.amctheatres.com/movie-theatres/oklahoma-city/cinema-centre-8,35.363264,-96.910906,Oklahoma,AMC Theaters,2024-03-17
+AMC CLASSIC Westroads 14,10000 California St,Omaha,NE,68114,https://www.amctheatres.com/movie-theatres/omaha/amc-classic-westroads-14,41.267485,-96.068766,Nebraska,AMC Theaters,2024-03-17
+AMC Council Bluffs 17,3220 23rd Ave,Council Bluffs,IA,51501,https://www.amctheatres.com/movie-theatres/omaha/amc-council-bluffs-17,41.24191829,-95.8954748691,Iowa,AMC Theaters,2024-03-17
+AMC Altamonte Mall 18,433 E ALTAMONTE DR,Altamonte Springs,FL,32701-4603,https://www.amctheatres.com/movie-theatres/orlando-daytona-beach/amc-altamonte-mall-18,28.667199,-81.380085,Florida,AMC Theaters,2024-03-17
+"AMC DINE-IN Disney Springs 24, Grab-and-go treat stands plus 10 auditoriums offer dine-in service delivered right to your seat.",1500 E Buena Vista Dr,Lake Buena Vista,FL,32830-8422,https://www.amctheatres.com/movie-theatres/orlando-daytona-beach/amc-dine-in-disney-springs-24,28.37003388,-81.52096067,Florida,AMC Theaters,2024-03-17
+AMC West Oaks 14,9415 West Colonial Drive,Ocoee,FL,34761-0000,https://www.amctheatres.com/movie-theatres/orlando-daytona-beach/amc-west-oaks-14,28.551911,-81.514677,Florida,AMC Theaters,2024-03-17
+AMC Avenue 16,2241 Town Center Ave,Melbourne,FL,32940,https://www.amctheatres.com/movie-theatres/orlando-daytona-beach/amc-avenue-16,28.242483,-80.725757,Florida,AMC Theaters,2024-03-17
+AMC CLASSIC New Smyrna 12,1401 S Dixie Fwy,New Smyrna Beach,FL,32168-7604,https://www.amctheatres.com/movie-theatres/orlando-daytona-beach/amc-classic-new-smyrna-12,29.009607,-80.918905,Florida,AMC Theaters,2024-03-17
+AMC CLASSIC West Melbourne 12,4255 Norfolk Parkway,West Melbourne,FL,32904,https://www.amctheatres.com/movie-theatres/orlando-daytona-beach/amc-classic-west-melbourne-12,28.04007,-80.664333,Florida,AMC Theaters,2024-03-17
+AMC Garden State Plaza 16,4000 Garden State Plaza,Paramus,NJ,07652,https://www.amctheatres.com/movie-theatres/paramus/amc-garden-state-plaza-16,40.9159756628,-74.0761990675,New Jersey,AMC Theaters,2024-03-17
+AMC CLASSIC Jubilee Square 12,6898 Us 90,Daphne,AL,36526,https://www.amctheatres.com/movie-theatres/pensacola-mobile/amc-classic-jubilee-square-12,30.652793,-87.903254,Alabama,AMC Theaters,2024-03-17
+AMC Mobile 16,785 Schillinger Rd S,Mobile,AL,36695,https://www.amctheatres.com/movie-theatres/pensacola-mobile/amc-mobile-16,30.672979,-88.22221,Alabama,AMC Theaters,2024-03-17
+AMC CLASSIC Wharf 15,23101 Canal Road,Orange Beach,AL,36561,https://www.amctheatres.com/movie-theatres/pensacola-mobile/amc-classic-wharf-15,30.292731,-87.628693,Alabama,AMC Theaters,2024-03-17
+AMC CLASSIC Pensacola 18,6595 North W St,Pensacola,FL,32505,https://www.amctheatres.com/movie-theatres/pensacola-mobile/amc-classic-pensacola-18,30.485862,-87.261906,Florida,AMC Theaters,2024-03-17
+AMC Bayou 15,5149 Bayou Boulevard,Pensacola,FL,32503,https://www.amctheatres.com/movie-theatres/pensacola-mobile/amc-bayou-15,30.47276,-87.21657,Florida,AMC Theaters,2024-03-17
+AMC CLASSIC Grand Prairie 18,5311 West American Praire Drive,Peoria,IL,61615,https://www.amctheatres.com/movie-theatres/peoria/amc-classic-grand-prairie-18,40.782907,-89.677303,Illinois,AMC Theaters,2024-03-17
+AMC CLASSIC Sunnyland 10,40 Sunnyland Plz,Washington,IL,61571-1943,https://www.amctheatres.com/movie-theatres/peoria/amc-classic-sunnyland-10,40.691582,-89.482086,Illinois,AMC Theaters,2024-03-17
+AMC CLASSIC Pekin 14,1124 Edgewater Dr,Pekin,IL,61554,https://www.amctheatres.com/movie-theatres/peoria/amc-classic-pekin-14,40.6027069,-89.6296453,Illinois,AMC Theaters,2024-03-17
+AMC MarketFair 10,3521 US-1,Princeton,NJ,08540,https://www.amctheatres.com/movie-theatres/philadelphia/amc-marketfair-10,40.3155337,-74.6619304,New Jersey,AMC Theaters,2024-03-17
+AMC Deptford 8,1740 Clements Bridge Road,Deptford,NJ,08096-2010,https://www.amctheatres.com/movie-theatres/philadelphia/amc-deptford-8,39.835019,-75.10009,New Jersey,AMC Theaters,2024-03-17
+AMC Marlton 8,800 N. Route 73,Marlton,NJ,08053-0000,https://www.amctheatres.com/movie-theatres/philadelphia/amc-marlton-8,39.9048770406,-74.9356045984,New Jersey,AMC Theaters,2024-03-17
+AMC Neshaminy 24,660 Neshaminy Mall,Bensalem,PA,19020-1612,https://www.amctheatres.com/movie-theatres/philadelphia/amc-neshaminy-24,40.139656,-74.961364,Pennsylvania,AMC Theaters,2024-03-17
+AMC Woodhaven 10,1336 Bristol Pike,Bensalem,PA,19020-0000,https://www.amctheatres.com/movie-theatres/philadelphia/amc-woodhaven-10,40.071986,-74.965098,Pennsylvania,AMC Theaters,2024-03-17
+AMC DINE-IN Fashion District 8,1001 Market Street,Philadelphia,PA,19107,https://www.amctheatres.com/movie-theatres/philadelphia/amc-dine-in-fashion-district-8,39.9519679,-75.1582372,Pennsylvania,AMC Theaters,2024-03-17
+AMC Marple 10,400 South State Road,Springfield,PA,19064,https://www.amctheatres.com/movie-theatres/philadelphia/amc-marple-10,39.9383603985,-75.3580909043,Pennsylvania,AMC Theaters,2024-03-17
+AMC Broadstreet 7,1600 N Broadstreet,Philadelphia,PA,19121,https://www.amctheatres.com/movie-theatres/philadelphia/amc-broadstreet-7,39.97797,-75.158456,Pennsylvania,AMC Theaters,2024-03-17
+AMC DINE-IN Painters Crossing 9,112 Wilmington Pike,West Chester,PA,19382-8310,https://www.amctheatres.com/movie-theatres/philadelphia/amc-dine-in-painters-crossing-9,39.8827857679,-75.5499470023,Pennsylvania,AMC Theaters,2024-03-17
+AMC DINE-IN Berkshire 8,800 Berkshire Boulevard,Wyomissing,PA,19610,https://www.amctheatres.com/movie-theatres/philadelphia/amc-dine-in-berkshire-8,40.3499231,-75.9670757,Pennsylvania,AMC Theaters,2024-03-17
+AMC 309 Cinema 9,1461 Bethlehem Pike,North Wales,PA,19454-1337,https://www.amctheatres.com/movie-theatres/philadelphia/amc-309-cinema-9,40.20697097,-75.22525618,Pennsylvania,AMC Theaters,2024-03-17
+AMC Philadelphia Mills 14,1149 Franklin Mills Circle,Philadelphia,PA,19154-3192,https://www.amctheatres.com/movie-theatres/philadelphia/amc-philadelphia-mills-14,40.087352,-74.959199,Pennsylvania,AMC Theaters,2024-03-17
+AMC Plymouth Meeting Mall 12,494 W Germantown Pike,Plymouth Meeting,PA,19462-1322,https://www.amctheatres.com/movie-theatres/philadelphia/amc-plymouth-meeting-mall-12,40.11472684,-75.27938482,Pennsylvania,AMC Theaters,2024-03-17
+AMC Cherry Hill 24,2121 Route 38,Cherry Hill,NJ,08002,https://www.amctheatres.com/movie-theatres/philadelphia/amc-cherry-hill-24,39.938123,-75.026579,New Jersey,AMC Theaters,2024-03-17
+AMC CLASSIC Dover 14,1365 N Dupont Hwy,Dover,DE,19901,https://www.amctheatres.com/movie-theatres/philadelphia/amc-classic-dover-14,39.190917,-75.539299,Delaware,AMC Theaters,2024-03-17
+AMC Voorhees 16,900 Haddonfield Berlin Rd,Voorhees,NJ,08043-3598,https://www.amctheatres.com/movie-theatres/philadelphia/amc-voorhees-16,39.847126,-74.979118,New Jersey,AMC Theaters,2024-03-17
+AMC CLASSIC Allentown 16,1700 Catasauqua Rd,Allentown,PA,18109-3102,https://www.amctheatres.com/movie-theatres/philadelphia/amc-classic-allentown-16,40.636406,-75.430411,Pennsylvania,AMC Theaters,2024-03-17
+AMC Center Valley 16,2805 Center Valley Parkway,Center Valley,PA,18034,https://www.amctheatres.com/movie-theatres/philadelphia/amc-center-valley-16,40.559492,-75.409895,Pennsylvania,AMC Theaters,2024-03-17
+AMC CLASSIC Pottsgrove 12,110 Upland Square Dr.,Pottsgrove,PA,19464,https://www.amctheatres.com/movie-theatres/philadelphia/amc-classic-pottsgrove-12,40.268608,-75.659001,Pennsylvania,AMC Theaters,2024-03-17
+AMC Fairgrounds 10,3050 North 5th Street Highway,Reading,PA,19605-2473,https://www.amctheatres.com/movie-theatres/philadelphia/amc-fairgrounds-10,40.379612,-75.931213,Pennsylvania,AMC Theaters,2024-03-17
+AMC Ahwatukee 24,4915 East Ray Road,Phoenix,AZ,85044-6401,https://www.amctheatres.com/movie-theatres/phoenix/amc-ahwatukee-24,33.3175071514,-111.9772429643,Arizona,AMC Theaters,2024-03-17
+AMC Centerpoint 11,730 South Mill Ave,Tempe,AZ,85281,https://www.amctheatres.com/movie-theatres/phoenix/amc-centerpoint-11,33.422942,-111.941701,Arizona,AMC Theaters,2024-03-17
+AMC DINE-IN Esplanade 14,2515 E CAMELBACK RD,Phoenix,AZ,85016-4203,https://www.amctheatres.com/movie-theatres/phoenix/amc-dine-in-esplanade-14,33.5082728404,-112.0276048419,Arizona,AMC Theaters,2024-03-17
+AMC Superstition East 12,1935 S Signal Butte Road,Mesa,AZ,85209,https://www.amctheatres.com/movie-theatres/phoenix/amc-superstition-east-12,33.379776,-111.59853,Arizona,AMC Theaters,2024-03-17
+AMC Deer Valley 17,3033 West Agua Fria Freeway,Phoenix,AZ,85027-0000,https://www.amctheatres.com/movie-theatres/phoenix/amc-deer-valley-17,33.666766,-112.123915,Arizona,AMC Theaters,2024-03-17
+AMC Mesa Grand 14,1645 South Stapley Drive,Mesa,AZ,85204-6609,https://www.amctheatres.com/movie-theatres/phoenix/amc-mesa-grand-14,33.383749,-111.802732,Arizona,AMC Theaters,2024-03-17
+AMC Arizona Center 24,565 North 3rd Street,Phoenix,AZ,85004-2136,https://www.amctheatres.com/movie-theatres/phoenix/amc-arizona-center-24,33.453804,-112.069375,Arizona,AMC Theaters,2024-03-17
+AMC Arrowhead 14,7700 West Arrowhead Towne Ctr,Glendale,AZ,85308-8616,https://www.amctheatres.com/movie-theatres/phoenix/amc-arrowhead-14,33.642213,-112.225319,Arizona,AMC Theaters,2024-03-17
+AMC DINE-IN Desert Ridge 18,21001 North Tatum Blvd,Phoenix,AZ,85050,https://www.amctheatres.com/movie-theatres/phoenix/amc-dine-in-desert-ridge-18,33.679582,-111.975209,Arizona,AMC Theaters,2024-03-17
+AMC Westgate 20,9400 West Hanna Lane,Glendale,AZ,85305-3137,https://www.amctheatres.com/movie-theatres/phoenix/amc-westgate-20,33.535027,-112.261288,Arizona,AMC Theaters,2024-03-17
+AMC Surprise Pointe 14,13649 North Litchfield Road,Surprise,AZ,85374,https://www.amctheatres.com/movie-theatres/phoenix/amc-surprise-pointe-14,33.607388,-112.359147,Arizona,AMC Theaters,2024-03-17
+AMC Waterfront 22,300 West Waterfront Dr.,West Homestead,PA,15120,https://www.amctheatres.com/movie-theatres/pittsburgh/amc-waterfront-22,40.407061,-79.918974,Pennsylvania,AMC Theaters,2024-03-17
+AMC CLASSIC Westmoreland 15,5280 Old Rte 30,Greensburg,PA,15601,https://www.amctheatres.com/movie-theatres/pittsburgh/amc-classic-westmoreland-15,40.297916,-79.505129,Pennsylvania,AMC Theaters,2024-03-17
+AMC CLASSIC South Hills Village 10,700 Ft. Couch Rd S. Hills,Pittsburgh,PA,15241,https://www.amctheatres.com/movie-theatres/pittsburgh/amc-classic-south-hills-village-10,40.343244,-80.054246,Pennsylvania,AMC Theaters,2024-03-17
+AMC CLASSIC Mount Lebanon 6,1500 Washington Rd,Mount Lebanon,PA,15228,https://www.amctheatres.com/movie-theatres/pittsburgh/amc-classic-mount-lebanon-6,40.357251,-80.052196,Pennsylvania,AMC Theaters,2024-03-17
+AMC CLASSIC South Pike 10,718 S Pike Rd,Sarver,PA,16055-9551,https://www.amctheatres.com/movie-theatres/pittsburgh/amc-classic-south-pike-10,40.699869,-79.723331,Pennsylvania,AMC Theaters,2024-03-17
+AMC Morgantown 12,9540 Mall Rd,Morgantown,WV,26501,https://www.amctheatres.com/movie-theatres/pittsburgh/amc-morgantown-12,39.627111,-79.999396,West Virginia,AMC Theaters,2024-03-17
+AMC Southington 12,1821 Meriden-Waterbury Turnpike,Southington,CT,06489,https://www.amctheatres.com/movie-theatres/plainville/amc-southington-12,41.565291,-72.907209,Connecticut,AMC Theaters,2024-03-17
+AMC Plainville 20,220 New Britain Avenue,Plainville,CT,06062,https://www.amctheatres.com/movie-theatres/plainville/amc-plainville-20,41.67456561,-72.84509679,Connecticut,AMC Theaters,2024-03-17
+AMC CLASSIC Poplar Bluff 8,3525 S Westwood Blvd,Poplar Bluff,MO,63901,https://www.amctheatres.com/movie-theatres/poplar-bluff/amc-classic-poplar-bluff-8,36.7328912606,-90.4445996041,Missouri,AMC Theaters,2024-03-17
+AMC Port Chester 14,40 Westchester Avenue,Port Chester,NY,10573,https://www.amctheatres.com/movie-theatres/port-chester/amc-port-chester-14,40.999988,-73.66237,New York,AMC Theaters,2024-03-17
+AMC CLASSIC Quincy 6,300 N 33rd St,Quincy,IL,62301,https://www.amctheatres.com/movie-theatres/quincy/amc-classic-quincy-6,39.9340117899,-91.3625348234,Illinois,AMC Theaters,2024-03-17
+AMC Southpoint 17,8030 Renaissance Parkway,Durham,NC,27713,https://www.amctheatres.com/movie-theatres/raleigh-durham/amc-southpoint-17,35.90520062,-78.94566932,North Carolina,AMC Theaters,2024-03-17
+AMC Market Fair 15,1916 Skibo Rd,Fayetteville,NC,28314,https://www.amctheatres.com/movie-theatres/raleigh-durham/amc-market-fair-15,35.06958,-78.96953,North Carolina,AMC Theaters,2024-03-17
+AMC Fayetteville 14,4761 Lake Valley Dr,Fayetteville,NC,28303,https://www.amctheatres.com/movie-theatres/raleigh-durham/amc-fayetteville-14,35.084076,-78.967301,North Carolina,AMC Theaters,2024-03-17
+AMC Park Place 16,9525 Chapel Hill Rd,Morrisville,NC,27560,https://www.amctheatres.com/movie-theatres/raleigh-durham/amc-park-place-16,35.803857,-78.808923,North Carolina,AMC Theaters,2024-03-17
+AMC CLASSIC Wilson 10,1501 Ward Blvd,Wilson,NC,27893,https://www.amctheatres.com/movie-theatres/raleigh-durham/amc-classic-wilson-10,35.724429,-77.937135,North Carolina,AMC Theaters,2024-03-17
+AMC DINE-IN Holly Springs 9,320 Grand Hill Pl,Holly Springs,NC,27540,https://www.amctheatres.com/movie-theatres/raleigh-durham/amc-dine-in-holly-springs-9,35.66295,-78.847507,North Carolina,AMC Theaters,2024-03-17
+AMC CLASSIC Rapid City 10,230 Knollwood Dr,Rapid City,SD,57701,https://www.amctheatres.com/movie-theatres/rapid-city-sd/amc-classic-rapid-city-10,44.103107,-103.217663,South Dakota,AMC Theaters,2024-03-17
+AMC DINE-IN Midlothian 10,1100 Alverser Dr,Midlothian,VA,23113,https://www.amctheatres.com/movie-theatres/richmond-va/amc-dine-in-midlothian-10,37.50713,-77.61932,Virginia,AMC Theaters,2024-03-17
+AMC Ridgefield Park 12,75 Challenger Road,Ridgefield Park,NJ,07660,https://www.amctheatres.com/movie-theatres/ridgefield-park/amc-ridgefield-park-12,40.84968,-74.013055,New Jersey,AMC Theaters,2024-03-17
+AMC CLASSIC Roanoke 10,4494 Electric Rd Sw,Roanoke,VA,24014,https://www.amctheatres.com/movie-theatres/roanoke-va/amc-classic-roanoke-10,37.234,-79.9771,Virginia,AMC Theaters,2024-03-17
+AMC CLASSIC Salem Valley 8,1700 Apperson Dr,Salem,VA,24153,https://www.amctheatres.com/movie-theatres/roanoke-va/amc-classic-salem-valley-8,37.2696,-80.032659,Virginia,AMC Theaters,2024-03-17
+AMC Webster 12,2190 Empire Blvd.,Webster,NY,14580,https://www.amctheatres.com/movie-theatres/rochester/amc-webster-12,43.201962,-77.494605,New York,AMC Theaters,2024-03-17
+AMC CLASSIC Sauk Valley 8,4110 30th St,Sterling,IL,61081-9798,https://www.amctheatres.com/movie-theatres/rockford/amc-classic-sauk-valley-8,41.816824,-89.649519,Illinois,AMC Theaters,2024-03-17
+AMC Rockford 16,8301 E State St,Rockford,IL,61108,https://www.amctheatres.com/movie-theatres/rockford/amc-rockford-16,42.272396,-88.953466,Illinois,AMC Theaters,2024-03-17
+AMC Machesney Park 14,1860 Anjali Way,Machesney Park,IL,61115,https://www.amctheatres.com/movie-theatres/rockford/amc-machesney-park-14,42.37078,-89.004594,Illinois,AMC Theaters,2024-03-17
+AMC West Jordan 12,1600 West Fox Park Drive,West Jordan,UT,84088,https://www.amctheatres.com/movie-theatres/salt-lake-city/amc-west-jordan-12,40.584683,-111.935813,Utah,AMC Theaters,2024-03-17
+AMC Layton Hills 9,728 West 1425 North,Layton Hills,UT,84041,https://www.amctheatres.com/movie-theatres/salt-lake-city/amc-layton-hills-9,41.0815070673,-111.9792286528,Utah,AMC Theaters,2024-03-17
+AMC Provo 8,4925 N Edgewood Dr,Provo,UT,84604,https://www.amctheatres.com/movie-theatres/salt-lake-city/amc-provo-8,40.299253,-111.659858,Utah,AMC Theaters,2024-03-17
+AMC Rivercenter 11 with Alamo IMAX,849 E. Commerce Street,San Antonio,TX,78205-0000,https://www.amctheatres.com/movie-theatres/san-antonio/amc-rivercenter-11-with-alamo-imax,29.423622,-98.485358,Texas,AMC Theaters,2024-03-17
+AMC CLASSIC Boerne 11,205 Old San Antonio Road,Boerne,TX,78006,https://www.amctheatres.com/movie-theatres/san-antonio/amc-classic-boerne-11,29.758917,-98.70634,Texas,AMC Theaters,2024-03-17
+AMC Palm Promenade 24,770 Dennery Road,San Diego,CA,92154-8400,https://www.amctheatres.com/movie-theatres/san-diego/amc-palm-promenade-24,32.578913,-117.036334,California,AMC Theaters,2024-03-17
+AMC Mission Valley 20,"1640 Camino Del Rio, North",San Diego,CA,92108,https://www.amctheatres.com/movie-theatres/san-diego/amc-mission-valley-20,32.76775,-117.146678,California,AMC Theaters,2024-03-17
+"AMC La Jolla 12, Located in La Jolla Village Square",8657 Villa La Jolla Dr,La Jolla,CA,92037-2356,https://www.amctheatres.com/movie-theatres/san-diego/amc-la-jolla-12,32.866533,-117.231649,California,AMC Theaters,2024-03-17
+AMC Otay Ranch 12,2015 Birch Road,Chula Vista,CA,91915,https://www.amctheatres.com/movie-theatres/san-diego/amc-otay-ranch-12,32.623132,-116.967554,California,AMC Theaters,2024-03-17
+AMC Plaza Bonita 14,3050 Plaza Bonita Rd.,National City,CA,91950,https://www.amctheatres.com/movie-theatres/san-diego/amc-plaza-bonita-14,32.65578,-117.065718,California,AMC Theaters,2024-03-17
+AMC Fashion Valley 18,7037 Friars Road,San Diego,CA,92108,https://www.amctheatres.com/movie-theatres/san-diego/amc-fashion-valley-18,32.76717,-117.169295,California,AMC Theaters,2024-03-17
+AMC Chula Vista 10,555 Broadway #2050,Chula Vista,CA,91910,https://www.amctheatres.com/movie-theatres/san-diego/amc-chula-vista-10,32.63014,-117.08459,California,AMC Theaters,2024-03-17
+"AMC UTC 14, Located in Westfield Mall",4425 La Jolla Village Drive,San Diego,CA,92122,https://www.amctheatres.com/movie-theatres/san-diego/amc-utc-14,32.871279,-117.211299,California,AMC Theaters,2024-03-17
+AMC DINE-IN Poway 10,13475 Poway Rd,Poway,CA,92064-4713,https://www.amctheatres.com/movie-theatres/san-diego/amc-dine-in-poway-10,32.954897,-117.039772,California,AMC Theaters,2024-03-17
+AMC DINE-IN Sunnyvale 12,150 E. McKinley Ave,Sunnyvale,CA,94086,https://www.amctheatres.com/movie-theatres/san-francisco/amc-dine-in-sunnyvale-12,37.373807,-122.0329617,California,AMC Theaters,2024-03-17
+AMC NewPark 12,400 Newpark Mall,Newark,CA,94560,https://www.amctheatres.com/movie-theatres/san-francisco/amc-newpark-12,37.527744,-122.001159,California,AMC Theaters,2024-03-17
+AMC Metreon 16,135 Fourth St,San Francisco,CA,94103,https://www.amctheatres.com/movie-theatres/san-francisco/amc-metreon-16,37.78409516,-122.4036164,California,AMC Theaters,2024-03-17
+AMC Kabuki 8,1881 Post St,San Francisco,CA,94115-3607,https://www.amctheatres.com/movie-theatres/san-francisco/amc-kabuki-8,37.7852,-122.432688,California,AMC Theaters,2024-03-17
+AMC Manteca 16,848 Lifestyle St,Manteca,CA,95337,https://www.amctheatres.com/movie-theatres/san-francisco/amc-manteca-16,37.781226,-121.227506,California,AMC Theaters,2024-03-17
+AMC Eastridge 15,2190 Eastridge Loop,San Jose,CA,95122,https://www.amctheatres.com/movie-theatres/san-jose/amc-eastridge-15,37.32401289,-121.8144489,California,AMC Theaters,2024-03-17
+AMC Saratoga 14,700 El Paseo De Saratoga,San Jose,CA,95130-1628,https://www.amctheatres.com/movie-theatres/san-jose/amc-saratoga-14,37.288734,-121.989949,California,AMC Theaters,2024-03-17
+AMC Mercado 20,3111 Mission College Blvd.,Santa Clara,CA,95054-1832,https://www.amctheatres.com/movie-theatres/san-jose/amc-mercado-20,37.388852,-121.982993,California,AMC Theaters,2024-03-17
+AMC Saratoga Springs 11,19 Railroad Pl,Saratoga Springs,NY,12866,https://www.amctheatres.com/movie-theatres/saratoga-springs/amc-saratoga-springs-11,43.083531,-73.786927,New York,AMC Theaters,2024-03-17
+AMC CLASSIC Savannah 11,1150 Shawnee St,Savannah,GA,31420,https://www.amctheatres.com/movie-theatres/savannah-ga/amc-classic-savannah-11,31.985684,-81.172167,Georgia,AMC Theaters,2024-03-17
+AMC CLASSIC Statesboro 12,610 Brannen St,Statesboro,GA,30458,https://www.amctheatres.com/movie-theatres/savannah-ga/amc-classic-statesboro-12,32.43409,-81.76359,Georgia,AMC Theaters,2024-03-17
+AMC Kent Station 14,426 Ramsay Way,Kent,WA,98032,https://www.amctheatres.com/movie-theatres/seattle-tacoma/amc-kent-station-14,47.384948,-122.235058,Washington,AMC Theaters,2024-03-17
+AMC Southcenter 16,3600 Southcenter Mall,Tukwila,WA,98188,https://www.amctheatres.com/movie-theatres/seattle-tacoma/amc-southcenter-16,47.458567,-122.261211,Washington,AMC Theaters,2024-03-17
+AMC Progress Ridge 13,12345 Sw Horizon Blvd,Beaverton,OR,97007,https://www.amctheatres.com/movie-theatres/seattle-tacoma/amc-progress-ridge-13,45.4307154,-122.8315887,Oregon,AMC Theaters,2024-03-17
+AMC Vancouver Mall 23,8700 Northeast Vancouver Mall Drive,Vancouver,WA,98662,https://www.amctheatres.com/movie-theatres/seattle-tacoma/amc-vancouver-mall-23,45.657905,-122.584,Washington,AMC Theaters,2024-03-17
+AMC CLASSIC Mill Plain 8,11700 Se 7th St,Vancouver,WA,98683,https://www.amctheatres.com/movie-theatres/seattle-tacoma/amc-classic-mill-plain-8,45.616625,-122.550768,Washington,AMC Theaters,2024-03-17
+AMC Pacific Place 11,600 Pine Street,Seattle,WA,98101-3709,https://www.amctheatres.com/movie-theatres/seattle-tacoma/amc-pacific-place-11,47.612427,-122.335349,Washington,AMC Theaters,2024-03-17
+AMC Kitsap 8,10055 Kitsap Mall Blvd Nw,Silverdale,WA,98383,https://www.amctheatres.com/movie-theatres/seattle-tacoma/amc-kitsap-8,47.654688,-122.694861,Washington,AMC Theaters,2024-03-17
+AMC Factoria 8,3505 Factoria Blvd Se,Bellevue,WA,98006,https://www.amctheatres.com/movie-theatres/seattle-tacoma/amc-factoria-8,47.5790299804,-122.1702772566,Washington,AMC Theaters,2024-03-17
+AMC Oak Tree 6,10006 Aurora Avenue N.,Seattle,WA,98133,https://www.amctheatres.com/movie-theatres/seattle-tacoma/amc-oak-tree-6,47.701935,-122.342656,Washington,AMC Theaters,2024-03-17
+AMC Lakewood Mall 12,5721 Main St Sw,Lakewood,WA,98499,https://www.amctheatres.com/movie-theatres/seattle-tacoma/amc-lakewood-mall-12,47.1624102964,-122.5126752516,Washington,AMC Theaters,2024-03-17
+AMC Cascade Mall 14,200 Cascade Mall Dr.,Burlington,WA,98233,https://www.amctheatres.com/movie-theatres/seattle-tacoma/amc-cascade-mall-14,48.464626,-122.335816,Washington,AMC Theaters,2024-03-17
+AMC Woodinville 12,17640 Garden Wy. Ne,Woodinville,WA,98072,https://www.amctheatres.com/movie-theatres/seattle-tacoma/amc-woodinville-12,47.755873,-122.154261,Washington,AMC Theaters,2024-03-17
+AMC Alderwood Mall 16,18733-33rd Ave. West,Lynnwood,WA,98037,https://www.amctheatres.com/movie-theatres/seattle-tacoma/amc-alderwood-mall-16,47.827716,-122.275467,Washington,AMC Theaters,2024-03-17
+"AMC Seattle 10, We welcome guests 21+ only.",4500 9th Ave Ne,Seattle,WA,98105-4762,https://www.amctheatres.com/movie-theatres/seattle-tacoma/amc-seattle-10,47.662017,-122.318253,Washington,AMC Theaters,2024-03-17
+AMC CLASSIC Ardmore 8,2401 12th Avenue Nw #106,Ardmore,OK,73401,https://www.amctheatres.com/movie-theatres/sherman-tx/amc-classic-ardmore-8,34.188305,-97.159138,Oklahoma,AMC Theaters,2024-03-17
+AMC Southern Hills 12,4400 Sergeant Rd,Sioux City,IA,51106,https://www.amctheatres.com/movie-theatres/sioux-city-ia/amc-southern-hills-12,42.448855,-96.352371,Iowa,AMC Theaters,2024-03-17
+AMC South Bend 16,450 W Chippewa Ave,South Bend,IN,46614,https://www.amctheatres.com/movie-theatres/south-bend/amc-south-bend-16,41.633439,-86.255625,Indiana,AMC Theaters,2024-03-17
+AMC River Park Square 20,808 West Main Avenue,Spokane,WA,99201-0000,https://www.amctheatres.com/movie-theatres/spokane/amc-river-park-square-20,47.659503,-117.423758,Washington,AMC Theaters,2024-03-17
+AMC Champaign 13,910 Meijer Dr,Champaign,IL,61822,https://www.amctheatres.com/movie-theatres/springfield-il/amc-champaign-13,40.14767,-88.25957,Illinois,AMC Theaters,2024-03-17
+AMC CLASSIC Decatur 10,2360 S Mount Zion Rd,Decatur,IL,62521-9719,https://www.amctheatres.com/movie-theatres/springfield-il/amc-classic-decatur-10,39.81367,-88.876471,Illinois,AMC Theaters,2024-03-17
+AMC CLASSIC Springfield 12,3141 Mercantile Dr,Springfield,IL,62711,https://www.amctheatres.com/movie-theatres/springfield-il/amc-classic-springfield-12,39.75463764,-89.7269293009,Illinois,AMC Theaters,2024-03-17
+AMC Springfield 8,2945 S Dirksen Pkwy,Springfield,IL,62703,https://www.amctheatres.com/movie-theatres/springfield-il/amc-springfield-8,39.7635588675,-89.6083022308,Illinois,AMC Theaters,2024-03-17
+AMC Springfield 11,3200 E  Montclair,Springfield,MO,65804,https://www.amctheatres.com/movie-theatres/springfield-mo/amc-springfield-11,37.155064,-93.230447,Missouri,AMC Theaters,2024-03-17
+AMC Esquire 7,6706 Clayton Road,Saint Louis,MO,63117-1604,https://www.amctheatres.com/movie-theatres/st-louis/amc-esquire-7,38.634182,-90.316645,Missouri,AMC Theaters,2024-03-17
+AMC Streets Of St Charles 8,311 Lombard Street,St Charles,MO,63303,https://www.amctheatres.com/movie-theatres/st-louis/amc-streets-of-st-charles-8,38.766302,-90.49394,Missouri,AMC Theaters,2024-03-17
+AMC Creve Coeur 12,10465 Olive Blvd.,Creve Coeur,MO,63141,https://www.amctheatres.com/movie-theatres/st-louis/amc-creve-coeur-12,38.674509,-90.410778,Missouri,AMC Theaters,2024-03-17
+AMC Edwardsville 12,6633 Center Grove Rd,Edwardsville,IL,62025,https://www.amctheatres.com/movie-theatres/st-louis/amc-edwardsville-12,38.781801,-89.956677,Illinois,AMC Theaters,2024-03-17
+AMC CLASSIC Farmington 4,838 Valley Creek Dr,Farmington,MO,63640,https://www.amctheatres.com/movie-theatres/st-louis/amc-classic-farmington-4,37.7924417382,-90.4408698605,Missouri,AMC Theaters,2024-03-17
+AMC Tallahassee 20,2415 N. Monroe Street,Tallahassee,FL,32303-0000,https://www.amctheatres.com/movie-theatres/tallahassee/amc-tallahassee-20,30.47683086,-84.2888811,Florida,AMC Theaters,2024-03-17
+AMC Veterans 24,9302 Anderson Road,Tampa,FL,33634-0000,https://www.amctheatres.com/movie-theatres/tampa-st-petersburg/amc-veterans-24,28.0329875,-82.54304947,Florida,AMC Theaters,2024-03-17
+AMC The Regency 20,2496 W. Brandon Blvd,Brandon,FL,33511-4717,https://www.amctheatres.com/movie-theatres/tampa-st-petersburg/amc-the-regency-20,27.94293,-82.324122,Florida,AMC Theaters,2024-03-17
+AMC Sarasota 12,8201 S TAMIAMI TRL,Sarasota,FL,34238-2966,https://www.amctheatres.com/movie-theatres/tampa-st-petersburg/amc-sarasota-12,27.23352032,-82.4930766547,Florida,AMC Theaters,2024-03-17
+AMC Riverview 14,9390 Theater Dr,Gibsonton,FL,33534,https://www.amctheatres.com/movie-theatres/tampa-st-petersburg/amc-riverview-14,27.8486633,-82.3484671,Florida,AMC Theaters,2024-03-17
+AMC Woodlands Square 20,3128 Tampa Road,Oldsmar,FL,34677-0000,https://www.amctheatres.com/movie-theatres/tampa-st-petersburg/amc-woodlands-square-20,28.052358,-82.699454,Florida,AMC Theaters,2024-03-17
+AMC West Shore 14,210 Westshore Plaza,Tampa,FL,33609-0000,https://www.amctheatres.com/movie-theatres/tampa-st-petersburg/amc-west-shore-14,27.945051,-82.527397,Florida,AMC Theaters,2024-03-17
+AMC Bradenton 20,2507 53rd Ave E,Bradenton,FL,34203,https://www.amctheatres.com/movie-theatres/tampa-st-petersburg/amc-bradenton-20,27.448324,-82.531657,Florida,AMC Theaters,2024-03-17
+AMC CLASSIC Palm Harbor 10,37912 Us Highway 19 N,Palm Harbor,FL,34684-1025,https://www.amctheatres.com/movie-theatres/tampa-st-petersburg/amc-classic-palm-harbor-10,28.1165,-82.7408,Florida,AMC Theaters,2024-03-17
+AMC Lakeshore 8,901 Us 27,Sebring,FL,33870,https://www.amctheatres.com/movie-theatres/tampa-st-petersburg/amc-lakeshore-8,27.49059,-81.48838,Florida,AMC Theaters,2024-03-17
+AMC SUNDIAL 12,151 2nd Ave North,Saint Petersburg,FL,33701-3319,https://www.amctheatres.com/movie-theatres/tampa-st-petersburg/amc-sundial-12,27.7742,-82.6348,Florida,AMC Theaters,2024-03-17
+AMC Highwoods 20,18002 Highwoods Preserve Parkway,Tampa,FL,33647,https://www.amctheatres.com/movie-theatres/tampa-st-petersburg/amc-highwoods-20,28.130796,-82.37058,Florida,AMC Theaters,2024-03-17
+AMC CLASSIC Terre Haute 12,3153 S 3rd Pl,Terre Haute,IN,47802,https://www.amctheatres.com/movie-theatres/terre-haute/amc-classic-terre-haute-12,39.427904,-87.422526,Indiana,AMC Theaters,2024-03-17
+AMC CLASSIC Findlay 12,906 Interstate Dr.,Findlay,OH,45840,https://www.amctheatres.com/movie-theatres/toledo-oh/amc-classic-findlay-12,41.06464,-83.66755,Ohio,AMC Theaters,2024-03-17
+AMC DINE-IN Manhattan 13,103 Manhattan Town Center,Manhattan,KS,66502,https://www.amctheatres.com/movie-theatres/topeka-ks/amc-dine-in-manhattan-13,39.1779899597,-96.5594711304,Kansas,AMC Theaters,2024-03-17
+AMC CLASSIC Ludington 8,3857 W Us 10-31,Ludington,MI,49431,https://www.amctheatres.com/movie-theatres/traverse-city-mi/amc-classic-ludington-8,43.95611,-86.37573,Michigan,AMC Theaters,2024-03-17
+AMC CLASSIC Cherry Blossom 14,3825 Marketplace Cir,Traverse City,MI,49684,https://www.amctheatres.com/movie-theatres/traverse-city-mi/amc-classic-cherry-blossom-14,44.732119,-85.649435,Michigan,AMC Theaters,2024-03-17
+AMC CLASSIC Towne Crossing 8,925 W. Andrew Johnson Hwy,Greeneville,TN,37745,https://www.amctheatres.com/movie-theatres/tri-cities-tn/amc-classic-towne-crossing-8,36.173831,-82.836784,Tennessee,AMC Theaters,2024-03-17
+AMC Johnson City 14,1805 N Roan St,Johnson City,TN,37601,https://www.amctheatres.com/movie-theatres/tri-cities-tn/amc-johnson-city-14,36.3333,-82.3764,Tennessee,AMC Theaters,2024-03-17
+AMC Foothills 15,7401 N LA CHOLLA BLVD,Tucson,AZ,85741-2329,https://www.amctheatres.com/movie-theatres/tucson/amc-foothills-15,32.340714,-111.014906,Arizona,AMC Theaters,2024-03-17
+AMC Southroads 20,4923 E. 41st Street,Tulsa,OK,74135-0000,https://www.amctheatres.com/movie-theatres/tulsa/amc-southroads-20,36.104439,-95.921946,Oklahoma,AMC Theaters,2024-03-17
+AMC CLASSIC Owasso 12,12601 E 86th North,Owasso,OK,74055,https://www.amctheatres.com/movie-theatres/tulsa/amc-classic-owasso-12,36.278561,-95.83353,Oklahoma,AMC Theaters,2024-03-17
+AMC CLASSIC Tulsa Hills 12,8307 South Olympia Ave,Tulsa,OK,74132,https://www.amctheatres.com/movie-theatres/tulsa/amc-classic-tulsa-hills-12,36.044717,-96.004707,Oklahoma,AMC Theaters,2024-03-17
+AMC Longview 10,201 Tall Pines Ave,Longview,TX,75605,https://www.amctheatres.com/movie-theatres/tyler-tx/amc-longview-10,32.537877,-94.747413,Texas,AMC Theaters,2024-03-17
+AMC Lufkin 9,4600 S. Medford,Lufkin,TX,75901,https://www.amctheatres.com/movie-theatres/tyler-tx/amc-lufkin-9,31.311848,-94.724207,Texas,AMC Theaters,2024-03-17
+AMC CLASSIC Nacogdoches 6,3801 North Street,Nacogdoches,TX,75965,https://www.amctheatres.com/movie-theatres/tyler-tx/amc-classic-nacogdoches-6,31.639261,-94.653826,Texas,AMC Theaters,2024-03-17
+AMC CLASSIC Tyler 14,7415 S Broadway Ave,Tyler,TX,75703,https://www.amctheatres.com/movie-theatres/tyler-tx/amc-classic-tyler-14,32.26845,-95.30872,Texas,AMC Theaters,2024-03-17
+AMC Hawthorn 12,675 Hawthorn Center,Vernon Hills,IL,60061,https://www.amctheatres.com/movie-theatres/vernon-hills/amc-hawthorn-12,42.244412,-87.948942,Illinois,AMC Theaters,2024-03-17
+AMC Indian River 24,6200 20th Street  Room 600,Vero Beach,FL,32966,https://www.amctheatres.com/movie-theatres/vero-beach/amc-indian-river-24,27.641317,-80.457554,Florida,AMC Theaters,2024-03-17
+AMC Galaxy 16,333 South Valley Mills Dr,Waco,TX,76710,https://www.amctheatres.com/movie-theatres/waco/amc-galaxy-16,31.52481,-97.1599,Texas,AMC Theaters,2024-03-17
+AMC Hoffman Center 22,206 Hoffman Street,Alexandria,VA,22314,https://www.amctheatres.com/movie-theatres/washington-d-c/amc-hoffman-center-22,38.8023660972,-77.070928881,Virginia,AMC Theaters,2024-03-17
+AMC Rivertowne 12,6075 Oxon Hill Road,Oxon Hill,MD,20745,https://www.amctheatres.com/movie-theatres/washington-d-c/amc-rivertowne-12,38.806237,-76.98049,Maryland,AMC Theaters,2024-03-17
+AMC Montgomery 16,7101 Democracy Blvd,Bethesda,MD,20817,https://www.amctheatres.com/movie-theatres/washington-d-c/amc-montgomery-16,39.024584,-77.14772,Maryland,AMC Theaters,2024-03-17
+AMC Courthouse Plaza 8,2150 Clarendon Blvd,Arlington,VA,22201-0000,https://www.amctheatres.com/movie-theatres/washington-d-c/amc-courthouse-plaza-8,38.890211,-77.084959,Virginia,AMC Theaters,2024-03-17
+AMC Potomac Mills 18,2700 Potomac Mills Circle,Woodbridge,VA,22192-4625,https://www.amctheatres.com/movie-theatres/washington-d-c/amc-potomac-mills-18,38.6423173496,-77.2973446422,Virginia,AMC Theaters,2024-03-17
+AMC Academy 8,6198 Greenbelt Road,Greenbelt,MD,20770,https://www.amctheatres.com/movie-theatres/washington-d-c/amc-academy-8,39.0001,-76.910612,Maryland,AMC Theaters,2024-03-17
+AMC Tysons Corner 16,7850e Tysons Corner Ctr,Mclean,VA,22102,https://www.amctheatres.com/movie-theatres/washington-d-c/amc-tysons-corner-16,38.920286,-77.219664,Virginia,AMC Theaters,2024-03-17
+AMC Worldgate 9,13025 Worldgate Drive,Herndon,VA,20170,https://www.amctheatres.com/movie-theatres/washington-d-c/amc-worldgate-9,38.95681,-77.4008,Virginia,AMC Theaters,2024-03-17
+AMC Wheaton Mall 9,11006 Veirs Mill Road,Wheaton,MD,20902,https://www.amctheatres.com/movie-theatres/washington-d-c/amc-wheaton-mall-9,39.035439,-77.051637,Maryland,AMC Theaters,2024-03-17
+AMC Loudoun Station 11,43751 Central Station Drive,Ashburn,VA,20147,https://www.amctheatres.com/movie-theatres/washington-d-c/amc-loudoun-station-11,39.006438,-77.487754,Virginia,AMC Theaters,2024-03-17
+AMC Magic Johnson Capital Center 12,800 Shoppers Way,Largo,MD,20774,https://www.amctheatres.com/movie-theatres/washington-d-c/amc-magic-johnson-capital-center-12,38.901442,-76.847452,Maryland,AMC Theaters,2024-03-17
+AMC Georgetown 14,"3111 K Street, Nw",Washington,DC,20007,https://www.amctheatres.com/movie-theatres/washington-d-c/amc-georgetown-14,38.9028712877,-77.0616629471,,AMC Theaters,2024-03-17
+AMC DINE-IN Rio Cinemas 18,9811 Washingtonian Ctr..,Gaithersburg,MD,20878,https://www.amctheatres.com/movie-theatres/washington-d-c/amc-dine-in-rio-cinemas-18,39.1155071661,-77.1973225,Maryland,AMC Theaters,2024-03-17
+AMC St. Charles Town Center 9,11115 Mall Circle,Waldorf,MD,20603,https://www.amctheatres.com/movie-theatres/washington-d-c/amc-st-charles-town-center-9,38.620267,-76.928235,Maryland,AMC Theaters,2024-03-17
+AMC Shirlington 7,2772 South Randolph St,Arlington,VA,22206,https://www.amctheatres.com/movie-theatres/washington-d-c/amc-shirlington-7,38.8412841138,-77.0889737718,Virginia,AMC Theaters,2024-03-17
+AMC Center Park 8,4001 Powder Mill Road,Beltsville,MD,20705,https://www.amctheatres.com/movie-theatres/washington-d-c/amc-center-park-8,39.046517,-76.93702,Maryland,AMC Theaters,2024-03-17
+AMC Lexington Park 6,21882 Fdr Blvd.,Lexington Park,MD,20653,https://www.amctheatres.com/movie-theatres/washington-d-c/amc-lexington-park-6,38.2674760304,-76.4589364676,Maryland,AMC Theaters,2024-03-17
+AMC CLASSIC Apple Blossom 12,1850 Apple Blossom Dr,Winchester,VA,22601,https://www.amctheatres.com/movie-theatres/washington-d-c/amc-classic-apple-blossom-12,39.160362,-78.163839,Virginia,AMC Theaters,2024-03-17
+AMC Wayne 14,67 Willowbrook Blvd,Wayne,NJ,07470,https://www.amctheatres.com/movie-theatres/wayne/amc-wayne-14,40.88809,-74.250403,New Jersey,AMC Theaters,2024-03-17
+AMC Fallbrook 7,6731 Fallbrook Ave,West Hills,CA,91307,https://www.amctheatres.com/movie-theatres/west-hills/amc-fallbrook-7,34.19196,-118.626,California,AMC Theaters,2024-03-17
+AMC Palisades 21,4403 Palisades Ctr. Drive,West Nyack,NY,10994,https://www.amctheatres.com/movie-theatres/west-nyack/amc-palisades-21,41.098388,-73.953678,New York,AMC Theaters,2024-03-17
+AMC DINE-IN Essex Green 9,495 Prospect Avenue,West Orange,NJ,07052,https://www.amctheatres.com/movie-theatres/west-orange/amc-dine-in-essex-green-9,40.79336278,-74.25647238,New Jersey,AMC Theaters,2024-03-17
+AMC Port St Lucie 14,1900 Nw Courtyard Cir,Port St Lucie,FL,34986-2514,https://www.amctheatres.com/movie-theatres/west-palm-beach/amc-port-st-lucie-14,27.314619,-80.411647,Florida,AMC Theaters,2024-03-17
+AMC CLASSIC Ohio Valley Mall 11,700 Banfield Road,Saint Clairsville,OH,43950,https://www.amctheatres.com/movie-theatres/wheeling-wv/amc-classic-ohio-valley-mall-11,40.065423,-80.861133,Ohio,AMC Theaters,2024-03-17
+AMC Northrock 14,3151 PENSTEMON ST.,Wichita,KS,67226,https://www.amctheatres.com/movie-theatres/wichita/amc-northrock-14,37.740462,-97.240899,Kansas,AMC Theaters,2024-03-17
+AMC CLASSIC Hays 8,2918 Vine Street,Hays,KS,67601,https://www.amctheatres.com/movie-theatres/wichita/amc-classic-hays-8,38.891023,-99.315503,Kansas,AMC Theaters,2024-03-17
+AMC CLASSIC Salina 10,2259 South 9th Street,Salina,KS,67401,https://www.amctheatres.com/movie-theatres/wichita/amc-classic-salina-10,38.8010775,-97.6091815,Kansas,AMC Theaters,2024-03-17
+AMC CLASSIC Patriot 13,2803 NW 67th Street,Lawton,OK,73505,https://www.amctheatres.com/movie-theatres/wichita-falls-tx/amc-classic-patriot-13,34.635689,-98.474595,Oklahoma,AMC Theaters,2024-03-17
+AMC Sikes Senter 10,3111 Midwestern Pkwy,Wichita Falls,TX,76308,https://www.amctheatres.com/movie-theatres/wichita-falls-tx/amc-sikes-senter-10,33.86855,-98.53243,Texas,AMC Theaters,2024-03-17
+AMC CLASSIC Bloomsburg 11,1879 Columbia Blvd,Bloomsburg,PA,17815,https://www.amctheatres.com/movie-theatres/wilkes-barre-pa/amc-classic-bloomsburg-11,41.008379,-76.423447,Pennsylvania,AMC Theaters,2024-03-17
+AMC CLASSIC Selinsgrove 12,1 Susquehanna Valley Mall Drive,Selinsgrove,PA,17870,https://www.amctheatres.com/movie-theatres/wilkes-barre-pa/amc-classic-selinsgrove-12,40.825517,-76.850953,Pennsylvania,AMC Theaters,2024-03-17
+AMC CLASSIC Williamsport 11,300 W. Fourth St.,Williamsport,PA,17701,https://www.amctheatres.com/movie-theatres/wilkes-barre-pa/amc-classic-williamsport-11,41.240126,-77.006643,Pennsylvania,AMC Theaters,2024-03-17
+AMC CLASSIC Kennewick 12,1380 North Louisiana St,Kennewick,WA,99336,https://www.amctheatres.com/movie-theatres/yakima-wa/amc-classic-kennewick-12,46.224498,-119.232453,Washington,AMC Theaters,2024-03-17

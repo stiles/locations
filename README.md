@@ -16,6 +16,7 @@ An expanding collection of data scrapers designed to gather location details on 
 | Clothing & Accessories    |     3 |    620 |
 | Coffee Shops & Desserts   |     4 | 21,733 |
 | Electronics & Appliances  |     1 |    526 |
+| Entertainment  |     1 |    554 |
 | Fast Food & Quick Service |    19 | 81,287 |
 | Food & Beverage           |     2 |    236 |
 | Frozen Yogurt             |     3 |    529 |
@@ -25,7 +26,7 @@ An expanding collection of data scrapers designed to gather location details on 
 | Retail Stores             |    19 | 63,919 |
 | Shoes & Accessories       |     1 |    439 |
 | Specialty Foods           |     5 |   1856 |
-| **Total collected**               |    **71** | **187,817** |
+| **Total collected**               |    **72** | **188,371** |
 
 ### All the companies 
 
@@ -36,6 +37,7 @@ An expanding collection of data scrapers designed to gather location details on 
 | [99 Cents Only](https://github.com/stiles/locations/tree/main/99-cents-only)               | Retail Stores           |        370 |
 | [Abercrombie & Fitch](https://github.com/stiles/locations/tree/main/abercrombie-fitch) | Clothing & Accessories    |       221 |
 | [Aldi](https://github.com/stiles/locations/tree/main/aldi)                             | Retail Stores             |     2,362 |
+| [AMC Theaters](https://github.com/stiles/locations/tree/main/amc-theaters)                             | Entertainment             |     554 |
 | [Apple Stores](https://github.com/stiles/locations/tree/main/apple-stores)             | Electronics & Appliances  |       526 |
 | [Arby's](https://github.com/stiles/locations/tree/main/arbys)                          | Fast Food & Quick Service |     3,388 |
 | [Au Bon Pain](https://github.com/stiles/locations/tree/main/au-bon-pain)               | Food & Beverage           |        71 |
