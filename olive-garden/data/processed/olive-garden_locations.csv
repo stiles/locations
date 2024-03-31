@@ -1,0 +1,912 @@
+location_name,location_number,street,city,state_name,zip,phone,latitude,longitude,open_date,state,brand,updated
+Orange - Connecticut,1388,439 Boston Post Rd.,Orange,Connecticut,064773507,2037958600,41.259112,-73.011775,1993-04-19,CT,Olive Garden,2024-03-30
+Danbury,1463,36 Backus Ave.,Danbury,Connecticut,068107329,2037432144,41.374711,-73.486486,1995-11-06,CT,Olive Garden,2024-03-30
+North Haven,1776,310 Universal Drive North,North Haven,Connecticut,064733163,2032341327,41.35504,-72.872338,2008-12-08,CT,Olive Garden,2024-03-30
+Centereach Mall,1507,257 Centereach Mall,Centereach,New York,117202738,6315854027,40.859118,-73.082171,1996-09-09,NY,Olive Garden,2024-03-30
+Bay Shore,4475,1715 Sunrise Highway,Bay Shore,New York,117066007,6316655213,40.737139,-73.244328,2014-10-06,NY,Olive Garden,2024-03-30
+Westbury Plaza,1455,1246 Old Country Rd,Westbury,New York,115905651,5166833377,40.745335,-73.599744,1994-08-01,NY,Olive Garden,2024-03-30
+"Yonkers, NY",4478,9025 Xavier Drive,Yonkers,New York,107041315,9143754505,40.92910166,-73.8518713,2014-12-15,NY,Olive Garden,2024-03-30
+Bronx,4482,200 Baychester Ave,Bronx,New York,104754583,7189311045,40.86443171,-73.82772962,2014-09-22,NY,Olive Garden,2024-03-30
+West Hartford,1648,1441 New Britain Ave,West Hartford,Connecticut,061101659,8605219049,41.725591,-72.759225,2005-05-23,CT,Olive Garden,2024-03-30
+Valley Stream,4411,610 W Sunrise Hwy,Valley Stream,New York,115811010,5165931580,40.665151,-73.722614,2013-01-21,NY,Olive Garden,2024-03-30
+Merced,6483,721 W Olive Ave,Merced,California,953482426,2094465144,37.31965,-120.48129,2023-03-06,CA,Olive Garden,2024-03-30
+Turlock - Countryside Plaza,4430,2749 Countryside Drive,Turlock,California,953808434,2096322694,37.51703,-120.87966,2012-09-10,CA,Olive Garden,2024-03-30
+Modesto,1294,2200 Plaza Parkway,Modesto,California,953506222,2095448057,37.671056,-121.037688,1991-09-30,CA,Olive Garden,2024-03-30
+Fresno - The Marketplace at El Paseo,4494,6725 North Riverside Drive,Fresno,California,937229309,5592751034,36.8363969,-119.91126741,2017-06-26,CA,Olive Garden,2024-03-30
+Clovis - Sierra Vista Mall,1256,389 East Shaw Avenue,Clovis,California,936123818,5593237297,36.80879,-119.704848,1991-02-18,CA,Olive Garden,2024-03-30
+Tracy - West Valley Mall,1582,3140 Naglee Road,Tracy,California,953047319,2098359926,37.759262,-121.461604,2003-04-14,CA,Olive Garden,2024-03-30
+Stockton,1779,2671 W March Lane,Stockton,California,952076522,2099549018,37.985451,-121.342565,2009-03-02,CA,Olive Garden,2024-03-30
+Eastridge Mall,4468,2226 Eastridge Loop,San Jose,California,951221465,4082742447,37.32565,-121.81072,2013-11-04,CA,Olive Garden,2024-03-30
+Salinas,1335,1580 North Main Street,Salinas,California,939065101,8314496158,36.711973,-121.65388,1992-04-13,CA,Olive Garden,2024-03-30
+San Jose,1184,940 Blossom Hill Road,San Jose,California,951231202,4082251420,37.249867,-121.864534,1990-03-12,CA,Olive Garden,2024-03-30
+Oxnard,1340,1891 Ventura Boulevard,Oxnard,California,930361823,8059836656,34.224284,-119.152391,1992-09-14,CA,Olive Garden,2024-03-30
+Thousand Oaks,4402,158 W Hillcrest Drive,Thousand Oaks,California,913604209,8057771744,34.18193495,-118.88364394,2012-01-09,CA,Olive Garden,2024-03-30
+Fallbrook Center,4473,6501 Fallbrook Ave,West Hills,California,913073519,8189329801,34.18824956,-118.62373434,2014-05-05,CA,Olive Garden,2024-03-30
+Chatsworth - Northridge Galleria,1079,19724 Nordhoff Place,Chatsworth,California,913116604,8187726090,34.234811,-118.563319,1988-01-25,CA,Olive Garden,2024-03-30
+Santa Clarita,1563,27003 McBean Pkwy,Santa Clarita,California,913555145,6617998161,34.420729,-118.563274,2002-04-29,CA,Olive Garden,2024-03-30
+"Culver City, Westfield Mall",4433,6000 Sepulveda Blvd,Culver City,California,902306425,3103139185,33.98505753,-118.39508246,2012-10-29,CA,Olive Garden,2024-03-30
+Burbank Empire Shopping Center,1570,1741 N. Victory Place,Burbank,California,915021646,8185593640,34.190638,-118.32901,2002-05-20,CA,Olive Garden,2024-03-30
+Los Angeles - Midtown,6415,4835 Venice Blvd,Los Angeles,California,900195664,3238012417,34.04675201,-118.34179819,2021-07-19,CA,Olive Garden,2024-03-30
+Manhattan Beach,1723,2610 N. Sepulveda Blvd.,Manhattan Beach,California,902662724,3105450423,33.894989,-118.395108,1986-11-24,CA,Olive Garden,2024-03-30
+Glendale - Galleria,1322,101 N Brand Boulevard,Glendale,California,912032639,8182407119,34.14743073,-118.25562499,1992-02-24,CA,Olive Garden,2024-03-30
+Arcadia,1255,430 E Huntington Drive,Arcadia,California,910063748,6268210636,34.139707,-118.021871,1991-05-13,CA,Olive Garden,2024-03-30
+Montebello,4453,1866 Montebello Town Ctr,Montebello,California,906402166,3237211320,34.037364,-118.082314,2013-05-06,CA,Olive Garden,2024-03-30
+Whittier - The Quad,1248,13500 Whittier Blvd,Whittier,California,906051934,5626935999,33.961622,-118.030905,1991-02-25,CA,Olive Garden,2024-03-30
+City of Industry - Puente Hills Mall,1016,17585 Castleton St,City Of Industry,California,917481702,6269654710,33.994729,-117.920261,1986-07-07,CA,Olive Garden,2024-03-30
+San Dimas,4407,582 N Lone Hill Ave,San Dimas,California,917731725,9095995650,34.11248352,-117.82848521,2012-05-21,CA,Olive Garden,2024-03-30
+Downey - Stonewood Mall,1303,9253 Firestone Blvd,Downey,California,902415320,5629239773,33.933124,-118.118263,1992-11-30,CA,Olive Garden,2024-03-30
+Cerritos CA - Los Cerritos Center,1071,11171 183rd Street,Cerritos,California,907035415,5628608855,33.866134,-118.096436,1987-12-14,CA,Olive Garden,2024-03-30
+Hyattsville - Prince George Plaza,1651,3480 East West Highway,Hyattsville,Maryland,207821914,3018530289,38.967252,-76.958532,2006-10-09,MD,Olive Garden,2024-03-30
+Vienna,1361,8133 Leesburg Pike,Vienna,Virginia,221822751,7038933175,38.915389,-77.227165,1992-11-09,VA,Olive Garden,2024-03-30
+Falls Church,1262,3548-52 S Jefferson Street,Falls Church,Virginia,220413119,7036717507,38.846973,-77.118949,1991-05-06,VA,Olive Garden,2024-03-30
+Laurel Mall,1364,14650 Baltimore Ave.,Laurel,Maryland,207074954,3014980881,39.091449,-76.858493,1993-01-25,MD,Olive Garden,2024-03-30
+Sterling,1557,45970 Waterview Plaza,Sterling,Virginia,201666556,5714340713,39.033242,-77.410246,2001-05-21,VA,Olive Garden,2024-03-30
+Capitol Heights,4499,1681 Ritchie Station Court,Capitol Heights,Maryland,207435067,3013242133,38.86748124,-76.85126605,2017-12-05,MD,Olive Garden,2024-03-30
+Fairfax,1462,12980 Fair Lakes Shopping Center,Fairfax,Virginia,220335176,7036314840,38.858691,-77.391189,1994-10-03,VA,Olive Garden,2024-03-30
+Columbia MD,1261,8315 Benson Drive,Columbia,Maryland,210453116,4102900040,39.186026,-76.79949,1991-11-04,MD,Olive Garden,2024-03-30
+Bowie Town Center,1560,4101 Towne Center Blvd,Bowie,Maryland,207162214,3012624769,38.945683,-76.734749,2002-02-04,MD,Olive Garden,2024-03-30
+Hanover MD - Arundel Mills,1826,7061 Arundel Mills Circle,Hanover,Maryland,210761387,4107962750,39.15450889,-76.72914562,2011-05-23,MD,Olive Garden,2024-03-30
+Hayward,1382,24688 Hesperian Blvd,Hayward,California,945452434,5107826385,37.647824,-122.10656,1993-09-27,CA,Olive Garden,2024-03-30
+Vallejo,1418,1176 Admiral Callaghan Lane,Vallejo,California,945913700,7076480431,38.135111,-122.217391,1994-01-10,CA,Olive Garden,2024-03-30
+Fremont,1143,39145 Farwell Dr,Fremont,California,945381014,5107967500,37.531354,-121.999346,1989-01-16,CA,Olive Garden,2024-03-30
+Pittsburg,1341,4195 Century Blvd,Pittsburg,California,945657102,9257786208,38.006996,-121.842182,1992-07-27,CA,Olive Garden,2024-03-30
+Milpitas - Great Mall,1858,1350 Great Mall Drive,Milpitas,California,950358037,4089358176,37.412977,-121.895828,2011-02-21,CA,Olive Garden,2024-03-30
+Rohnert Park,1325,6430 Redwood Drive,Rohnert Park,California,949282326,7075863607,38.34789,-122.715468,1992-04-20,CA,Olive Garden,2024-03-30
+Vacaville,1722,100 Nut Tree Parkway,Vacaville,California,956873251,7074482715,38.368886,-121.957657,2007-12-03,CA,Olive Garden,2024-03-30
+Overland Park - Metcalf South Mall,1111,6750 W 95th Street,Overland Park,Kansas,662121466,9133818645,38.95709,-94.663425,1988-09-05,KS,Olive Garden,2024-03-30
+Olathe Point,1535,15090 West 119th Street,Olathe,Kansas,660629628,9137684372,38.913335,-94.76028,2001-03-12,KS,Olive Garden,2024-03-30
+Independence,1056,13910 E 40 Hwy,Independence,Missouri,640555860,8163730411,39.036131,-94.416488,1987-08-24,MO,Olive Garden,2024-03-30
+Lee's Summit,1849,650 NW Blue Parkway,Lees Summit,Missouri,640865734,8163479778,38.92653395,-94.40155342,2010-08-23,MO,Olive Garden,2024-03-30
+KC - Speedway Plaza,1795,10670 Parallel Parkway,Kansas City,Kansas,661093647,9137889320,39.12895,-94.82643,2010-05-03,KS,Olive Garden,2024-03-30
+Kansas City - North Barry Road,1170,500 N.W. Barry Rd,Kansas City,Missouri,641552739,8164687540,39.24691,-94.586687,1989-11-20,MO,Olive Garden,2024-03-30
+Liberty,1753,105 North Blue Jay Drive,Liberty,Missouri,640681906,8164077719,39.244991,-94.448509,2008-02-11,MO,Olive Garden,2024-03-30
+Blue Springs,1833,801 NE Coronado,Blue Springs,Missouri,640143004,8162243093,39.02674774,-94.25191396,2010-03-15,MO,Olive Garden,2024-03-30
+Saint Joseph - The Shoppes at North Village,1765,5312 N Belt Highway,Saint Joseph,Missouri,645061209,8169019211,39.814942,-94.815975,2008-02-11,MO,Olive Garden,2024-03-30
+Topeka - West Ridge Mall,1223,1925 SW Wanamaker Rd,Topeka,Kansas,666043821,7852717526,39.031317,-95.762801,1990-10-22,KS,Olive Garden,2024-03-30
+Gastonia - The Shops at Gastonia,1683,432 Cox Road,Gastonia,North Carolina,280540609,7048641709,35.263736,-81.1329,2006-04-17,NC,Olive Garden,2024-03-30
+Charlotte - Premium Outlets,6457,4910 Trojan Drive,Charlotte,North Carolina,282786629,7049698236,35.16543812282266,-80.9679293173719,2023-05-01,NC,Olive Garden,2024-03-30
+Northlake Commons,1682,8225 Northlake Commons Blvd,Charlotte,North Carolina,282162272,7044944473,35.348419,-80.854616,2006-03-13,NC,Olive Garden,2024-03-30
+Pineville - Carolina Place Mall,1312,9421 Pineville Matthews Road,Pineville,North Carolina,281347546,7045442334,35.086424,-80.877416,1992-01-27,NC,Olive Garden,2024-03-30
+Rock Hill - Dave Lyle Boulevard,1568,519 John Ross Parkway,Rock Hill,South Carolina,297308910,8039800125,34.941637,-80.980184,2002-04-22,SC,Olive Garden,2024-03-30
+Concord Mills Outlet,1539,8010 Concord Mills Blvd,Concord,North Carolina,280274417,7049791130,35.370482,-80.715301,2002-04-08,NC,Olive Garden,2024-03-30
+Mooresville,6438,438 Talbert Road,Mooresville,North Carolina,281178035,7042302619,35.58044474,-80.85334633,2020-01-27,NC,Olive Garden,2024-03-30
+Hickory - Valley Crossing Shopping Center,1407,2261 Highway 70,Hickory,North Carolina,286025165,8283451015,35.703271,-81.295353,1993-09-06,NC,Olive Garden,2024-03-30
+Monroe - The Park at Monroe,1861,2983 Monroe Way,Monroe,North Carolina,281107761,7042829900,35.02247273,-80.57969801,2011-01-17,NC,Olive Garden,2024-03-30
+Statesville NC - Crossroads Shopping Center,6504,1175 Glenway Dr,Statesville,North Carolina,28625,7042525905,35.809599,-80.867416,2024-04-01,NC,Olive Garden,2024-03-30
+Vernon Hills - Hawthorn Mall,1101,701 N Milwaukee Avenue,Vernon Hills,Illinois,600611556,8478160293,42.23948,-87.943823,1988-10-24,IL,Olive Garden,2024-03-30
+Gurnee - Great America,1536,5590 Northridge Dr,Gurnee,Illinois,600314903,8473363628,42.37817,-87.940639,1992-01-08,IL,Olive Garden,2024-03-30
+Arlington Heights,1154,630 East Rand Road,Arlington Heights,Illinois,600044004,8478188821,42.109301,-87.974342,1989-12-04,IL,Olive Garden,2024-03-30
+McHenry,1784,3451 Shoppers Drive,McHenry,Illinois,600515408,8153446228,42.367176,-88.267031,2009-01-26,IL,Olive Garden,2024-03-30
+Schaumburg - Woodfield Mall,1551,1925 East Golf Road,Schaumburg,Illinois,601735007,8476199095,42.050183,-88.032964,1991-08-12,IL,Olive Garden,2024-03-30
+West Dundee - Spring Hill Mall,1156,800 North 8th St,West Dundee,Illinois,601181286,8474281981,42.102606,-88.289891,1989-08-28,IL,Olive Garden,2024-03-30
+Pleasant Prairie - St Catherines,1845,10110 77th Street,Pleasant Prairie,Wisconsin,531581145,2626978233,42.56641094,-87.93094122,2010-09-27,WI,Olive Garden,2024-03-30
+Bloomingdale - Stratford Square Mall,1099,332 W Army Trail Road,Bloomingdale,Illinois,601082681,6303077080,41.938523,-88.10734,1988-10-24,IL,Olive Garden,2024-03-30
+Lincolnwood Town Center Mall,1291,3303 W Touhy Road,Lincolnwood,Illinois,607122716,8476794498,42.011046,-87.711988,1991-10-07,IL,Olive Garden,2024-03-30
+Melrose Park,4470,1315 W North Ave,Melrose Park,Illinois,601601518,7086816172,41.90878419,-87.84847624,2013-12-16,IL,Olive Garden,2024-03-30
+Baltimore MD - White Marsh,1505,8245 Perry Hall Blvd,Nottingham,Maryland,212365033,4109313316,39.377803,-76.471096,1995-12-04,MD,Olive Garden,2024-03-30
+Easton - Maryland,1880,9017 Ocean Gateway,Easton,Maryland,216017195,4107639018,38.796698,-76.059219,2012-01-09,MD,Olive Garden,2024-03-30
+Waldorf - St. Charles Mall,1469,3620 Crain Hwy,Waldorf,Maryland,206034810,3013749311,38.612743,-76.923409,1995-05-22,MD,Olive Garden,2024-03-30
+Woodbridge - Virginia,1287,14405 Gideon Drive,Woodbridge,Virginia,221924634,7034913131,38.638601,-77.297028,1992-02-03,VA,Olive Garden,2024-03-30
+Fort Wayne - Glenbrook Mall,1186,315 Coliseum Blvd W,Fort Wayne,Indiana,468051008,2604827804,41.117483,-85.144103,1989-12-11,IN,Olive Garden,2024-03-30
+Lima,1514,1936 Roschman Ave,Lima,Ohio,458043444,4192227724,40.726264,-84.07461,1996-05-20,OH,Olive Garden,2024-03-30
+Elkhart,1317,3003 Brittany Court,Elkhart,Indiana,465145553,5742661994,41.728224,-85.972557,1992-02-03,IN,Olive Garden,2024-03-30
+Muncie - McGalliard Road,1401,304 W. McGalliard Rd.,Muncie,Indiana,473031107,7652870450,40.219497,-85.389397,1993-08-23,IN,Olive Garden,2024-03-30
+Mishawaka - University Park Mall,1023,6410 Grape Road,Mishawaka,Indiana,465451103,5742776503,41.719001,-86.187116,1986-09-08,IN,Olive Garden,2024-03-30
+Kokomo - Lafountain,1493,4015 S. Lafountain,Kokomo,Indiana,469026913,7654552038,40.438363,-86.128027,1995-04-10,IN,Olive Garden,2024-03-30
+Anderson - Scatterfield Road,1510,4118 Scatterfield Rd.,Anderson,Indiana,460132627,7656429980,40.072786,-85.652194,1996-03-11,IN,Olive Garden,2024-03-30
+Findlay,1647,15115 US 224 East,Findlay,Ohio,458408737,4194200052,41.055658,-83.589543,2005-02-14,OH,Olive Garden,2024-03-30
+Portage - Crossroads Mall,1153,6700 Westnedge Ave S,Portage,Michigan,490023538,2693275001,42.220239,-85.590103,1989-07-31,MI,Olive Garden,2024-03-30
+Toledo - S Reynolds Rd,1026,1919 S Reynolds Road,Toledo,Ohio,436141400,4193891982,41.605199,-83.664072,1986-09-15,OH,Olive Garden,2024-03-30
+Amherst,1464,3951 Maple Rd.,Amherst,New York,142261043,7168375211,42.990435,-78.8163,1994-12-12,NY,Olive Garden,2024-03-30
+Williamsville,1866,7700 Transit Road,Williamsville,New York,142216034,7165655423,42.97733003,-78.697621,2011-05-23,NY,Olive Garden,2024-03-30
+Cheektowaga,1243,2011 Walden Avenue,Cheektowaga,New York,142255113,7166834670,42.908121,-78.762525,1991-10-28,NY,Olive Garden,2024-03-30
+Niagara Falls,1875,1532 Military Road,Niagara Falls,New York,143041732,7162973818,43.093929,-78.972506,2011-09-19,NY,Olive Garden,2024-03-30
+Blasdell - Buffalo,4490,3701 McKinley Parkway,Blasdell,New York,142192695,7168221275,42.787884,-78.810155,1992-02-24,NY,Olive Garden,2024-03-30
+Rochester - Greece NY - Paddy Creek Circle,1420,100 Paddy Creek Circle,Rochester,New York,146152646,5858655610,43.205492,-77.672462,1993-11-15,NY,Olive Garden,2024-03-30
+Rochester - Henrietta NY - Jefferson Rd,1196,532 Jefferson Road,Rochester,New York,146233228,5852920590,43.088113,-77.632347,1990-05-14,NY,Olive Garden,2024-03-30
+Victor,1606,204 High Point Drive,Victor,New York,145641060,5852232040,43.027696,-77.438109,2007-09-03,NY,Olive Garden,2024-03-30
+Lakewood - New York,4445,328 E Fairmount Ave,Lakewood,New York,147502006,7167630000,42.09850663,-79.30228919,2013-03-25,NY,Olive Garden,2024-03-30
+Erie - Mill Creek Mall,1333,5945 Peach Street,Erie,Pennsylvania,165093439,8148661105,42.064051,-80.092813,1992-11-02,PA,Olive Garden,2024-03-30
+Williamsburg,1515,2150 Richmond Rd.,Williamsburg,Virginia,231852756,7572599170,37.300063,-76.728446,1996-08-19,VA,Olive Garden,2024-03-30
+Newport News,1601,12560 Jefferson Ave,Newport News,Virginia,236024314,7578337503,37.130938,-76.513275,2003-05-05,VA,Olive Garden,2024-03-30
+Hampton,1485,1049 W. Mercury Blvd,Hampton,Virginia,236663308,7578258874,37.042329,-76.38254,1995-03-13,VA,Olive Garden,2024-03-30
+Richmond - White Oak Village,1827,4467 S Laburnum Ave,Henrico,Virginia,232312419,8042260973,37.52636213,-77.35423483,2009-12-14,VA,Olive Garden,2024-03-30
+Colonial Heights Mall,1732,600 Southpark Blvd,Colonial Heights,Virginia,238343627,8045207250,37.244642,-77.391109,2008-03-17,VA,Olive Garden,2024-03-30
+Chesapeake Square Mall,1297,4117 Chesapeake Square Blvd,Chesapeake,Virginia,233212200,7574652139,36.824676,-76.410278,1991-12-02,VA,Olive Garden,2024-03-30
+Norfolk - JANAF Shopping Center,1161,5920 East Va Beach Blvd,Norfolk,Virginia,235022402,7574555875,36.855884,-76.202754,1989-09-04,VA,Olive Garden,2024-03-30
+Richmond - Glenside Drive,1230,7113 West Broad Street,Richmond,Virginia,232943703,8046726220,37.61203,-77.520795,1990-09-17,VA,Olive Garden,2024-03-30
+Richmond - Midlothian Tpk,1240,9750 Midlothian Turnpike,Richmond,Virginia,232354973,8043307391,37.503767,-77.575352,1990-12-17,VA,Olive Garden,2024-03-30
+Chesapeake - Greenbrier Mall,1198,1631 Ring Road,Chesapeake,Virginia,233202838,7574244758,36.776563,-76.229337,1990-03-05,VA,Olive Garden,2024-03-30
+Cape Girardeau,1676,3259 William Street,Cape Girardeau,Missouri,637034961,5736514276,37.302017,-89.576571,2006-03-13,MO,Olive Garden,2024-03-30
+Jonesboro,1824,1918 Red Wolf Blvd.,Jonesboro,Arkansas,724015452,8709720282,35.821632,-90.668207,2010-01-18,AR,Olive Garden,2024-03-30
+Paducah - Kentucky Oaks Mall,1426,5150 Hinkleville Rd,Paducah,Kentucky,420019693,2704424190,37.074867,-88.689652,1993-11-08,KY,Olive Garden,2024-03-30
+Marion - W Deyoung St,6492,2900 Joseph Cannon Way,Marion,Illinois,629594897,6189986213,37.74381,-88.97559,2023-11-13,IL,Olive Garden,2024-03-30
+Memphis - Wolfchase Mall,1553,8405 US Highway 64,Memphis,Tennessee,381334111,9013773437,35.203863,-89.782729,2001-10-08,TN,Olive Garden,2024-03-30
+Jackson - Columns,1652,1067 Vann Drive,Jackson,Tennessee,383052094,7316641330,35.6677826,-88.85906538,2005-02-07,TN,Olive Garden,2024-03-30
+Fenton - Gravois Bluff,1786,140 Gravois Bluffs Circle,Fenton,Missouri,630267712,6363264969,38.505053,-90.444379,2008-11-17,MO,Olive Garden,2024-03-30
+Memphis - Poplar Ave,1721,5679 Poplar Ave,Memphis,Tennessee,381193854,9017615711,35.104207,-89.872587,2007-06-25,TN,Olive Garden,2024-03-30
+Affton - South County,1174,5529 S. Lindbergh,Affton,Missouri,631236932,3148492553,38.523688,-90.356811,1990-01-08,MO,Olive Garden,2024-03-30
+Memphis - Winchester Rd,1612,7778 Winchester Road,Memphis,Tennessee,381252305,9016242003,35.049859,-89.804306,1988-02-29,TN,Olive Garden,2024-03-30
+"Addison - Chicago, IL",4454,3555 West Addison St,Chicago,Illinois,606184202,7732502005,41.946229,-87.717162,2014-09-29,IL,Olive Garden,2024-03-30
+North Riverside - Riverside Mall,1180,7513 W Cermak Road,North Riverside,Illinois,605461405,7084470666,41.849883,-87.809002,1990-05-21,IL,Olive Garden,2024-03-30
+Burbank - Ford City Mall,1179,4801 W 77th,Burbank,Illinois,604591586,7086369555,41.753822,-87.742059,1989-09-25,IL,Olive Garden,2024-03-30
+Lombard - Yorktown Center,6473,86 Yorktown Shopping Center,Lombard,Illinois,601485516,6303172561,41.8381672223125,-88.0043287444135,1988-03-28,IL,Olive Garden,2024-03-30
+Lansing,1098,16601 N Torrence Ave,Lansing,Illinois,604381039,7088956110,41.593093,-87.558049,1988-06-20,IL,Olive Garden,2024-03-30
+Orland Square Mall,1564,15215 South LaGrange Road,Orland Park,Illinois,604623978,7083649641,41.613621,-87.852726,2004-03-08,IL,Olive Garden,2024-03-30
+Santa Ana,6402,2791 N Main Street,Santa Ana,California,927056008,7145640724,33.77437505,-117.86691987,1991-12-16,CA,Olive Garden,2024-03-30
+Irvine,1267,3755 Alton Pkwy,Irvine,California,926068293,9492638692,33.682594,-117.814017,1991-07-29,CA,Olive Garden,2024-03-30
+Orange - Village at Orange,1389,2330 N. Tustin St.,Orange,California,928653706,7149989092,33.829059,-117.836674,1993-07-05,CA,Olive Garden,2024-03-30
+Huntington Beach,1653,16811 Beach Blvd,Huntington Beach,California,926474806,7148478874,33.718059,-117.989633,1986-07-21,CA,Olive Garden,2024-03-30
+Laguna Woods,1299,24256 El Toro Road #1,Laguna Woods,California,926373488,9495831020,33.611068,-117.722478,1991-11-25,CA,Olive Garden,2024-03-30
+Buena Park Downtown Shopping Mall,4463,8386 La Palma Ave,Buena Park,California,906203208,7142203943,33.8463694,-117.98794721,2013-07-08,CA,Olive Garden,2024-03-30
+Brea Mall,1103,270 Brea Mall Way,Brea,California,928215703,7142551332,33.916838,-117.88318,1988-12-19,CA,Olive Garden,2024-03-30
+Cypress CA - Katella Ave,1220,6874 Katella Avenue,Cypress,California,906305108,7148941330,33.802515,-118.012579,1990-08-06,CA,Olive Garden,2024-03-30
+Chino Spectrum Towne Center,4491,3801 Grand Avenue,Chino,California,917105431,9095905465,33.99968,-117.72129,1991-05-20,CA,Olive Garden,2024-03-30
+Spring Hill,1794,1098 Crossings Blvd,Spring Hill,Tennessee,371742777,9314861294,35.74303,-86.93957,2009-02-16,TN,Olive Garden,2024-03-30
+Murfreesboro,1752,1710 Old Fort Parkway,Murfreesboro,Tennessee,371293351,6158481438,35.847051,-86.41815,2008-02-25,TN,Olive Garden,2024-03-30
+Franklin,6417,1712 Galleria Blvd,Franklin,Tennessee,370676186,6157719707,35.96551045,-86.81090586,2019-03-18,TN,Olive Garden,2024-03-30
+Antioch - Bell Road,1225,1131 Bell Road,Antioch,Tennessee,370133701,6157318431,36.045453,-86.664615,1990-10-15,TN,Olive Garden,2024-03-30
+Mount Juliet - Providence,1751,401 South Mt. Juliet Road,Mount Juliet,Tennessee,371228545,6157586230,36.16711,-86.513482,2007-10-22,TN,Olive Garden,2024-03-30
+Nashville - Opry Mills,6446,10 Opry Mills Dr.,Nashville,Tennessee,372142400,6152380531,36.19755682097108,-86.69017323290944,2023-09-18,TN,Olive Garden,2024-03-30
+Huntsville - Alabama,1021,3730 University Dr NW,Huntsville,Alabama,358163140,2565391955,34.73579285,-86.6200825,1986-03-03,AL,Olive Garden,2024-03-30
+Madison - Rivergate,1173,1711 Gallatin Road N,Madison,Tennessee,371152123,6158680790,36.295031,-86.700029,1989-09-04,TN,Olive Garden,2024-03-30
+Decatur,4409,1102 Beltline Rd,Decatur,Alabama,356016546,2563061880,34.5627378,-86.976156,2012-06-18,AL,Olive Garden,2024-03-30
+Florence - Alabama,1688,375 Cox Creek Parkway,Florence,Alabama,356301539,2567183337,34.840019,-87.637538,2006-05-22,AL,Olive Garden,2024-03-30
+Carson CA - SouthBay Pavilion,4431,20532 Avalon Blvd,Carson,California,907463284,3102170409,33.84516707,-118.26381328,2012-10-29,CA,Olive Garden,2024-03-30
+Myrtle Beach near Carolina Forest and Conway,4452,73 Rodeo Drive,Myrtle Beach,South Carolina,295799470,8439033630,33.74983078,-78.96146144,2013-04-29,SC,Olive Garden,2024-03-30
+Myrtle Beach - Downtown,1326,1405 N. Kings Highway,Myrtle Beach,South Carolina,295773638,8436268856,33.698372,-78.877431,1992-03-16,SC,Olive Garden,2024-03-30
+North Myrtle Beach - Barefoot Landing,1649,4701 Hwy 17 S,North Myrtle Beach,South Carolina,295825354,8432727530,33.79796,-78.73994,2005-01-31,SC,Olive Garden,2024-03-30
+North Charleston - Northwoods Mall,1150,2156 North Woods Blvd,North Charleston,South Carolina,294064006,8437640200,32.942764,-80.041075,1989-06-19,SC,Olive Garden,2024-03-30
+Florence - Magnolia Mall,1684,2901 W Radio Rd,Florence,South Carolina,295017804,8436698399,34.189028,-79.837076,2006-08-21,SC,Olive Garden,2024-03-30
+Columbia SC - Sandhills,1623,10136-112 Two Notch Road,Columbia,South Carolina,292294399,8037883131,34.117491,-80.880568,1988-11-28,SC,Olive Garden,2024-03-30
+Wilmington,1641,5307 Market Street,Wilmington,North Carolina,284053505,9107911587,34.245999,-77.874163,2007-03-05,NC,Olive Garden,2024-03-30
+Columbia SC - Harbison,1231,274 Harbison Blvd,Columbia,South Carolina,292122232,8037320471,34.072197,-81.158498,1990-12-03,SC,Olive Garden,2024-03-30
+Fayetteville NC - Near Fort Bragg,1201,234 N Mc Pherson Church Rd,Fayetteville,North Carolina,283034495,9108640119,35.07148,-78.951246,1990-02-26,NC,Olive Garden,2024-03-30
+Bluffton,1883,1266 Fording Island Road,Bluffton,South Carolina,299106575,8437063808,32.24602,-80.83076,2012-01-09,SC,Olive Garden,2024-03-30
+Tampa Palms,1548,17011 Palm Pointe Dr,Tampa,Florida,336473505,8138665253,28.117506,-82.381106,2002-04-15,FL,Olive Garden,2024-03-30
+Lakeland Mall - US Highway 98,1033,3911 US Hwy 98 North,Lakeland,Florida,338093814,8638583876,28.09295,-81.973063,1987-03-16,FL,Olive Garden,2024-03-30
+Lakeside Village - Harden Blvd,4432,1340 Lakeside Village Circle,Lakeland,Florida,338037951,8636889868,28.001091,-81.975808,2012-07-16,FL,Olive Garden,2024-03-30
+Tampa - Busch Gardens,1025,2801 E Busch Blvd,Tampa,Florida,336128729,8139339194,28.032227,-82.428099,1986-08-18,FL,Olive Garden,2024-03-30
+Brandon Mall,1124,2602 West Brandon Blvd,Brandon,Florida,335114721,8136855900,27.94056,-82.324632,1989-03-27,FL,Olive Garden,2024-03-30
+Tampa - Citrus Park Mall,1541,8306 Citrus Park Dr.,Tampa,Florida,336253005,8139207475,28.065604,-82.574651,2001-03-05,FL,Olive Garden,2024-03-30
+Tampa - Airport - Westshore,4480,1802 N Westshore Blvd,Tampa,Florida,336073907,8132866564,27.958006,-82.524487,2014-02-03,FL,Olive Garden,2024-03-30
+Winter Haven,1169,405 Cypress Garden Blvd SE,Winter Haven,Florida,338804435,8632946641,28.004516,-81.721627,1989-08-14,FL,Olive Garden,2024-03-30
+Port Richey,1149,9690 US Hwy 19,Port Richey,Florida,346684642,7278454510,28.298343,-82.705641,1989-04-10,FL,Olive Garden,2024-03-30
+Clermont,1767,2495 S Highway 27,Clermont,Florida,347116876,3522420582,28.53639196,-81.73630707,2008-10-06,FL,Olive Garden,2024-03-30
+Houston - Freeway 290,1040,10830 Northwest Freeway,Houston,Texas,770927304,7136821465,29.816206,-95.464062,1987-05-25,TX,Olive Garden,2024-03-30
+Houston - Bunkerhill,1803,9750 Katy Freeway,Houston,Texas,770556209,7139736287,29.78622,-95.53574,1990-08-13,TX,Olive Garden,2024-03-30
+Houston - 59 between Kirby and Buffalo Speedway,4483,2929 Southwest Freeway,Houston,Texas,770984523,7135278671,29.72955347,-95.42492086,2015-05-25,TX,Olive Garden,2024-03-30
+Houston - Willowbrook Mall,1166,7525 FM 1960 W,Houston,Texas,770705805,2818900784,29.964104,-95.541595,1989-07-10,TX,Olive Garden,2024-03-30
+Houston - NRG Stadium off Old Spanish Trl & Kirby,1074,1010 Old Spanish Trail,Houston,Texas,770541708,7136656373,29.691589,-95.414914,1988-02-29,TX,Olive Garden,2024-03-30
+Houston - SW Freeway near Gessner Blvd,1285,9080 SW Freeway,Houston,Texas,770741503,7137740198,29.685491,-95.533497,1991-11-11,TX,Olive Garden,2024-03-30
+Houston - Richey Rd.,4477,15770 North Freeway,Houston,Texas,770905807,2812092777,29.99598332,-95.424055,2014-01-27,TX,Olive Garden,2024-03-30
+Houston - West Oaks Mall,1441,2750 Highway 6,Houston,Texas,770821706,2815318829,29.730296,-95.645013,1994-04-18,TX,Olive Garden,2024-03-30
+Houston - Gulfgate Center,6485,522 Gulfgate Center Mall,Houston,Texas,770873020,2816053564,29.69663,-95.29453,2023-10-09,TX,Olive Garden,2024-03-30
+Katy,4408,21220 Katy Freeway,Katy,Texas,774497773,2814921244,29.7862,-95.739401,2012-04-09,TX,Olive Garden,2024-03-30
+Virginia Beach - Lynnhaven Mall,1185,683 Lynnhaven Parkway,Virginia Beach,Virginia,234527320,7574868234,36.822059,-76.067606,1989-11-27,VA,Olive Garden,2024-03-30
+Jackson - Near Jackson Airport,1484,3500 O'Neill Dr.,Jackson,Michigan,492021820,5177872388,42.268293,-84.455501,1995-03-20,MI,Olive Garden,2024-03-30
+Okemos MI - Meridian Mall,1187,5015 Marsh Road,Okemos,Michigan,488641103,5173490330,42.726304,-84.415772,1990-02-05,MI,Olive Garden,2024-03-30
+Ann Arbor - Briarwood Mall,1110,445 E Eisenhower Pkwy,Ann Arbor,Michigan,481083309,7346636875,42.244552,-83.741676,1988-08-09,MI,Olive Garden,2024-03-30
+Brighton - Green Oak Village Place,1712,6870 Whitmore Lake Rd,Brighton,Michigan,481168551,8102258284,42.50283376,-83.75893443,2007-05-21,MI,Olive Garden,2024-03-30
+Lansing MI - W Saginaw Hwy M-43,6476,8440 W Saginaw Hwy,Lansing,Michigan,489178970,5175371071,42.7416,-84.67638,2023-06-12,MI,Olive Garden,2024-03-30
+Novi Town Center,1330,43300 Crescent Blvd,Novi,Michigan,483751236,2483484279,42.485166,-83.474085,1992-05-25,MI,Olive Garden,2024-03-30
+Toledo - Monroe St,1097,5120 Monroe Street,Toledo,Ohio,436233430,4198853878,41.699932,-83.646086,1988-05-23,OH,Olive Garden,2024-03-30
+Livonia,1109,14000 Middlebelt Rd,Livonia,Michigan,481544538,7344585100,42.385239,-83.332907,1988-08-01,MI,Olive Garden,2024-03-30
+Flint - Miller Road,1105,3699 Miller Rd,Flint,Michigan,485071233,8107324260,42.983131,-83.751893,1988-09-05,MI,Olive Garden,2024-03-30
+Chesterfield - St Louis MO,1546,17198 Chesterfield/Airport Rd,Chesterfield,Missouri,630051403,6367281638,38.667987,-90.594385,2001-08-06,MO,Olive Garden,2024-03-30
+Fairview Heights - St Clair Mall,1075,25 Ludwig Dr,Fairview Heights,Illinois,622081332,6183978727,38.601573,-89.987933,1988-05-09,IL,Olive Garden,2024-03-30
+Bridgeton - Rock Rd,1038,3552 Pennridge Drive,Bridgeton,Missouri,630442411,3147391274,38.758137,-90.435237,1987-06-08,MO,Olive Garden,2024-03-30
+St Peters - Mid Rivers,1160,5815 Suemandy Drive,Saint Peters,Missouri,633764327,6362792822,38.79617,-90.622876,1989-07-03,MO,Olive Garden,2024-03-30
+Edwardsville - Orchard Town Center,6501,6651 Governors Parkway,Edwardsville,Illinois,62025,6186595060,38.786771,-89.95355,2024-02-26,IL,Olive Garden,2024-03-30
+Wentzville Crossing South,1841,1280 W. Pearce Blvd.,Wentzville,Missouri,633853411,6363322250,38.81072,-90.87816,2010-04-19,MO,Olive Garden,2024-03-30
+Florence Mall,1766,7844 Mall Road,Florence,Kentucky,410421408,8592821116,38.99291,-84.651491,1990-09-24,KY,Olive Garden,2024-03-30
+Cincinnati-Oakley,4496,3290 Vandercar Way,Cincinnati,Ohio,452091012,5133511573,39.1585338,-84.42545542,2017-01-23,OH,Olive Garden,2024-03-30
+Cincinnati - Stone Creek Center,1768,3725 Stone Creek Blvd,Cincinnati,Ohio,452511457,5132451820,39.252891,-84.605314,1988-04-11,OH,Olive Garden,2024-03-30
+Cincinnati - Beechmont Avenue,1323,475 Ohio Pike,Cincinnati,Ohio,452553337,5135284075,39.070966,-84.308743,1992-03-16,OH,Olive Garden,2024-03-30
+Fairfield,1093,7179 Dixie Hwy,Fairfield,Ohio,450145542,5138747393,39.310731,-84.488307,1988-03-21,OH,Olive Garden,2024-03-30
+Cincinnati - Mason,1347,4900 Fields-Ertel Road,Cincinnati,Ohio,452498202,5136775922,39.293217,-84.313142,1992-08-17,OH,Olive Garden,2024-03-30
+Middletown - Ohio,1442,6710 Roosevelt Ave,Middletown,Ohio,45005,5134245344,39.492504,-84.331079,1994-03-07,OH,Olive Garden,2024-03-30
+Dayton Mall,1058,2789 Miamisburg Centerville Rd,Dayton,Ohio,454593729,9374350885,39.637557,-84.220446,1987-10-26,OH,Olive Garden,2024-03-30
+Richmond - Indiana,4403,4111 National Road East,Richmond,Indiana,473743725,7659624300,39.830522,-84.846133,2012-02-06,IN,Olive Garden,2024-03-30
+Fairborn,1470,2865 Centre Dr.,Beavercreek,Ohio,453242671,9374269200,39.773045,-84.050924,1995-02-20,OH,Olive Garden,2024-03-30
+Oshkosh,4423,1190 S Koeller St,Oshkosh,Wisconsin,549026171,9202314553,44.008152,-88.581244,2012-04-09,WI,Olive Garden,2024-03-30
+Appleton - Fox River Mall,1387,1275 N. Casaloma,Appleton,Wisconsin,549138408,9209548005,44.272449,-88.476983,1993-05-17,WI,Olive Garden,2024-03-30
+Appleton - East,6477,W 3254 Van Roy RD,Appleton,Wisconsin,549154086,9205129155,44.25771,-88.35236,2023-03-06,WI,Olive Garden,2024-03-30
+Green Bay,1346,2819 Oneida Street,Green Bay,Wisconsin,543045754,9204967974,44.47409349,-88.07427082,1992-09-14,WI,Olive Garden,2024-03-30
+Sheboygan - US-42,6498,4314 Olive Garden Way,Sheboygan,Wisconsin,530831361,9209176956,43.79252,-87.76203,2024-01-29,WI,Olive Garden,2024-03-30
+Menomonee Falls,6434,N 91 W15848 Falls Parkway,Menomonee Falls,Wisconsin,530512312,2622515463,43.18398026,-88.10644775,1994-01-24,WI,Olive Garden,2024-03-30
+Delafield,6462,2440 Milwaukee St.,Delafield,Wisconsin,530182014,2626462183,43.052761,-88.376153,2022-08-22,WI,Olive Garden,2024-03-30
+Brookfield Square,1237,18180 Blue Mound Road,Brookfield,Wisconsin,530452915,2628210300,43.037437,-88.139047,1991-03-11,WI,Olive Garden,2024-03-30
+Madison - East Towne Mall,1300,4320 East Town Boulevard,Madison,Wisconsin,537043706,6082490340,43.126301,-89.309353,1992-01-27,WI,Olive Garden,2024-03-30
+Greenfield - Southridge Mall,1226,4760 S 76th Street,Greenfield,Wisconsin,532204302,4142819595,42.957796,-88.007712,1990-08-13,WI,Olive Garden,2024-03-30
+Voorhees,1477,202 Laurel Oak Rd,Voorhees,New Jersey,080434421,8567846600,39.847519,-74.988177,1995-02-20,NJ,Olive Garden,2024-03-30
+Cherry Hill,1533,2314 SR 38,Cherry Hill,New Jersey,080021867,8564140003,39.940427,-75.012575,1990-05-07,NJ,Olive Garden,2024-03-30
+Court of Deptford Plaza,1271,1500 N Almonesson Rd,Deptford,New Jersey,080965259,8562326332,39.824506,-75.100269,1991-05-20,NJ,Olive Garden,2024-03-30
+Philadelphia - E Roosevelt Blvd,1372,9280 E Roosevelt Blvd,Philadelphia,Pennsylvania,191154715,2159693750,40.078528,-75.031941,1993-03-08,PA,Olive Garden,2024-03-30
+Bala Cynwyd,1370,83 City Line Ave,Bala Cynwyd,Pennsylvania,190042421,6106644720,40.003467,-75.224292,1992-12-14,PA,Olive Garden,2024-03-30
+Springfield PA - Baltimore Pike,1764,1001 Baltimore Pike. #1B,Springfield,Pennsylvania,190642800,6105444196,39.913583,-75.342587,2008-06-02,PA,Olive Garden,2024-03-30
+Langhorne - Oxford Valley Mall,1495,2245 E Lincoln Highway,Langhorne,Pennsylvania,190473033,2159432112,40.177763,-74.880979,1996-04-15,PA,Olive Garden,2024-03-30
+Willow Grove - Easton Rd,6489,2402 Easton Road,Willow Grove,Pennsylvania,190901107,2154204901,40.16722,-75.12632,1989-06-12,PA,Olive Garden,2024-03-30
+North Wales - Gwynedd Crossing,1269,1200 Bethlehem Pike,North Wales,Pennsylvania,194541322,2156464384,40.209905,-75.225527,1991-06-03,PA,Olive Garden,2024-03-30
+Talleyville,1239,305 Rocky Run Parkway,Talleyville,Delaware,198031522,3024770870,39.819006,-75.549543,1991-04-22,DE,Olive Garden,2024-03-30
+Moreno Valley Mall,1266,22880 Centerpoint Drive,Moreno Valley,California,925535244,9516563531,33.939693,-117.263509,1991-07-01,CA,Olive Garden,2024-03-30
+San Bernardino - Hospitality Lane,1278,460 Hospitality Lane,San Bernardino,California,924083565,9093812747,34.066985,-117.274498,1992-03-09,CA,Olive Garden,2024-03-30
+Menifee Town Center,6455,27271 Newport Road,Menifee,California,925842400,9512466957,33.68461,-117.18348,2022-01-17,CA,Olive Garden,2024-03-30
+Riverside - Tyler Mall,1735,3650 Tyler Street,Riverside,California,925034160,9513519798,33.909459,-117.459838,2008-07-21,CA,Olive Garden,2024-03-30
+Rialto,6426,1301 W Renaissance Pkwy,Rialto,California,923762406,9093502015,34.13473374,-117.39703858,2019-08-19,CA,Olive Garden,2024-03-30
+Eastvale - The Station,6494,12555 Cantu Galleano Ranch Rd,Eastvale,California,917525077,9513325391,34.00046433717378,-117.55592647917388,2023-12-11,CA,Olive Garden,2024-03-30
+Temecula Promenade Town Center,1678,29025 Overland Drive,Temecula,California,925913780,9515061975,33.519537,-117.152685,2007-05-07,CA,Olive Garden,2024-03-30
+Ontario Mills Mall,1579,4403 E. Mills Circle,Ontario,California,917645204,9094817676,34.076853,-117.557638,2003-03-24,CA,Olive Garden,2024-03-30
+Monclair Plaza,1089,9251 Monte Vista,Montclair,California,917631746,9096210636,34.08572,-117.697841,1988-09-05,CA,Olive Garden,2024-03-30
+Ocala - Paddock mall,1015,3363 SW College Road,Ocala,Florida,344744411,3528540900,29.157398,-82.178559,1986-07-14,FL,Olive Garden,2024-03-30
+The Villages,1790,3680 Wedgewood Lane,The Villages,Florida,321629318,3522590304,28.92791406,-82.01957534,2009-04-06,FL,Olive Garden,2024-03-30
+Inverness,1854,2151 E Gulf To Lake Hwy,Inverness,Florida,344533218,3523440943,28.85618938,-82.39791097,2010-11-08,FL,Olive Garden,2024-03-30
+Leesburg,1171,10026 US Highway 441,Leesburg,Florida,347883955,3523650085,28.823494,-81.789909,1990-01-08,FL,Olive Garden,2024-03-30
+Gainesville - Florida,4498,2711 Clark Butler Blvd,Gainesville,Florida,326082444,3523725874,29.62823078,-82.38501732,1990-05-07,FL,Olive Garden,2024-03-30
+Orange City,1228,2530 Enterprise Road,Orange City,Florida,327637906,3867751511,28.91634,-81.295306,1990-10-29,FL,Olive Garden,2024-03-30
+Sanford Town Center,1526,10 Towne Center Circle,Sanford,Florida,327717411,4073225655,28.806101,-81.335552,2000-02-28,FL,Olive Garden,2024-03-30
+Altamonte Springs,1702,300 West 436,Altamonte Springs,Florida,327144134,4077720409,28.661216,-81.394788,1985-12-02,FL,Olive Garden,2024-03-30
+Orlando - West Colonial Near Ocoee,1175,7300 W Colonial Drive,Orlando,Florida,328186745,4072921411,28.551504,-81.480798,1989-12-04,FL,Olive Garden,2024-03-30
+Capitola Mall,6407,3400 Clares Street,Capitola,California,950102548,8314620120,36.97789215,-121.96904418,2018-12-17,CA,Olive Garden,2024-03-30
+Harrisonburg,4492,45 Burgess Road,Harrisonburg,Virginia,228019731,5404342326,38.43504277,-78.84833778,2017-05-22,VA,Olive Garden,2024-03-30
+Lynchburg - Wards Rd,1615,4038 Wards Road,Lynchburg,Virginia,245022944,4342374395,37.344869,-79.189178,2004-02-16,VA,Olive Garden,2024-03-30
+Roanoke - Valley View Mall,1288,1925 Valley View Blvd NW,Roanoke,Virginia,240122002,5403620417,37.307508,-79.964775,1991-12-09,VA,Olive Garden,2024-03-30
+Winchester,1669,2590 S. Pleasant Valley Road,Winchester,Virginia,226017010,5406626160,39.153541,-78.175314,2006-03-13,VA,Olive Garden,2024-03-30
+Fredericksburg,1542,2811 Plank Road,Fredericksburg,Virginia,224014947,5405480812,38.297592,-77.508794,2001-03-19,VA,Olive Garden,2024-03-30
+Short Pump,1896,11829 W Broad St,Richmond,Virginia,232331065,8043609235,37.65323052,-77.62217562,2012-01-23,VA,Olive Garden,2024-03-30
+Manassas,1367,7501 Broken Branch Lane,Manassas,Virginia,201092657,7033693635,38.7913,-77.5148,1993-02-15,VA,Olive Garden,2024-03-30
+Christiansburg - New River Mall,1746,2590 North Franklin Street,Christiansburg,Virginia,240731000,5403813240,37.16595,-80.423818,2008-01-14,VA,Olive Garden,2024-03-30
+Hoover - Riverchase,1050,3450 Galleria Circle,Hoover,Alabama,352442339,2059854696,33.379133,-86.805655,1987-05-25,AL,Olive Garden,2024-03-30
+Birmingham - Trussville,1879,3555 Roosevelt Blvd,Birmingham,Alabama,352353188,2056554313,33.60629916,-86.63588859,2011-05-23,AL,Olive Garden,2024-03-30
+Alabaster,1740,20 S Colonial Dr #8,Alabaster,Alabama,350074742,2056630945,33.228238,-86.804777,2007-12-03,AL,Olive Garden,2024-03-30
+Gardendale - Fieldstown Rd,6458,630 Gayle Street,Gardendale,Alabama,350712606,2056073299,33.65063,-86.82658,2023-07-03,AL,Olive Garden,2024-03-30
+Tuscaloosa,1465,2100 McFarland Blvd E,Tuscaloosa,Alabama,354045804,2057500321,33.190993,-87.527095,1994-08-29,AL,Olive Garden,2024-03-30
+Oxford,1717,401 Oxford Exchange Blvd,Oxford,Alabama,362033460,2568314911,33.610406,-85.78399,2007-03-12,AL,Olive Garden,2024-03-30
+Gadsden AL - Rainbow Dr,6474,835 Rainbow Dr.,Gadsden,Alabama,359015307,2566803168,34.00036,-86.0049,2023-04-24,AL,Olive Garden,2024-03-30
+Prattville,1763,2767 Legends Parkway,Prattville,Alabama,360667754,3342851170,32.459247,-86.396615,2008-04-28,AL,Olive Garden,2024-03-30
+Montgomery,1221,2700 Eastern Boulevard,Montgomery,Alabama,361171550,3342609220,32.34539,-86.224394,1990-07-16,AL,Olive Garden,2024-03-30
+Clearwater - Country Side,1032,29461 US Hwy 19 North,Clearwater,Florida,337612132,7277873988,28.04,-82.73755,1986-12-02,FL,Olive Garden,2024-03-30
+Largo Mall,1155,10500 Ulmerton Rd,Largo,Florida,337713512,7275848066,27.894034,-82.785799,1989-05-08,FL,Olive Garden,2024-03-30
+Pinellas Park,1069,6700 U.S. Hwy 19,Pinellas Park,Florida,337816242,7275254339,27.833272,-82.681034,1987-09-28,FL,Olive Garden,2024-03-30
+Lafayette LA - Acadiana Mall,1319,5743 Johnston Street,Lafayette,Louisiana,705035302,3379881596,30.172884,-92.078546,1992-01-27,LA,Olive Garden,2024-03-30
+Lake Charles,1635,1725 West Prien Lake Rd,Lake Charles,Louisiana,706018360,3374747380,30.197235,-93.246497,2004-04-05,LA,Olive Garden,2024-03-30
+"Monroe, LA",4488,4781 Pecanland Mall Dr,Monroe,Louisiana,712037005,3183985184,32.495916,-92.059445,1993-09-27,LA,Olive Garden,2024-03-30
+Baton Rouge,1599,6911 Siegen Lane,Baton Rouge,Louisiana,708094530,2253681630,30.386418,-91.062711,2002-12-11,LA,Olive Garden,2024-03-30
+Shreveport - Youree Drive,1585,7150 Youree Drive,Shreveport,Louisiana,711055107,3187978303,32.4402,-93.717467,1992-11-02,LA,Olive Garden,2024-03-30
+Bossier City,1813,2935 Meadow Creek Drive,Bossier City,Louisiana,711115496,3187524038,32.56177537,-93.7097974,2009-07-27,LA,Olive Garden,2024-03-30
+Gonzales - I-10 & Hwy 30,6493,2460 W Outfitters Dr,Gonzales,Louisiana,707375158,2252284155,30.209253,-90.948636,2023-12-11,LA,Olive Garden,2024-03-30
+Beaumont,1168,585 I-10 North,Beaumont,Texas,777065028,4098329058,30.085797,-94.136913,1989-08-14,TX,Olive Garden,2024-03-30
+Hammond,4438,1981 Hammond Square Drive,Hammond,Louisiana,704036157,9855436011,30.48060398,-90.45748674,2012-08-27,LA,Olive Garden,2024-03-30
+Lufkin - Garden District,1761,3801 S Medford Drive,Lufkin,Texas,759015753,9366991700,31.31363814,-94.7150811,2008-04-21,TX,Olive Garden,2024-03-30
+Grand Rapids - Walker,1431,3030 Alpine Ave Nw,Grand Rapids,Michigan,495448213,6167850087,43.018133,-85.687482,1994-01-24,MI,Olive Garden,2024-03-30
+Grand Rapids - 28th Street,1088,3883 28th St SE,Grand Rapids,Michigan,495121803,6169401632,42.913014,-85.571683,1988-05-09,MI,Olive Garden,2024-03-30
+Grandville - River Town Crossings Mall,1577,4499 Potomac Ave,Grandville,Michigan,494183083,6164060852,42.883093,-85.7535,2003-03-24,MI,Olive Garden,2024-03-30
+Holland - Shops at Westshore,6496,12420 Felch St,Holland,Michigan,494249660,6168206007,42.81802,-86.08995,2024-01-22,MI,Olive Garden,2024-03-30
+Muskegon - Lakes Mall,1550,1651 Sternberg Road,Muskegon,Michigan,494448782,2317982333,43.152938,-86.204353,2001-10-08,MI,Olive Garden,2024-03-30
+Mt. Pleasant,4471,4070 E Bluegrass Rd,Mount Pleasant,Michigan,488587964,9897720007,43.57434241,-84.76627035,2013-10-07,MI,Olive Garden,2024-03-30
+Dayton North - Miller Lane,1588,6722 Miller Lane,Dayton,Ohio,454142661,9378989363,39.844702,-84.190864,1990-07-02,OH,Olive Garden,2024-03-30
+Madison - West Towne Mall,1316,7017 Mineral Point Road,Madison,Wisconsin,537171715,6088291158,43.060242,-89.504517,1992-01-27,WI,Olive Garden,2024-03-30
+Janesville,1439,2813 Humes Rd.,Janesville,Wisconsin,535450333,6087582848,42.718315,-88.986503,1994-03-07,WI,Olive Garden,2024-03-30
+Lithonia - Stonecrest Mall,1594,3011 Turner Hill Road,Lithonia,Georgia,300382529,7704824600,33.6935,-84.089466,2002-11-18,GA,Olive Garden,2024-03-30
+Snellville - Scenic Hwy,1886,1565 Scenic Hwy S,Snellville,Georgia,300782129,6783449195,33.887275,-84.010504,2011-12-05,GA,Olive Garden,2024-03-30
+Duluth - Gwinnett Place Mall,1070,3565 Mall Blvd,Duluth,Georgia,300964710,7704970594,33.957986,-84.132402,1987-11-02,GA,Olive Garden,2024-03-30
+McDonough,1744,1961 Jonesboro Road,McDonough,Georgia,302535972,7708982018,33.463879,-84.219527,2007-12-03,GA,Olive Garden,2024-03-30
+Morrow - Southlake Mall,1045,1176 Mount Zion Road,Morrow,Georgia,302602220,7709684800,33.572025,-84.351777,1987-03-23,GA,Olive Garden,2024-03-30
+Buford - The Mall of Georgia,1532,3220 Buford Dr,Buford,Georgia,305194956,6785461778,34.064249,-83.990628,2000-05-22,GA,Olive Garden,2024-03-30
+Dunwoody - Perimeter Village Shopping Center,1633,4749 Ashford Dunwoody Road,Dunwoody,Georgia,303385570,6784410270,33.933203,-84.33696,2004-04-26,GA,Olive Garden,2024-03-30
+Roswell,1338,905 Holcomb Bridge Rd,Roswell,Georgia,300761905,7706420395,34.027415,-84.335354,1992-09-14,GA,Olive Garden,2024-03-30
+East Point - Camp Creek,6463,3390 Camp Creek Parkway,East Point,Georgia,303445708,4044398818,33.656887,-84.500676,2022-09-19,GA,Olive Garden,2024-03-30
+Smyrna - Cobb Parkway,1136,2467 Cobb Parkway SE,Smyrna,Georgia,300803000,7709338971,33.892057,-84.476451,1989-01-16,GA,Olive Garden,2024-03-30
+Columbus - Georgia,1605,5555 G Whittlesey Blvd,Columbus,Georgia,319097213,7066600881,32.544987,-84.947156,2003-03-24,GA,Olive Garden,2024-03-30
+Opelika - Tiger Town Shopping Center,1701,2254 Tiger Town Parkway,Opelika,Alabama,368015490,3347491255,32.619455,-85.408044,2006-11-13,AL,Olive Garden,2024-03-30
+Newnan - Ashley Park Shopping Centre,1658,212 Newnan Crossing BYP,Newnan,Georgia,30265,7702539470,33.391996,-84.762655,2005-05-23,GA,Olive Garden,2024-03-30
+Carrollton Crossroads,4436,1379 South Park Street,Carrollton,Georgia,301174433,7708328885,33.55581574,-85.07431495,2012-07-09,GA,Olive Garden,2024-03-30
+Fayetteville GA - Hwy 85,4404,1380 Highway 85 N,Fayetteville,Georgia,302147800,6788174144,33.47764,-84.4388,2012-02-27,GA,Olive Garden,2024-03-30
+Albany,4437,2701 Dawson Road,Albany,Georgia,317071610,2298838282,31.61850912,-84.22216139,2012-09-10,GA,Olive Garden,2024-03-30
+Warner Robins,1769,3020 Watson Blvd,Warner Robins,Georgia,310938500,4789535006,32.61756258,-83.6929777,2008-05-12,GA,Olive Garden,2024-03-30
+Bolingbrook - Country Aire Plaza,1549,215 S. Weber Road,Bolingbrook,Illinois,604901502,6307595191,41.692744,-88.123981,2001-07-23,IL,Olive Garden,2024-03-30
+Oswego - Prairie Market Mall,1758,2620 Route 34,Oswego,Illinois,605438406,6305513219,41.702654,-88.309399,2008-06-16,IL,Olive Garden,2024-03-30
+Joliet - Plainfield IL - Lincoln Hwy,6475,16337 S Boulevard Place,Plainfield,Illinois,605864404,8152672314,41.58594,-88.17269,2023-04-10,IL,Olive Garden,2024-03-30
+Naperville - Fox Valley Mall,1135,620 S Route 59,Naperville,Illinois,605400900,6303552818,41.761312,-88.205282,1989-03-20,IL,Olive Garden,2024-03-30
+St. Charles - Charlestown Mall,1457,3785 E. Main St.,Saint Charles,Illinois,601742465,6304431122,41.920664,-88.269518,1994-07-25,IL,Olive Garden,2024-03-30
+San Antonio - Windcrest,1077,7920 N IH 35,San Antonio,Texas,782182206,2106505883,29.50755,-98.397349,1987-12-14,TX,Olive Garden,2024-03-30
+Live Oak Town Center,6436,2150 IKEA-RBFCU Pkway,Live Oak,Texas,782332795,2106460887,29.563668,-98.341083,2020-08-10,TX,Olive Garden,2024-03-30
+San Antonio TX - San Pedro Crossing,6505,315 Northwest Loop 410,San Antonio,Texas,78216,0,29.521339,-98.497218,2024-08-26,TX,Olive Garden,2024-03-30
+San Antonio - Bitters Rd-Hwy 281N,1162,13730 San Pedro,San Antonio,Texas,782324332,2104943411,29.566008,-98.480574,1989-05-22,TX,Olive Garden,2024-03-30
+San Antonio - Military Drive,6416,3147 SE Military Drive,San Antonio,Texas,782233813,2103330951,29.35236246,-98.43816175,2018-05-07,TX,Olive Garden,2024-03-30
+San Antonio - Stone Oak and Hwy 281,1862,22503 N US Hwy 281,San Antonio,Texas,782587630,2104819964,29.65067,-98.45125,2011-05-23,TX,Olive Garden,2024-03-30
+San Antonio - Zarzamora and IH35,1799,7811 S IH 35,San Antonio,Texas,782241480,2109212100,29.351373,-98.534853,2009-03-30,TX,Olive Garden,2024-03-30
+San Antonio - Ingram Park Mall,1147,6155 NW Loop 410,San Antonio,Texas,782383302,2105207935,29.471121,-98.615258,1989-02-13,TX,Olive Garden,2024-03-30
+San Antonio - IH10 and W. Loop 1604,1631,15814 Interstate 10 West,San Antonio,Texas,782579515,2105612795,29.592456,-98.600295,2005-06-27,TX,Olive Garden,2024-03-30
+San Antonio TX - Silverado Station,6502,11527 W Loop 1604 N,San Antonio,Texas,78254,2105873289,29.55182,-98.67033,2024-04-15,TX,Olive Garden,2024-03-30
+Rocky Mount,1789,1140 N. Wesleyan Blvd,Rocky Mount,North Carolina,278041829,2524421329,35.97271,-77.805899,2009-05-18,NC,Olive Garden,2024-03-30
+Wilson,1855,3401 Raleigh Road Parkway W,Wilson,North Carolina,278968218,2522061399,35.74314923,-77.96407722,2010-10-11,NC,Olive Garden,2024-03-30
+Greenville - North Carolina,1643,540 S.E. Greenville Blvd,Greenville,North Carolina,278586735,2523217498,35.583213,-77.372111,2004-11-15,NC,Olive Garden,2024-03-30
+Berkeley Mall,1882,803 N Berkeley Blvd,Goldsboro,North Carolina,275343411,9197784140,35.37745203,-77.93956326,2012-10-22,NC,Olive Garden,2024-03-30
+Wake Forest,1831,12600 Capital Blvd,Wake Forest,North Carolina,275877489,9195561007,35.988384,-78.531528,2010-08-09,NC,Olive Garden,2024-03-30
+Raleigh,1378,4805 Capital Blvd,Raleigh,North Carolina,276164483,9199548557,35.850984,-78.581461,1993-03-08,NC,Olive Garden,2024-03-30
+Cary,1314,1809 Walnut Street,Cary,North Carolina,275189201,9192339714,35.760581,-78.742763,1992-03-23,NC,Olive Garden,2024-03-30
+Raleigh - Brier Creek,6440,8115 Brier Creek Parkway,Raleigh,North Carolina,276177598,9194060183,35.90999142,-78.78342199,2020-10-12,NC,Olive Garden,2024-03-30
+Holly Springs Towne Center,4441,107 Grand Hill Place,Holly Springs,North Carolina,275404415,9195522237,35.65858208,-78.84945807,2013-08-12,NC,Olive Garden,2024-03-30
+Jacksonville - North Carolina,1733,1415 Western Blvd,Jacksonville,North Carolina,285466758,9103461887,34.788403,-77.404331,2007-11-19,NC,Olive Garden,2024-03-30
+Central Park Commons,6454,3290 Central Park Village Drive,Eagan,Minnesota,551212055,9523247021,44.83791943,-93.16806881,2022-07-18,MN,Olive Garden,2024-03-30
+Bloomington,6435,4701 American Blvd W,Bloomington,Minnesota,554371125,9528066384,44.856909,-93.340203,1988-06-28,MN,Olive Garden,2024-03-30
+Roseville - Snelling and County Road C,1245,1525 County Road C,Roseville,Minnesota,551133103,6516389557,45.021466,-93.16515,1991-03-25,MN,Olive Garden,2024-03-30
+Minnetonka,6428,11390 Wayzata Blvd,Minnetonka,Minnesota,553052002,9524260943,44.97187819,-93.42370206,1993-11-15,MN,Olive Garden,2024-03-30
+Burnsville,1268,1451 County Road 42 W,Burnsville,Minnesota,553066200,9528984200,44.745799,-93.298758,1991-06-03,MN,Olive Garden,2024-03-30
+Maplewood,1200,1749 Beam Avenue,Maplewood,Minnesota,551091128,6517730200,45.028693,-93.026315,1990-04-16,MN,Olive Garden,2024-03-30
+Oakdale,1672,8367 3rd Street N.,Oakdale,Minnesota,551285440,6512641447,44.950216,-92.934967,2005-12-05,MN,Olive Garden,2024-03-30
+Coon Rapids,1459,150 Coon Rapids Blvd.,Coon Rapids,Minnesota,554335811,7637861089,45.136484,-93.272053,1994-09-26,MN,Olive Garden,2024-03-30
+Maple Grove,1534,12520 Elm Creek Blvd N,Maple Grove,Minnesota,553697050,7634209699,45.094777,-93.439347,2000-05-22,MN,Olive Garden,2024-03-30
+Mankato - River Hills Mall,1704,1880 Adams Street,Mankato,Minnesota,560014865,5073457585,44.17109,-93.949897,2006-10-16,MN,Olive Garden,2024-03-30
+Pooler Parkway,4472,280 Pooler Pkway,Pooler,Georgia,313224022,9127481223,32.1406,-81.25092,2013-09-16,GA,Olive Garden,2024-03-30
+Savannah - Abercorn Street,1529,11333 Abercorn St,Savannah,Georgia,314191825,9129619009,31.980543,-81.147307,2000-04-10,GA,Olive Garden,2024-03-30
+Natomas Sacramento - The Promenade Shopping Mall,6466,3511 N Freeway Blvd,Sacramento,California,958342903,2794993274,38.64042,-121.50225,2022-08-29,CA,Olive Garden,2024-03-30
+Elk Grove,6437,7480 Elk Grove Blvd,Elk Grove,California,95757,9166831452,38.408287,-121.417134,2020-03-16,CA,Olive Garden,2024-03-30
+Sacramento - Arden Mall,1241,1780 Challenge Way,Sacramento,California,958155006,9166498305,38.597351,-121.425358,1991-12-16,CA,Olive Garden,2024-03-30
+Grand Junction - Mesa Mall,1580,2416 Highway 6 & 50,Grand Junction,Colorado,815051102,9702437355,39.091065,-108.605597,2002-10-14,CO,Olive Garden,2024-03-30
+Farmington,1847,5150 East Main Street,Farmington,New Mexico,874024423,5053240546,36.76947,-108.144638,2010-05-31,NM,Olive Garden,2024-03-30
+Warren,1062,30600 Van Dyke,Warren,Michigan,480932169,5865742616,42.518563,-83.028063,1987-05-25,MI,Olive Garden,2024-03-30
+Dearborn,1427,16151 Ford Rd.,Dearborn,Michigan,481264131,3132406100,42.328626,-83.201201,1994-01-10,MI,Olive Garden,2024-03-30
+Eastpointe,1252,24845 Gratiot Avenue,Eastpointe,Michigan,480213314,5867786670,42.478423,-82.949658,1991-03-25,MI,Olive Garden,2024-03-30
+Rochester Hills MI - Emagine Movie Theater,1182,2615 Rochester Road S,Rochester Hills,Michigan,483074581,2488536960,42.641467,-83.131149,1991-11-18,MI,Olive Garden,2024-03-30
+Sterling Heights - Lakeside Circle,1083,13835 Lakeside Circle,Sterling Heights,Michigan,483131317,5862478880,42.626262,-82.990663,1988-10-17,MI,Olive Garden,2024-03-30
+Southgate,1172,15355 Eureka Road,Southgate,Michigan,481952648,7342827838,42.198447,-83.209866,1990-01-22,MI,Olive Garden,2024-03-30
+Auburn Hills,1562,700 Brown Rd,Auburn Hills,Michigan,483261308,2483931812,42.705167,-83.290223,2002-04-10,MI,Olive Garden,2024-03-30
+Chesterfield - Detroit MI,6430,27169 23 Mile Road,Chesterfield,Michigan,480512045,5865984876,42.67534543,-82.83677121,2020-09-28,MI,Olive Garden,2024-03-30
+Yuba City,6433,998 North Walton Ave,Yuba City,California,959938634,5306711201,39.14123413,-121.64490466,2019-11-15,CA,Olive Garden,2024-03-30
+Westgate Marketplace,4444,6330 SW 3rd St,Oklahoma City,Oklahoma,731281022,4054400345,35.4614168,-97.62572489,2013-04-29,OK,Olive Garden,2024-03-30
+OKC - Penn Square,1591,1844 Northwest Expressway,Oklahoma City,Oklahoma,731181421,4058432461,35.521835,-97.544295,1987-11-02,OK,Olive Garden,2024-03-30
+OKC South,1140,2321 W I 240 Service Rd,Oklahoma City,Oklahoma,731598254,4056850781,35.392184,-97.553353,1989-01-16,OK,Olive Garden,2024-03-30
+OKC - Quail Springs,1307,2639 W Memorial,Oklahoma City,Oklahoma,731348091,4057498188,35.610316,-97.56239,1991-12-16,OK,Olive Garden,2024-03-30
+Midwest City - Warren Theater,6451,5915 SE 15th Street,Oklahoma City,Oklahoma,731102615,4057398295,35.45013894,-97.41871436,2020-11-16,OK,Olive Garden,2024-03-30
+Norman,1480,117 Ed Noble Parkway,Norman,Oklahoma,730724800,4055730188,35.217591,-97.488326,1995-03-07,OK,Olive Garden,2024-03-30
+Stillwater,4426,2100 N. Perkins Rd.,Stillwater,Oklahoma,740753075,4056241225,36.143293,-97.05219317,2012-04-30,OK,Olive Garden,2024-03-30
+Lawton,1736,4021 NW Cache Road,Lawton,Oklahoma,735053633,5803551407,34.624146,-98.445119,2008-01-14,OK,Olive Garden,2024-03-30
+Tulsa - Utica Square,6499,2033 S Utica Square E,Tulsa,Oklahoma,741141620,9188773954,36.13116503011761,-95.96317372922067,1992-05-25,OK,Olive Garden,2024-03-30
+Tulsa - Memorial,1054,7019 S Memorial Drive,Tulsa,Oklahoma,741332037,9182540082,36.062018,-95.885692,1987-06-22,OK,Olive Garden,2024-03-30
+El Paso North,6459,4800 Woodrow Bean Dr,El Paso,Texas,799244406,9152611375,31.89801,-106.43259,2022-02-28,TX,Olive Garden,2024-03-30
+El Paso - Sunland Mall,1202,740 Sunland Park Drive,El Paso,Texas,799126700,9155851097,31.817353,-106.545573,1990-05-07,TX,Olive Garden,2024-03-30
+El Paso - Gateway Blvd,1232,8401 Gateway Blvd West,El Paso,Texas,799255668,9157729287,31.7736237,-106.3791777,1990-10-29,TX,Olive Garden,2024-03-30
+El Paso - Joe Battle Blvd,1749,1870 Joe Battle Blvd,El Paso,Texas,799360962,9158578580,31.757624,-106.266786,2007-12-03,TX,Olive Garden,2024-03-30
+Las Cruces,1840,100 N Telshor Blvd,Las Cruces,New Mexico,880118284,5755220124,32.318892,-106.748418,2010-05-10,NM,Olive Garden,2024-03-30
+Eugene - Valley River Center Mall,1528,1077 Valley River Dr,Eugene,Oregon,974012145,5413498929,44.071319,-123.104333,1998-05-11,OR,Olive Garden,2024-03-30
+Medford,1592,3125 Crater Lake Hwy,Medford,Oregon,975049179,5418571733,42.361781,-122.85902,2003-02-03,OR,Olive Garden,2024-03-30
+Salem - Lancaster Mall,1311,1302 Lancaster Drive NE,Salem,Oregon,973011929,5033646885,44.946125,-122.983191,1992-01-08,OR,Olive Garden,2024-03-30
+Bend - Cascade Village,1829,63459 Highway 97,Bend,Oregon,977038492,5413124760,44.104879,-121.298618,2010-01-18,OR,Olive Garden,2024-03-30
+Lake Oswego,1394,6355 SW Meadows Rd.,Lake Oswego,Oregon,970353263,5036843160,45.418079,-122.742125,1993-11-01,OR,Olive Garden,2024-03-30
+Clackamas Promenade,1158,8700 SE Sunnyside,Clackamas,Oregon,970157777,5036521200,45.432885,-122.573856,1989-11-27,OR,Olive Garden,2024-03-30
+Beaverton Town Center,1213,11650 SW Canyon Road,Beaverton,Oregon,970052225,5036440607,45.489208,-122.796677,1990-06-04,OR,Olive Garden,2024-03-30
+Columbia MO,1215,1300 Interstate 70 Dr S.W.,Columbia,Missouri,652032054,5734432082,38.963818,-92.357903,1990-06-04,MO,Olive Garden,2024-03-30
+Springfield IL - White Oaks Plaza,1178,2991 S Veterans Parkway,Springfield,Illinois,627046404,2177930318,39.765126,-89.707193,1990-01-22,IL,Olive Garden,2024-03-30
+San Antonio - Culebra and W. Loop 1604,1783,5439 W Loop 1604 N,San Antonio,Texas,782537307,2106812583,29.489525,-98.708312,2008-10-13,TX,Olive Garden,2024-03-30
+Naples,1195,1565 5th Avenue S,Naples,Florida,341023437,2397741222,26.139024,-81.783184,1990-03-26,FL,Olive Garden,2024-03-30
+Coconut Point Mall,1873,8091 Plaza Del Lago Drive,Estero,Florida,339285300,2399491883,26.40588,-81.80888,2011-10-24,FL,Olive Garden,2024-03-30
+Gulf Coast Town Center,1895,10020 University Plaza Drive,Fort Myers,Florida,339136012,2394330164,26.4923394,-81.78594813,2012-04-30,FL,Olive Garden,2024-03-30
+Fort Myers,1051,12870 S Cleveland Avenue,Fort Myers,Florida,339073822,2399367770,26.554875,-81.872432,1987-05-25,FL,Olive Garden,2024-03-30
+Cape Coral - Coral Walk Shopping Center,1748,1910 Pine Island Road NE,Cape Coral,Florida,339091728,2395730480,26.671165,-81.932392,2008-04-21,FL,Olive Garden,2024-03-30
+Port Charlotte - Town Center Mall,1197,1341 Tamiami Trail,Port Charlotte,Florida,339481003,9416258807,27.012,-82.145898,1990-04-02,FL,Olive Garden,2024-03-30
+Miami - Kendall,4493,8925 SW 162nd Avenue,Miami,Florida,331966434,3054086810,25.68351819,-80.45480815,2018-07-23,FL,Olive Garden,2024-03-30
+Pembroke Lakes Mall,1409,11425 Pines Blvd,Pembroke Pines,Florida,330264103,9544325529,26.008376,-80.300862,1994-03-28,FL,Olive Garden,2024-03-30
+Hialeah,1884,1350 W 49th St.,Hialeah,Florida,330123218,3058191541,25.866242,-80.309914,2012-03-19,FL,Olive Garden,2024-03-30
+Coral Springs,1078,1555 N University Dr,Coral Springs,Florida,330716041,9543445226,26.250634,-80.252445,1988-05-02,FL,Olive Garden,2024-03-30
+Rockford - State Street,1233,6367 E State Street,Rockford,Illinois,611082540,8153993176,42.26706,-88.99204,1990-11-12,IL,Olive Garden,2024-03-30
+Torrance,1018,23442 Hawthorne Blvd,Torrance,California,905054705,3103730395,33.812637,-118.349889,1986-07-28,CA,Olive Garden,2024-03-30
+Vero Beach,1737,5995 20th Street,Vero Beach,Florida,329664678,7725673223,27.63826,-80.45011,2008-04-28,FL,Olive Garden,2024-03-30
+West Melbourne,1283,2508 W New Haven Avenue,West Melbourne,Florida,329043702,3217222204,28.079351,-80.662647,1991-08-19,FL,Olive Garden,2024-03-30
+Port Saint Lucie - Tradition,1757,10221 SW Meeting St,Port Saint Lucie,Florida,349872360,7723453691,27.265701,-80.428613,2008-08-04,FL,Olive Garden,2024-03-30
+Jensen Beach,1122,3447 NW Federal Way,Jensen Beach,Florida,349574403,7726921593,27.247407,-80.272503,1989-05-08,FL,Olive Garden,2024-03-30
+Merritt Island,1091,205 E Merritt Island Causeway,Merritt Island,Florida,329523636,3214590306,28.356573,-80.696425,1988-03-07,FL,Olive Garden,2024-03-30
+Sebring,1741,1696 US-27,Sebring,Florida,338701918,8633140350,27.497268,-81.48719,2008-03-24,FL,Olive Garden,2024-03-30
+Orlando - Lake Nona,6465,12275 Narcoossee Rd,Orlando,Florida,328326919,3213549535,28.38658,-81.24389,2023-01-23,FL,Olive Garden,2024-03-30
+Palm Beach Gardens,6445,3533 North Lake Blvd,West Palm Beach,Florida,334031625,5613282080,26.80903381,-80.09056821,2021-11-08,FL,Olive Garden,2024-03-30
+Kissimmee - The Loop at Hunters Creek,1739,1604 W. Osceola Pkwy,Kissimmee,Florida,347410729,4078462720,28.341708,-81.421739,2007-11-26,FL,Olive Garden,2024-03-30
+Orlando - Waterford Lakes Near UCF,1181,11882 E Colonial Drive,Orlando,Florida,328264701,4073818084,28.56587,-81.205297,1990-01-29,FL,Olive Garden,2024-03-30
+Aventura,1839,17985 Biscayne Blvd,Aventura,Florida,331602502,3059326310,25.941999,-80.148084,1987-09-14,FL,Olive Garden,2024-03-30
+Plantation - The Fountains,1107,807 S University Drive,Plantation,Florida,333243317,9544247201,26.111458,-80.251162,1989-05-08,FL,Olive Garden,2024-03-30
+Fort Lauderdale,1061,5550 N Federal Hwy,Fort Lauderdale,Florida,333083209,9547763341,26.195387,-80.111453,1987-08-17,FL,Olive Garden,2024-03-30
+Miami - Flagler,1244,8201 W Flagler,Miami,Florida,331442027,3052665000,25.770298,-80.329057,1991-01-28,FL,Olive Garden,2024-03-30
+Boca Raton - Palms Plaza,1081,22161 Powerline Road,Boca Raton,Florida,334335046,5617500786,26.347751,-80.154279,1988-05-23,FL,Olive Garden,2024-03-30
+Cutler Bay,4429,20345 S Dixie Highway,Cutler Bay,Florida,331891266,3052781220,25.57741627,-80.37020351,2012-08-27,FL,Olive Garden,2024-03-30
+North Colorado Springs - Chapel Hills Mall,1263,7815 N Academy Blvd,Colorado Springs,Colorado,809203901,7192606677,38.946329,-104.800665,1991-06-24,CO,Olive Garden,2024-03-30
+South Colorado Springs - Citadel Crossing Mall,1247,513 Academy Boulevard,Colorado Springs,Colorado,809098300,7195911210,38.841583,-104.756653,1991-01-21,CO,Olive Garden,2024-03-30
+Highlands Ranch,1329,2520 E Co Line Road,Highlands Ranch,Colorado,801263232,3038439822,39.565255,-104.959749,1992-05-11,CO,Olive Garden,2024-03-30
+Aurora - Southlands Pkwy,1714,6089 South Southlands  Parkway,Aurora,Colorado,800165316,3034000199,39.605554,-104.711814,2007-06-18,CO,Olive Garden,2024-03-30
+Littleton - Southwest Plaza Mall,1242,5380 S Wadsworth Blvd,Littleton,Colorado,801232227,3039780444,39.619784,-105.090511,1991-01-21,CO,Olive Garden,2024-03-30
+Aurora - S Havana St,1250,2390 S Havana Street,Aurora,Colorado,800141610,3037459945,39.673331,-104.865089,1991-04-01,CO,Olive Garden,2024-03-30
+Belmar,1486,7655 W. Alameda Ave.,Lakewood,Colorado,802263101,3032310083,39.711596,-105.082559,1995-05-22,CO,Olive Garden,2024-03-30
+DENVER - THE SHOPS AT NORTHFIELD,1727,8314 Northfield Blvd,Denver,Colorado,802383531,3033711147,39.779354,-104.89092,2008-02-11,CO,Olive Garden,2024-03-30
+Denver West,4465,14175 West Colfax Ave,Lakewood,Colorado,804013281,3032770535,39.73665,-105.15837,2014-02-03,CO,Olive Garden,2024-03-30
+Pueblo,1708,3240 N. Elizabeth St,Pueblo,Colorado,810081141,7192530033,38.303761,-104.614001,2007-02-05,CO,Olive Garden,2024-03-30
+Little Rock - Rodney Parham Rd.,1321,10715 N Rodney Parham Rd,Little Rock,Arkansas,722124112,5012257673,34.768825,-92.392213,1992-03-09,AR,Olive Garden,2024-03-30
+North Little Rock,1189,2943 Lakewood Village Drive,North Little Rock,Arkansas,721168033,5017584603,34.79399,-92.231721,1989-10-30,AR,Olive Garden,2024-03-30
+Benton,6471,16732 Interstate 30 N,Benton,Arkansas,720192901,5015753353,34.573952,-92.590773,2022-09-12,AR,Olive Garden,2024-03-30
+Conway - Museum Rd,6497,554 Museum Road,Conway,Arkansas,720325921,5015854482,35.08781,-92.41748,2023-10-23,AR,Olive Garden,2024-03-30
+Hot Springs,1680,4108 Central Ave,Hot Springs,Arkansas,719137293,5015251070,34.453995,-93.066956,2006-10-23,AR,Olive Garden,2024-03-30
+Fort Smith,1506,7515 Rogers Ave.,Fort Smith,Arkansas,729035539,4794787008,35.352374,-94.349203,1996-02-19,AR,Olive Garden,2024-03-30
+Texarkana - Central Mall,1677,3101 Mall Drive,Texarkana,Texas,755032434,9038387730,33.459574,-94.077286,2006-03-27,TX,Olive Garden,2024-03-30
+Southaven - Airways,1667,6615 Airways Blvd,Southaven,Mississippi,386718116,6625363350,34.95717,-89.990734,2005-11-21,MS,Olive Garden,2024-03-30
+Fayetteville AR - Mall Ave,1590,3616 North Mall Ave,Fayetteville,Arkansas,727034901,4794434438,36.117059,-94.149575,2002-12-11,AR,Olive Garden,2024-03-30
+Greenwood Park Mall,1007,1274 US Highway 31,Greenwood,Indiana,461424501,3178873030,39.633357,-86.126058,1985-07-15,IN,Olive Garden,2024-03-30
+Avon Commons,1556,10243 E Us Highway 36,Avon,Indiana,461237985,3172730889,39.763198,-86.341444,2001-10-15,IN,Olive Garden,2024-03-30
+Indianapolis - East Washington Street,1043,8155 E Washington,Indianapolis,Indiana,462196813,3178950800,39.772719,-86.023786,1987-07-20,IN,Olive Garden,2024-03-30
+Indianapolis - Castleton Square Mall,1008,6130 E 82nd Street,Indianapolis,Indiana,462501500,3178426321,39.905849,-86.061229,1985-07-15,IN,Olive Garden,2024-03-30
+Carmel - North Michigan Road,4455,10206 N Michigan Road,Carmel,Indiana,460327947,3174718618,39.933767,-86.23417,2013-12-02,IN,Olive Garden,2024-03-30
+Greenfield IN -  N State Street,6510,1585 N State Street,Greenfield,Indiana,46140,0,39.80642,-85.76878,2024-07-15,IN,Olive Garden,2024-03-30
+Noblesville - Hamilton Town Center,1805,13285 Tegler Drive,Noblesville,Indiana,460605411,3177706091,39.99488328,-85.92890827,2009-03-23,IN,Olive Garden,2024-03-30
+Bloomington - Whitehall Crossing,1587,320 North Jacob Dr,Bloomington,Indiana,474044823,8123331350,39.169212,-86.572971,2002-11-18,IN,Olive Garden,2024-03-30
+Methuen,1825,90 Pleasant Valley Ave,Methuen,Massachusetts,018447212,9786870205,42.742653,-71.155642,2009-11-16,MA,Olive Garden,2024-03-30
+Danvers,1874,153 Andover St,Danvers,Massachusetts,019231450,9787508324,42.55776458,-70.96861783,2011-06-06,MA,Olive Garden,2024-03-30
+Tyngsboro - Pheasant Lane Mall,1639,422 Middlesex Road,Tyngsboro,Massachusetts,018791021,9786496727,42.695789,-71.438396,2005-08-08,MA,Olive Garden,2024-03-30
+Dorchester - South Bay Plaza,1674,11 B Allstate Rd,Dorchester,Massachusetts,021251663,6179891371,42.326073,-71.063025,2007-06-18,MA,Olive Garden,2024-03-30
+Manchester NH - S Willow St,1554,1888 South Willow St,Manchester,New Hampshire,031032364,6036688871,42.94918,-71.433386,2001-06-25,NH,Olive Garden,2024-03-30
+Framingham - Shoppers World Plaza,1511,1 Worcester Rd,Framingham,Massachusetts,017015359,5088797285,42.299314,-71.394586,1996-07-01,MA,Olive Garden,2024-03-30
+Leominster,1686,3 Orchard Hill Park Drive,Leominster,Massachusetts,014537019,9785345856,42.523413,-71.71335,2006-12-11,MA,Olive Garden,2024-03-30
+Marlborough - Solomon Pond Mall,1626,728 Donald Lynch Blvd,Marlborough,Massachusetts,017524719,5083036558,42.352509,-71.615874,2004-04-12,MA,Olive Garden,2024-03-30
+Stoughton,1659,401 Technology Center Drive,Stoughton,Massachusetts,020724724,7812975110,42.155251,-71.066563,2005-12-05,MA,Olive Garden,2024-03-30
+Newington,1435,2048 Woodbury Ave.,Newington,New Hampshire,038012819,6034368400,43.096194,-70.798259,1994-01-17,NH,Olive Garden,2024-03-30
+Manchester CT - Buckland Hills,1429,1550 Pleasant Valley Rd,Manchester,Connecticut,060421637,8606447095,41.806635,-72.555766,1994-02-07,CT,Olive Garden,2024-03-30
+Enfield,1365,41 Hazard Ave,Enfield,Connecticut,060823711,8607416616,41.990259,-72.577621,1993-07-26,CT,Olive Garden,2024-03-30
+West Springfield MA - Riverdale Shops,1804,919 Riverdale Street,West Springfield,Massachusetts,010894613,4137505390,42.12891,-72.62474,2009-10-26,MA,Olive Garden,2024-03-30
+Poughkeepsie,1410,2044 South Road,Poughkeepsie,New York,126015844,8452971787,41.629176,-73.915143,1993-11-29,NY,Olive Garden,2024-03-30
+Waterford - Crystal Mall,1613,850 Hartford Turnpike,Waterford,Connecticut,063854243,8604420424,41.37723,-72.14765,2004-06-21,CT,Olive Garden,2024-03-30
+Meridian MS - S Frontage Rd,1759,107 South Frontage Road,Meridian,Mississippi,393016110,6016933075,32.36609,-88.671415,2008-05-12,MS,Olive Garden,2024-03-30
+Tupelo,1650,3242 North Gloster Street,Tupelo,Mississippi,388040943,6628408450,34.300325,-88.706796,2005-01-31,MS,Olive Garden,2024-03-30
+Springfield NJ - Route 22,1199,275 Route 22 East,Springfield,New Jersey,070813554,9733762667,40.684811,-74.323052,1990-02-26,NJ,Olive Garden,2024-03-30
+Woodbridge Center,1745,510 Woodbridge Center Drive,Woodbridge,New Jersey,070951306,7327263191,40.55644704,-74.30482846,2011-10-24,NJ,Olive Garden,2024-03-30
+Piscataway - Centenial Square,1809,1317 Centennial Ave,Piscataway,New Jersey,088544321,7325620142,40.5529,-74.4407,2010-02-01,NJ,Olive Garden,2024-03-30
+Wayne Town Center,1724,83 Route 23 South,Wayne,New Jersey,074706937,9737854713,40.891994,-74.253237,2008-09-01,NJ,Olive Garden,2024-03-30
+Rockaway Mall,1638,323 Mt Hope Ave,Rockaway,New Jersey,078661645,9736593312,40.908748,-74.547869,2005-05-23,NJ,Olive Garden,2024-03-30
+Secaucus - Millcreek Mall,1640,500 Route 3 West,Secaucus,New Jersey,070943701,2018673543,40.790792,-74.051985,1991-07-29,NJ,Olive Garden,2024-03-30
+Bridgewater Town Centre,1807,762 US Route 202 S,Bridgewater,New Jersey,088072551,9082033758,40.575124,-74.663868,2009-12-14,NJ,Olive Garden,2024-03-30
+NYC - Times Square,1451,2 Times Square,New York,New York,100367301,2123333254,40.759333,-73.984667,1994-10-12,NY,Olive Garden,2024-03-30
+Brunswick Square Mall,1214,777 Route 18,East Brunswick,New Jersey,088164934,7326518940,40.421383,-74.377688,1991-06-03,NJ,Olive Garden,2024-03-30
+Brooklyn - Caesar's Bay,6414,1684 Shore Parkway,Brooklyn,New York,112146434,7182651019,40.59391656,-73.99821846,2019-04-08,NY,Olive Garden,2024-03-30
+Tukwila - Southcenter Mall,1584,310 Strander Blvd,Tukwila,Washington,981882939,2062414899,47.456272,-122.25764,2003-10-06,WA,Olive Garden,2024-03-30
+Federal Way,1449,35030 Enchanted Pkwy,Federal Way,Washington,980038326,2538151375,47.287822,-122.31304,1995-01-30,WA,Olive Garden,2024-03-30
+Tacoma,1138,1921 S 72nd Street,Tacoma,Washington,984081240,2534751772,47.193519,-122.461404,1989-01-16,WA,Olive Garden,2024-03-30
+Kirkland - Totem Lake,1318,11325 NE 124th Street,Kirkland,Washington,980344304,4258207740,47.710892,-122.189572,1992-05-04,WA,Olive Garden,2024-03-30
+Puyallup - South Hill Mall,1596,3803 9th Street,Puyallup,Washington,983733666,2534357446,47.156416,-122.302932,2003-02-24,WA,Olive Garden,2024-03-30
+Silverdale,1377,3204 NW Randall Way,Silverdale,Washington,983837952,3606130207,47.659694,-122.693792,1993-02-01,WA,Olive Garden,2024-03-30
+Lynnwood,1209,4221 196th Street SW,Lynnwood,Washington,980366718,4256702977,47.821379,-122.290554,1990-08-20,WA,Olive Garden,2024-03-30
+Everett Mall,4448,1310 SE Everett Mall Way,Everett,Washington,982082831,4252650660,47.911514,-122.21464,1991-03-18,WA,Olive Garden,2024-03-30
+Olympia,1448,2400 Capital Mall Dr S.W.,Olympia,Washington,985025000,3607546717,47.040249,-122.932095,1994-07-18,WA,Olive Garden,2024-03-30
+Tulalip,1867,10326 Quil Ceda Blvd,Tulalip,Washington,982719164,3606535322,48.08994004,-122.18648762,2011-01-10,WA,Olive Garden,2024-03-30
+Saginaw MI - Bay Road M-84,1115,3630 Bay Road,Saginaw,Michigan,486032407,9897902288,43.460317,-83.974976,1989-07-31,MI,Olive Garden,2024-03-30
+Eastman,4434,6803 Eastman Ave,Midland,Michigan,486427895,9898328128,43.66004386,-84.2477601,2013-02-18,MI,Olive Garden,2024-03-30
+Matteson Center,1142,5220 W 211th St,Matteson,Illinois,604431634,7084810045,41.506698,-87.737941,1989-03-27,IL,Olive Garden,2024-03-30
+Highland - Grove Shopping Center,6470,10445 Indianapolis Blvd,Highland,Indiana,463223511,2195134291,41.52344,-87.47058,2022-05-23,IN,Olive Garden,2024-03-30
+Merrillville - Westfield South Lake Mall,1106,1900 Southlake Mall Drive,Merrillville,Indiana,464106636,2197692479,41.470687,-87.311611,1989-03-13,IN,Olive Garden,2024-03-30
+Bradley-Bourbonnais,4421,2048 N State Route 50,Bourbonnais,Illinois,609144410,8158020204,41.18724021,-87.85041107,2012-03-26,IL,Olive Garden,2024-03-30
+Colonie,1504,178 Wolf Road,Colonie,New York,122055927,5184588676,42.722853,-73.802198,1995-11-27,NY,Olive Garden,2024-03-30
+Clifton Park,1869,303 Clifton Park Center Road,Clifton Park,New York,120654001,5183832391,42.86089117,-73.78025419,2012-04-16,NY,Olive Garden,2024-03-30
+Queensbury,1428,756 A Glen Street,Queensbury,New York,128042029,5187439590,43.33051,-73.671978,1994-01-17,NY,Olive Garden,2024-03-30
+New Hartford,1865,4636 Commercial Dr,New Hartford,New York,134136203,3157362005,43.087663,-75.31244,2013-08-12,NY,Olive Garden,2024-03-30
+Middletown - New York,1473,200 N. Galleria Dr.,Middletown,New York,109413037,8456928232,41.462929,-74.371761,1995-01-30,NY,Olive Garden,2024-03-30
+Victor Valley Mall,1194,12330 Amargosa Rd,Victorville,California,923925475,7602458100,34.47468,-117.343697,1990-09-10,CA,Olive Garden,2024-03-30
+Waite Park,1543,12 Division St,Waite Park,Minnesota,563871329,3206561320,45.552925,-94.214381,2001-02-19,MN,Olive Garden,2024-03-30
+Tucson - Irvington,1622,1213 West Irvington Road,Tucson,Arizona,857141167,5204340789,32.162582,-110.991074,2004-09-20,AZ,Olive Garden,2024-03-30
+Tucson - Broadway,1219,5410 E Broadway Blvd,Tucson,Arizona,857113700,5207905787,32.221232,-110.876798,1990-07-30,AZ,Olive Garden,2024-03-30
+Tucson Mall,1095,300 W Wetmore Road,Tucson,Arizona,857051650,5202921077,32.286895,-110.976961,1988-06-06,AZ,Olive Garden,2024-03-30
+Oro Valley Marketplace,1754,11905 North Oracle Rd,Oro Valley,Arizona,857377835,5205443690,32.422556,-110.939979,2008-11-17,AZ,Olive Garden,2024-03-30
+Sierra Vista,1871,380 N Hwy 90,Sierra Vista,Arizona,856352289,5204598960,31.55900266,-110.25840439,2011-03-14,AZ,Olive Garden,2024-03-30
+Casa Grande,1756,717 N. Promenade Parkway,Casa Grande,Arizona,851945410,5204260226,32.880123,-111.679844,2008-08-04,AZ,Olive Garden,2024-03-30
+Queen Creek Market Place,1863,21422 S Ellsworth Loop Road,Queen Creek,Arizona,851427683,4806778345,33.253754,-111.638442,2011-01-10,AZ,Olive Garden,2024-03-30
+Chandler - Gilbert - Crossroad Towne Center,1747,2930 E Germann Rd,Chandler,Arizona,852861404,4807265137,33.280189,-111.790213,2007-12-10,AZ,Olive Garden,2024-03-30
+Superstition Springs Mall - East Mesa Southern,1375,6201 E. Southern Ave.,Mesa,Arizona,852063714,4808070207,33.39355,-111.697259,1993-04-12,AZ,Olive Garden,2024-03-30
+Chandler Fashion Mall,1561,3430 W. Chandler Blvd,Chandler,Arizona,852265065,4808570126,33.306177,-111.900725,2002-04-22,AZ,Olive Garden,2024-03-30
+Louisville - Hurstbourne Parkway,1327,1320 Hurstbourne Lane,Louisville,Kentucky,402225761,5023397190,38.226547,-85.578325,1992-06-15,KY,Olive Garden,2024-03-30
+Louisville - Old Brownsboro Crossing,1703,9730 Von Allmen Ct,Louisville,Kentucky,402412833,5024253607,38.31113343,-85.57191742,2007-02-19,KY,Olive Garden,2024-03-30
+Louisville - Jefferson Mall,1852,4811 R Outer Loop,Louisville,Kentucky,402193200,5029682978,38.1394295,-85.6731751,2010-11-01,KY,Olive Garden,2024-03-30
+Clarksville - Veterans Pkwy,1697,1230 Veterans Parkway,Clarksville,Indiana,471292394,8122188304,38.327881,-85.760071,2006-12-04,IN,Olive Garden,2024-03-30
+Elizabethtown,6401,1707 N Dixie Highway,Elizabethtown,Kentucky,427019496,2707661127,37.73379273,-85.88624655,2017-04-24,KY,Olive Garden,2024-03-30
+Lexington Fayette Mall,1320,3385 Nicholasville Road,Lexington,Kentucky,405033601,8592728334,37.989161,-84.525402,1992-01-08,KY,Olive Garden,2024-03-30
+Lexington - Man O War,6456,3094 Helmsdale Place,Lexington,Kentucky,405092212,8596293691,38.0102259134888,-84.4217343259358,2021-09-13,KY,Olive Garden,2024-03-30
+Richmond Centre,1822,2168 Lantern Ridge Drive,Richmond,Kentucky,404756011,8596255087,37.73806,-84.32524,2009-09-14,KY,Olive Garden,2024-03-30
+Covington,1817,5001 Pinnacle Parkway,Covington,Louisiana,704339219,9858091615,30.44518086,-90.13105949,2011-05-16,LA,Olive Garden,2024-03-30
+Kenner,1403,1315 W. Esplanade Ave.,Kenner,Louisiana,700652744,5044644612,30.020009,-90.249387,1993-07-05,LA,Olive Garden,2024-03-30
+Houma,1646,1757 Martin Luther King Drive,Houma,Louisiana,703602409,9858726990,29.613903,-90.756943,2005-02-14,LA,Olive Garden,2024-03-30
+Slidell,1637,168 Northshore Blvd,Slidell,Louisiana,704606820,9857815920,30.310078,-89.824917,2004-07-12,LA,Olive Garden,2024-03-30
+Hattiesburg,1693,4505 Hardy Street,Hattiesburg,Mississippi,394021306,6012642234,31.324995,-89.358059,2006-11-20,MS,Olive Garden,2024-03-30
+D'Iberville,1818,3882 Promenade Parkway,D'Iberville,Mississippi,395405364,2283928068,30.45558,-88.90265,2009-09-28,MS,Olive Garden,2024-03-30
+Coeur D'Alene,1540,525 W. Canfield Ave,Coeur D'Alene,Idaho,838157892,2087629300,47.734268,-116.793693,2001-01-29,ID,Olive Garden,2024-03-30
+Spokane Valley,6447,14742 E Indiana Avenue,Spokane Valley,Washington,992161814,5098183246,47.67278481,-117.20286727,2021-03-22,WA,Olive Garden,2024-03-30
+San Angelo,1696,4399 W. Houston Harte Expy,San Angelo,Texas,769015056,3259490427,31.442129,-100.496901,2006-09-11,TX,Olive Garden,2024-03-30
+Abilene,1065,3210 S Clack St,Abilene,Texas,796062200,3256910388,32.411501,-99.774683,1987-05-25,TX,Olive Garden,2024-03-30
+Midland Park Mall,1499,2705 W. Loop 250 N.,Midland,Texas,797053216,4326874400,32.035307,-102.120509,1995-10-16,TX,Olive Garden,2024-03-30
+Odessa,6409,5111 E 42nd Street,Odessa,Texas,797625207,4323620543,31.89480929,-102.33012873,2017-12-18,TX,Olive Garden,2024-03-30
+Pasadena,4435,4641 E Sam Houston Parkway S,Pasadena,Texas,775053949,2819910004,29.64025439,-95.15863533,2012-08-20,TX,Olive Garden,2024-03-30
+Wallisville Road,1850,15525 Wallisville Road,Houston,Texas,770494611,2814361466,29.80959157,-95.16158762,2011-10-03,TX,Olive Garden,2024-03-30
+Houston - Almeda Mall,1259,12711 Gulf Freeway,Houston,Texas,770344513,2819221523,29.615713,-95.214249,1991-05-20,TX,Olive Garden,2024-03-30
+Friendswood - Baybrook Mall,1775,1310 W Bay Area Blvd,Friendswood,Texas,775462637,2814881022,29.539745,-95.144444,1987-04-13,TX,Olive Garden,2024-03-30
+Baytown,1853,6744 Garth Road,Baytown,Texas,775219617,2814211939,29.79939,-94.9804,2010-09-06,TX,Olive Garden,2024-03-30
+Houston - Generation Park,6413,14231 East Sam Houston Parkway N,Houston,Texas,77044,2814583003,29.92697418,-95.20221347,2018-04-09,TX,Olive Garden,2024-03-30
+Pearland,1665,2808 Smith Ranch Road,Pearland,Texas,775845253,7134362813,29.557484,-95.386354,2006-01-30,TX,Olive Garden,2024-03-30
+Mansfield Town Center,1870,2031 N. US Highway 287,Mansfield,Texas,760638842,8174736001,32.59783,-97.14934,2011-01-31,TX,Olive Garden,2024-03-30
+South Arlington - Cooper & I-20,1368,4604 S. Cooper Street,Arlington,Texas,760175826,8174729733,32.673397,-97.136277,1993-03-29,TX,Olive Garden,2024-03-30
+Grand Prairie,6427,3138 S Highway 161,Grand Prairie,Texas,750527685,9723522187,32.69468843,-97.02566959,2019-04-29,TX,Olive Garden,2024-03-30
+North Arlington by Six Flags,1821,210 Lincoln Square,Arlington,Texas,760114892,8172750722,32.75871,-97.09998,2010-01-25,TX,Olive Garden,2024-03-30
+Burleson Town Center,1616,12870 S. Freeway,Burleson,Texas,760287008,8172955721,32.569667,-97.319914,2003-10-13,TX,Olive Garden,2024-03-30
+North Richland Hills - Northeast Mall,1039,8020 Bedford Euless Road,North Richland Hills,Texas,761807162,8175819511,32.833855,-97.207368,1986-12-15,TX,Olive Garden,2024-03-30
+Fort Worth - Hulen,1264,4700 SW Loop 820,Fort Worth,Texas,761094419,8173778091,32.682952,-97.39582,1991-04-15,TX,Olive Garden,2024-03-30
+Duncanville,1406,639 N. Cockrell Hill,Duncanville,Texas,751163901,9722988871,32.658609,-96.891957,1993-06-28,TX,Olive Garden,2024-03-30
+Irving Mall,1119,4001 W Airport Freeway,Irving,Texas,750625935,9722585191,32.837731,-97.004434,1988-08-22,TX,Olive Garden,2024-03-30
+Fort Worth - Ridgmar Mall,1041,925 Alta Mere Drive,Fort Worth,Texas,761161530,8177320618,32.746776,-97.436473,1987-05-25,TX,Olive Garden,2024-03-30
+East Kissimmee - near Old Town,1005,5021 W. Irlo Bronson Memorial Hwy,Kissimmee,Florida,347465344,4073961680,28.333699,-81.48466,1985-08-05,FL,Olive Garden,2024-03-30
+Westminster MD - Gorsuch Rd - Rt 140,1522,500 Gorsuch Rd,Westminster,Maryland,211576530,4108710841,39.568687,-76.979477,1998-04-20,MD,Olive Garden,2024-03-30
+Joplin,1472,3031 E Hammonds Blvd,Joplin,Missouri,648042642,4177827295,37.049616,-94.477687,1995-01-09,MO,Olive Garden,2024-03-30
+Rogers,1726,1716 South 46th Street,Rogers,Arkansas,727588077,4796318480,36.315698,-94.183583,2007-08-06,AR,Olive Garden,2024-03-30
+Springfield MO - S Glenstone Ave,1145,3105 Glenstone Avenue,Springfield,Missouri,658044403,4178863188,37.157354,-93.263407,1989-04-24,MO,Olive Garden,2024-03-30
+Branson,1447,3790 W 76 Country Blvd,Branson,Missouri,656163558,4173375811,36.650591,-93.290179,1994-05-16,MO,Olive Garden,2024-03-30
+Owasso,1778,9072 N 121st East Ave,Owasso,Oklahoma,740555358,9182721436,36.292518,-95.839812,2008-12-08,OK,Olive Garden,2024-03-30
+Catoosa Hills,6439,19731 Robson Road,Catoosa,Oklahoma,74015,9183790932,36.16441179,-95.75817189,2019-09-02,OK,Olive Garden,2024-03-30
+Broken Arrow,1812,1301 E Hillside Dr,Broken Arrow,Oklahoma,740122389,9183552738,36.064343,-95.775177,2009-05-25,OK,Olive Garden,2024-03-30
+Muskogee OK - N 32nd Street,6503,3141 W Shawnee Bypass,Muskogee,Oklahoma,74401,5392181114,35.76903,-95.40082,2024-06-24,OK,Olive Garden,2024-03-30
+York,1137,1340 Kenneth Road,York,Pennsylvania,174042282,7178452264,39.97363,-76.764642,1989-03-06,PA,Olive Garden,2024-03-30
+Lancaster - Park City Mall,1383,910 Plaza Blvd,Lancaster,Pennsylvania,176012740,7172992202,40.066775,-76.344594,1993-02-15,PA,Olive Garden,2024-03-30
+Harrisburg - Colonial Commons,1310,5102 Jonestown Road,Harrisburg,Pennsylvania,171122923,7175409904,40.3111,-76.802594,1991-12-09,PA,Olive Garden,2024-03-30
+Hanover PA,1885,10 Wilson Ave,Hanover,Pennsylvania,173315249,7176308338,39.82879,-76.99947,2011-09-19,PA,Olive Garden,2024-03-30
+Lancaster - Rockvale Outlets,1742,35 S. Willowdale Drive,Lancaster,Pennsylvania,176021497,7173923235,40.022096,-76.193354,2008-06-02,PA,Olive Garden,2024-03-30
+Mechanicsburg - Silver Spring Commons,1471,6520 Carlisle Pike,Mechanicsburg,Pennsylvania,170505251,7177961140,40.246743,-77.027276,1995-01-09,PA,Olive Garden,2024-03-30
+Wyomissing,1525,1700 Crossing Drive,Wyomissing,Pennsylvania,196101241,6103731311,40.346952,-75.966861,1998-05-11,PA,Olive Garden,2024-03-30
+Downingtown - Quarry Crossings,1857,101 Quarry Road,Downingtown,Pennsylvania,193353419,6105186323,40.0171,-75.67296,2011-05-09,PA,Olive Garden,2024-03-30
+Foxboro - Gillette Stadium,1808,392 Patriot Place South,Foxboro,Massachusetts,020355102,5085433967,42.086009,-71.271386,2009-04-20,MA,Olive Garden,2024-03-30
+Plymouth - Colony Place,1730,102 Colony Place Rd,Plymouth,Massachusetts,023607233,5087465043,41.954475,-70.714303,2007-08-20,MA,Olive Garden,2024-03-30
+Stroudsburg,1796,600 Shoppes At Stroud,Stroudsburg,Pennsylvania,18360,5704769324,40.98789,-75.23322,2009-03-23,PA,Olive Garden,2024-03-30
+Easton - Pennsylvania,1474,50 Kunkle Dr.,Easton,Pennsylvania,180452662,6105151722,40.685178,-75.253367,1995-02-06,PA,Olive Garden,2024-03-30
+Whitehall,1425,715 Grape St,Whitehall,Pennsylvania,180525206,6102666777,40.635507,-75.476066,1993-11-08,PA,Olive Garden,2024-03-30
+Surprise,1627,13379 West Grand Ave,Surprise,Arizona,853744070,6239756774,33.638072,-112.350454,2004-05-17,AZ,Olive Garden,2024-03-30
+Peoria - Arrowhead Towne Center,1491,7889 W Bell Rd.,Peoria,Arizona,853823803,6234124955,33.637698,-112.227924,1995-05-22,AZ,Olive Garden,2024-03-30
+Glendale - Westgate Entertainment District,6405,6970 North 95th Ave,Glendale,Arizona,853052487,6238720003,33.5367656,-112.26473447,2018-01-29,AZ,Olive Garden,2024-03-30
+Goodyear - Centerpointe Mall,1773,15411 W. McDowell Road,Goodyear,Arizona,853952525,6235362035,33.46412,-112.390554,2009-01-26,AZ,Olive Garden,2024-03-30
+Phoenix - Desert Sky,1718,2626 N. 75th Avenue,Phoenix,Arizona,850351210,6238450477,33.477551,-112.221182,1990-10-29,AZ,Olive Garden,2024-03-30
+Phoenix - Metro Center,4410,2710 W. North Lane,Phoenix,Arizona,850511519,6029431502,33.58127988,-112.11816039,1986-04-07,AZ,Olive Garden,2024-03-30
+Phoenix - Happy Valley Town Center,1715,2501 W. Happy Valley Road,Phoenix,Arizona,850853701,6234344664,33.712064,-112.11398,2007-08-13,AZ,Olive Garden,2024-03-30
+Phoenix - Christown Spectrum,6421,1617 W Bethany Home Road,Phoenix,Arizona,850152507,6028411036,33.52369275,-112.09414,2019-02-25,AZ,Olive Garden,2024-03-30
+Scottsdale - E Cactus Rd,1234,4868 E Cactus Road,Scottsdale,Arizona,852544180,6024944327,33.598044,-111.9764,1990-12-10,AZ,Olive Garden,2024-03-30
+Tempe - W. Elliot Rd,1488,1010 W. Elliot Rd.,Tempe,Arizona,852841115,4807770032,33.349662,-111.955053,1995-05-15,AZ,Olive Garden,2024-03-30
+Salisbury - Wallace Commons,1792,1425 Klumac Road,Salisbury,North Carolina,281479087,7046336198,35.636978,-80.488764,2009-02-16,NC,Olive Garden,2024-03-30
+Wilkesboro - US Highway 421N,5817,1852 US Highway 421,Wilkesboro,North Carolina,286972278,3368380337,36.15051382,-81.20142627,2013-04-29,NC,Olive Garden,2024-03-30
+Winston Salem - Hanes Mall,1270,170 Hanes Mall Circle,Winston-Salem,North Carolina,271033094,3367659008,36.06738,-80.303761,1991-05-13,NC,Olive Garden,2024-03-30
+Bloomington - Eastland Mall,1414,1701 E. Empire St.,Bloomington,Illinois,617043532,3096637375,40.486559,-88.951769,1993-09-20,IL,Olive Garden,2024-03-30
+Decatur - Mound Center,1709,3795 N Water St,Decatur,Illinois,625261858,2178777470,39.890959,-88.955997,2007-03-19,IL,Olive Garden,2024-03-30
+Peoria - Willow Knolls Court,1434,3915 W War Memorial Dr,Peoria,Illinois,616152550,3096915975,40.771252,-89.654353,1994-02-14,IL,Olive Garden,2024-03-30
+Champaign,1176,30 East Anthony Drive,Champaign,Illinois,618207802,2173516339,40.135857,-88.241166,1989-10-30,IL,Olive Garden,2024-03-30
+Peru Market Place,4424,5223 US Hwy 251,Peru,Illinois,61354,8152200903,41.36927136,-89.12502984,2012-03-26,IL,Olive Garden,2024-03-30
+Temple,1771,3625 South General Bruce Dr,Temple,Texas,765046332,2547741266,31.090335,-97.385009,2008-08-11,TX,Olive Garden,2024-03-30
+Killeen,1571,2811 E. Central Texas Expwy,Killeen,Texas,765435305,2546992709,31.08696,-97.709274,1992-04-27,TX,Olive Garden,2024-03-30
+Waco - Richland Mall,1222,5921 W Waco Drive,Waco,Texas,767106356,2547511667,31.514612,-97.187346,1990-05-14,TX,Olive Garden,2024-03-30
+Georgetown - Wolf Crossing,6432,1401 South I-35,Georgetown,Texas,786265419,5126884235,30.63057334,-97.69077647,2019-12-02,TX,Olive Garden,2024-03-30
+Round Rock - La Frontera Shopping Center,1566,100 Sundance Pkwy,Round Rock,Texas,786817922,5123418433,30.484256,-97.676388,2002-03-25,TX,Olive Garden,2024-03-30
+Austin - Lakeline Mall,1537,12827 Ranch Rd 620 N,Austin,Texas,787501219,5129189460,30.465935,-97.802003,2002-09-03,TX,Olive Garden,2024-03-30
+Austin - Burnet Rd,1044,8833 Burnet Road,Austin,Texas,787577009,5124590701,30.37149,-97.726145,1987-01-12,TX,Olive Garden,2024-03-30
+Austin - South Lamar Blvd,1046,3940 S Lamar Blvd,Austin,Texas,787047902,5124400131,30.23713,-97.792259,1987-02-16,TX,Olive Garden,2024-03-30
+College Station,1655,510 Earl Rudder Freeway South,College Station,Texas,778402535,9798464637,30.64197731,-96.31332768,1993-03-08,TX,Olive Garden,2024-03-30
+San Marcos,4495,1305 S  I-35,San Marcos,Texas,786667736,5123925331,29.86619538,-97.94122412,2017-04-03,TX,Olive Garden,2024-03-30
+Waterloo - Cross Roads Mall,1489,1315 E. San Marnan Dr,Waterloo,Iowa,507024334,3192356494,42.46253824,-92.33017675,1995-05-22,IA,Olive Garden,2024-03-30
+Cedar Rapids - Collins Road,1475,367 Collins Rd.,Cedar Rapids,Iowa,524023118,3193786401,42.027541,-91.635568,1994-12-05,IA,Olive Garden,2024-03-30
+Coralville Ridge Mall,1559,930 25th Avenue,Coralville,Iowa,522411225,3193399100,41.686883,-91.603996,2002-02-04,IA,Olive Garden,2024-03-30
+Ankeny - Oralabor Road,1832,770 SE Oralabor Rd,Ankeny,Iowa,500219366,5159640511,41.70350664,-93.58696189,2011-01-10,IA,Olive Garden,2024-03-30
+Des Moines IA - SE 14th Street,6479,6157 SE 14th Street,Des Moines,Iowa,503201718,5156353593,41.52855,-93.59601,2023-05-22,IA,Olive Garden,2024-03-30
+Dubuque - Dodge Street,1516,3350 Dodge St,Dubuque,Iowa,520035275,5635564121,42.491579,-90.715271,1996-05-20,IA,Olive Garden,2024-03-30
+West Des Moines - Westown Parkway,1146,3600 Westown Parkway,West Des Moines,Iowa,502661027,5152240824,41.59404,-93.754986,1988-12-12,IA,Olive Garden,2024-03-30
+Rochester MN - Hwy 52 N,1600,380 17th Ave. NW,Rochester,Minnesota,559010378,5072888722,44.027563,-92.486799,2002-12-16,MN,Olive Garden,2024-03-30
+Onalaska - Valley View Mall,1492,9413 State Rd 16,Onalaska,Wisconsin,546508539,6087830090,43.872244,-91.190911,1995-04-24,WI,Olive Garden,2024-03-30
+Davenport - North Park Mall,1144,330 W Kimberly Road,Davenport,Iowa,528065917,5633860504,41.560556,-90.576154,1989-03-06,IA,Olive Garden,2024-03-30
+Collegeville - Providence Town Center,1819,1 Town Center Drive,Collegeville,Pennsylvania,194264912,6108318814,40.16492,-75.476824,2009-11-02,PA,Olive Garden,2024-03-30
+Lawrenceville - Mercer Mall,1183,3345 Brunswick Pike - Rt 1,Trenton,New Jersey,086482411,6099879207,40.295437,-74.68254,1990-02-12,NJ,Olive Garden,2024-03-30
+Dalton - W Walnut Ave,6491,1430 West Walnut Ave,Dalton,Georgia,307214246,7064593304,34.76123,-84.99848,2023-09-25,GA,Olive Garden,2024-03-30
+Chattanooga - Hamilton Place Mall,1104,2200 Hamilton Place Blvd,Chattanooga,Tennessee,374216021,4238997707,35.036939,-85.156769,1988-06-06,TN,Olive Garden,2024-03-30
+"Cleveland, TN",1893,4499 Keith St. NW,Cleveland,Tennessee,373124820,4233393330,35.20116779,-84.84656849,2011-11-28,TN,Olive Garden,2024-03-30
+Canton - Georgia,1798,2040 Cumming Highway,Canton,Georgia,301158071,7707046665,34.23618454,-84.45416588,2009-04-06,GA,Olive Garden,2024-03-30
+Hixson,1690,5525 Highway 153,Hixson,Tennessee,373433748,4238777704,35.145584,-85.249899,2006-04-24,TN,Olive Garden,2024-03-30
+Rome,1729,789 Turner Mccall Blvd. NE,Rome,Georgia,301612719,7062355757,34.261246,-85.170036,2007-08-06,GA,Olive Garden,2024-03-30
+Dawsonville,6425,15 Wallace Blvd,Dawsonville,Georgia,305340112,7065257199,34.35303348,-84.04828196,2019-11-13,GA,Olive Garden,2024-03-30
+Kennesaw,1152,429 Barrett Pkwy,Kennesaw,Georgia,301444959,7704243668,34.012239,-84.563004,1989-05-01,GA,Olive Garden,2024-03-30
+Gainesville - Dawsonville Hwy,1881,1175 Dawsonville Hwy NW,Gainesville,Georgia,305012601,7705343530,34.30268879,-83.85978712,2011-06-20,GA,Olive Garden,2024-03-30
+Westminster CO - Downtown,1417,5551 W 88th Ave,Westminster,Colorado,800313003,3036500889,39.856983,-105.057612,1993-11-08,CO,Olive Garden,2024-03-30
+Thornton,1593,1151 East 120th Ave,Thornton,Colorado,802335712,3034509528,39.914381,-104.972881,2003-08-04,CO,Olive Garden,2024-03-30
+Greeley Mall,1583,2285 Greeley Mall,Greeley,Colorado,806318544,9703533808,40.390333,-104.715229,2002-10-28,CO,Olive Garden,2024-03-30
+Grapevine,1497,301 W. State Highway 114,Grapevine,Texas,760514084,8172510222,32.921438,-97.079913,1995-05-08,TX,Olive Garden,2024-03-30
+Dallas - I-30 and Westmoreland Rd,6410,3351 Canyon Bluff Blvd,Dallas,Texas,752111201,2143331927,32.76658439,-96.87496856,2018-07-30,TX,Olive Garden,2024-03-30
+Dallas - Northwest Highway,1466,10280 E. Technology Blvd,Dallas,Texas,752204325,2149028163,32.862548,-96.895867,1994-10-10,TX,Olive Garden,2024-03-30
+Cuyahoga Falls,1076,480 Howe Ave,Cuyahoga Falls,Ohio,442214957,3309282205,41.118624,-81.478315,1988-02-01,OH,Olive Garden,2024-03-30
+Akron - Montrose Hwy 18,1087,3924 Medina Road,Akron,Ohio,443332445,3306665313,41.135405,-81.640192,1988-04-04,OH,Olive Garden,2024-03-30
+Canton - Ohio,1057,4810 Dressler Road,Canton,Ohio,447182544,3304925313,40.851381,-81.433541,1987-09-21,OH,Olive Garden,2024-03-30
+Parma Town Mall,1128,8383 Day Drive,Parma,Ohio,441295610,4408428110,41.380025,-81.742854,1988-12-12,OH,Olive Garden,2024-03-30
+Warrensville Heights - Beachwood,1791,26000 Harvard Road,Beachwood,Ohio,441226142,2167650621,41.449059,-81.497099,1990-11-12,OH,Olive Garden,2024-03-30
+Middleburg Heights,1073,17500 Bagley Road,Middleburg Heights,Ohio,441302550,4402346845,41.372413,-81.822614,1988-03-07,OH,Olive Garden,2024-03-30
+North Olmsted - Great Northern Mall,1133,25984 Lorain Road,North Olmsted,Ohio,440702736,4407340888,41.420938,-81.910051,1988-12-05,OH,Olive Garden,2024-03-30
+Niles - Eastwood Mall,1416,5740 Youngstown-Warren Rd,Niles,Ohio,444464708,3306522014,41.209124,-80.748784,1993-09-27,OH,Olive Garden,2024-03-30
+Elyria - Midway Mall,1770,1635 West River Road,Elyria,Ohio,440352715,4403243002,41.397501,-82.106476,2008-04-14,OH,Olive Garden,2024-03-30
+Mentor - Great Lakes Mall,1530,7740 Mentor Ave,Mentor,Ohio,440605501,4402059247,41.659689,-81.364183,2000-05-22,OH,Olive Garden,2024-03-30
+Christiana,1668,1279 New Churchman's Rd,Newark,Delaware,197132149,3027315430,39.690367,-75.662007,2006-04-10,DE,Olive Garden,2024-03-30
+Vineland,6419,3880 South Delsea Drive,Vineland,New Jersey,083607453,8568255680,39.43157541,-75.04098246,2019-02-18,NJ,Olive Garden,2024-03-30
+Tallahassee,1236,1103 Apalachee Parkway,Tallahassee,Florida,323014541,8508782949,30.437334,-84.266123,1990-10-22,FL,Olive Garden,2024-03-30
+Valdosta,1887,1315 N St. Augustine Rd.,Valdosta,Georgia,316013535,2292449990,30.8445234,-83.32911882,2012-01-23,GA,Olive Garden,2024-03-30
+Panama City - SR 77,1395,2397 SR 77,Panama City,Florida,324054403,8507694002,30.19166,-85.650321,1993-10-11,FL,Olive Garden,2024-03-30
+Dothan,1695,3360 Ross Clark Circle,Dothan,Alabama,363033034,3347928777,31.240692,-85.430043,2006-08-28,AL,Olive Garden,2024-03-30
+Tifton,4459,1208 US Highway 82 W,Tifton,Georgia,317938031,2293878990,31.44921534,-83.53305839,2013-03-04,GA,Olive Garden,2024-03-30
+Panama City Beach,1774,15701 Panama City Beach Parkway,Panama City Beach,Florida,324135415,8502354225,30.22245263,-85.87003389,2008-09-08,FL,Olive Garden,2024-03-30
+Lake City,4442,3072 West US Highway 90,Lake City,Florida,320554730,3867521551,30.17973436,-82.68262645,2013-03-18,FL,Olive Garden,2024-03-30
+Destin,1689,34970 Emerald Coast Parkway,Destin,Florida,325413402,8506502307,30.388688,-86.423042,2006-05-15,FL,Olive Garden,2024-03-30
+Waycross - Memorial Drive,5814,2497 Memorial Drive,Waycross,Georgia,315036337,9122879192,31.19489538,-82.31984017,2012-09-24,GA,Olive Garden,2024-03-30
+Bozeman,4451,1553 N 19th Avenue,Bozeman,Montana,597183648,4065229962,45.69519,-111.063061,2013-01-14,MT,Olive Garden,2024-03-30
+Johnson City Mall,1289,1903 N Roan Street,Johnson City,Tennessee,376013115,4239290137,36.335855,-82.373281,1991-09-02,TN,Olive Garden,2024-03-30
+Kingsport,1836,1919 N Eastman Road,Kingsport,Tennessee,376604616,4232450344,36.543744,-82.518377,2010-05-03,TN,Olive Garden,2024-03-30
+Bristol,4419,320 Market Center,Bristol,Virginia,242025943,2764660518,36.632748,-82.125374,2012-05-07,VA,Olive Garden,2024-03-30
+Morristown,6403,2540 E Morris Blvd,Morristown,Tennessee,378131946,4232003774,36.22215433,-83.26137928,2018-03-12,TN,Olive Garden,2024-03-30
+Asheville,1467,121 Tunnel Rd,Asheville,North Carolina,288051817,8282559887,35.592668,-82.531594,1994-10-31,NC,Olive Garden,2024-03-30
+Arden,4417,400 Airport Rd,Arden,North Carolina,287048531,8286549921,35.44613234,-82.53425897,2012-09-03,NC,Olive Garden,2024-03-30
+Sevierville,1662,1570 Parkway,Sevierville,Tennessee,378622847,8659089940,35.835081,-83.572888,2005-07-18,TN,Olive Garden,2024-03-30
+Knoxville - West Town Mall,1092,7206 Kingston Pike,Knoxville,Tennessee,379195601,8655847300,35.930141,-84.027889,1988-03-14,TN,Olive Garden,2024-03-30
+Sparks - Legends Mall,1785,1481 E Lincoln Way,Sparks,Nevada,894347904,7753569500,39.53394195,-119.71974133,2009-05-25,NV,Olive Garden,2024-03-30
+Reno,1085,4900 S Virginia,Reno,Nevada,895026016,7758291500,39.481956,-119.79101,1988-01-18,NV,Olive Garden,2024-03-30
+Carson City NV - S Carson St,1878,4253 S Carson Street,Carson City,Nevada,897015562,7758837471,39.12917903,-119.76982922,2011-06-27,NV,Olive Garden,2024-03-30
+Folsom,1713,2485 Iron Point Road,Folsom,California,956308710,9169847036,38.645928,-121.118647,2007-04-23,CA,Olive Garden,2024-03-30
+Roseville - Across from Galleria Mall,1574,1160 Galleria Blvd.,Roseville,California,956781950,9167836005,38.770871,-121.265153,2002-11-18,CA,Olive Garden,2024-03-30
+Citrus Heights,1246,5445 Sunrise Boulevard,Citrus Heights,California,956107806,9169659537,38.66611,-121.27261,1991-02-18,CA,Olive Garden,2024-03-30
+Across from Chico Mall,1402,2020 Business Lane,Chico,California,959287603,5308988075,39.725523,-121.806634,1994-01-31,CA,Olive Garden,2024-03-30
+Addison,1385,4240 Belt Line Rd,Addison,Texas,750014509,9722399096,32.953932,-96.83833,1993-04-26,TX,Olive Garden,2024-03-30
+Dallas - Greenville Ave,1257,9079 Vantage Point Dr,Dallas,Texas,752433581,9722343292,32.916677,-96.745176,1991-02-25,TX,Olive Garden,2024-03-30
+Lewisville - Vista Ridge Mall,1212,2418 S Stemmons Parkway,Lewisville,Texas,750678778,9723156202,33.005885,-96.968375,1990-09-03,TX,Olive Garden,2024-03-30
+Plano - Collin Creek Mall,1284,700 N Central Expressway,Plano,Texas,750746735,9725788576,33.009952,-96.706997,1991-10-28,TX,Olive Garden,2024-03-30
+Garland - LBJ Fwy,6486,13771 LBJ Freeway,Garland,Texas,750414709,2142610535,32.85892,-96.65085,2024-01-22,TX,Olive Garden,2024-03-30
+Garland - Firewheel,1673,4840 North George Bush Hwy,Garland,Texas,750402742,9725308102,32.961335,-96.634217,2005-10-31,TX,Olive Garden,2024-03-30
+Racine - Regency Mall,1371,6000 Durand Avenue,Racine,Wisconsin,534065016,2625546884,42.697928,-87.853412,1993-02-01,WI,Olive Garden,2024-03-30
+Bergen Town Center,4414,1620 Bergen Town Center,Paramus,New Jersey,076525028,2013681090,40.91658799,-74.05825779,2013-01-14,NJ,Olive Garden,2024-03-30
+Elmhurst,4443,92-10 59th Avenue,Elmhurst,New York,113735025,7184580549,40.73402962,-73.8686135,2014-10-27,NY,Olive Garden,2024-03-30
+"Burlington, Washington",1691,1809 Marketplace Drive,Burlington,Washington,982333205,3607570480,48.451471,-122.338349,2006-07-24,WA,Olive Garden,2024-03-30
+Bellingham,1487,4276 Guide Meridian,Bellingham,Washington,982266476,3607336286,48.795502,-122.485185,1995-03-06,WA,Olive Garden,2024-03-30
+Langley - Rio Can Centre,4346,20080 Langley Bypass,Langley,N/A,V3A9J7,6045143499,49.113007,-122.666696,2001-09-10,,Olive Garden,2024-03-30
+Burlington - Vermont,1520,1025 Shelburne Rd,South Burlington,Vermont,054036940,8028634907,44.440644,-73.210515,1997-08-18,VT,Olive Garden,2024-03-30
+Concord - New Hampshire,1444,223 Loudon Rd.,Concord,New Hampshire,033016054,6032286886,43.221839,-71.495864,1994-02-14,NH,Olive Garden,2024-03-30
+Sandusky,1654,5205 Milan Road,Sandusky,Ohio,448707135,4196215589,41.40524,-82.66183,2005-03-28,OH,Olive Garden,2024-03-30
+Beckley,4418,4289 Robert C. Byrd Drive,Beckley,West Virginia,258012223,3042527536,37.81475869,-81.18703647,2012-10-01,WV,Olive Garden,2024-03-30
+Charleston - South Ridge,1620,111 Cross Terrace Blvd,Charleston,West Virginia,253099461,3047463944,38.3175,-81.717521,1994-07-18,WV,Olive Garden,2024-03-30
+Barboursville - Huntington Mall,1490,12 Mall Rd.,Barboursville,West Virginia,255041821,3047336481,38.420217,-82.263352,1995-02-27,WV,Olive Garden,2024-03-30
+Ashland,6484,500 Winchester Ave,Ashland,Kentucky,411017362,6064713325,38.48372,-82.65263,2023-05-01,KY,Olive Garden,2024-03-30
+Parkersburg Mall,1254,109 Grand Central Avenue,Vienna,West Virginia,261054109,3044850096,39.299261,-81.548735,1991-02-11,WV,Olive Garden,2024-03-30
+Clarksburg - New Point Plaza,6461,519 Emily Dr,Clarksburg,West Virginia,263015509,3045663344,39.26748,-80.28714,2022-05-23,WV,Olive Garden,2024-03-30
+Brooklyn - Gateway Shopping Plaza,1558,505 Gateway Dr,Brooklyn,New York,112392801,7183481071,40.651493,-73.869339,2003-01-27,NY,Olive Garden,2024-03-30
+Owensboro,1660,5204 Frederica Street,Owensboro,Kentucky,423017420,2706834848,37.717232,-87.126074,2005-05-23,KY,Olive Garden,2024-03-30
+Bowling Green,1842,3220 Scottsville Road,Bowling Green,Kentucky,421046311,2707826050,36.93984,-86.41986,2010-05-03,KY,Olive Garden,2024-03-30
+Evansville - Eastland Mall,1022,1100 N Green River Road,Evansville,Indiana,477152423,8124732903,37.986326,-87.493146,1987-03-23,IN,Olive Garden,2024-03-30
+State College,1552,1945 Waddle Road,State College,Pennsylvania,168031639,8148611620,40.817085,-77.899109,2001-12-10,PA,Olive Garden,2024-03-30
+Altoona,1349,3315 Pleasant Valley Blvd,Altoona,Pennsylvania,166024311,8149499540,40.483507,-78.400507,1992-11-02,PA,Olive Garden,2024-03-30
+Williamsport,1519,1825 E Third St,Williamsport,Pennsylvania,177013913,5703219250,41.249751,-76.967241,1997-02-10,PA,Olive Garden,2024-03-30
+Bloomsburg,4449,52 Plaza Drive,Bloomsburg,Pennsylvania,178158334,5707842229,41.00978811,-76.48753634,2013-02-04,PA,Olive Garden,2024-03-30
+Chambersburg - Walker Road,4439,990 Norland Ave & Walker Road,Chambersburg,Pennsylvania,172014203,7172615592,39.93917,-77.62754,2012-11-19,PA,Olive Garden,2024-03-30
+Hagerstown,1719,17410 Valley Mall Road,Hagerstown,Maryland,217406937,3015820408,39.626414,-77.767338,2008-01-14,MD,Olive Garden,2024-03-30
+Fort Gratiot - Port Huron,1610,4210 24th Avenue,Fort Gratiot,Michigan,480593880,8103855694,43.031164,-82.455253,2003-11-17,MI,Olive Garden,2024-03-30
+Clay,1479,4125 Route 31,Clay,New York,130418757,3156521950,43.18632,-76.228797,1995-04-24,NY,Olive Garden,2024-03-30
+Dewitt,1422,3147 Erie Blvd East,Syracuse,New York,132141201,3154491543,43.055334,-76.076354,1993-10-18,NY,Olive Garden,2024-03-30
+Boardman - Poland Rd,1273,853 Boardman-Poland Rd,Boardman Township,Ohio,445125116,3307268380,41.023701,-80.636436,1991-08-05,OH,Olive Garden,2024-03-30
+Cranberry Township,1629,1716 Route 228,Cranberry Township,Pennsylvania,160665320,7247762622,40.684887,-80.083894,2004-12-06,PA,Olive Garden,2024-03-30
+Ft Walton Beach,1274,216 Miracle Strip Pkwy SW,Fort Walton Beach,Florida,325486617,8502441667,30.40517,-86.627337,1991-07-08,FL,Olive Garden,2024-03-30
+Pensacola,1060,5037 Bayou Blvd,Pensacola,Florida,325032503,8504776544,30.472617,-87.211528,1987-11-02,FL,Olive Garden,2024-03-30
+Spanish Fort,1656,30500-D State Highway 181,Spanish Fort,Alabama,365275821,2516251490,30.669327,-87.851588,2005-03-07,AL,Olive Garden,2024-03-30
+Mobile,1055,3701 Airport Blvd,Mobile,Alabama,366081617,2513430467,30.675539,-88.135487,1987-05-18,AL,Olive Garden,2024-03-30
+Chillicothe,1743,1417 N Bridge St,Chillicothe,Ohio,456014128,7407725040,39.36462249,-82.97544098,2007-12-17,OH,Olive Garden,2024-03-30
+Grove City,1699,1514 Stringtown Rd,Grove City,Ohio,431239743,6142774374,39.878844,-83.038432,2006-09-25,OH,Olive Garden,2024-03-30
+Lancaster - River Valley Mall,1509,2093 Schorrway Dr.,Lancaster,Ohio,431308412,7406874409,39.734702,-82.625549,1996-05-06,OH,Olive Garden,2024-03-30
+Reynoldsburg,1760,2439 Taylor Square Drive,Reynoldsburg,Ohio,430689500,6148630106,39.935089,-82.788539,2008-04-21,OH,Olive Garden,2024-03-30
+Hilliard,4457,5450 Renner Rd,Columbus,Ohio,432288962,6148500001,39.982,-83.14793,2013-03-18,OH,Olive Garden,2024-03-30
+Columbus - N Hamilton Rd,1820,4860 N. Hamilton Rd.,Columbus,Ohio,432301756,6148554761,40.05692159,-82.86272056,1987-03-16,OH,Olive Garden,2024-03-30
+Columbus - Sawmill Rd,1129,7160 Sawmill Road,Columbus,Ohio,432351943,6147928181,40.110628,-83.089909,1988-11-14,OH,Olive Garden,2024-03-30
+Columbus - Polaris Mall,1575,1250 Polaris Parkway,Columbus,Ohio,432402036,6148850080,40.142515,-82.986232,2002-10-21,OH,Olive Garden,2024-03-30
+Heath,1481,898 Hebron Rd.,Heath,Ohio,430561170,7405228274,40.027073,-82.443927,1995-05-22,OH,Olive Garden,2024-03-30
+Springfield OH - N Bechtle Ave,1750,1630 North Bechtle Ave,Springfield,Ohio,455041572,9373234566,39.946389,-83.833108,2007-11-05,OH,Olive Garden,2024-03-30
+Cookeville,1762,1300 Interstate Drive,Cookeville,Tennessee,385014129,9315203340,36.137563,-85.507299,2008-06-02,TN,Olive Garden,2024-03-30
+Worcester,1868,7 Tobias Boland Way,Worcester,Massachusetts,016072103,5087555268,42.232036,-71.788735,2011-01-17,MA,Olive Garden,2024-03-30
+Warwick,1260,31 Universal Blvd,Warwick,Rhode Island,028864239,4018217322,41.702919,-71.495814,1991-04-29,RI,Olive Garden,2024-03-30
+Portland - Mall 205,1608,9830 SE Washington Street,Portland,Oregon,972162420,5032580763,45.518119,-122.561927,2004-05-03,OR,Olive Garden,2024-03-30
+Vancouver Mall,1131,8101 NE Parkway Dr,Vancouver,Washington,986627911,3602568174,45.655577,-122.58922,1988-10-24,WA,Olive Garden,2024-03-30
+Vancouver - Columbia Tech Center,1780,16405 SE Mill Plain Blvd,Vancouver,Washington,986849621,3602564051,45.614806,-122.50378,2008-10-13,WA,Olive Garden,2024-03-30
+Gresham Village,1351,2330 SE Burnside Rd,Gresham,Oregon,970808056,5036693600,45.497204,-122.409595,1992-10-19,OR,Olive Garden,2024-03-30
+Douglasville - Arbor Place Mall,1531,6710 Douglas Blvd,Douglasville,Georgia,301351599,7705775858,33.728895,-84.750014,2000-05-01,GA,Olive Garden,2024-03-30
+Jacksonville - Avenues Mall,1272,10144 Philips Hwy,Jacksonville,Florida,322561328,9042924845,30.181755,-81.556061,1991-08-12,FL,Olive Garden,2024-03-30
+Jacksonville - Orange Park,1191,6050 Youngerman Circle,Jacksonville,Florida,322445733,9047779827,30.193465,-81.740831,1990-04-30,FL,Olive Garden,2024-03-30
+Jacksonville at Regency,4489,9465 Atlantic Blvd,Jacksonville,Florida,322258220,9047202110,30.32082755,-81.55245166,1990-01-29,FL,Olive Garden,2024-03-30
+Palm Coast,5802,5294 E Highway 100,Palm Coast,Florida,321642912,3865862924,29.47621,-81.21322,2011-03-07,FL,Olive Garden,2024-03-30
+Jacksonville - River City Market Place,1816,13040 City Station Drive,Jacksonville,Florida,322187224,9046969502,30.47388,-81.64435,2009-10-05,FL,Olive Garden,2024-03-30
+Daytona Beach,4460,1780 W. International Speedway Blvd.,Daytona Beach,Florida,321141304,3862550019,29.19385092,-81.06585194,1984-12-27,FL,Olive Garden,2024-03-30
+Port Orange - The Pavillion,1814,5447 S Williamson Blvd.,Port Orange,Florida,321287399,3867889825,29.10937317,-81.03529572,2010-03-08,FL,Olive Garden,2024-03-30
+Macon,6411,4950 Riverside Drive,Macon,Georgia,31210,4784770008,32.92580608,-83.71298458,1988-07-11,GA,Olive Garden,2024-03-30
+Humble - Deer Brook Mall,1047,9632 FM 1960,Humble,Texas,773384039,2814461692,30.00429,-95.278068,1987-01-26,TX,Olive Garden,2024-03-30
+Winter Park Village,1275,665 N Orlando Avenue,Winter Park,Florida,327892917,4077407117,28.60301,-81.365429,1991-07-01,FL,Olive Garden,2024-03-30
+Orlando - Millenia Mall,1614,4101 Conroy Road,Orlando,Florida,328392407,4073458331,28.488241,-81.42829,2003-11-03,FL,Olive Garden,2024-03-30
+Orlando - Fashion Square,6412,3111 E. Colonial Dr,Orlando,Florida,328035107,4078952932,28.55385106,-81.34257161,1984-05-29,FL,Olive Garden,2024-03-30
+Las Vegas - Decatur,1193,1361 S. Decatur Blvd,Las Vegas,Nevada,891025517,7022583453,36.154845,-115.207349,1990-03-26,NV,Olive Garden,2024-03-30
+Las Vegas - Showcase Mall,6448,3767 S Las Vegas Blvd,Las Vegas,Nevada,891094380,7022733227,36.10469201,-115.17240607,2021-08-30,NV,Olive Garden,2024-03-30
+Las Vegas - Flamingo Road,1014,1545 E Flamingo Road,Las Vegas,Nevada,891195277,7027350082,36.114062,-115.132238,1986-03-31,NV,Olive Garden,2024-03-30
+Las Vegas - Cheyenne Ave,1363,6850 W. Cheyenne Ave.,Las Vegas,Nevada,891084590,7026582144,36.218763,-115.244406,1992-12-14,NV,Olive Garden,2024-03-30
+Las Vegas - Nellis Blvd,1440,80 N. Nellis Blvd.,Las Vegas,Nevada,891105301,7024380082,36.160539,-115.061705,1994-03-07,NV,Olive Garden,2024-03-30
+North Las Vegas - Craig Rd.,6478,1250 E Craig Road,North Las Vegas,Nevada,890303207,7252409381,36.240189,-115.126046,2023-05-08,NV,Olive Garden,2024-03-30
+Henderson,1478,4400 E. Sunset Rd.,Henderson,Nevada,890142237,7024515133,36.071437,-115.077245,1995-02-20,NV,Olive Garden,2024-03-30
+Summerlin - W Charleston Blvd & I-215,1621,10800 West Charleston Blvd,Las Vegas,Nevada,891351102,7023418190,36.159642,-115.331432,2004-05-17,NV,Olive Garden,2024-03-30
+Centennial Hills,4462,6191 Centennial Center Blvd,Las Vegas,Nevada,891494573,7026451557,36.27277547,-115.26650981,2013-05-13,NV,Olive Garden,2024-03-30
+St. George,1725,1340 East 170 South St.,Saint George,Utah,847903016,4356568940,37.104742,-113.555016,2007-03-05,UT,Olive Garden,2024-03-30
+Fort Worth - Alliance Town Center,1846,9333 Rain Lily Trail,Fort Worth,Texas,761777631,8177500800,32.90816,-97.3161,2010-08-16,TX,Olive Garden,2024-03-30
+Fort Worth - Tanger Outlets,6423,15885 North Freeway,Fort Worth,Texas,761773312,6828311310,33.02228,-97.27886,2019-04-29,TX,Olive Garden,2024-03-30
+Corpus Christi - La Palmera Mall,1165,5258 S Padre Island Drive,Corpus Christi,Texas,784114102,3619924742,27.711751,-97.376106,1989-07-03,TX,Olive Garden,2024-03-30
+Victoria,1694,7609 NE Zac Lentz Parkway,Victoria,Texas,779041553,3615786996,28.862212,-96.99849,2007-01-15,TX,Olive Garden,2024-03-30
+Harlingen - Valle Vista Mall,1356,1802 W Lincoln St,Harlingen,Texas,785525900,9564287381,26.182129,-97.715748,1992-10-19,TX,Olive Garden,2024-03-30
+Weslaco - Valley Crossing,1877,801 East Expressway 83,Weslaco,Texas,785994522,9569682170,26.173649,-97.983631,2011-05-02,TX,Olive Garden,2024-03-30
+North McAllen - North 10th and Trenton,1720,7812 N. 10th Street,McAllen,Texas,785047717,9566189886,26.27373,-98.217455,2007-04-23,TX,Olive Garden,2024-03-30
+San Juan,6488,1403 E IH-2,San Juan,Texas,785895201,9564033601,26.1925811908983,-98.1367346411774,2023-04-03,TX,Olive Garden,2024-03-30
+South McAllen - Expressway 83,1265,222 Expressway 83,McAllen,Texas,785012951,9566181188,26.189489,-98.226174,1991-04-29,TX,Olive Garden,2024-03-30
+Brownsville,6408,3807 N Expressway 77/83,Brownsville,Texas,785204475,9563508607,25.95754891,-97.50828997,2017-11-20,TX,Olive Garden,2024-03-30
+Mission TX - Bryan Road & I-2,6508,1405 E Expressway 83,Mission,Texas,78572,0,26.19969,-98.310638,2024-07-22,TX,Olive Garden,2024-03-30
+Laredo - Mall Del Norte,1624,5319 San Dario Ave,Laredo,Texas,780413043,9567960480,27.552963,-99.50282035,2004-03-08,TX,Olive Garden,2024-03-30
+Albuquerque - Juan Tabo Blvd,1121,601 Juan Tabo Boulevard NE,Albuquerque,New Mexico,871231466,5052759948,35.078767,-106.515772,1988-11-21,NM,Olive Garden,2024-03-30
+Albuquerque - San Mateo Blvd,1118,6301 San Mateo Blvd,Albuquerque,New Mexico,871093524,5058818425,35.14732,-106.588868,1988-10-24,NM,Olive Garden,2024-03-30
+Albuquerque - Coors Blvd Bypass,1602,10500 Coors Blvd By-Pass NW,Albuquerque,New Mexico,871144958,5059226422,35.208075,-106.657515,2003-05-19,NM,Olive Garden,2024-03-30
+Santa Fe,1609,3781 Cerrillos Rd,Santa Fe,New Mexico,875072910,5054387109,35.644156,-106.010433,2003-11-17,NM,Olive Garden,2024-03-30
+Waxahachie,1738,1302 N. Hwy 77,Waxahachie,Texas,751655116,9729379496,32.421482,-96.83929,2007-11-19,TX,Olive Garden,2024-03-30
+Alcoa,1844,244 Hamilton Crossing Dr,Alcoa,Tennessee,377012262,8653790224,35.76768172,-83.98670496,2010-05-17,TN,Olive Garden,2024-03-30
+Knoxville - Turkey Creek,1597,10923 Parkside Drive,Knoxville,Tennessee,379341959,8659664392,35.903483,-84.148024,2002-12-16,TN,Olive Garden,2024-03-30
+Idaho Falls,1705,1305 West Broadway St,Idaho Falls,Idaho,834023346,2082270545,43.495381,-112.052846,2006-12-04,ID,Olive Garden,2024-03-30
+Chubbuck - Pine Ridge Mall,6472,4105 Yellowstone Ave,Chubbuck,Idaho,832022421,2082445812,42.91203,-112.46309,2023-01-23,ID,Olive Garden,2024-03-30
+Logan - Cache Valley Mall,1632,1220 Main Street,Logan,Utah,843416838,4357526120,41.754079,-111.833988,2004-02-16,UT,Olive Garden,2024-03-30
+Twin Falls - Magic Valley Mall,6422,1597 Pole Line Road East,Twin Falls,Idaho,833013590,2087355201,42.59226278,-114.45465359,2019-01-21,ID,Olive Garden,2024-03-30
+New Braunfels,1698,1354 N Interstate 35 Frontage Rd,New Braunfels,Texas,781302815,8306268001,29.70279,-98.090771,2006-09-25,TX,Olive Garden,2024-03-30
+Wilkes Barre,1544,561 Arena Hub Plaza,Wilkes Barre,Pennsylvania,187026840,5708259125,41.243092,-75.840605,2001-02-26,PA,Olive Garden,2024-03-30
+Horseheads,1452,3288 Chambers Rd S.,Horseheads,New York,148451407,6077965228,42.158602,-76.87757,1994-05-23,NY,Olive Garden,2024-03-30
+Scranton,1538,1500 Scranton-Carbondale Hwy,Scranton,Pennsylvania,185081136,5704897340,41.47001,-75.637171,2001-03-19,PA,Olive Garden,2024-03-30
+Vestal,1167,1112 Vestal Pkwy E,Vestal,New York,138501750,6077485840,42.091195,-76.031601,1989-07-03,NY,Olive Garden,2024-03-30
+Sherman Town Center,1728,3701 N Hwy 75,Sherman,Texas,750902576,9038921794,33.676286,-96.607796,2008-02-18,TX,Olive Garden,2024-03-30
+McKinney,1573,1700 North Central Expressway,McKinney,Texas,750703114,9725480317,33.21434,-96.636009,2002-10-07,TX,Olive Garden,2024-03-30
+Prosper,6424,1161 S Preston Road,Prosper,Texas,750785112,9724331021,33.22168398,-96.79884799,2019-05-20,TX,Olive Garden,2024-03-30
+Allen - The Village,1788,190 East Stacy Road,Allen,Texas,750028760,9726782515,33.126486,-96.661095,2009-01-12,TX,Olive Garden,2024-03-30
+Frisco - Stonebriar Mall,1545,2886 Preston Road,Frisco,Texas,750349437,4696330406,33.102396,-96.804774,2001-06-25,TX,Olive Garden,2024-03-30
+Denton - Golden Triangle Mall,1611,2809 I-35E South,Denton,Texas,762105043,9403812549,33.18286,-97.101702,2003-06-09,TX,Olive Garden,2024-03-30
+Plaza at Rockwall,4425,1043 E Interstate 30,Rockwall,Texas,750874826,9727220425,32.90579258,-96.4517661,2012-04-23,TX,Olive Garden,2024-03-30
+Lubbock - South Plains Mall,1218,5702 Slide Road,Lubbock,Texas,794144106,8067913575,33.54181,-101.923203,1990-05-14,TX,Olive Garden,2024-03-30
+Homestead Pavillion,1802,2575 NE 8th Street,Homestead,Florida,330335333,3052451450,25.478361,-80.440849,2009-06-29,FL,Olive Garden,2024-03-30
+"Spring, Texas - Grand Parkway Marketplace",6420,6955 N Grand Parkway West,Spring,Texas,773891801,8327177419,30.08658478,-95.52587717,2018-11-19,TX,Olive Garden,2024-03-30
+Spring Texas - Woodlands Mall,1503,26715 Interstate 45 N.,Spring,Texas,773801901,2813631288,30.150234,-95.449284,1995-09-11,TX,Olive Garden,2024-03-30
+New Caney,6429,21638 US Hwy 59,New Caney,Texas,773575086,2813541042,30.13160065,-95.22990773,2019-05-20,TX,Olive Garden,2024-03-30
+Bradenton,1027,4420 West 14th Street,Bradenton,Florida,342071425,9417562370,27.461317,-82.575824,1986-11-03,FL,Olive Garden,2024-03-30
+Wichita Square,1064,3916 Kemp Boulevard,Wichita Falls,Texas,763082119,9406924714,33.871846,-98.53542,1987-05-25,TX,Olive Garden,2024-03-30
+Fort Collins,1376,3905 S. College Ave.,Fort Collins,Colorado,805253014,9702253803,40.532979,-105.077546,1993-02-08,CO,Olive Garden,2024-03-30
+Cheyenne - Frontier Mall,1716,1536 Dell Range Blvd,Cheyenne,Wyoming,820094828,3076322411,41.16065981,-104.80516003,2007-12-10,WY,Olive Garden,2024-03-30
+Visalia - Packwood Creek,1630,4110 South Mooney Blvd,Visalia,California,932779144,5597389734,36.292823,-119.313038,2004-03-15,CA,Olive Garden,2024-03-30
+Michigan City - Franklin Street,1810,4441 S. Franklin St,Michigan City,Indiana,463607396,2198796830,41.67027,-86.895016,2009-07-13,IN,Olive Garden,2024-03-30
+Orlando - Florida Mall,1084,1555 Sand Lake Road,Orlando,Florida,328097080,4078510344,28.451115,-81.399423,1988-02-08,FL,Olive Garden,2024-03-30
+Orlando - International Drive,1547,8984 International Dr,Orlando,Florida,328199321,4072640420,28.437118,-81.473252,1982-12-13,FL,Olive Garden,2024-03-30
+Anahuac,10016,Plaza Fiesta Anahuác,Nuevo León,N/A,66457,8183325723,25.744532,-100.312139,2017-02-06,,Olive Garden,2024-03-30
+Aiken - Whiskey Rd,6490,2265 Whiskey Rd,Aiken,South Carolina,298036140,8032624033,33.51297,-81.715,2023-10-09,SC,Olive Garden,2024-03-30
+Augusta GA - River Watch Parkway,6487,804 Cabela Drive,Augusta,Georgia,309098201,7066192708,33.52273,-82.02326,1988-07-18,GA,Olive Garden,2024-03-30
+Spartanburg,1710,1498 W.O. Ezell Blvd,Spartanburg,South Carolina,293011553,8645954885,34.937413,-81.986566,2007-03-19,SC,Olive Garden,2024-03-30
+Anderson - Clemson Boulevard,1634,200 Station Drive,Anderson,South Carolina,296211187,8642229060,34.559622,-82.692239,2004-03-29,SC,Olive Garden,2024-03-30
+Greenville - Cherrydale,1700,3290 N. Pleasantburg Drive,Greenville,South Carolina,296092925,8642717756,34.891737,-82.40251,2006-12-11,SC,Olive Garden,2024-03-30
+Greenville - Laurens Road,1207,2695 Laurens Road,Greenville,South Carolina,296073817,8642340430,34.819808,-82.340172,1990-05-07,SC,Olive Garden,2024-03-30
+Omaha - Dodge St,1302,7505 Dodge Street,Omaha,Nebraska,681143632,4023938404,41.259243,-96.028888,1991-10-28,NE,Olive Garden,2024-03-30
+Papillion - Shadow Lake Towne Center,6460,7506 Olson Dr,Papillion,Nebraska,680464801,5312727199,41.1374,-96.02688,2022-02-21,NE,Olive Garden,2024-03-30
+Omaha Lakeside,1586,16929 Lakeside Hills Plaza,Omaha,Nebraska,681302434,4023334002,41.234637,-96.178594,2002-10-07,NE,Olive Garden,2024-03-30
+Council Bluffs - Metro Crossing,1856,3707 Denmark Drive,Council Bluffs,Iowa,515017704,7123660688,41.22251,-95.83605,2010-10-25,IA,Olive Garden,2024-03-30
+Lincoln - Gateway Mall,1432,90 Gateway,Lincoln,Nebraska,68505,4024641910,40.814464,-96.638406,1993-12-13,NE,Olive Garden,2024-03-30
+Sioux City - Lakeport Commons,1711,4930 Sergeant Road,Sioux City,Iowa,511064731,7122660766,42.444687,-96.342501,2006-12-11,IA,Olive Garden,2024-03-30
+Grand Island,4416,1010 Allen Drive,Grand Island,Nebraska,688033307,3083841277,40.928468,-98.382586,2012-06-25,NE,Olive Garden,2024-03-30
+Fargo - West Acres Mall,1188,4339 13th Avenue SW,Fargo,North Dakota,581033330,7012771241,46.862368,-96.857412,1989-12-11,ND,Olive Garden,2024-03-30
+Grand Forks ND - Columbia Mall,4401,3160 32nd Ave South,Grand Forks,North Dakota,582016020,7017462038,47.89024484,-97.07229713,2012-01-23,ND,Olive Garden,2024-03-30
+Pittsburgh - Robinson Town Center,1589,6000 Robinson Center Drive,Pittsburgh,Pennsylvania,152054859,4127881090,40.450373,-80.161522,2003-02-10,PA,Olive Garden,2024-03-30
+Washington,4447,371 Washington Road,Washington,Pennsylvania,153012701,7242251723,40.18834726,-80.22005091,2012-12-10,PA,Olive Garden,2024-03-30
+Triadelphia,1755,510 Cabela Drive,Triadelphia,West Virginia,260591044,3045471394,40.055151,-80.60155,2007-12-17,WV,Olive Garden,2024-03-30
+Pittsburgh - Greentree,1163,971 Greentree Road,Pittsburgh,Pennsylvania,152203303,4129227200,40.419827,-80.045719,1990-01-29,PA,Olive Garden,2024-03-30
+Bethel Park - Village Square Shopping Center,1345,6000 Oxford Drive,Bethel Park,Pennsylvania,151021826,4128356353,40.347948,-80.050186,1992-09-14,PA,Olive Garden,2024-03-30
+McIntyre Square Shopping Center,1309,40 McIntyre Square Drive,Pittsburgh,Pennsylvania,152377301,4123699686,40.553243,-80.0194,1991-12-09,PA,Olive Garden,2024-03-30
+Pleasant Hills - Southland Center,1157,527 Clairton Boulevard,Pleasant Hills,Pennsylvania,152363809,4126535897,40.332931,-79.945668,1990-04-30,PA,Olive Garden,2024-03-30
+Monroeville Mall,1148,260 Mall Boulevard,Monroeville,Pennsylvania,151462212,4123725017,40.434082,-79.786913,1989-04-24,PA,Olive Garden,2024-03-30
+Tarentum - Pittsburgh Mills Mall,1675,1010 Pittsburgh Mills Blvd,Tarentum,Pennsylvania,150843842,7242757564,40.57009814,-79.79872495,2006-02-20,PA,Olive Garden,2024-03-30
+Tyler - Broadway Crossing,1437,5520 S. Broadway Ave.,Tyler,Texas,757034347,9035093363,32.288455,-95.302836,1994-01-17,TX,Olive Garden,2024-03-30
+Longview,1332,104 W Loop 281,Longview,Texas,756054652,9032360141,32.54111,-94.747281,1993-02-22,TX,Olive Garden,2024-03-30
+Terrell,6444,204 Spur 557,Terrell,Texas,751609349,9725517027,32.721169,-96.323603,2020-08-17,TX,Olive Garden,2024-03-30
+Mesquite,1037,3816 Towne Crossing Blvd,Mesquite,Texas,751506124,9722701582,32.81703,-96.630258,1987-07-20,TX,Olive Garden,2024-03-30
+Wellington Mall,1576,10280 Forest Hill Blvd,Wellington,Florida,334149332,5617987979,26.650446,-80.209188,2003-10-13,FL,Olive Garden,2024-03-30
+Greenacres,1134,5801 Lake Worth Road,Lake Worth,Florida,334633209,5616410900,26.619555,-80.134754,1989-02-14,FL,Olive Garden,2024-03-30
+Boynton Beach - Promenade Shops,1433,1001 N. Congress Ave.,Boynton Beach,Florida,334263306,5617374546,26.536085,-80.091165,1994-01-24,FL,Olive Garden,2024-03-30
+Sioux Falls,1350,3121 West 41st Street,Sioux Falls,South Dakota,571054258,6053330290,43.514061,-96.76485,1992-09-07,SD,Olive Garden,2024-03-30
+El Centro,4450,504 E Danenberg Drive,El Centro,California,922438510,7603371952,32.76739936,-115.5344429,2013-02-04,CA,Olive Garden,2024-03-30
+Palm Desert - Las Sombras Center,1313,72225 Highway 111,Palm Desert,California,922602744,7607732776,33.72986,-116.4043,1992-01-27,CA,Olive Garden,2024-03-30
+Santee Trolley Square,1581,9800 Mission Gorge Rd,Santee,California,920713834,6195621622,32.839097,-116.983027,2003-03-10,CA,Olive Garden,2024-03-30
+Escondido,1357,1107 W. Valley Parkway,Escondido,California,920252555,7607379285,33.115535,-117.097665,1993-04-26,CA,Olive Garden,2024-03-30
+San Diego - Carmel Mountain,1369,11555 Carmel Mountain Rd,San Diego,California,921284617,8584859873,32.978522,-117.082437,1993-03-08,CA,Olive Garden,2024-03-30
+La Mesa,1301,5500 Grossmont Center Drive,La Mesa,California,919423010,6194607221,32.777022,-117.013572,1991-12-02,CA,Olive Garden,2024-03-30
+Chula Vista Center,1205,585 I Street,Chula Vista,California,919105317,6194981717,32.628204,-117.087333,1990-07-09,CA,Olive Garden,2024-03-30
+San Diego - Sports Arena,1358,3215 Sports Arena Blvd,San Diego,California,921104529,6192262124,32.752364,-117.207218,1992-12-07,CA,Olive Garden,2024-03-30
+Carlsbad - Camino Real Mall,1120,1884 Marron Rd,Carlsbad,California,920081172,7604341016,33.176752,-117.337479,1988-12-19,CA,Olive Garden,2024-03-30
+Palmdale - Antelope Valley Mall,1286,1051 W Rancho Vista Blvd,Palmdale,California,935513961,6612667927,34.606065,-118.14978,1992-08-03,CA,Olive Garden,2024-03-30
+Hyannis,1523,1095 Iyannough Rd,Hyannis,Massachusetts,026011830,5087759896,41.672635,-70.305667,1997-11-17,MA,Olive Garden,2024-03-30
+Dartmouth Mall,1419,80 North Dartmouth Mall,North Dartmouth,Massachusetts,027474208,5089943289,41.640618,-70.99408,1993-10-25,MA,Olive Garden,2024-03-30
+South Attleboro,1436,1240 Newport Ave.,South Attleboro,Massachusetts,027038032,5083998434,41.900251,-71.354262,1994-03-07,MA,Olive Garden,2024-03-30
+Derby,4406,1718 N Rock Road,Derby,Kansas,670373727,3167881501,37.56480582,-97.24344849,2012-01-09,KS,Olive Garden,2024-03-30
+Prescott,1645,3060 Highway 69,Prescott,Arizona,86301,9285419194,34.552079,-112.408223,2005-10-03,AZ,Olive Garden,2024-03-30
+San Antonio - Dove Creek,6467,423 W Loop 1604 S,San Antonio,Texas,782453993,2102475271,29.427074,-98.712188,2022-05-30,TX,Olive Garden,2024-03-30
+Brunswick,5808,600 Glynn Isles,Brunswick,Georgia,315252934,9122679896,31.2034708,-81.48273821,2012-06-18,GA,Olive Garden,2024-03-30
+Statesboro,1837,201 Henry Blvd,Statesboro,Georgia,304582707,9127646688,32.42819,-81.75874,2010-03-15,GA,Olive Garden,2024-03-30
+Southern Pines,1811,10572 S. US 15/501,Southern Pines,North Carolina,28387,9102465201,35.169224,-79.425026,2009-08-10,NC,Olive Garden,2024-03-30
+Missouri City TX - Fort Bend Town Center,6482,10327 Highway 6,Missouri City,Texas,774594747,2813105076,29.532347,-95.50906,2023-04-10,TX,Olive Garden,2024-03-30
+Sugar Land,1838,5005 Sweetwater Blvd.,Sugar Land,Texas,774793464,2814910478,29.58756349,-95.63401774,2010-04-26,TX,Olive Garden,2024-03-30
+Casper,1828,5070 East 2nd Street,Casper,Wyoming,826094200,3072346105,42.8480193,-106.25468992,2010-01-11,WY,Olive Garden,2024-03-30
+Wausau,1864,3650 Rib Mountain Drive,Wausau,Wisconsin,544017493,7153555276,44.923901,-89.653697,2010-12-06,WI,Olive Garden,2024-03-30
+Bakersfield,1068,1701 New Stine Road,Bakersfield,California,933093614,6618321278,35.339199,-119.06168,1987-05-25,CA,Olive Garden,2024-03-30
+San Luis Obispo,1888,11966 Los Osos Valley Road,San Luis Obispo,California,934056861,8057850306,35.252517,-120.686983,2012-04-02,CA,Olive Garden,2024-03-30
+Santa Maria,1404,1210 S. Bradley Rd.,Santa Maria,California,934546334,8059228809,34.93899,-120.418733,1993-08-09,CA,Olive Garden,2024-03-30
+Mansfield - Ontario,1390,558 N Lexington Springmill Rd,Mansfield,Ohio,449063821,4195295070,40.766676,-82.589694,1993-05-17,OH,Olive Garden,2024-03-30
+Jackson near I-55 N,1508,6347 I-55 North,Jackson,Mississippi,392139742,6019783407,32.396645,-90.14673,1996-03-25,MS,Olive Garden,2024-03-30
+Clarksville - Wilma Rudolph Blvd,1343,2782 Wilma Rudolph Blvd,Clarksville,Tennessee,370405897,9315522585,36.585404,-87.295866,1992-08-03,TN,Olive Garden,2024-03-30
+Yuma,1671,1720 E. 16th Street,Yuma,Arizona,853652107,9283298180,32.69904,-114.60269,2005-12-05,AZ,Olive Garden,2024-03-30
+Morehead City,1848,5152 Highway 70,Morehead City,North Carolina,285574504,2522400250,34.738202,-76.805797,2010-07-19,NC,Olive Garden,2024-03-30
+West Bountiful,6449,27 North 500 West,West Bountiful,Utah,840107029,8012925611,40.88966374,-111.89257068,2020-12-09,UT,Olive Garden,2024-03-30
+Salt Lake City - Sugarhouse,1306,2272 S 1300th East,Salt Lake City,Utah,841062831,8014861773,40.721522,-111.854279,1992-02-17,UT,Olive Garden,2024-03-30
+West Valley - Valley Fair Mall,1801,3515 Constitution Blvd,West Valley,Utah,841196079,8019551034,40.696259,-111.957429,2009-03-16,UT,Olive Garden,2024-03-30
+Murray - Fashion Place Mall,1190,6305 South State St,Murray,Utah,841077207,8012698138,40.634229,-111.888657,1990-01-15,UT,Olive Garden,2024-03-30
+Layton Hills Mall,1206,675 N Ring Rd,Layton,Utah,840414879,8015461447,41.076037,-111.976742,1990-05-07,UT,Olive Garden,2024-03-30
+Sandy - South Towne Mall,1565,10540 South State Rd,Sandy,Utah,840704109,8015236148,40.559949,-111.891252,2002-01-28,UT,Olive Garden,2024-03-30
+South Jordan,1815,11364 S River Heights Drive,South Jordan,Utah,840955131,8017277880,40.544589,-111.983546,2009-08-31,UT,Olive Garden,2024-03-30
+Riverdale Road,1595,4079 Riverdale Road,Riverdale,Utah,844051517,8016277077,41.189843,-111.982927,2003-02-17,UT,Olive Garden,2024-03-30
+Saratoga Springs,6464,947 N Redwood Rd,Saratoga Springs,Utah,840455139,3852873792,40.37949,-111.91686,2022-12-12,UT,Olive Garden,2024-03-30
+American Fork,1781,538 West Main Street,American Fork,Utah,840032216,8017637229,40.377269,-111.81243,2008-10-06,UT,Olive Garden,2024-03-30
+Athens - Georgia Square Mall,1625,3666 Atlanta Highway,Athens,Georgia,306063149,7062272225,33.939821,-83.459015,2004-05-03,GA,Olive Garden,2024-03-30
+Moline,6404,4570 16th Street,Moline,Illinois,612657043,3097571572,41.46730215,-90.50636488,2017-12-11,IL,Olive Garden,2024-03-30
+Freehold Marketplace Plaza,1834,290 W Main Street,Freehold,New Jersey,077282524,7327803164,40.24431081,-74.29692265,2010-11-22,NJ,Olive Garden,2024-03-30
+Eatontown,1304,230 Route 35,Eatontown,New Jersey,077242103,7323894585,40.284535,-74.050803,1993-05-24,NJ,Olive Garden,2024-03-30
+Sarasota Landings Shopping Plaza,1114,4900 S Tamiami Trail,Sarasota,Florida,342314354,9419233136,27.283042,-82.531256,1988-10-10,FL,Olive Garden,2024-03-30
+Provo,1292,504 W 2230 North,Provo,Utah,846047509,8013770062,40.263632,-111.667206,1991-11-11,UT,Olive Garden,2024-03-30
+Frederick,1518,5609 Spectrum Dr.,Frederick,Maryland,217038301,3016631801,39.384781,-77.403254,1996-10-21,MD,Olive Garden,2024-03-30
+Greensburg - Westmoreland Mall,1334,5163 Route 30,Greensburg,Pennsylvania,156016692,7248329262,40.303008,-79.499273,1992-08-31,PA,Olive Garden,2024-03-30
+Orlando - Lake Buena Vista,1082,12361 State Road 535,Orlando,Florida,328366737,4072396708,28.385359,-81.505551,1988-02-01,FL,Olive Garden,2024-03-30
+West Kissimmee - near Margaritaville Resort,1793,8136 W Irlo Bronson Hwy,Kissimmee,Florida,347471003,4073962560,28.34631,-81.61208,2009-04-20,FL,Olive Garden,2024-03-30
+Lafayette IN - South St,1384,4151 South Street,Lafayette,Indiana,479054876,7654470074,40.416944,-86.828425,1993-03-22,IN,Olive Garden,2024-03-30
+Duluth - Miller Hill Mall,1618,901 Mall Dr,Duluth,Minnesota,558115408,2187272623,46.801857,-92.149932,2003-11-10,MN,Olive Garden,2024-03-30
+Conroe,1782,3041 I-45 North,Conroe,Texas,773042167,9365395200,30.35298,-95.48509,2008-12-15,TX,Olive Garden,2024-03-30
+Cypress TX - Fairfield Marketplace,6431,28040 Highway 290,Cypress,Texas,774335450,2812568090,29.98824681,-95.73827339,2020-01-20,TX,Olive Garden,2024-03-30
+Richmond TX - The Grand at Aliana,6495,10405 W Grand Parkway S,Richmond,Texas,774078718,8325325201,29.653908501310323,-95.71056944565571,2023-10-16,TX,Olive Garden,2024-03-30
+Rosenberg,4422,24221 Southwest Freeway,Rosenberg,Texas,774715983,2812327877,29.54409259,-95.75044954,2012-03-26,TX,Olive Garden,2024-03-30
+Burlington - North Carolina,1734,1770 Glidewell Drive,Burlington,North Carolina,272158245,3365841171,36.06794,-79.518157,2007-09-10,NC,Olive Garden,2024-03-30
+Martinsburg,4440,891 Foxcroft Avenue,Martinsburg,West Virginia,254011852,3042601080,39.44917108,-77.98861611,2012-11-26,WV,Olive Garden,2024-03-30
+Auburn ME - Turner St,6480,10 Subaru Drive,Auburn,Maine,042105769,2073768149,44.11933,-70.23241,2023-05-22,ME,Olive Garden,2024-03-30
+Watertown,1823,20988 Salmon Run Mall Loop Rd,Watertown,New York,136012290,3157862934,43.97526,-75.95534,2011-04-25,NY,Olive Garden,2024-03-30
+South Portland,1296,200 Gorham Road,South Portland,Maine,041062409,2078749005,43.633159,-70.325831,1992-01-08,ME,Olive Garden,2024-03-30
+Manhattan Town Center,1843,715 Tuttle Creek Blvd,Manhattan,Kansas,665026309,7855372445,39.18618,-96.55965,2010-04-26,KS,Olive Garden,2024-03-30
+Salina,4456,2820 S 9th Street,Salina,Kansas,674017879,7858274266,38.78760435,-97.613826,2013-02-25,KS,Olive Garden,2024-03-30
+High Point,4415,4006 Brian Jordan Place,High Point,North Carolina,272658337,3368415066,36.032653,-79.958862,2012-04-02,NC,Olive Garden,2024-03-30
+Greensboro,1177,3000 Gate City Blvd,Greensboro,North Carolina,274033638,3368547094,36.049119,-79.835923,1989-11-20,NC,Olive Garden,2024-03-30
+Danville - Piedmont Mall,1876,120 Collins Drive,Danville,Virginia,245405936,4347993980,36.59581,-79.424124,2011-04-18,VA,Olive Garden,2024-03-30
+Manahawkin - Stafford Plaza,1872,234 Stafford Park Blvd.,Manahawkin,New Jersey,080502735,6099781202,39.71086035,-74.28695814,2011-05-23,NJ,Olive Garden,2024-03-30
+Mays Landing - Hamilton Mall,1482,4403 Blackhorse Pike,Mays Landing,New Jersey,083303103,6096418585,39.452968,-74.647046,1995-04-24,NJ,Olive Garden,2024-03-30
+Tom's River,1483,1277 Hooper Ave.,Toms River,New Jersey,087533399,7322409399,39.985099,-74.178486,1995-05-08,NJ,Olive Garden,2024-03-30
+Southern Fiesta Mall - West Mesa Alma School Rd,1661,1261 W Southern Ave,Mesa,Arizona,852024810,4809645166,33.392567,-111.859038,1986-03-17,AZ,Olive Garden,2024-03-30
+Terre Haute - Town South Plaza,1229,3820 South US Hwy 41,Terre Haute,Indiana,478024108,8122355177,39.42061,-87.414732,1990-12-03,IN,Olive Garden,2024-03-30
+Eau Claire,1476,4920 Golf Rd.,Eau Claire,Wisconsin,547019098,7158380707,44.776142,-91.437717,1995-01-23,WI,Olive Garden,2024-03-30
+Redding,1359,1025 Dana Drive,Redding,California,960034019,5302210158,40.585243,-122.351735,1992-11-09,CA,Olive Garden,2024-03-30
+Uniontown,4446,517 W Main Street,Uniontown,Pennsylvania,154012601,7244379301,39.908183,-79.742791,2012-12-10,PA,Olive Garden,2024-03-30
+Zanesville,1517,907 Howard St.,Zanesville,Ohio,437013769,7404534644,39.94639,-82.000294,1996-08-05,OH,Olive Garden,2024-03-30
+Hutchinson,4461,1700 E 17th Ave,Hutchinson,Kansas,675011100,6207280556,38.07271737,-97.89719015,2013-03-25,KS,Olive Garden,2024-03-30
+Wichita - Town East Mall,1224,323 N Rock Road,Wichita,Kansas,672062254,3166846757,37.691381,-97.2452,1990-10-01,KS,Olive Garden,2024-03-30
+Huntsville - Texas,4427,225 Interstate 45 South,Huntsville,Texas,773404903,9362938216,30.71020867,-95.56561464,2012-04-30,TX,Olive Garden,2024-03-30
+Texas City - Mall of the Mainland,1398,10212 Emmett F Lowry Expressway,Texas City,Texas,775912137,4099867471,29.403504,-95.024171,1993-07-19,TX,Olive Garden,2024-03-30
+Alvin Hwy 6 Bypass,4464,162 N Bypass 35,Alvin,Texas,775112539,2813310322,29.42471166,-95.22615703,2013-07-01,TX,Olive Garden,2024-03-30
+Lake Jackson - Brazos Mall,6443,151 State Hwy 288,Lake Jackson,Texas,775661407,9792973310,29.05177892,-95.45684204,2020-01-20,TX,Olive Garden,2024-03-30
+Spokane - North Point Plaza,1851,9780 N Newport Highway,Spokane,Washington,992181249,5094661230,47.748896,-117.401636,2010-11-08,WA,Olive Garden,2024-03-30
+Kennewick,1555,1420 N Louisiana Ave,Kennewick,Washington,993367164,5093743500,46.226512,-119.23212,2001-05-14,WA,Olive Garden,2024-03-30
+East Wenatchee,1835,615 Valley Mall Parkway,East Wenatchee,Washington,988024837,5098860281,47.41290322,-120.291153,2010-03-22,WA,Olive Garden,2024-03-30
+W. Wichita - New Market Square,1707,2641 N. Maize Rd,Wichita,Kansas,672057309,3167220991,37.731137,-97.463281,2006-11-06,KS,Olive Garden,2024-03-30
+Boise Town Square Mall,1251,320 N Milwaukee Street,Boise,Idaho,837049121,2083223327,43.607988,-116.282805,1991-04-29,ID,Olive Garden,2024-03-30
+Meridian ID - Orchard Park,6481,1399 W Chinden Blvd,Meridian,Idaho,836465555,2085639303,43.66241,-116.41456,2023-02-27,ID,Olive Garden,2024-03-30
+Nampa - Market Place Drive,1731,16401 North Marketplace Blvd,Nampa,Idaho,836875018,2084428129,43.610824,-116.591053,2007-04-30,ID,Olive Garden,2024-03-30
+Spanish Fork,6406,1092 North Canyon Creek Parkway,Spanish Fork,Utah,846601338,8017988773,40.12360398,-111.64224214,2017-11-20,UT,Olive Garden,2024-03-30
+Davenport - ChampionsGate,6442,8065 Osceola Polk Line Road,Davenport,Florida,338969102,3216773467,28.260959,-81.609703,2021-07-05,FL,Olive Garden,2024-03-30
+Aurora (Monterrey),10019,Plaza La Aurora,San Pedro Garza García,N/A,66278,8183634547,25.650097,-100.329342,2017-02-06,,Olive Garden,2024-03-30
+California MD - Lexington Park,1797,45265 Abell House Lane,California,Maryland,206193210,3018623890,38.29974089,-76.51070883,2010-02-22,MD,Olive Garden,2024-03-30
+Augusta ME,1524,205 Civic Center Dr,Augusta,Maine,043308033,2076219930,44.34445,-69.792343,1997-11-03,ME,Olive Garden,2024-03-30
+Bangor,1430,741 Hogan Rd,Bangor,Maine,044013625,2079426209,44.839735,-68.742454,1993-12-13,ME,Olive Garden,2024-03-30
+Weatherford,1772,315 IH-20 East,Weatherford,Texas,760866729,8175994207,32.731178,-97.786751,2008-09-29,TX,Olive Garden,2024-03-30
+Elkton,1892,304 E Pulaski Hwy,Elkton,Maryland,219216435,4103928701,39.597646,-75.819615,2011-12-19,MD,Olive Garden,2024-03-30
+Amarillo,1130,4121 West Interstate 40,Amarillo,Texas,791091530,8063559973,35.190743,-101.88343,1988-10-17,TX,Olive Garden,2024-03-30
+Yakima,1352,222 Yakima Avenue,Yakima,Washington,989012628,5094570485,46.602587,-120.503288,1993-03-22,WA,Olive Garden,2024-03-30
+Traverse City,1670,2800 N US 31 S,Traverse City,Michigan,496844529,2319411859,44.728437,-85.645134,2006-01-30,MI,Olive Garden,2024-03-30
+Dover,1381,263 N Dupont Hwy,Dover,Delaware,199017509,3027345837,39.170505,-75.517604,1993-04-19,DE,Olive Garden,2024-03-30
+Billings,1412,2201 Grant Rd,Billings,Montana,591027424,4066521395,45.754485,-108.57068,1993-10-18,MT,Olive Garden,2024-03-30

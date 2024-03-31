@@ -12,11 +12,11 @@ An expanding collection of data scrapers designed to gather location details on 
 | Automotive                   |     3 |  2,924 |
 | Banking                   |     1 |  6,066 |
 | Beauty Products           |     2 |  3,013 |
-| Casual Dining             |     3 |  2,012 |
+| Casual Dining             |     4 |  2,923 |
 | Clothing & Accessories    |     3 |    620 |
 | Coffee Shops & Desserts   |     4 | 21,733 |
 | Electronics & Appliances  |     1 |    526 |
-| Entertainment  |     1 |    554 |
+| Entertainment  |     2 |    868 |
 | Fast Food & Quick Service |    19 | 81,287 |
 | Food & Beverage           |     2 |    236 |
 | Frozen Yogurt             |     3 |    529 |
@@ -26,7 +26,7 @@ An expanding collection of data scrapers designed to gather location details on 
 | Retail Stores             |    19 | 63,919 |
 | Shoes & Accessories       |     1 |    439 |
 | Specialty Foods           |     5 |   1856 |
-| **Total collected**               |    **72** | **188,371** |
+| **Total collected**               |    **73** | **189,316** |
 
 ### All the companies 
 
@@ -37,7 +37,7 @@ An expanding collection of data scrapers designed to gather location details on 
 | [99 Cents Only](https://github.com/stiles/locations/tree/main/99-cents-only)               | Retail Stores           |        370 |
 | [Abercrombie & Fitch](https://github.com/stiles/locations/tree/main/abercrombie-fitch) | Clothing & Accessories    |       221 |
 | [Aldi](https://github.com/stiles/locations/tree/main/aldi)                             | Retail Stores             |     2,362 |
-| [AMC Theaters](https://github.com/stiles/locations/tree/main/amc-theaters)                             | Entertainment             |     554 |
+| [AMC theaters](https://github.com/stiles/locations/tree/main/amc-theaters)                             | Entertainment             |     554 |
 | [Apple Stores](https://github.com/stiles/locations/tree/main/apple-stores)             | Electronics & Appliances  |       526 |
 | [Arby's](https://github.com/stiles/locations/tree/main/arbys)                          | Fast Food & Quick Service |     3,388 |
 | [Au Bon Pain](https://github.com/stiles/locations/tree/main/au-bon-pain)               | Food & Beverage           |        71 |
@@ -48,6 +48,7 @@ An expanding collection of data scrapers designed to gather location details on 
 | [Chick-Fil-A](https://github.com/stiles/locations/tree/main/chick-fil-a)               | Fast Food & Quick Service |     2,896 |
 | [Chili's](https://github.com/stiles/locations/tree/main/chilis)                        | Casual Dining             |     1,229 |
 | [Chipotle](https://github.com/stiles/locations/tree/main/chipotle)                     | Fast Food & Quick Service |     3,385 |
+| [Cinemark theaters](https://github.com/stiles/locations/tree/main/cinemark)                     | Entertainment |     314 |
 | [Costco](https://github.com/stiles/locations/tree/main/costco)                         | Retail Stores             |       588 |
 | [California Pizza Kitchen](https://github.com/stiles/locations/tree/main/cpk)          | Casual Dining             |       121 |
 | [Cracker Barrel](https://github.com/stiles/locations/tree/main/cracker-barrel)         | Casual Dining             |       662 |
@@ -78,6 +79,7 @@ An expanding collection of data scrapers designed to gather location details on 
 | [Macy's](https://github.com/stiles/locations/tree/main/macys)                          | Retail Stores             |       520 |
 | [Menchies](https://github.com/stiles/locations/tree/main/menchies)                     | Frozen Yogurt             |       324 |
 | [Nike Stores](https://github.com/stiles/locations/tree/main/nike-stores)               | Clothing & Accessories    |       295 |
+| [Olive Garden](https://github.com/stiles/locations/tree/main/olive-garden)               | Casual Dining    |       911 |
 | [PetSmart](https://github.com/stiles/locations/tree/main/pei-wei)                      | Pet Supplies              |       121 |
 | [Pei Wei](https://github.com/stiles/locations/tree/main/petsmart)                      | Specialty Foods           |     1,544 |
 | [Pinkberry](https://github.com/stiles/locations/tree/main/pinkberry)                   | Frozen Yogurt             |        70 |
