@@ -17,7 +17,7 @@ An expanding collection of data scrapers designed to gather location details on 
 | Coffee Shops & Desserts   |     4 | 21,733 |
 | Electronics & Appliances  |     1 |    526 |
 | Entertainment  |     2 |    868 |
-| Fast Food & Quick Service |    19 | 92,484 |
+| Fast Food & Quick Service |    20 | 92,484 |
 | Food & Beverage           |     2 |    236 |
 | Frozen Yogurt             |     3 |    529 |
 | Home Improvement          |     1 |  2,002 |
@@ -26,7 +26,7 @@ An expanding collection of data scrapers designed to gather location details on 
 | Retail Stores             |    19 | 63,919 |
 | Shoes & Accessories       |     1 |    439 |
 | Specialty Foods           |     5 |   1856 |
-| **Total collected**               |    **73** | **200,513** |
+| **Total collected**               |    **74** | **200,513** |
 
 ### All the companies 
 
