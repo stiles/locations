@@ -17,7 +17,7 @@ An expanding collection of data scrapers designed to gather location details on 
 | Coffee Shops & Desserts   |     4 | 21,733 |
 | Electronics & Appliances  |     1 |    526 |
 | Entertainment  |     2 |    868 |
-| Fast Food & Quick Service |    19 | 81,287 |
+| Fast Food & Quick Service |    19 | 92,484 |
 | Food & Beverage           |     2 |    236 |
 | Frozen Yogurt             |     3 |    529 |
 | Home Improvement          |     1 |  2,002 |
@@ -26,7 +26,7 @@ An expanding collection of data scrapers designed to gather location details on 
 | Retail Stores             |    19 | 63,919 |
 | Shoes & Accessories       |     1 |    439 |
 | Specialty Foods           |     5 |   1856 |
-| **Total collected**               |    **73** | **189,316** |
+| **Total collected**               |    **73** | **200,513** |
 
 ### All the companies 
 
@@ -77,6 +77,7 @@ An expanding collection of data scrapers designed to gather location details on 
 | [Kroger](https://github.com/stiles/locations/tree/main/kroger)                         | Retail Stores             |     1,244 |
 | [Kung Fu Tea](https://github.com/stiles/locations/tree/main/kung-fu-tea)               | Coffee Shops & Desserts   |       425 |
 | [Macy's](https://github.com/stiles/locations/tree/main/macys)                          | Retail Stores             |       520 |
+| [McDonald's](https://github.com/stiles/locations/tree/main/mcdonalds)                     | Fast Food & Quick Service             |       11,197 |
 | [Menchies](https://github.com/stiles/locations/tree/main/menchies)                     | Frozen Yogurt             |       324 |
 | [Nike Stores](https://github.com/stiles/locations/tree/main/nike-stores)               | Clothing & Accessories    |       295 |
 | [Olive Garden](https://github.com/stiles/locations/tree/main/olive-garden)               | Casual Dining    |       911 |
