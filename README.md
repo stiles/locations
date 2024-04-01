@@ -23,10 +23,10 @@ An expanding collection of data scrapers designed to gather location details on 
 | Home Improvement          |     1 |  2,002 |
 | Jewelry                   |     1 |    234 |
 | Pet Supplies              |     1 |    121 |
-| Retail Stores             |    19 | 63,919 |
+| Retail Stores             |    20 | 64,340 |
 | Shoes & Accessories       |     1 |    439 |
 | Specialty Foods           |     5 |   1856 |
-| **Total collected**               |    **74** | **200,513** |
+| **Total collected**               |    **76** | **200,944** |
 
 ### All the companies 
 
@@ -80,6 +80,7 @@ An expanding collection of data scrapers designed to gather location details on 
 | [McDonald's](https://github.com/stiles/locations/tree/main/mcdonalds)                     | Fast Food & Quick Service             |       11,197 |
 | [Menchies](https://github.com/stiles/locations/tree/main/menchies)                     | Frozen Yogurt             |       324 |
 | [Nike Stores](https://github.com/stiles/locations/tree/main/nike-stores)               | Clothing & Accessories    |       295 |
+| [Nordstrom](https://github.com/stiles/locations/tree/main/nordstrom)               | Clothing & Accessories    |       358 |
 | [Olive Garden](https://github.com/stiles/locations/tree/main/olive-garden)               | Casual Dining    |       911 |
 | [PetSmart](https://github.com/stiles/locations/tree/main/pei-wei)                      | Pet Supplies              |       121 |
 | [Pei Wei](https://github.com/stiles/locations/tree/main/petsmart)                      | Specialty Foods           |     1,544 |
@@ -92,6 +93,7 @@ An expanding collection of data scrapers designed to gather location details on 
 | [Sonic](https://github.com/stiles/locations/tree/main/shipley-donuts)                  | Fast Food & Quick Service |     3,529 |
 | [Shipley Do-Nuts](https://github.com/stiles/locations/tree/main/sonic)                 | Coffee Shops & Desserts   |       374 |
 | [Subway](https://github.com/stiles/locations/tree/main/subway)                 | Fast Food & Quick Service   |       21,229 |
+| [Superior Grocers](https://github.com/stiles/locations/tree/main/superior-grocers)                 | Retail Stores   |       73 |
 | [Starbucks](https://github.com/stiles/locations/tree/main/starbucks)                   | Coffee Shops & Desserts   |    16,288 |
 | [Taco Bell](https://github.com/stiles/locations/tree/main/taco-bell)                   | Fast Food & Quick Service |     7,148 |
 | [TCBY](https://github.com/stiles/locations/tree/main/tcby)                             | Frozen Yogurt             |       135 |
