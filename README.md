@@ -88,7 +88,7 @@ An expanding collection of data scrapers designed to gather location details on 
 | [Pizza Hut](https://github.com/stiles/locations/tree/main/pizza-hut)                   | Fast Food & Quick Service |     5,204 |
 | [Pollo Tropical](https://github.com/stiles/locations/tree/main/pollo-tropical)           | Fast Food & Quick Service |     126 |
 | [Publix](https://github.com/stiles/locations/tree/main/publix)                         | Retail Stores             |     1,407 |
-| [Red Lobster](https://github.com/stiles/locations/tree/main/red-lobster)                         | Casual Dining             |     644 |
+| [Red Lobster](https://github.com/stiles/locations/tree/main/red-lobster)                         | Casual Dining             |     671 |
 | [Safeway](https://github.com/stiles/locations/tree/main/safeway)                       | Retail Stores             |       865 |
 | [Sephora](https://github.com/stiles/locations/tree/main/sephora)                       | Beauty Products           |     1,602 |
 | [Sonic](https://github.com/stiles/locations/tree/main/shipley-donuts)                  | Fast Food & Quick Service |     3,529 |
