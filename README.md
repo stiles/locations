@@ -12,7 +12,7 @@ An expanding collection of data scrapers designed to gather location details on 
 | Automotive                   |     3 |  2,924 |
 | Banking                   |     1 |  6,066 |
 | Beauty Products           |     2 |  3,013 |
-| Casual Dining             |     4 |  2,923 |
+| Casual Dining             |     4 |  3,567 |
 | Clothing & Accessories    |     3 |    620 |
 | Coffee Shops & Desserts   |     4 | 21,733 |
 | Electronics & Appliances  |     1 |    526 |
@@ -26,7 +26,7 @@ An expanding collection of data scrapers designed to gather location details on 
 | Retail Stores             |    20 | 64,340 |
 | Shoes & Accessories       |     1 |    439 |
 | Specialty Foods           |     5 |   1856 |
-| **Total collected**               |    **76** | **200,944** |
+| **Total collected**               |    **76** | **201,588** |
 
 ### All the companies 
 
@@ -88,6 +88,7 @@ An expanding collection of data scrapers designed to gather location details on 
 | [Pizza Hut](https://github.com/stiles/locations/tree/main/pizza-hut)                   | Fast Food & Quick Service |     5,204 |
 | [Pollo Tropical](https://github.com/stiles/locations/tree/main/pollo-tropical)           | Fast Food & Quick Service |     126 |
 | [Publix](https://github.com/stiles/locations/tree/main/publix)                         | Retail Stores             |     1,407 |
+| [Red Lobster](https://github.com/stiles/locations/tree/main/red-lobster)                         | Casual Dining             |     644 |
 | [Safeway](https://github.com/stiles/locations/tree/main/safeway)                       | Retail Stores             |       865 |
 | [Sephora](https://github.com/stiles/locations/tree/main/sephora)                       | Beauty Products           |     1,602 |
 | [Sonic](https://github.com/stiles/locations/tree/main/shipley-donuts)                  | Fast Food & Quick Service |     3,529 |
