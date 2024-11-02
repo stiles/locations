@@ -1,672 +1,672 @@
 location_id,location_no,street,city,state,zip,longitude,latitude,phone,closed,state_name,brand,updated,is_canada
-16327,6327,3400 W. Century Blvd,Inglewood,CA,90303,-118.331162,33.945161,(310) 677-8430,False,California,Red Lobster,2024-05-20,False
-10512,0512,21233 Hawthorne Blvd,Torrance,CA,90503,-118.356513,33.836159,(310) 316-3133,True,California,Red Lobster,2024-05-20,False
-10525,0525,22800 Van Owen Ave,Canoga Park,CA,91307,-118.623884,34.193301,(818) 713-9297,False,California,Red Lobster,2024-05-20,False
-10528,0528,4333 Candlewood Street,Lakewood,CA,90712,-118.141176,33.854216,(562) 634-3474,False,California,Red Lobster,2024-05-20,False
-10651,0651,928 West Huntington Drive,Monrovia,CA,91016,-118.019265,34.139667,(626) 301-9225,False,California,Red Lobster,2024-05-20,False
-10513,0513,17601 East Castleton Street,City of Industry,CA,91748,-117.919565,33.994531,(626) 965-5112,False,California,Red Lobster,2024-05-20,False
-10510,0510,250 Brea Mall Way,Brea,CA,92821,-117.883369,33.915248,(714) 529-0632,False,California,Red Lobster,2024-05-20,False
-10511,0511,27524 The Old Road,Valencia,CA,91355,-118.583112,34.421324,(661) 257-8900,False,California,Red Lobster,2024-05-20,False
-10518,0518,12892 Harbor Blvd,Garden Grove,CA,92840,-117.917384,33.775475,(714) 638-9500,False,California,Red Lobster,2024-05-20,False
-10529,0529,9345 Monte Vista,Montclair,CA,91763,-117.697208,34.08419,(909) 621-4806,True,California,Red Lobster,2024-05-20,False
-10577,0577,1041 W Avenue P,Palmdale,CA,93551,-118.148765,34.605058,(661) 538-9707,False,California,Red Lobster,2024-05-20,False
-16270,6270,4413 E. Mills Circle,Ontario,CA,91764,-117.556613,34.076872,(909) 481-5205,False,California,Red Lobster,2024-05-20,False
-10523,0523,3700 Park Sierra,Riverside,CA,92505,-117.471695,33.903767,(951) 687-2500,False,California,Red Lobster,2024-05-20,False
-10516,0516,195 E. Hospitality Lane,San Bernardino,CA,92408,-117.283787,34.065548,(909) 888-2288,False,California,Red Lobster,2024-05-20,False
-10608,0608,12180 Amargosa Road,Victorville,CA,92392,-117.346139,34.472162,(760) 241-1650,False,California,Red Lobster,2024-05-20,False
-16313,6313,41649 Margarita Rd,Temecula,CA,92591,-117.152718,33.52035,(951) 491-0933,False,California,Red Lobster,2024-05-20,False
-16289,6289,8180 RosedaleHWY,Bakersfield,CA,93312,-119.093109,35.383929,(661) 589-9956,False,California,Red Lobster,2024-05-20,False
-10520,0520,8330 Mira Mesa Blvd,San Diego,CA,92126,-117.144679,32.913153,(858) 549-3557,True,California,Red Lobster,2024-05-20,False
-10519,0519,3780 Sports Arena Blvd.,San Diego,CA,92110,-117.216752,32.754887,(619) 226-1057,False,California,Red Lobster,2024-05-20,False
-16378,6378,72291 Highway 111,Palm Desert,CA,92260,-116.40367,33.72897,(760) 674-5890,False,California,Red Lobster,2024-05-20,False
-16383,6383,598 H Street,Chula Vista,CA,91910,-117.08902,32.63079,(619) 585-1160,False,California,Red Lobster,2024-05-20,False
-10718,0718,1525 S. Bradley Road,Santa Maria,CA,93454,-120.418656,34.933169,(805) 925-5800,False,California,Red Lobster,2024-05-20,False
-10710,0710,1545 S. Mooney Blvd.,Visalia,CA,93277,-119.314468,36.316639,(559) 738-8527,False,California,Red Lobster,2024-05-20,False
-10579,0579,1460 E Shaw Avenue,Fresno,CA,93710,-119.761863,36.809032,(559) 221-9495,False,California,Red Lobster,2024-05-20,False
-10339,0339,200 S. Decatur Blvd.,Las Vegas,NV,89107,-115.206566,36.171686,(702) 877-0212,False,Nevada,Red Lobster,2024-05-20,False
-16239,6239,2325 E Flamingo Road,Las Vegas,NV,89119,-115.120511,36.114299,(702) 892-9055,False,Nevada,Red Lobster,2024-05-20,False
-16333,6333,1521 S Yuma Palms PKWY,Yuma,AZ,85365,-114.601824,32.699756,(928) 329-0104,False,Arizona,Red Lobster,2024-05-20,False
-16257,6257,570 Marks Street,Henderson,NV,89014,-115.036002,36.062392,(702) 933-5307,False,Nevada,Red Lobster,2024-05-20,False
-16391,6391,1870 W Craig Road,North Las Vegas,NV,89031,-115.167133,36.239918,(702) 508-9100,False,Nevada,Red Lobster,2024-05-20,False
-10617,0617,1720 N Main Street,Salinas,CA,93906,-121.654632,36.716187,(831) 443-8724,False,California,Red Lobster,2024-05-20,False
-10335,0335,3000 Sisk Rd,Modesto,CA,95350,-121.04939,37.682415,(209) 529-3033,False,California,Red Lobster,2024-05-20,False
-10383,0383,2040 Aborn Road,San Jose,CA,95121,-121.807636,37.311066,(408) 274-2400,False,California,Red Lobster,2024-05-20,False
-10532,0532,503 E. Calaveras Blvd.,Milpitas,CA,95035,-121.896273,37.433359,(408) 942-0781,False,California,Red Lobster,2024-05-20,False
-10403,0403,39401 Fremont Blvd,Fremont,CA,94538,-121.982484,37.545117,(510) 657-2436,True,California,Red Lobster,2024-05-20,False
-10381,0381,2283 W. March Lane,Stockton,CA,95207,-121.334486,37.986127,(209) 473-2420,False,California,Red Lobster,2024-05-20,False
-10653,0653,4095 Century Blvd,Pittsburg,CA,94565,-121.844,38.007633,(925) 754-6655,False,California,Red Lobster,2024-05-20,False
-10549,0549,1210 El Camino Real,San Bruno,CA,94066,-122.421936,37.638751,(650) 583-3244,False,California,Red Lobster,2024-05-20,False
-10623,0623,1821 AZ-69,Prescott,AZ,86301,-112.43523,34.54955,(928) 778-2717,False,Arizona,Red Lobster,2024-05-20,False
-10857,0857,263 N Red Cliffs Drive,Saint George,UT,84790,-113.554446,37.112329,(435) 656-2811,False,Utah,Red Lobster,2024-05-20,False
-16342,6342,15311 W McDowell Road,Goodyear,AZ,85395,-112.388458,33.464051,(623) 935-9731,False,Arizona,Red Lobster,2024-05-20,False
-16288,6288,13709 West Bell Road,Surprise,AZ,85374,-112.35086,33.638253,(623) 556-8161,False,Arizona,Red Lobster,2024-05-20,False
-10867,0867,7921 West Bell Rd.,Peoria,AZ,85382,-112.229497,33.637705,(623) 487-1570,False,Arizona,Red Lobster,2024-05-20,False
-10693,0693,1180 Admiral Callaghan Lane,Vallejo,CA,94591,-122.214859,38.13518,(707) 644-0167,False,California,Red Lobster,2024-05-20,False
-16218,6218,2810 North 75th Ave.,Phoenix,AZ,85035,-112.221368,33.47877,(623) 245-3020,False,Arizona,Red Lobster,2024-05-20,False
-10727,0727,1525 Travis Blvd.,Fairfield,CA,94533,-122.057634,38.258372,(707) 421-8292,False,California,Red Lobster,2024-05-20,False
-10367,0367,1400 Howe Avenue,Sacramento,CA,95825,-121.414933,38.591092,(916) 921-6011,True,California,Red Lobster,2024-05-20,False
-10323,0323,6231 Sunrise Blvd,Citrus Heights,CA,95610,-121.272031,38.679538,(916) 726-6694,False,California,Red Lobster,2024-05-20,False
-16223,6223,10220 N 28th Drive,Phoenix,AZ,85051,-112.122275,33.579064,(602) 943-1163,False,Arizona,Red Lobster,2024-05-20,False
-10354,0354,4802 E Cactus Road,Scottsdale,AZ,85254,-111.977492,33.598267,(602) 996-5470,False,Arizona,Red Lobster,2024-05-20,False
-16230,6230,7240 West Ray Rd,Chandler,AZ,85226,-111.967799,33.320567,(480) 783-9060,False,Arizona,Red Lobster,2024-05-20,False
-16219,6219,1403 S Alma School Rd,Mesa,AZ,85210,-111.856679,33.387827,(480) 610-8701,False,Arizona,Red Lobster,2024-05-20,False
-16320,6320,3845 S. Gilbert Road,Gilbert,AZ,85297,-111.789066,33.280252,(480) 726-7199,False,Arizona,Red Lobster,2024-05-20,False
-10609,0609,6440 Redwood Drive,Rohnert Park,CA,94928,-122.715018,38.347392,(707) 586-3640,True,California,Red Lobster,2024-05-20,False
-16330,6330,5015 Kietzke LN,Reno,NV,89511,-119.795602,39.476212,(775) 827-1203,False,Nevada,Red Lobster,2024-05-20,False
-10667,0667,6149 E Southern Ave,East Mesa,AZ,85206,-111.698361,33.393434,(480) 830-6877,False,Arizona,Red Lobster,2024-05-20,False
-10845,0845,2500 S. Beulah Blvd.,Flagstaff,AZ,86001,-111.662342,35.176798,(928) 556-9604,False,Arizona,Red Lobster,2024-05-20,False
-10671,0671,2010 Business Lane,Chico,CA,95928,-121.806616,39.726249,(530) 893-5595,True,California,Red Lobster,2024-05-20,False
-16350,6350,11695 N Oracle RD,Oro Valley,AZ,85737,-110.938092,32.41852,(520) 544-7887,True,Arizona,Red Lobster,2024-05-20,False
-10369,0369,5061 North Oracle Road,Tucson,AZ,85704,-110.979231,32.298001,(520) 293-9174,False,Arizona,Red Lobster,2024-05-20,False
-16354,6354,5315 S Calle Santa Cruz,Tucson,AZ,85706,-110.987138,32.155191,(520) 889-3536,False,Arizona,Red Lobster,2024-05-20,False
-10869,0869,5870 E. Broadway Blvd,Tucson,AZ,85711,-110.867764,32.221058,(520) 519-1002,False,Arizona,Red Lobster,2024-05-20,False
-10555,0555,1345 Dana Drive,Redding,CA,96003,-122.346853,40.585187,(530) 222-6191,True,California,Red Lobster,2024-05-20,False
-16244,6244,1261 S. 800 East,Orem,UT,84097,-111.675535,40.273627,(801) 724-3500,False,Utah,Red Lobster,2024-05-20,False
-10613,0613,298 E Winchester Street,Murray,UT,84107,-111.882122,40.632157,(801) 288-2940,False,Utah,Red Lobster,2024-05-20,False
-10589,0589,2294 S 1300 E,Salt Lake City,UT,84106,-111.854071,40.7205,(801) 483-1343,False,Utah,Red Lobster,2024-05-20,False
-10674,0674,979 North 400 West,Layton,UT,84041,-111.974605,41.074321,(801) 546-3522,False,Utah,Red Lobster,2024-05-20,False
-10600,0600,3451 E Main Street,Farmington,NM,87402,-108.159831,36.748798,(505) 325-5222,False,New Mexico,Red Lobster,2024-05-20,False
-10576,0576,2200 Crater Lake Highway,Medford,OR,97504,-122.877797,42.348546,(541) 734-2232,False,Oregon,Red Lobster,2024-05-20,False
-10685,0685,575 24 1/2 Road,Grand Junction,CO,81505,-108.599584,39.088316,(970) 242-2050,False,Colorado,Red Lobster,2024-05-20,False
-16280,6280,10520 Coors Bypass NW,Albuquerque,NM,87114,-106.657566,35.208521,(505) 922-0266,False,New Mexico,Red Lobster,2024-05-20,False
-16259,6259,550 N Milwaukee Street,Boise,ID,83704,-116.284325,43.609629,(208) 672-1188,False,Idaho,Red Lobster,2024-05-20,False
-10291,0291,5555 Montgomery Blvd. NE,Albuquerque,NM,87109,-106.578676,35.131839,(505) 884-4445,False,New Mexico,Red Lobster,2024-05-20,False
-10574,0574,575 S Telshor Blvd,Las Cruces,NM,88011,-106.742498,32.31439,(575) 522-4067,False,New Mexico,Red Lobster,2024-05-20,False
-10887,0887,800 Sunland Park Drive,El Paso,TX,79912,-106.54699,31.81646,(915) 833-5753,False,Texas,Red Lobster,2024-05-20,False
-10478,0478,4450 Rodeo Road,Santa Fe,NM,87507,-106.015778,35.637911,(505) 473-1610,False,New Mexico,Red Lobster,2024-05-20,False
-16214,6214,8401 Gateway Blvd. West,El Paso,TX,79925,-106.383453,31.775424,(915) 781-2202,False,Texas,Red Lobster,2024-05-20,False
-16337,6337,1860 Joe Battle Blvd,El Paso,TX,79936,-106.266803,31.757041,(915) 849-9844,False,Texas,Red Lobster,2024-05-20,False
-16366,6366,1085 Valley River Way,Eugene,OR,97401,-123.102922,44.069808,(541) 343-3811,False,Oregon,Red Lobster,2024-05-20,False
-10673,0673,521 Lancaster Drive N.E.,Salem,OR,97301,-122.98355,44.937196,(503) 375-3411,False,Oregon,Red Lobster,2024-05-20,False
-10708,0708,2625 N. Main,Roswell,NM,88201,-104.522537,33.426568,(575) 622-4818,False,New Mexico,Red Lobster,2024-05-20,False
-10573,0573,240 NW Burnside Road,Gresham,OR,97030,-122.43309,45.509084,(503) 666-1759,False,Oregon,Red Lobster,2024-05-20,False
-10457,0457,10330 SW Greenburg Road,Tigard,OR,97223,-122.775964,45.445605,(503) 624-0499,False,Oregon,Red Lobster,2024-05-20,False
-10482,0482,3306 N Elizabeth Street,Pueblo,CO,81008,-104.614067,38.304234,(719) 544-1000,False,Colorado,Red Lobster,2024-05-20,False
-10364,0364,4925 N Academy Blvd,Colorado Springs,CO,80918,-104.769649,38.902714,(719) 594-9494,False,Colorado,Red Lobster,2024-05-20,False
-16355,6355,3510 New Center PT,Colorado Springs,CO,80922,-104.71891,38.882243,(719) 596-9057,False,Colorado,Red Lobster,2024-05-20,False
-10446,0446,5656 S Wadsworth Blvd,Littleton,CO,80123,-105.090326,39.613701,(303) 978-1416,False,Colorado,Red Lobster,2024-05-20,False
-16331,6331,810 S Wadsworth BLVD,Lakewood,CO,80226,-105.080897,39.703335,(303) 936-5882,True,Colorado,Red Lobster,2024-05-20,False
-10456,0456,8219 NE Vancouver Mall Dr,Vancouver,WA,98662,-122.588275,45.656485,(360) 896-1196,False,Washington,Red Lobster,2024-05-20,False
-10119,0119,4455 Wadsworth Blvd,Wheat Ridge,CO,80033,-105.082058,39.77769,(303) 420-4210,True,Colorado,Red Lobster,2024-05-20,False
-16215,6215,9067 East Westview Rd,Lone Tree,CO,80124,-104.883714,39.565506,(303) 858-0885,True,Colorado,Red Lobster,2024-05-20,False
-10328,0328,1350 West 104th Ave.,Northglenn,CO,80234,-105.003169,39.884511,(303) 457-9298,False,Colorado,Red Lobster,2024-05-20,False
-16235,6235,2177 Ken Pratt Blvd.,Longmont,CO,80501,-105.129068,40.142348,(303) 485-9898,False,Colorado,Red Lobster,2024-05-20,False
-10118,0118,10854 East Alameda Avenue,Aurora,CO,80012,-104.862065,39.710608,(303) 343-6161,False,Colorado,Red Lobster,2024-05-20,False
-10640,0640,1120 Columbia Center Blvd.,Kennewick,WA,99336,-119.222581,46.222701,(509) 735-1190,False,Washington,Red Lobster,2024-05-20,False
-16335,6335,8268 E Northfield Blvd,Denver,CO,80238,-104.892937,39.779352,(303) 307-9955,True,Colorado,Red Lobster,2024-05-20,False
-16334,6334,6139 S Southlands PKWY,Aurora,CO,80016,-104.711699,39.604788,(720) 870-4117,False,Colorado,Red Lobster,2024-05-20,False
-10393,0393,3301 S. College Ave.,Fort Collins,CO,80525,-105.077665,40.541952,(970) 223-3952,False,Colorado,Red Lobster,2024-05-20,False
-10847,0847,2115 Thain Grade,Lewiston,ID,83501,-117.000531,46.400071,(208) 746-9096,True,Idaho,Red Lobster,2024-05-20,False
-10749,0749,2601 North Prince,Clovis,NM,88101,-103.196076,34.424547,(575) 762-0355,False,New Mexico,Red Lobster,2024-05-20,False
-10700,0700,203 Three Rivers Drive,Kelso,WA,98626,-122.899945,46.143258,(360) 414-8118,False,Washington,Red Lobster,2024-05-20,False
-10484,0484,2885 23rd Ave,Greeley,CO,80631,-104.716584,40.391199,(970) 330-6200,False,Colorado,Red Lobster,2024-05-20,False
-10597,0597,905 North First Street,Yakima,WA,98901,-120.510962,46.613854,(509) 575-3640,False,Washington,Red Lobster,2024-05-20,False
-10639,0639,1923 Dell Range Blvd.,Cheyenne,WY,82009,-104.794423,41.159778,(307) 778-2724,False,Wyoming,Red Lobster,2024-05-20,False
-16374,6374,5010 East 2nd Street,Casper,WY,82609,-106.25809014,42.84822088,(307) 266-0070,False,Wyoming,Red Lobster,2024-05-20,False
-10799,0799,4505 Martin Way East,Olympia,WA,98516,-122.825096,47.048123,(360) 493-0393,False,Washington,Red Lobster,2024-05-20,False
-10453,0453,1929 S 72nd Street,Tacoma,WA,98408,-122.461048,47.192218,(253) 474-1262,False,Washington,Red Lobster,2024-05-20,False
-10448,0448,2006 S. 320th Street,Federal Way,WA,98003,-122.307667,47.315612,(253) 941-6162,False,Washington,Red Lobster,2024-05-20,False
-10220,0220,4536 E. University Blvd.,Odessa,TX,79762,-102.330045,31.87885,(432) 367-8926,False,Texas,Red Lobster,2024-05-20,False
-10168,0168,3311 I-40 W,Amarillo,TX,79109,-101.87528,35.190947,(806) 353-9596,False,Texas,Red Lobster,2024-05-20,False
-10169,0169,5034 50th Street,Lubbock,TX,79414,-101.921063,33.549453,(806) 792-4805,False,Texas,Red Lobster,2024-05-20,False
-16352,6352,4703 N Division Street,Spokane,WA,99207,-117.411767,47.700981,(509) 489-2777,False,Washington,Red Lobster,2024-05-20,False
-10834,0834,212 Neider Ave.,Coeur D'Alene,ID,83815,-116.790828,47.70679,(208) 667-3369,False,Idaho,Red Lobster,2024-05-20,False
-10661,0661,2250 King Ave W,Billings,MT,59102,-108.572193,45.754629,(406) 655-0929,False,Montana,Red Lobster,2024-05-20,False
-10649,0649,3208 NW Randall Way,Silverdale,WA,98383,-122.693793,47.66008,(360) 613-0105,True,Washington,Red Lobster,2024-05-20,False
-10481,0481,4231 196th SW,Lynnwood,WA,98036,-122.291144,47.821399,(425) 672-1137,False,Washington,Red Lobster,2024-05-20,False
-10460,0460,120 Disk Drive,Rapid City,SD,57701,-103.212828,44.105279,(605) 348-9717,False,South Dakota,Red Lobster,2024-05-20,False
-10282,0282,1280 S Clack Street,Abilene,TX,79605,-99.78785,32.436434,(325) 695-1191,False,Texas,Red Lobster,2024-05-20,False
-10284,0284,4401 Kemp Blvd.,Wichita Falls,TX,76308,-98.535343,33.863573,(940) 691-2531,False,Texas,Red Lobster,2024-05-20,False
-10320,0320,3112 N.W. Cache Road,Lawton,OK,73505,-98.431554,34.62311,(580) 248-4830,True,Oklahoma,Red Lobster,2024-05-20,False
-10835,0835,121 Second Ave. East,Kearney,NE,68847,-99.084596,40.674328,(308) 237-5805,False,Nebraska,Red Lobster,2024-05-20,False
-10237,0237,4243 NW Expressway Street,Oklahoma City,OK,73116,-97.5957,35.540181,(405) 842-1453,True,Oklahoma,Red Lobster,2024-05-20,False
-10591,0591,2625 W Memorial Rd,Oklahoma City,OK,73134,-97.561909,35.6103,(405) 755-1390,False,Oklahoma,Red Lobster,2024-05-20,False
-10293,0293,1000 SW 74th Street,Oklahoma City,OK,73139,-97.532094,35.390619,(405) 634-3395,False,Oklahoma,Red Lobster,2024-05-20,False
-10357,0357,302 N Interstate Drive,Norman,OK,73072,-97.486654,35.221067,(405) 364-6724,False,Oklahoma,Red Lobster,2024-05-20,False
-2018181,8181,100-6100 MacLeod Trail S.W.,Calgary,AB,T2H0K5,-114.071179,50.998479,(403) 252-8818,False,,Red Lobster,2024-05-20,True
-10734,0734,3430 W. 13th Street,Grand Island,NE,68803,-98.382771,40.931857,(308) 382-8879,False,Nebraska,Red Lobster,2024-05-20,False
-2018177,8177,312 35th Street N.E.,Calgary,AB,T2A6S7,-113.9825877,51.05329115,(403) 248-8111,False,,Red Lobster,2024-05-20,True
-16310,6310,5815 N. Loop 1604 West,San Antonio,TX,78249,-98.601678,29.591658,(210) 694-5912,False,Texas,Red Lobster,2024-05-20,False
-10704,0704,2925 S. 9th Street,Salina,KS,67401,-97.612134,38.78509,(785) 825-0837,True,Kansas,Red Lobster,2024-05-20,False
-10386,0386,1381 S.W. Loop 410,San Antonio,TX,78227,-98.650328,29.420056,(210) 675-4550,False,Texas,Red Lobster,2024-05-20,False
-10361,0361,555 South West Street,Wichita,KS,67213,-97.390143,37.675427,(316) 942-0973,False,Kansas,Red Lobster,2024-05-20,False
-16362,6362,4550 NW Loop 410,San Antonio,TX,78229,-98.573873,29.488993,(210) 731-8091,False,Texas,Red Lobster,2024-05-20,False
-16291,6291,5315 San Dario Avenue,Laredo,TX,78041,-99.503023,27.551829,(956) 791-5667,False,Texas,Red Lobster,2024-05-20,False
-16240,6240,17415 US 281 North,San Antonio,TX,78232,-98.471366,29.602515,(210) 404-9065,False,Texas,Red Lobster,2024-05-20,False
-10421,0421,333 S. Towne East Mall Drive,Wichita,KS,67207,-97.252181,37.682241,(316) 687-9247,False,Kansas,Red Lobster,2024-05-20,False
-16363,6363,7835 Interstate 35 S,San Antonio,TX,78224,-98.53587,29.35063,(210) 921-0192,True,Texas,Red Lobster,2024-05-20,False
-10137,0137,8210 I-H 35 North,San Antonio,TX,78239,-98.396164,29.512806,(210) 653-9522,False,Texas,Red Lobster,2024-05-20,False
-10828,0828,102 E. Hall of Fame Ave.,Stillwater,OK,74075,-97.058223,36.127239,(405) 372-8970,True,Oklahoma,Red Lobster,2024-05-20,False
-10334,0334,4805 S. Hulen Street,Fort Worth,TX,76132,-97.395458,32.676643,(817) 292-7293,False,Texas,Red Lobster,2024-05-20,False
-10538,0538,1001 E Central Texas Expressway,Killeen,TX,76541,-97.731257,31.095518,(254) 526-7335,False,Texas,Red Lobster,2024-05-20,False
-16295,6295,1175 N. Burleson Blvd,Burleson,TX,76028,-97.319836,32.569221,(817) 295-7150,False,Texas,Red Lobster,2024-05-20,False
-10721,0721,435 Shawnee Mall Drive,Shawnee,OK,74804,-96.926927,35.385141,(405) 273-6215,False,Oklahoma,Red Lobster,2024-05-20,False
-10545,0545,7800 Bedford-Euless Road,North Richland Hills,TX,76180,-97.211585,32.833776,(817) 281-7540,False,Texas,Red Lobster,2024-05-20,False
-16349,6349,2801 S I 35 E,Denton,TX,76210,-97.102283,33.183313,(940) 382-6410,False,Texas,Red Lobster,2024-05-20,False
-10468,0468,4233 S. Cooper Street,Arlington,TX,76015,-97.134377,32.678135,(817) 472-5097,False,Texas,Red Lobster,2024-05-20,False
-10844,0844,100 N IH 35,San Marcos,TX,78666,-97.938233,29.868317,(512) 960-4499,False,Texas,Red Lobster,2024-05-20,False
-10314,0314,3815 S. Lamar Blvd.,Austin,TX,78704,-97.789594,30.23761,(512) 447-1824,False,Texas,Red Lobster,2024-05-20,False
-16242,6242,2702 A Parker Road,Round Rock,TX,78681,-97.682375,30.480765,(512) 600-0145,False,Texas,Red Lobster,2024-05-20,False
-10877,0877,4205 W. Airport Freeway,Irving,TX,75062,-97.01012,32.838441,(972) 659-0104,False,Texas,Red Lobster,2024-05-20,False
-10095,0095,109 W. Anderson Lane,Austin,TX,78752,-97.706078,30.34362,(512) 451-6406,False,Texas,Red Lobster,2024-05-20,False
-10882,0882,2497 S Stemmons Freeway,Lewisville,TX,75067,-96.96694,33.002977,(972) 315-6271,False,Texas,Red Lobster,2024-05-20,False
-10508,0508,5925 West Waco Drive,Waco,TX,76710,-97.188074,31.514095,(254) 741-1766,False,Texas,Red Lobster,2024-05-20,False
-16245,6245,3056 Preston Road,Frisco,TX,75034,-96.804832,33.103323,(972) 731-5562,False,Texas,Red Lobster,2024-05-20,False
-10691,0691,603 N Cockrell Hill Road,Duncanville,TX,75116,-96.891944,32.657945,(972) 780-8835,False,Texas,Red Lobster,2024-05-20,False
-10873,0873,9069 Vantage Point Dr.,Dallas,TX,75243,-96.745767,32.917084,(972) 889-8124,True,Texas,Red Lobster,2024-05-20,False
-16332,6332,3600 N HWY 75,Sherman,TX,75090,-96.610274,33.677168,(903) 891-1830,False,Texas,Red Lobster,2024-05-20,False
-16308,6308,3501 Central Expressway,Plano,TX,75023,-96.701789,33.044478,(972) 881-4353,False,Texas,Red Lobster,2024-05-20,False
-10416,0416,3906 Towne Crossing Blvd,Mesquite,TX,75150,-96.630711,32.818547,(972) 613-1444,False,Texas,Red Lobster,2024-05-20,False
-10191,0191,4525 East 51st. Street,Tulsa,OK,74135,-95.925186,36.090346,(918) 496-3323,False,Oklahoma,Red Lobster,2024-05-20,False
-10487,0487,1130 E Century AVE,Bismarck,ND,58503,-100.77401,46.838504,(701) 222-2363,False,North Dakota,Red Lobster,2024-05-20,False
-10436,0436,6728 S Memorial Drive,Tulsa,OK,74133,-95.887024,36.064873,(918) 250-5330,False,Oklahoma,Red Lobster,2024-05-20,False
-10732,0732,7601 Wesley Street,Greenville,TX,75402,-96.109111,33.093574,(903) 454-9691,False,Texas,Red Lobster,2024-05-20,False
-16209,6209,2011 SW Wanamaker Rd,Topeka,KS,66604,-95.762772,39.030356,(785) 271-7302,False,Kansas,Red Lobster,2024-05-20,False
-10406,0406,7404 Zac Lentz Pkwy,Victoria,TX,77904,-96.995815,28.864708,(361) 572-4051,True,Texas,Red Lobster,2024-05-20,False
-10729,0729,225 W. Shawnee,Muskogee,OK,74401,-95.361988,35.769257,(918) 682-1731,False,Oklahoma,Red Lobster,2024-05-20,False
-10414,0414,2707 S 140th Street,West Omaha,NE,68144,-96.133232,41.233418,(402) 330-0162,False,Nebraska,Red Lobster,2024-05-20,False
-16356,6356,7617 N 10th Street,McAllen,TX,78504,-98.218706,26.272383,(956) 682-6877,False,Texas,Red Lobster,2024-05-20,False
-10329,0329,701 West Expressway 83,McAllen,TX,78503,-98.229587,26.188323,(956) 687-7323,False,Texas,Red Lobster,2024-05-20,False
-10163,0163,5825 South Padre Island Drive,Corpus Christi,TX,78412,-97.36597,27.704874,(361) 991-2160,False,Texas,Red Lobster,2024-05-20,False
-10115,0115,330 S. 72nd Street,Omaha,NE,68114,-96.024524,41.256256,(402) 391-5970,False,Nebraska,Red Lobster,2024-05-20,False
-10547,0547,4290 Sergeant Road,Sioux City,IA,51106,-96.353714,42.448851,(712) 274-1023,False,Iowa,Red Lobster,2024-05-20,False
-10779,0779,3040 Dial Drive,Council Bluffs,IA,51501,-95.85016,41.229767,(712) 366-5911,True,Iowa,Red Lobster,2024-05-20,False
-10305,0305,3901 W 41st Street,Sioux Falls,SD,57106,-96.77378,43.513939,(605) 361-6952,False,South Dakota,Red Lobster,2024-05-20,False
-2018167,8167,890 Albert Street,Regina,SK,S4R2P5,-104.61822,50.46475652,(306) 522-2224,False,,Red Lobster,2024-05-20,True
-10343,0343,1500 WSW Loop 323,Tyler,TX,75701,-95.318003,32.303015,(903) 561-7760,True,Texas,Red Lobster,2024-05-20,False
-16364,6364,10700 Parallel PKWY,Kansas City,KS,66109,-94.82745,39.12897,(913) 328-0025,True,Kansas,Red Lobster,2024-05-20,False
-16384,6384,14904 W 119TH ST,Olathe,KS,66062,-94.758922,38.913274,(913) 764-1503,True,Kansas,Red Lobster,2024-05-20,False
-16256,6256,25408 Bell Patna,Katy,TX,77494,-95.813618,29.777535,(281) 644-6030,False,Texas,Red Lobster,2024-05-20,False
-10310,0310,3131 S Rangeline Rd.,Joplin,MO,64801,-94.477658,37.055553,(417) 782-2199,False,Missouri,Red Lobster,2024-05-20,False
-16278,6278,9475 Metcalf Avenue,Overland Park,KS,66212,-94.666951,38.957165,(913) 385-7971,False,Kansas,Red Lobster,2024-05-20,False
-10263,0263,4101 Frederick Ave.,Saint Joseph,MO,64506,-94.795011,39.777573,(816) 232-5011,False,Missouri,Red Lobster,2024-05-20,False
-16372,6372,2944 Interstate 45 N,Conroe,TX,77303,-95.48192,30.34625,(936) 756-7391,False,Texas,Red Lobster,2024-05-20,False
-10864,0864,2760 S. Highway 6,Houston,TX,77082,-95.644993,29.729803,(281) 597-9015,False,Texas,Red Lobster,2024-05-20,False
-10488,0488,1075 FM 802,Brownsville,TX,78521,-97.503849,25.949849,(956) 544-2614,False,Texas,Red Lobster,2024-05-20,False
-10605,0605,450 NW Barry Road,Kansas City,MO,64155,-94.585296,39.246818,(816) 468-6116,False,Missouri,Red Lobster,2024-05-20,False
-16284,6284,18446 Interstate 45 S,Shenandoah,TX,77384,-95.453878,30.188233,(936) 271-2700,False,Texas,Red Lobster,2024-05-20,False
-16225,6225,7401 Rogers Ave.,Fort Smith,AR,72903,-94.350365,35.353101,(479) 452-9243,False,Arkansas,Red Lobster,2024-05-20,False
-10315,0315,3515 McCann Rd.,Longview,TX,75605,-94.754864,32.540416,(903) 757-6939,True,Texas,Red Lobster,2024-05-20,False
-2018168,8168,4111 Calgary Trail South,Edmonton,AB,T6J6S6,-113.4956173,53.47732697,(780) 436-8510,False,,Red Lobster,2024-05-20,True
-10841,0841,13232 NW Freeway,Houston,TX,77040,-95.501333,29.847504,(713) 462-6659,False,Texas,Red Lobster,2024-05-20,False
-2018166,8166,10111 171st Street,Edmonton,AB,T5S1S6,-113.61608,53.54172,(780) 484-0660,False,,Red Lobster,2024-05-20,True
-10840,0840,302 FM 1960 RD W,Houston,TX,77090,-95.433317,30.020631,(281) 440-6028,True,Texas,Red Lobster,2024-05-20,False
-16365,6365,670 NW Blue Parkway,Lees Summit,MO,64086,-94.401889,38.926289,(816) 347-0638,False,Missouri,Red Lobster,2024-05-20,False
-10060,0060,4328 Noland Rd,Independence,MO,64055,-94.415896,39.041366,(816) 373-0769,False,Missouri,Red Lobster,2024-05-20,False
-16346,6346,1710 S 46th ST,Rogers,AR,72758,-94.183696,36.316335,(479) 636-1648,False,Arkansas,Red Lobster,2024-05-20,False
-10402,0402,3885 N Shiloh Drive,Fayetteville,AR,72703,-94.145854,36.122274,(479) 442-2317,False,Arkansas,Red Lobster,2024-05-20,False
-16316,6316,20414 US Highway 59 N,Humble,TX,77338,-95.263783,30.011774,(281) 964-4400,False,Texas,Red Lobster,2024-05-20,False
-2018170,8170,2501 8th Street East,Saskatoon,SK,S7H0V4,-106.617986,52.11495,(306) 373-8333,False,,Red Lobster,2024-05-20,True
-10876,0876,1919 S. First Street,Lufkin,TX,75901,-94.726532,31.310667,(936) 634-1155,True,Texas,Red Lobster,2024-05-20,False
-10408,0408,104 HWY 332 W,Lake Jackson,TX,77566,-95.456989,29.047859,(979) 297-8580,True,Texas,Red Lobster,2024-05-20,False
-10198,0198,4002 Spencer Highway,Pasadena,TX,77504,-95.183378,29.664664,(713) 941-8147,True,Texas,Red Lobster,2024-05-20,False
-16304,6304,3002 Saint Michael DR,Texarkana,TX,75503,-94.078564,33.461284,(903) 223-5335,False,Texas,Red Lobster,2024-05-20,False
-10356,0356,888 W. Bay Area Blvd.,Webster,TX,77598,-95.137215,29.543473,(281) 338-2518,False,Texas,Red Lobster,2024-05-20,False
-16232,6232,3559 Shepherd of The Hills Expressway,Branson,MO,65616,-93.288113,36.652172,(417) 337-5988,False,Missouri,Red Lobster,2024-05-20,False
-10063,0063,2141 S. Glenstone Ave,Springfield,MO,65804,-93.263082,37.175128,(417) 883-2245,False,Missouri,Red Lobster,2024-05-20,False
-10664,0664,2968 E Texas St.,Bossier City,LA,71111,-93.703323,32.52829,(318) 741-3618,True,Louisiana,Red Lobster,2024-05-20,False
-10309,0309,4215 13th Ave S,Fargo,ND,58103,-96.852838,46.862328,(701) 282-8983,False,North Dakota,Red Lobster,2024-05-20,False
-10796,0796,3838 Westown Parkway,West Des Moines,IA,50266,-93.756371,41.594949,(515) 226-2150,False,Iowa,Red Lobster,2024-05-20,False
-10697,0697,4500 Central Avenue,Hot Springs,AR,71913,-93.07889,34.451361,(501) 525-7613,False,Arkansas,Red Lobster,2024-05-20,False
-10747,0747,1100 Buckeye Ave.,Ames,IA,50010,-93.610906,42.013072,(515) 232-2922,False,Iowa,Red Lobster,2024-05-20,False
-10641,0641,2675 32nd Avenue South,Grand Forks,ND,58201,-97.066139,47.888936,(701) 772-8770,True,North Dakota,Red Lobster,2024-05-20,False
-10684,0684,1890 E Madison Ave,Mankato,MN,56001,-93.950089,44.167272,(507) 208-7207,False,Minnesota,Red Lobster,2024-05-20,False
-10202,0202,8407 W. Markham Street,Little Rock,AR,72205,-92.367337,34.75273,(501) 224-0940,False,Arkansas,Red Lobster,2024-05-20,False
-16390,6390,1110 Interstate 70 DR SW,Columbia,MO,65203,-92.354936,38.964323,(573) 445-8324,False,Missouri,Red Lobster,2024-05-20,False
-10733,0733,3519 Country Club Drive,Jefferson City,MO,65109,-92.250102,38.583473,(573) 635-6737,True,Missouri,Red Lobster,2024-05-20,False
-10319,0319,3707 McCain Blvd,North Little Rock,AR,72116,-92.230131,34.792929,(501) 753-4000,False,Arkansas,Red Lobster,2024-05-20,False
-10493,0493,2920 W. Division Street,Saint Cloud,MN,56301,-94.193994,45.552754,(320) 253-6682,False,Minnesota,Red Lobster,2024-05-20,False
-10728,0728,3000 Pines Mall Drive,Pine Bluff,AR,71601,-91.970512,34.208389,(870) 535-5036,False,Arkansas,Red Lobster,2024-05-20,False
-10543,0543,4601 Pecanland Mall Drive,Monroe,LA,71203,-92.06355,32.49685,(318) 361-0158,False,Louisiana,Red Lobster,2024-05-20,False
-16267,6267,941 East San Marnan,Waterloo,IA,50702,-92.337431,42.458201,(319) 800-6677,True,Iowa,Red Lobster,2024-05-20,False
-10281,0281,1301 County Road 42 West,Burnsville,MN,55306,-93.297407,44.745919,(952) 435-2552,False,Minnesota,Red Lobster,2024-05-20,False
-10157,0157,8900 Golden Valley Road,Golden Valley,MN,55427,-93.393499,44.985231,(763) 546-7300,False,Minnesota,Red Lobster,2024-05-20,False
-16251,6251,12515 Elm Creek Blvd. N,Maple Grove,MN,55369,-93.439276,45.093755,(763) 494-4646,False,Minnesota,Red Lobster,2024-05-20,False
-10249,0249,1951 American Blvd West,Bloomington,MN,55431,-93.304367,44.85814,(952) 888-8102,False,Minnesota,Red Lobster,2024-05-20,False
-10224,0224,8500 Hwy. 47,Minneapolis,MN,55433,-93.26569,45.125081,(763) 786-7667,False,Minnesota,Red Lobster,2024-05-20,False
-10154,0154,2330 Prior Avenue,Roseville,MN,55113,-93.18154,45.011016,(651) 636-9800,False,Minnesota,Red Lobster,2024-05-20,False
-2018157,8157,1540 Portage Ave,Winnipeg,MB,R3G0W9,-97.201096,49.880169,(204) 783-9434,False,,Red Lobster,2024-05-20,True
-10283,0283,2925 White Bear Ave.,Maplewood,MN,55109,-93.018882,45.028626,(651) 770-8825,False,Minnesota,Red Lobster,2024-05-20,False
-16369,6369,1280 Highway 14 SW,Rochester,MN,55902,-92.481315,44.004839,(507) 288-0688,False,Minnesota,Red Lobster,2024-05-20,False
-16326,6326,8350 3rd ST N,Oakdale,MN,55128,-92.935467,44.951029,(651) 264-0151,False,Minnesota,Red Lobster,2024-05-20,False
-16258,6258,2671 2nd Street,Coralville,IA,52241,-91.607429,41.688758,(319) 338-6400,False,Iowa,Red Lobster,2024-05-20,False
-10870,0870,163 Collins Rd NE,Cedar Rapids,IA,52402,-91.628711,42.027264,(319) 395-0450,False,Iowa,Red Lobster,2024-05-20,False
-16371,6371,2642 RED WOLF BLVD,Jonesboro,AR,72401,-90.66863,35.81089,(870) 932-1829,False,Arkansas,Red Lobster,2024-05-20,False
-16261,6261,17204 Chesterfield Airport Rd,Chesterfield,MO,63005,-90.595644,38.667875,(636) 536-0899,False,Missouri,Red Lobster,2024-05-20,False
-10181,0181,4101 Veterans Memorial Pkwy,Saint Peters,MO,63376,-90.572403,38.795002,(636) 928-1161,False,Missouri,Red Lobster,2024-05-20,False
-10061,0061,12235 Saint Charles Rock Rd,Bridgeton,MO,63044,-90.426456,38.752019,(314) 291-8680,False,Missouri,Red Lobster,2024-05-20,False
-10056,0056,5733 S. Lindbergh Blvd.,Saint Louis,MO,63123,-90.349902,38.522143,(314) 487-7744,False,Missouri,Red Lobster,2024-05-20,False
-16324,6324,2381 Maplewood Commons Drive,Maplewood,MO,63143,-90.333067,38.617927,(314) 647-5257,False,Missouri,Red Lobster,2024-05-20,False
-10380,0380,170 E. Beltline Parkway,Alton,IL,62002,-90.173422,38.921113,(618) 465-6554,False,Illinois,Red Lobster,2024-05-20,False
-10133,0133,3420 East Kimberly Road,Davenport,IA,52807,-90.522832,41.551191,(563) 359-7185,False,Iowa,Red Lobster,2024-05-20,False
-10546,0546,3333 State Road 16,La Crosse,WI,54601,-91.202706,43.867184,(608) 781-0300,True,Wisconsin,Red Lobster,2024-05-20,False
-16204,6204,110 Ludwig Drive,Fairview Heights,IL,62208,-89.991756,38.600522,(618) 397-9251,False,Illinois,Red Lobster,2024-05-20,False
-10370,0370,1019 W. Clairemont Ave.,Eau Claire,WI,54701,-91.514472,44.792097,(715) 833-0184,False,Wisconsin,Red Lobster,2024-05-20,False
-16368,6368,6051 Bluebonnet Blvd,Baton Rouge,LA,70836,-91.087207,30.393282,(225) 763-9701,False,Louisiana,Red Lobster,2024-05-20,False
-16322,6322,6535 Airways Blvd,Southaven,MS,38671,-89.99082,34.955989,(662) 536-1960,False,Mississippi,Red Lobster,2024-05-20,False
-16216,6216,8161 Highway 64,Memphis,TN,38133,-89.790301,35.203966,(901) 387-0056,False,Tennessee,Red Lobster,2024-05-20,False
-16341,6341,7750 Winchester RD,Memphis,TN,38125,-89.804925,35.049915,(901) 759-9045,True,Tennessee,Red Lobster,2024-05-20,False
-10707,0707,3269 William Street,Cape Girardeau,MO,63703,-89.577996,37.30214,(573) 339-0445,False,Missouri,Red Lobster,2024-05-20,False
-10630,0630,301 S Lake Avenue,Duluth,MN,55802,-92.096612,46.783978,(218) 722-7390,False,Minnesota,Red Lobster,2024-05-20,False
-16217,6217,6357 I 55 N,Jackson,MS,39213,-90.14682,32.397556,(601) 977-8884,True,Mississippi,Red Lobster,2024-05-20,False
-10248,0248,2696 South Dirksen Parkway,Springfield,IL,62703,-89.606593,39.766863,(217) 529-6900,False,Illinois,Red Lobster,2024-05-20,False
-10473,0473,4625 N Sterling Ave,Peoria,IL,61615,-89.632188,40.744427,(309) 686-7716,False,Illinois,Red Lobster,2024-05-20,False
-10621,0621,2900 W Deyoung ST,Marion,IL,62959,-88.975301,37.745385,(618) 993-6996,False,Illinois,Red Lobster,2024-05-20,False
-16269,6269,997 S. State Route 51,Forsyth,IL,62535,-88.956211,39.920576,(217) 875-3196,False,Illinois,Red Lobster,2024-05-20,False
-10738,0738,4381 Venture Drive,Peru,IL,61354,-89.126268,41.362988,(815) 223-8571,False,Illinois,Red Lobster,2024-05-20,False
-10130,0130,714 Eldorado Road,Bloomington,IL,61704,-88.951818,40.471759,(309) 663-9405,False,Illinois,Red Lobster,2024-05-20,False
-10719,0719,123 Stonebrook Place,Jackson,TN,38305,-88.856498,35.68558,(731) 664-8655,False,Tennessee,Red Lobster,2024-05-20,False
-10485,0485,5151 Hinkleville RD,Paducah,KY,42001,-88.691137,37.075994,(270) 443-5804,False,Kentucky,Red Lobster,2024-05-20,False
-10377,0377,4502 East Towne Blvd.,Madison,WI,53704,-89.307206,43.128002,(608) 244-3530,False,Wisconsin,Red Lobster,2024-05-20,False
-10186,0186,5827 E State St,Rockford,IL,61108,-89.002919,42.265778,(815) 397-5682,False,Illinois,Red Lobster,2024-05-20,False
-10688,0688,895 Barnes Crossing Road,Tupelo,MS,38804,-88.703845,34.315021,(662) 844-5422,False,Mississippi,Red Lobster,2024-05-20,False
-10858,0858,4670 Hardy Street,Hattiesburg,MS,39402,-89.360791,31.323238,(601) 268-9136,True,Mississippi,Red Lobster,2024-05-20,False
-16226,6226,1901 N Prospect Ave.,Champaign,IL,61822,-88.258566,40.138427,(217) 355-2577,False,Illinois,Red Lobster,2024-05-20,False
-16299,6299,902 Commons Dr,Geneva,IL,60134,-88.341379,41.896477,(630) 845-0092,False,Illinois,Red Lobster,2024-05-20,False
-10762,0762,201 S. Frontage Road,Meridian,MS,39301,-88.674646,32.364139,(601) 483-9194,False,Mississippi,Red Lobster,2024-05-20,False
-10340,0340,701 Spring Hill Ring Road,West Dundee,IL,60118,-88.289608,42.102205,(847) 428-0820,False,Illinois,Red Lobster,2024-05-20,False
-16234,6234,1036 N Route 59,Aurora,IL,60504,-88.206402,41.774124,(630) 898-5782,False,Illinois,Red Lobster,2024-05-20,False
-10578,0578,2950 Plainfield Road,Joliet,IL,60435,-88.160665,41.578046,(815) 439-1339,False,Illinois,Red Lobster,2024-05-20,False
-16253,6253,209 South Weber Road,Bolingbrook,IL,60490,-88.123269,41.693239,(630) 679-9192,False,Illinois,Red Lobster,2024-05-20,False
-10322,0322,391 West Army Trail Road,Bloomingdale,IL,60108,-88.115593,41.939933,(630) 529-0097,True,Illinois,Red Lobster,2024-05-20,False
-10492,0492,3001 Finley Road,Downers Grove,IL,60515,-88.024275,41.833018,(630) 515-0565,False,Illinois,Red Lobster,2024-05-20,False
-16236,6236,800 E Golf Road,Schaumburg,IL,60173,-88.0593,42.050655,(847) 843-2743,False,Illinois,Red Lobster,2024-05-20,False
-10494,0494,1604 N State Route 50,Bourbonnais,IL,60914,-87.850639,41.174248,(815) 932-0090,False,Illinois,Red Lobster,2024-05-20,False
-16357,6357,3897 Promenade Parkway,D'Iberville,MS,39540,-88.9018,30.45486,(228) 392-1391,True,Mississippi,Red Lobster,2024-05-20,False
-10287,0287,14750 S LaGrange Rd,Orland Park,IL,60462,-87.854321,41.621649,(708) 460-3313,False,Illinois,Red Lobster,2024-05-20,False
-10556,0556,3217 Vermillion Street,Danville,IL,61832,-87.629445,40.176383,(217) 431-8484,True,Illinois,Red Lobster,2024-05-20,False
-16212,6212,6230 Grand Ave.,Gurnee,IL,60031,-87.956277,42.384429,(847) 856-0432,False,Illinois,Red Lobster,2024-05-20,False
-10587,0587,1200 N Casaloma Drive,Appleton,WI,54913,-88.475518,44.272432,(920) 749-0644,False,Wisconsin,Red Lobster,2024-05-20,False
-10058,0058,4605 Bellemeade Ave,Evansville,IN,47714,-87.494396,37.967293,(812) 477-9227,False,Indiana,Red Lobster,2024-05-20,False
-10274,0274,4401 N Cumberland Ave,Norridge,IL,60706,-87.836081,41.959923,(708) 456-7966,False,Illinois,Red Lobster,2024-05-20,False
-10158,0158,9500 Southwest Highway,Oak Lawn,IL,60453,-87.769779,41.718982,(708) 636-1019,False,Illinois,Red Lobster,2024-05-20,False
-10150,0150,2801 North Mayfair Road,Wauwatosa,WI,53222,-88.048662,43.06927,(414) 771-6320,True,Wisconsin,Red Lobster,2024-05-20,False
-10139,0139,3915 W 211th St,Matteson,IL,60443,-87.711973,41.50562,(708) 481-8510,False,Illinois,Red Lobster,2024-05-20,False
-10146,0146,4645 South 76th Street,Greenfield,WI,53220,-88.009003,42.960496,(414) 281-4030,False,Wisconsin,Red Lobster,2024-05-20,False
-10277,0277,5201 S. Pulaski Road,Chicago,IL,60632,-87.72264,41.798357,(773) 284-7000,False,Illinois,Red Lobster,2024-05-20,False
-10070,0070,3407 South U.S. Hwy 41,Terre Haute,IN,47802,-87.417078,39.426444,(812) 234-7727,False,Indiana,Red Lobster,2024-05-20,False
-10474,0474,243 Cox Creek Parkway,Florence,AL,35630,-87.630136,34.834093,(256) 764-3766,False,Alabama,Red Lobster,2024-05-20,False
-10582,0582,3301 W Touhy Avenue,Lincolnwood,IL,60712,-87.712466,42.01151,(847) 674-0238,False,Illinois,Red Lobster,2024-05-20,False
-16381,6381,2800 S GREEN BAY RD,Mount Pleasant,WI,53406,-87.854313,42.698898,(262) 598-9184,False,Wisconsin,Red Lobster,2024-05-20,False
-10184,0184,9311 Calumet Avenue,Munster,IN,46321,-87.508283,41.544181,(219) 836-1394,False,Indiana,Red Lobster,2024-05-20,False
-10476,0476,2838 Wilma Rudolph Blvd.,Clarksville,TN,37040,-87.292841,36.590376,(931) 645-9872,False,Tennessee,Red Lobster,2024-05-20,False
-10347,0347,3410 Frederica Street,Owensboro,KY,42301,-87.11934,37.737987,(270) 926-4044,False,Kentucky,Red Lobster,2024-05-20,False
-10266,0266,1450 E 82nd Ave,Merrillville,IN,46410,-87.318893,41.470387,(219) 769-0500,False,Indiana,Red Lobster,2024-05-20,False
-10155,0155,1251 Lombardi Access Road,Ashwaubenon,WI,54304,-88.073895,44.506451,(920) 497-1505,False,Wisconsin,Red Lobster,2024-05-20,False
-10298,0298,2620 McFarland Blvd. E,Tuscaloosa,AL,35405,-87.526679,33.185058,(205) 553-8810,False,Alabama,Red Lobster,2024-05-20,False
-10040,0040,3941 Airport Blvd.,Mobile,AL,36608,-88.146059,30.67551,(251) 342-1660,True,Alabama,Red Lobster,2024-05-20,False
-16375,6375,120 S CREASY LN,Lafayette,IN,47905,-86.840208,40.416915,(765) 446-0381,False,Indiana,Red Lobster,2024-05-20,False
-10679,0679,2027 Beltline Road S.W.,Decatur,AL,35601,-87.019778,34.577786,(256) 306-0092,True,Alabama,Red Lobster,2024-05-20,False
-10620,0620,1718 Galleria Blvd,Franklin,TN,37067,-86.810277,35.964494,(615) 771-7577,False,Tennessee,Red Lobster,2024-05-20,False
-10610,0610,4353 Franklin Street,Michigan City,IN,46360,-86.894596,41.675425,(219) 879-1328,False,Indiana,Red Lobster,2024-05-20,False
-10045,0045,1814 Gallatin Pike N,Madison,TN,37115,-86.697825,36.299433,(615) 859-3434,False,Tennessee,Red Lobster,2024-05-20,False
-10365,0365,5259 Hickory Hollow Pkwy,Antioch,TN,37013,-86.657066,36.047347,(615) 731-0141,False,Tennessee,Red Lobster,2024-05-20,False
-10878,0878,2617 E 3rd Street,Bloomington,IN,47401,-86.499227,39.164708,(812) 332-9712,False,Indiana,Red Lobster,2024-05-20,False
-16348,6348,401 S Mount Juliet RD,Mount Juliet,TN,37122,-86.512841,36.167818,(615) 758-9910,False,Tennessee,Red Lobster,2024-05-20,False
-10349,0349,2525 Scottsville Road,Bowling Green,KY,42104,-86.426203,36.951249,(270) 782-9500,False,Kentucky,Red Lobster,2024-05-20,False
-16260,6260,10189 E. US Highway 36,Avon,IN,46123,-86.342578,39.763144,(317) 271-4906,False,Indiana,Red Lobster,2024-05-20,False
-10159,0159,1818 University Drive N.W.,Huntsville,AL,35801,-86.599212,34.741256,(256) 533-2880,True,Alabama,Red Lobster,2024-05-20,False
-10604,0604,1745 Old Fort Parkway,Murfreesboro,TN,37129,-86.419664,35.845299,(615) 896-9499,False,Tennessee,Red Lobster,2024-05-20,False
-10046,0046,1030 Montgomery Highway - S.,Vestavia Hills,AL,35216,-86.789863,33.438595,(205) 822-7240,False,Alabama,Red Lobster,2024-05-20,False
-10082,0082,690 East Thompson Road,Indianapolis,IN,46227,-86.145915,39.693859,(317) 786-9201,False,Indiana,Red Lobster,2024-05-20,False
-16376,6376,3525 ROOSEVELT BLVD,Birmingham,AL,35235,-86.635552,33.605695,(205) 800-8935,False,Alabama,Red Lobster,2024-05-20,False
-10297,0297,1900 S. Reed Rd,Kokomo,IN,46902,-86.107153,40.464014,(765) 456-3831,False,Indiana,Red Lobster,2024-05-20,False
-10371,0371,6410 E. 82nd Street,Indianapolis,IN,46250,-86.0573,39.905943,(317) 842-8871,False,Indiana,Red Lobster,2024-05-20,False
-10097,0097,1752 N. Shadeland Ave,Indianapolis,IN,46219,-86.046368,39.791849,(317) 352-1679,True,Indiana,Red Lobster,2024-05-20,False
-10843,0843,1947 N. Jackson Street,Tullahoma,TN,37388,-86.234022,35.386,(931) 393-4030,False,Tennessee,Red Lobster,2024-05-20,False
-16287,6287,3930 N Main ST,Mishawaka,IN,46545,-86.181667,41.697467,(574) 255-6306,False,Indiana,Red Lobster,2024-05-20,False
-10585,0585,2000 25th Street,Columbus,IN,47201,-85.902621,39.223426,(812) 375-1733,False,Indiana,Red Lobster,2024-05-20,False
-16297,6297,2020 N Dixie ave,Elizabethtown,KY,42701,-85.890235,37.739008,(270) 765-3339,False,Kentucky,Red Lobster,2024-05-20,False
-10678,0678,2923 U.S. 41 West,Marquette,MI,49855,-87.453338,46.548851,(906) 228-2211,False,Michigan,Red Lobster,2024-05-20,False
-10039,0039,5110 N 9th Ave,Pensacola,FL,32504,-87.210282,30.475715,(850) 477-7667,False,Florida,Red Lobster,2024-05-20,False
-10619,0619,951 E lewis and Clark Parkway,Clarksville,IN,47129,-85.761823,38.317432,(812) 285-0444,False,Indiana,Red Lobster,2024-05-20,False
-10648,0648,3009 Brittany Court,Elkhart,IN,46514,-85.972503,41.729088,(574) 264-4115,True,Indiana,Red Lobster,2024-05-20,False
-16254,6254,1681 Sternberg Road,Muskegon,MI,49444,-86.20376,43.153432,(231) 798-9586,False,Michigan,Red Lobster,2024-05-20,False
-10563,0563,4639 Outer Loop,Louisville,KY,40219,-85.676982,38.138421,(502) 964-9647,False,Kentucky,Red Lobster,2024-05-20,False
-10894,0894,986 Breckenridge Lane,Saint Matthews,KY,40207,-85.639614,38.232368,(502) 899-3334,False,Kentucky,Red Lobster,2024-05-20,False
-10344,0344,5806 Scatterfield Road,Anderson,IN,46013,-85.652047,40.056878,(765) 643-7663,False,Indiana,Red Lobster,2024-05-20,False
-10292,0292,1725 Rainbow Drive,Gadsden,AL,35901,-86.007628,33.980538,(256) 543-2086,False,Alabama,Red Lobster,2024-05-20,False
-10731,0731,1410 Interstate Drive,Cookeville,TN,38501,-85.512161,36.137405,(931) 520-8422,False,Tennessee,Red Lobster,2024-05-20,False
-16243,6243,3464 River Towne Point Circle,Grandville,MI,49418,-85.749648,42.883149,(616) 406-1190,False,Michigan,Red Lobster,2024-05-20,False
-10387,0387,300 Eastdale Circle,Montgomery,AL,36117,-86.207504,32.38266,(334) 277-0780,False,Alabama,Red Lobster,2024-05-20,False
-10136,0136,223 West McGalliard Road,Muncie,IN,47303,-85.388754,40.218504,(765) 288-6768,False,Indiana,Red Lobster,2024-05-20,False
-10152,0152,6535 S Westnedge Avenue,Portage,MI,49002,-85.588786,42.221557,(269) 323-1329,False,Michigan,Red Lobster,2024-05-20,False
-10559,0559,515 Quintard Drive,Oxford,AL,36203,-85.82708,33.616743,(256) 835-2013,False,Alabama,Red Lobster,2024-05-20,False
-10458,0458,326 Miracle Strip PKWY SW,Fort Walton Beach,FL,32548,-86.634881,30.405559,(850) 664-2700,False,Florida,Red Lobster,2024-05-20,False
-10129,0129,3920 28th Street. S.E.,Kentwood,MI,49512,-85.570841,42.912078,(616) 949-9190,False,Michigan,Red Lobster,2024-05-20,False
-10076,0076,4825 Coldwater Road,Fort Wayne,IN,46825,-85.13637,41.1235,(260) 483-2181,False,Indiana,Red Lobster,2024-05-20,False
-10275,0275,2565 Capitol Ave. S.W.,Battle Creek,MI,49015,-85.198199,42.264555,(269) 968-1448,False,Michigan,Red Lobster,2024-05-20,False
-10285,0285,2131 Northgate Mall Lane,Chattanooga,TN,37415,-85.240675,35.133107,(423) 870-2371,False,Tennessee,Red Lobster,2024-05-20,False
-10891,0891,2691 North U.S. 31 South,Traverse City,MI,49684,-85.646941,44.727365,(231) 933-8741,False,Michigan,Red Lobster,2024-05-20,False
-10883,0883,2200 Bams Drive,Chattanooga,TN,37421,-85.157513,35.038913,(423) 490-3488,False,Tennessee,Red Lobster,2024-05-20,False
-10850,0850,5400 National Road East,Richmond,IN,47374,-84.828453,39.832954,(765) 966-8646,False,Indiana,Red Lobster,2024-05-20,False
-10273,0273,700 Shorter Ave NW,Rome,GA,30165,-85.201539,34.2662,(706) 234-0581,False,Georgia,Red Lobster,2024-05-20,False
-10185,0185,7921 Dream Street,Florence,KY,41042,-84.642335,38.98928,(859) 371-7151,False,Kentucky,Red Lobster,2024-05-20,False
-10782,0782,901 W. Bridge Rd,Dalton,GA,30720,-85.003491,34.759885,(706) 279-3601,False,Georgia,Red Lobster,2024-05-20,False
-10539,0539,1805 Opelika Road,Auburn,AL,36830,-85.44322,32.626841,(334) 821-4474,True,Alabama,Red Lobster,2024-05-20,False
-10110,0110,3564 Springdale Road,Cincinnati,OH,45251,-84.595917,39.249728,(513) 385-8151,False,Ohio,Red Lobster,2024-05-20,False
-16276,6276,320 Cincinnati Mills Drive,Cincinnati,OH,45240,-84.522774,39.302668,(513) 671-6777,False,Ohio,Red Lobster,2024-05-20,False
-10188,0188,2550 Nicholasville Road,Lexington,KY,40503,-84.519795,37.998457,(859) 276-1422,False,Kentucky,Red Lobster,2024-05-20,False
-16379,6379,1848 Alysheba Way,Lexington,KY,40509,-84.41856,38.01903,(859) 263-0307,False,Kentucky,Red Lobster,2024-05-20,False
-10232,0232,8220 Montgomery Road,Cincinnati,OH,45236,-84.366353,39.205449,(513) 984-2740,False,Ohio,Red Lobster,2024-05-20,False
-10690,0690,4062 E. Bluegrass Road,Mount Pleasant,MI,48858,-84.766218,43.574891,(989) 772-5622,False,Michigan,Red Lobster,2024-05-20,False
-10288,0288,616 Ohio Pike,Cincinnati,OH,45245,-84.294369,39.066072,(513) 752-3167,False,Ohio,Red Lobster,2024-05-20,False
-10889,0889,375 Cherokee Place,Cartersville,GA,30121,-84.782083,34.172678,(770) 383-9888,False,Georgia,Red Lobster,2024-05-20,False
-10669,0669,828 Eastern Bypass,Richmond,KY,40475,-84.281514,37.730813,(859) 623-3503,False,Kentucky,Red Lobster,2024-05-20,False
-10201,0201,3130 East Saginaw Street,Lansing,MI,48912,-84.50706,42.740329,(517) 351-0610,False,Michigan,Red Lobster,2024-05-20,False
-10038,0038,8200 N Springboro Pike,Miamisburg,OH,45342,-84.225113,39.631446,(937) 433-0940,False,Ohio,Red Lobster,2024-05-20,False
-10223,0223,2400 Shirley Drive,Jackson,MI,49202,-84.429753,42.276904,(517) 787-7820,False,Michigan,Red Lobster,2024-05-20,False
-10706,0706,991 E. Ash Street,Piqua,OH,45356,-84.223446,40.150625,(937) 773-9845,False,Ohio,Red Lobster,2024-05-20,False
-10271,0271,3116 Montgomery Highway,Dothan,AL,36303,-85.4271,31.252124,(334) 793-6262,False,Alabama,Red Lobster,2024-05-20,False
-16286,6286,6500 Miller LN,Dayton,OH,45414,-84.191466,39.842562,(937) 264-2811,False,Ohio,Red Lobster,2024-05-20,False
-10498,0498,3100 Bill Arp RD,Douglasville,GA,30135,-84.76362,33.720136,(770) 949-8996,False,Georgia,Red Lobster,2024-05-20,False
-10035,0035,1425 13th Street,Columbus,GA,31901,-84.971098,32.471537,(706) 324-7101,False,Georgia,Red Lobster,2024-05-20,False
-10895,0895,990 Bullsboro Drive,Newnan,GA,30265,-84.745557,33.397441,(770) 252-4111,False,Georgia,Red Lobster,2024-05-20,False
-16325,6325,2679 Adams Farm Dr,Columbus,GA,31909,-84.948228,32.544401,(706) 321-0110,False,Georgia,Red Lobster,2024-05-20,False
-16315,6315,910 E 23rd ST,Panama City,FL,32405,-85.64546,30.188812,(850) 785-5566,False,Florida,Red Lobster,2024-05-20,False
-10698,0698,2803 N. Fairfield Road,Beavercreek,OH,45431,-84.052805,39.771407,(937) 429-1800,False,Ohio,Red Lobster,2024-05-20,False
-10702,0702,359 S. Illinois Ave.,Oak Ridge,TN,37830,-84.254361,36.006934,(865) 481-3330,False,Tennessee,Red Lobster,2024-05-20,False
-16250,6250,1805 East-West Connector S.W.,Austell,GA,30106,-84.605468,33.853563,(770) 745-7111,False,Georgia,Red Lobster,2024-05-20,False
-10433,0433,2626 George Busbee Pkwy,Kennesaw,GA,30144,-84.566817,34.014832,(770) 425-2524,False,Georgia,Red Lobster,2024-05-20,False
-10544,0544,2150 Harding Hwy,Lima,OH,45804,-84.065442,40.730405,(419) 229-9073,False,Ohio,Red Lobster,2024-05-20,False
-16229,6229,1405 Riverstone Parkway,Canton,GA,30114,-84.477093,34.249962,(770) 345-8311,False,Georgia,Red Lobster,2024-05-20,False
-10683,0683,1420 S. Main ST,Adrian,MI,49221,-84.043761,41.876083,(517) 263-3811,False,Michigan,Red Lobster,2024-05-20,False
-10392,0392,2579 Cobb Parkway,Smyrna,GA,30080,-84.474353,33.889831,(770) 952-5736,False,Georgia,Red Lobster,2024-05-20,False
-16296,6296,3360 Camp Creek Parkway,Atlanta,GA,30344,-84.499993,33.657053,(404) 494-9170,False,Georgia,Red Lobster,2024-05-20,False
-10868,0868,1898 W. First Street,Springfield,OH,45504,-83.839493,39.941968,(937) 323-8051,False,Ohio,Red Lobster,2024-05-20,False
-10047,0047,8040 Kingston Pike,Knoxville,TN,37919,-84.048593,35.923975,(865) 693-4651,False,Tennessee,Red Lobster,2024-05-20,False
-10331,0331,1050 Holcomb Bridge Rd,Roswell,GA,30076,-84.329465,34.02459,(770) 998-8573,True,Georgia,Red Lobster,2024-05-20,False
-10253,0253,305 Merchant Dr,Knoxville,TN,37912,-83.974893,36.010055,(865) 689-2410,False,Tennessee,Red Lobster,2024-05-20,False
-10055,0055,6550 Tara Blvd,Jonesboro,GA,30236,-84.371308,33.575636,(770) 968-8910,False,Georgia,Red Lobster,2024-05-20,False
-10091,0091,3937 Lavista Road,Tucker,GA,30084,-84.255628,33.844654,(770) 934-2645,False,Georgia,Red Lobster,2024-05-20,False
-10049,0049,2522 Candler Rd,Decatur,GA,30032,-84.273561,33.71644,(404) 243-4121,False,Georgia,Red Lobster,2024-05-20,False
-10160,0160,4141 Bay Road,Saginaw,MI,48603,-83.976333,43.467439,(989) 793-5250,False,Michigan,Red Lobster,2024-05-20,False
-10122,0122,1422 Reynolds Road,Maumee,OH,43537,-83.664173,41.583511,(419) 893-9494,False,Ohio,Red Lobster,2024-05-20,False
-10397,0397,2055 Pleasant Hill Road,Duluth,GA,30096,-84.132797,33.955505,(770) 476-8376,False,Georgia,Red Lobster,2024-05-20,False
-10580,0580,2340 Tiffin Avenue,Findlay,OH,45840,-83.596301,41.055942,(419) 425-5832,False,Ohio,Red Lobster,2024-05-20,False
-10109,0109,4990 Monroe St,Toledo,OH,43623,-83.640917,41.698349,(419) 473-3135,False,Ohio,Red Lobster,2024-05-20,False
-16302,6302,1846 Jonesboro RD,McDonough,GA,30253,-84.216381,33.464913,(770) 898-2980,False,Georgia,Red Lobster,2024-05-20,False
-10260,0260,2420 Carpenter Road,Ann Arbor,MI,48108,-83.68141,42.251412,(734) 971-4412,False,Michigan,Red Lobster,2024-05-20,False
-10687,0687,4109 Wilder Road,Bay City,MI,48706,-83.889825,43.624053,(989) 667-9333,False,Michigan,Red Lobster,2024-05-20,False
-10192,0192,4417 West Pierson Road,Flint,MI,48504,-83.768902,43.060015,(810) 732-4910,False,Michigan,Red Lobster,2024-05-20,False
-10607,0607,4001 Highway 78 W,Snellville,GA,30039,-84.068996,33.83873,(770) 985-9336,False,Georgia,Red Lobster,2024-05-20,False
-16233,6233,3230 Buford Drive,Buford,GA,30519,-83.990079,34.065028,(678) 482-1777,False,Georgia,Red Lobster,2024-05-20,False
-16238,6238,1560 Dogwood Drive,Conyers,GA,30013,-83.994277,33.647906,(770) 922-5111,False,Georgia,Red Lobster,2024-05-20,False
-10612,0612,1707 Browns Bridge Road,Gainesville,GA,30501,-83.844655,34.284369,(770) 536-5222,False,Georgia,Red Lobster,2024-05-20,False
-16275,6275,1600 Parkway,Sevierville,TN,37862,-83.57329,35.834237,(865) 774-7077,False,Tennessee,Red Lobster,2024-05-20,False
-10389,0389,27760 Novi Road,Novi,MI,48377,-83.475221,42.490567,(248) 349-8470,False,Michigan,Red Lobster,2024-05-20,False
-10836,0836,1553 N. Dixie Hghway,Monroe,MI,48162,-83.353943,41.928775,(734) 289-6242,False,Michigan,Red Lobster,2024-05-20,False
-10125,0125,5774 North Wayne Road,Westland,MI,48185,-83.38799,42.32589,(734) 326-7655,False,Michigan,Red Lobster,2024-05-20,False
-10434,0434,29980 Plymouth Road,Livonia,MI,48150,-83.338182,42.369666,(734) 427-0537,False,Michigan,Red Lobster,2024-05-20,False
-16271,6271,1520 Georgesville Road,Columbus,OH,43228,-83.125219,39.920212,(614) 870-1409,False,Ohio,Red Lobster,2024-05-20,False
-16213,6213,479 Telegraph Road,Waterford,MI,48328,-83.326927,42.647459,(248) 682-5146,False,Michigan,Red Lobster,2024-05-20,False
-10124,0124,6850 North Telegraph Road,Dearborn Heights,MI,48127,-83.272306,42.338216,(313) 562-4605,False,Michigan,Red Lobster,2024-05-20,False
-16351,6351,6091 Sawmill RD,Dublin,OH,43017,-83.092408,40.090232,(614) 210-0358,False,Ohio,Red Lobster,2024-05-20,False
-10560,0560,1318 Mount Vernon Avenue,Marion,OH,43302,-83.094223,40.581381,(740) 389-1174,False,Ohio,Red Lobster,2024-05-20,False
-10470,0470,13999 Eureka Road,Southgate,MI,48195,-83.194304,42.198862,(734) 285-0011,False,Michigan,Red Lobster,2024-05-20,False
-16265,6265,1270 Polaris Parkway,Columbus,OH,43240,-82.985524,40.14233,(614) 433-7175,False,Ohio,Red Lobster,2024-05-20,False
-10705,0705,1079 N. Bridge Street,Chillicothe,OH,45601,-82.97572,39.35906,(740) 901-0799,False,Ohio,Red Lobster,2024-05-20,False
-10497,0497,2825 S Rochester Road,Rochester Hills,MI,48307,-83.131083,42.639144,(248) 299-8090,False,Michigan,Red Lobster,2024-05-20,False
-10131,0131,101 Twelve Mile Rd,Madison Heights,MI,48071,-83.107465,42.504264,(248) 542-1140,False,Michigan,Red Lobster,2024-05-20,False
-10081,0081,2147 S. Hamilton Road,Columbus,OH,43232,-82.880173,39.930867,(614) 864-3160,False,Ohio,Red Lobster,2024-05-20,False
-10132,0132,25901 Hoover Road,Warren,MI,48089,-83.007027,42.484896,(586) 759-0010,False,Michigan,Red Lobster,2024-05-20,False
-10401,0401,13800 Hall Road,Sterling Heights,MI,48313,-82.98986,42.626261,(586) 247-6250,False,Michigan,Red Lobster,2024-05-20,False
-2018101,8101,6575 Tecumseh Rd. East,Windsor,ON,N8T1E7,-82.948409,42.311039,(519) 948-7677,False,,Red Lobster,2024-05-20,True
-10036,0036,1956 W. Broad Street,Athens,GA,30606,-83.403052,33.951873,(706) 549-5376,True,Georgia,Red Lobster,2024-05-20,False
-10048,0048,2077 Riverside Drive,Macon,GA,31204,-83.644794,32.857617,(478) 746-3263,False,Georgia,Red Lobster,2024-05-20,False
-10874,0874,1359 Sam Nunn Blvd.,Perry,GA,31069,-83.739833,32.46695,(478) 988-8612,False,Georgia,Red Lobster,2024-05-20,False
-10017,0017,2583 North Monroe St.,Tallahassee,FL,32303,-84.296381,30.476362,(850) 385-1136,False,Florida,Red Lobster,2024-05-20,False
-10553,0553,1515 River Valley Circle North,Lancaster,OH,43130,-82.624243,39.732418,(740) 681-9433,False,Ohio,Red Lobster,2024-05-20,False
-10423,0423,4016 Milan Road,Sandusky,OH,44870,-82.674977,41.419936,(419) 625-1122,False,Ohio,Red Lobster,2024-05-20,False
-10227,0227,2322 West 4th Street,Mansfield,OH,44906,-82.59852,40.774338,(419) 747-4700,False,Ohio,Red Lobster,2024-05-20,False
-10548,0548,909 Hebron Road,Heath,OH,43056,-82.447162,40.026801,(740) 522-4593,False,Ohio,Red Lobster,2024-05-20,False
-10411,0411,200 10th Street,Huntington,WV,25701,-82.442105,38.423478,(304) 529-4042,False,West Virginia,Red Lobster,2024-05-20,False
-16272,6272,4220 24th Avenue,Fort Gratiot,MI,48059,-82.455555,43.032342,(810) 385-8773,True,Michigan,Red Lobster,2024-05-20,False
-10739,0739,101 S. Virginia Ave.,Tifton,GA,31794,-83.52671,31.456944,(229) 386-2011,False,Georgia,Red Lobster,2024-05-20,False
-16294,6294,139 Tunnel RD,Asheville,NC,28805,-82.531116,35.591873,(828) 350-7773,False,North Carolina,Red Lobster,2024-05-20,False
-10312,0312,1909 N Roan Street,Johnson City,TN,37601,-82.37413,36.337581,(423) 282-4099,False,Tennessee,Red Lobster,2024-05-20,False
-10179,0179,3426 Clemson Blvd,Anderson,SC,29621,-82.671334,34.547995,(864) 224-8709,False,South Carolina,Red Lobster,2024-05-20,False
-10632,0632,6935 Midway Mall,Elyria,OH,44035,-82.114969,41.398313,(440) 324-2244,False,Ohio,Red Lobster,2024-05-20,False
-10606,0606,755 Zane Street,Zanesville,OH,43701,-82.001703,39.948225,(740) 453-2323,False,Ohio,Red Lobster,2024-05-20,False
-10665,0665,2105 Veterans Blvd,Dublin,GA,31021,-82.954424,32.542188,(478) 275-9510,True,Georgia,Red Lobster,2024-05-20,False
-10766,0766,3805 Burbank Road.,Wooster,OH,44691,-81.943466,40.846116,(330) 345-4005,False,Ohio,Red Lobster,2024-05-20,False
-16317,6317,3167 Linden Drive,Bristol,VA,24202,-82.126335,36.629083,(276) 669-9110,False,Virginia,Red Lobster,2024-05-20,False
-10171,0171,1940 Wade Hampton Blvd,Greenville,SC,29615,-82.35986,34.879145,(864) 268-1474,False,South Carolina,Red Lobster,2024-05-20,False
-16328,6328,25615 Brookpark Rd,North Olmsted,OH,44070,-81.904615,41.418186,(440) 801-1409,False,Ohio,Red Lobster,2024-05-20,False
-16312,6312,17227 Southpark Center,Strongsville,OH,44136,-81.821028,41.31139,(440) 572-0717,False,Ohio,Red Lobster,2024-05-20,False
-10595,0595,1179 N Saint Augustine Road,Valdosta,GA,31601,-83.320764,30.840549,(229) 244-7587,False,Georgia,Red Lobster,2024-05-20,False
-10116,0116,7607 Day Drive,Parma,OH,44129,-81.736726,41.379973,(440) 888-0990,False,Ohio,Red Lobster,2024-05-20,False
-16300,6300,101 Cross Terrace Blvd,Charleston,WV,25309,-81.716881,38.317486,(304) 746-0744,False,West Virginia,Red Lobster,2024-05-20,False
-10324,0324,3901 Medina Road,Akron,OH,44333,-81.640209,41.136475,(330) 666-0727,False,Ohio,Red Lobster,2024-05-20,False
-10716,0716,3705 Murdock Avenue,Parkersburg,WV,26101,-81.547343,39.297161,(304) 422-1852,False,West Virginia,Red Lobster,2024-05-20,False
-10724,0724,1616 By-Pass 72 N.E.,Greenwood,SC,29649,-82.158293,34.216991,(864) 942-9885,False,South Carolina,Red Lobster,2024-05-20,False
-16203,6203,170 E Blackstock Road,Spartanburg,SC,29301,-81.989631,34.930791,(864) 576-8418,False,South Carolina,Red Lobster,2024-05-20,False
-10126,0126,1090 Graham Road,Cuyahoga Falls,OH,44224,-81.474266,41.162479,(330) 929-9129,False,Ohio,Red Lobster,2024-05-20,False
-10564,0564,255 Graff Road SE,New Philadelphia,OH,44663,-81.444511,40.479913,(330) 339-3535,False,Ohio,Red Lobster,2024-05-20,False
-10121,0121,4600 Belden Village ST NW,Canton,OH,44718,-81.433871,40.856007,(330) 492-0458,False,Ohio,Red Lobster,2024-05-20,False
-10243,0243,7744 Reynolds Rd,Mentor,OH,44060,-81.378994,41.660708,(440) 946-6677,False,Ohio,Red Lobster,2024-05-20,False
-10290,0290,2847 Washington Road,Augusta,GA,30909,-82.035536,33.511517,(706) 737-4314,False,Georgia,Red Lobster,2024-05-20,False
-10174,0174,440 Walton Way,Augusta,GA,30901,-81.961314,33.465149,(706) 724-1438,False,Georgia,Red Lobster,2024-05-20,False
-2018116,8116,667 Wellington Road South,London,ON,N6C4R4,-81.228088,42.948944,(519) 668-0220,False,,Red Lobster,2024-05-20,True
-10459,0459,1846 US-70 SE,Hickory,NC,28602,-81.307315,35.70675,(828) 327-6113,False,North Carolina,Red Lobster,2024-05-20,False
-16201,6201,50740 Valley Center Blvd,Saint Clairsville,OH,43950,-80.870624,40.074039,(740) 699-0344,False,Ohio,Red Lobster,2024-05-20,False
-10540,0540,950 Aiken Mall Drive,Aiken,SC,29803,-81.711865,33.508069,(803) 648-4320,False,South Carolina,Red Lobster,2024-05-20,False
-10769,0769,2847 W. US Highway 90,Lake City,FL,32055,-82.678931,30.180347,(386) 758-0044,False,Florida,Red Lobster,2024-05-20,False
-10366,0366,5701 Youngstown-Warren Rd,Niles,OH,44446,-80.749084,41.210296,(330) 544-1321,False,Ohio,Red Lobster,2024-05-20,False
-10863,0863,3013 N Ridge RD E,Ashtabula,OH,44004,-80.757092,41.877856,(440) 998-4944,False,Ohio,Red Lobster,2024-05-20,False
-10737,0737,200 N. New Hope Road,Gastonia,NC,28054,-81.150993,35.264623,(704) 868-3884,False,North Carolina,Red Lobster,2024-05-20,False
-10353,0353,1410 Boardman-Poland Rd,Youngstown,OH,44514,-80.629043,41.024789,(330) 758-0979,False,Ohio,Red Lobster,2024-05-20,False
-10712,0712,1145 Glenway Drive,Statesville,NC,28625,-80.86896,35.809227,(704) 881-0712,False,North Carolina,Red Lobster,2024-05-20,False
-10642,0642,3370 Shenango Valley Freeway,Hermitage,PA,16148,-80.447522,41.23071,(724) 342-1788,False,Pennsylvania,Red Lobster,2024-05-20,False
-10861,0861,6910 W. Newberry Road,Gainesville,FL,32605,-82.416861,29.660533,(352) 331-2670,True,Florida,Red Lobster,2024-05-20,False
-10601,0601,9415 Pineville-Matthews Road,Pineville,NC,28134,-80.876961,35.086654,(704) 541-0021,False,North Carolina,Red Lobster,2024-05-20,False
-2018118,8118,1732 King Street East,Kitchener,ON,N2G2P1,-80.460375,43.437973,(519) 743-1430,False,,Red Lobster,2024-05-20,True
-10172,0172,1270 Knox Abbott Drive,Cayce,SC,29033,-81.072268,33.979211,(803) 796-1048,False,South Carolina,Red Lobster,2024-05-20,False
-16290,6290,1005 Trinity CIR,Washington,PA,15301,-80.223556,40.184853,(724) 229-4071,False,Pennsylvania,Red Lobster,2024-05-20,False
-16241,6241,8012 Concord Mills BLVD,Concord,NC,28027,-80.715791,35.370791,(704) 659-0566,False,North Carolina,Red Lobster,2024-05-20,False
-10853,0853,75 Peppers FRY RD NW,Christiansburg,VA,24073,-80.425176,37.163877,(540) 381-3760,False,Virginia,Red Lobster,2024-05-20,False
-2018158,8158,1600 LaSalle Blvd,Sudbury,ON,P3A1Z7,-80.937954,46.522161,(705) 560-9825,False,,Red Lobster,2024-05-20,True
-10554,0554,16736 Conneaut Lake Road,Meadville,PA,16335,-80.201386,41.623555,(814) 724-1205,False,Pennsylvania,Red Lobster,2024-05-20,False
-16382,6382,9801 INDEPENDENCE POINTE PKWY,Matthews,NC,28105,-80.71356,35.1335,(704) 708-4439,False,North Carolina,Red Lobster,2024-05-20,False
-16305,6305,6150 Robinson Center Drive,Pittsburgh,PA,15205,-80.160474,40.451322,(412) 809-0482,False,Pennsylvania,Red Lobster,2024-05-20,False
-2018129,8129,67 King George Road,Brantford,ON,N3R5K2,-80.275103,43.165687,(519) 759-7121,False,,Red Lobster,2024-05-20,True
-16301,6301,10136 Two Notch Road,Columbia,SC,29229,-80.881544,34.117178,(803) 462-1755,False,South Carolina,Red Lobster,2024-05-20,False
-16220,6220,8909 US Highway 19,Port Richey,FL,34668,-82.714174,28.28686,(727) 859-9600,False,Florida,Red Lobster,2024-05-20,False
-10696,0696,2328 Commercial Way,Spring Hill,FL,34606,-82.621411,28.466152,(352) 686-5207,False,Florida,Red Lobster,2024-05-20,False
-10430,0430,2040 Edinboro Road,Erie,PA,16509,-80.098519,42.064749,(814) 868-7506,True,Pennsylvania,Red Lobster,2024-05-20,False
-10348,0348,26320 U.S. 19th North,Clearwater,FL,33761,-82.734928,28.011788,(727) 799-3816,False,Florida,Red Lobster,2024-05-20,False
-10454,0454,10500 E Ulmerton Road,Largo,FL,33771,-82.782462,27.894048,(727) 581-5272,True,Florida,Red Lobster,2024-05-20,False
-10229,0229,4766 McKnight Road,Pittsburgh,PA,15237,-80.004236,40.519385,(412) 367-2998,False,Pennsylvania,Red Lobster,2024-05-20,False
-16338,6338,1512 University Town Centre Dr,Morgantown,WV,26501,-80.005415,39.65536,(304) 598-2201,False,West Virginia,Red Lobster,2024-05-20,False
-10655,0655,104 Moraine Pointe,Butler,PA,16001,-79.951176,40.877619,(724) 285-8220,False,Pennsylvania,Red Lobster,2024-05-20,False
-10193,0193,259 Clairton Blvd.,Pittsburgh,PA,15236,-79.951934,40.33835,(412) 653-3552,False,Pennsylvania,Red Lobster,2024-05-20,False
-16206,6206,1690 Westbrook Plaza Drive,Winston Salem,NC,27103,-80.306053,36.068619,(336) 768-3110,False,North Carolina,Red Lobster,2024-05-20,False
-10352,0352,3393 SW College Road,Ocala,FL,34474,-82.178981,29.156929,(352) 237-1291,False,Florida,Red Lobster,2024-05-20,False
-10019,0019,6151 34th Street N.,Saint Petersburg,FL,33714,-82.679211,27.827823,(727) 527-7302,False,Florida,Red Lobster,2024-05-20,False
-16343,6343,13090 City Station Drive,Jacksonville,FL,32218,-81.64402,30.47528,(904) 696-2061,True,Florida,Red Lobster,2024-05-20,False
-10257,0257,32 Blanding Blvd,Orange Park,FL,32073,-81.740129,30.187926,(904) 272-6357,False,Florida,Red Lobster,2024-05-20,False
-10173,0173,11 W Montgomery Cross Roads,Savannah,GA,31406,-81.123256,31.998179,(912) 927-1450,False,Georgia,Red Lobster,2024-05-20,False
-10330,0330,11601 N. Dale Mabry,Tampa,FL,33618,-82.503252,28.054484,(813) 962-8187,False,Florida,Red Lobster,2024-05-20,False
-10230,0230,3941 William Penn Highway,Monroeville,PA,15146,-79.775312,40.43842,(412) 372-5591,False,Pennsylvania,Red Lobster,2024-05-20,False
-10569,0569,515 W Main Street,Uniontown,PA,15401,-79.742062,39.907839,(724) 438-2852,False,Pennsylvania,Red Lobster,2024-05-20,False
-10028,0028,2625 East Busch Blvd.,Tampa,FL,33612,-82.429316,28.032137,(813) 933-4093,True,Florida,Red Lobster,2024-05-20,False
-16292,6292,416 Commerce Center Drive,Jacksonville,FL,32225,-81.550976,30.32982,(904) 727-7460,True,Florida,Red Lobster,2024-05-20,False
-2018103,8103,2423 Fairview Street,Burlington,ON,L7R2E4,-79.797868,43.347158,(905) 637-3454,False,,Red Lobster,2024-05-20,True
-16249,6249,17021 Palm Pointe DR,Tampa,FL,33647,-82.379959,28.117557,(813) 866-0052,True,Florida,Red Lobster,2024-05-20,False
-10385,0385,8720 Baymeadows Road,Jacksonville,FL,32256,-81.577615,30.220267,(904) 731-3600,True,Florida,Red Lobster,2024-05-20,False
-16345,6345,3830 Wedgewood Lane,The Villages,FL,32162,-82.024132,28.927985,(352) 751-1482,False,Florida,Red Lobster,2024-05-20,False
-2018111,8111,368 Queen Street E.,Brampton,ON,L6V1C3,-79.741881,43.702507,(905) 459-6334,False,,Red Lobster,2024-05-20,True
-10027,0027,5711 14th Street West,Bradenton,FL,34207,-82.574963,27.440017,(941) 756-1814,False,Florida,Red Lobster,2024-05-20,False
-10746,0746,1034 Broad Street,Sumter,SC,29150,-80.374775,33.947463,(803) 773-6323,False,South Carolina,Red Lobster,2024-05-20,False
-10425,0425,2604 West Brandon Blvd,Brandon,FL,33511,-82.325425,27.940883,(813) 654-0010,False,Florida,Red Lobster,2024-05-20,False
-2018105,8105,790 Burnhamthorpe Rd. W.,Mississauga,ON,L5C3X3,-79.654686,43.576593,(905) 848-8477,False,,Red Lobster,2024-05-20,True
-10449,0449,5080 RT 30 E,Greensburg,PA,15601,-79.491902,40.300833,(724) 834-6692,False,Pennsylvania,Red Lobster,2024-05-20,False
-10862,0862,4415 W. Wendover Ave.,Greensboro,NC,27407,-79.897362,36.054931,(336) 292-3527,False,North Carolina,Red Lobster,2024-05-20,False
-2018119,8119,319 Bayfield Street,Barrie,ON,L4M3C2,-79.700115,44.401048,(705) 728-2401,False,,Red Lobster,2024-05-20,True
-2018183,8183,1790 The Queensway,Etobicoke,ON,M9C5H5,-79.557397,43.614358,(416) 620-9990,False,,Red Lobster,2024-05-20,True
-10480,0480,10010 US Highway 441,Leesburg,FL,34788,-81.790658,28.82365,(352) 728-2400,True,Florida,Red Lobster,2024-05-20,False
-2018155,8155,3200 Dufferin Street,Toronto,ON,M6A2T3,-79.455731,43.718295,(416) 785-7930,False,,Red Lobster,2024-05-20,True
-10745,0745,295 E Fairmount Avenue,Lakewood,NY,14750,-79.305306,42.098966,(716) 763-6992,True,New York,Red Lobster,2024-05-20,False
-2018115,8115,7291 Yonge Street,Thornhill,ON,L3T2A9,-79.421984,43.806055,(905) 731-3550,False,,Red Lobster,2024-05-20,True
-2018176,8176,20 Dundas Street West,Toronto,ON,M5G2C2,-79.381361,43.656317,(416) 348-8938,False,,Red Lobster,2024-05-20,True
-16208,6208,3706 North Road 98,Lakeland,FL,33809,-81.974458,28.089431,(863) 815-0774,False,Florida,Red Lobster,2024-05-20,False
-2018104,8104,3252 Sheppard Ave. East,Scarborough,ON,M1T3K3,-79.315002,43.777237,(416) 491-2507,False,,Red Lobster,2024-05-20,True
-16340,6340,2475 S Highway 27,Clermont,FL,34711,-81.73667,28.53723,(352) 243-4620,False,Florida,Red Lobster,2024-05-20,False
-16377,6377,1726 Glidewell Dr,Burlington,NC,27215,-79.51764,36.06748,(336) 584-9969,True,North Carolina,Red Lobster,2024-05-20,False
-2018126,8126,6220 Lundy's Lane,Niagara Falls,ON,L2G1T6,-79.097882,43.089375,(905) 357-1303,False,,Red Lobster,2024-05-20,True
-10486,0486,2540 David H McLeod BLVD,Florence,SC,29501,-79.830847,34.188167,(843) 661-7130,False,South Carolina,Red Lobster,2024-05-20,False
-10372,0372,3425 Candlers Mountain Rd,Lynchburg,VA,24502,-79.174295,37.366078,(434) 847-0178,False,Virginia,Red Lobster,2024-05-20,False
-16263,6263,7780 W Irlo Bronson Memorial HWY,Kissimmee,FL,34747,-81.597258,28.339203,(321) 677-0191,False,Florida,Red Lobster,2024-05-20,False
-10860,0860,1477 Greenville Ave,Staunton,VA,24401,-79.065011,38.122963,(540) 887-7582,False,Virginia,Red Lobster,2024-05-20,False
-16207,6207,230 Cypress Garden Blvd.,Winter Haven,FL,33880,-81.725042,28.003523,(863) 294-8844,False,Florida,Red Lobster,2024-05-20,False
-10479,0479,1331 Tamiami Trail,Port Charlotte,FL,33948,-82.146585,27.011825,(941) 625-7745,False,Florida,Red Lobster,2024-05-20,False
-10885,0885,7373 W Colonial Drive,Orlando,FL,32818,-81.480361,28.55267,(407) 295-2791,True,Florida,Red Lobster,2024-05-20,False
-10259,0259,2460 Mall Drive,North Charleston,SC,29406,-80.014275,32.876671,(843) 554-9621,False,South Carolina,Red Lobster,2024-05-20,False
-16222,6222,340 West SR 436,Altamonte Springs,FL,32714,-81.395488,28.661269,(407) 682-3636,True,Florida,Red Lobster,2024-05-20,False
-10848,0848,20 Towne Center Circle,Sanford,FL,32771,-81.335666,28.807221,(407) 320-0888,True,Florida,Red Lobster,2024-05-20,False
-10643,0643,525 Galleria Drive,Johnstown,PA,15904,-78.836397,40.297769,(814) 266-8825,False,Pennsylvania,Red Lobster,2024-05-20,False
-10108,0108,5936 International Drive,Orlando,FL,32819,-81.46158,28.461685,(407) 351-9313,False,Florida,Red Lobster,2024-05-20,False
-10435,0435,5690 Irlo Bronson Memorial Hwy,Kissimmee,FL,34746,-81.513111,28.3321,(407) 396-6997,False,Florida,Red Lobster,2024-05-20,False
-16303,6303,9892 International dr,Orlando,FL,32819,-81.461533,28.424529,(407) 363-0399,False,Florida,Red Lobster,2024-05-20,False
-10426,0426,3701 McKinley Parkway,Buffalo,NY,14219,-78.808781,42.788145,(716) 823-2901,True,New York,Red Lobster,2024-05-20,False
-10307,0307,4010 Maple RD,Amherst,NY,14226,-78.814081,42.991304,(716) 837-0202,True,New York,Red Lobster,2024-05-20,False
-10736,0736,813 E. Dubois Avenue,Du Bois,PA,15801,-78.738301,41.124772,(814) 371-8242,False,Pennsylvania,Red Lobster,2024-05-20,False
-2018114,8114,311 King Street W.,Oshawa,ON,L1J2J8,-78.874994,43.894888,(905) 434-1143,False,,Red Lobster,2024-05-20,True
-10838,0838,8003 Golden Sky Lane,Orlando,FL,32809,-81.393282,28.450049,(407) 438-6627,True,Florida,Red Lobster,2024-05-20,False
-10083,0083,4010 West Vine Street,Kissimmee,FL,34741,-81.443035,28.303885,(407) 846-3513,True,Florida,Red Lobster,2024-05-20,False
-10899,0899,3552 E. Colonial Drive,Orlando,FL,32803,-81.33997,28.552975,(407) 896-3657,True,Florida,Red Lobster,2024-05-20,False
-10071,0071,2625 West International Speedway,Daytona Beach,FL,32114,-81.081753,29.17566,(386) 255-7596,False,Florida,Red Lobster,2024-05-20,False
-10686,0686,2121 E Market Street,Harrisonburg,VA,22801,-78.839786,38.424682,(540) 564-2719,False,Virginia,Red Lobster,2024-05-20,False
-10228,0228,7540 Transit Road,Williamsville,NY,14221,-78.697615,42.97378,(716) 634-9195,True,New York,Red Lobster,2024-05-20,False
-10412,0412,3162 S Atlantic Ave.,Daytona Beach Shores,FL,32118,-80.975178,29.160712,(386) 756-1550,True,Florida,Red Lobster,2024-05-20,False
-16246,6246,617 N. Alafaya Trail,Orlando,FL,32828,-81.205624,28.554509,(407) 249-4141,False,Florida,Red Lobster,2024-05-20,False
-10210,0210,4416 Chapel Hill Blvd,Durham,NC,27707,-78.972941,35.964604,(919) 493-3566,True,North Carolina,Red Lobster,2024-05-20,False
-10611,0611,721 US 27,Sebring,FL,33870,-81.484032,27.489785,(863) 382-2200,False,Florida,Red Lobster,2024-05-20,False
-10079,0079,3801 Cleveland Ave,Fort Myers,FL,33901,-81.871419,26.607003,(239) 936-8216,False,Florida,Red Lobster,2024-05-20,False
-10455,0455,3329 Pleasant Valley Blvd.,Altoona,PA,16602,-78.400933,40.482648,(814) 942-6288,False,Pennsylvania,Red Lobster,2024-05-20,False
-10256,0256,533 N McPherson Church Rd,Fayetteville,NC,28303,-78.955299,35.07708,(910) 864-3113,False,North Carolina,Red Lobster,2024-05-20,False
-10598,0598,1805 Walnut Street,Cary,NC,27518,-78.74311,35.761003,(919) 851-6806,True,North Carolina,Red Lobster,2024-05-20,False
-2018134,8134,870 Lansdowne Street W.,Peterborough,ON,K9J1Z7,-78.339746,44.283443,(705) 876-1840,False,,Red Lobster,2024-05-20,True
-16321,6321,2400 S. Pleasant Valley Rd,Winchester,VA,22601,-78.174407,39.155331,(540) 722-9490,False,Virginia,Red Lobster,2024-05-20,False
-10318,0318,4408 Old Wake Forest Road,Raleigh,NC,27609,-78.610643,35.841072,(919) 872-5608,False,North Carolina,Red Lobster,2024-05-20,False
-10075,0075,215 E Merritt Island Causeway,Merritt Island,FL,32952,-80.695781,28.356564,(321) 453-3520,False,Florida,Red Lobster,2024-05-20,False
-16318,6318,1230 N Retail CT,Myrtle Beach,SC,29577,-78.920439,33.705935,(843) 445-9786,False,South Carolina,Red Lobster,2024-05-20,False
-16221,6221,1670 N Atherton Street,State College,PA,16803,-77.896004,40.80751,(814) 867-3867,False,Pennsylvania,Red Lobster,2024-05-20,False
-10725,0725,10000 Hwy. 17 N.,Myrtle Beach,SC,29572,-78.778384,33.785414,(843) 497-7761,True,South Carolina,Red Lobster,2024-05-20,False
-16205,6205,2355 W. New Haven Ave.,Melbourne,FL,32904,-80.660889,28.078153,(321) 676-5111,False,Florida,Red Lobster,2024-05-20,False
-10625,0625,1681 Wesel Blvd.,Hagerstown,MD,21740,-77.76239,39.630211,(301) 791-6051,False,Maryland,Red Lobster,2024-05-20,False
-10410,0410,1515 W Ridge Rd,Rochester,NY,14615,-77.668067,43.204948,(585) 663-8360,False,New York,Red Lobster,2024-05-20,False
-10550,0550,935 Wayne Ave,Chambersburg,PA,17201,-77.653014,39.914268,(717) 263-6008,False,Pennsylvania,Red Lobster,2024-05-20,False
-10189,0189,655 Jefferson Rd,Rochester,NY,14623,-77.625194,43.086424,(585) 424-2060,True,New York,Red Lobster,2024-05-20,False
-10647,0647,7505 Broken Branch Lane,Manassas,VA,20109,-77.51493,38.791624,(703) 335-2553,False,Virginia,Red Lobster,2024-05-20,False
-16211,6211,1020 W Patrick Street,Frederick,MD,21703,-77.439821,39.416041,(301) 846-9474,False,Maryland,Red Lobster,2024-05-20,False
-16283,6283,13236 Rittenhouse Drive,Midlothian,VA,23112,-77.640431,37.41617,(804) 744-1607,False,Virginia,Red Lobster,2024-05-20,False
-10572,0572,3109 Spotsylvania Mall Drive,Fredericksburg,VA,22407,-77.517694,38.292771,(540) 786-1949,False,Virginia,Red Lobster,2024-05-20,False
-16255,6255,21065 Dulles Town Center,Sterling,VA,20166,-77.424071,39.028366,(571) 434-8815,False,Virginia,Red Lobster,2024-05-20,False
-10551,0551,1010 N Wesleyan Blvd,Rocky Mount,NC,27804,-77.810352,35.970887,(252) 937-2190,True,North Carolina,Red Lobster,2024-05-20,False
-10251,0251,8009 W Broad St,Richmond,VA,23294,-77.530844,37.625104,(804) 747-9490,False,Virginia,Red Lobster,2024-05-20,False
-10730,0730,6401 Darter Court,Fort Pierce,FL,34945,-80.390619,27.414328,(772) 461-4336,False,Florida,Red Lobster,2024-05-20,False
-10231,0231,10325 Fairfax Blvd,Fairfax,VA,22030,-77.30093,38.859884,(703) 691-1011,False,Virginia,Red Lobster,2024-05-20,False
-16231,6231,2544 Prince William Parkway,Woodbridge,VA,22192,-77.288687,38.652336,(703) 491-4337,False,Virginia,Red Lobster,2024-05-20,False
-10200,0200,15700 Shady Grove RD,Gaithersburg,MD,20877,-77.187318,39.113517,(301) 840-0380,True,Maryland,Red Lobster,2024-05-20,False
-16339,6339,4415 S Laburnum Ave,Richmond,VA,23231,-77.357885,37.52974,(804) 226-1416,False,Virginia,Red Lobster,2024-05-20,False
-10645,0645,119 Temple Lake Drive,Colonial Heights,VA,23834,-77.385759,37.25371,(804) 520-6820,True,Virginia,Red Lobster,2024-05-20,False
-10235,0235,555 S. Van Dorn Street,Alexandria,VA,22304,-77.134578,38.805156,(703) 370-9422,False,Virginia,Red Lobster,2024-05-20,False
-10644,0644,1951 E. Third Street,Williamsport,PA,17701,-76.961908,41.248595,(570) 323-0423,False,Pennsylvania,Red Lobster,2024-05-20,False
-10461,0461,3544 NW Federal Hwy,Jensen Beach,FL,34957,-80.27262,27.244492,(772) 692-3277,True,Florida,Red Lobster,2024-05-20,False
-10195,0195,4711 Carlisle Pike,Mechanicsburg,PA,17050,-76.963666,40.237913,(717) 763-1760,False,Pennsylvania,Red Lobster,2024-05-20,False
-10798,0798,407 Eisenhower Drive,Hanover,PA,17331,-76.98036,39.82464,(717) 637-2858,False,Pennsylvania,Red Lobster,2024-05-20,False
-10616,0616,3328 Chambers Road S.,Horseheads,NY,14845,-76.877909,42.161034,(607) 796-5434,False,New York,Red Lobster,2024-05-20,False
-16293,6293,8533 Georgia Ave,Silver Spring,MD,20910,-77.027158,38.996092,(301) 588-3299,True,Maryland,Red Lobster,2024-05-20,False
-10396,0396,4300 Jonestown Road,Harrisburg,PA,17109,-76.820234,40.299593,(717) 657-1978,False,Pennsylvania,Red Lobster,2024-05-20,False
-10142,0142,5051 Auth Way,Suitland,MD,20746,-76.920892,38.826331,(301) 423-3715,False,Maryland,Red Lobster,2024-05-20,False
-10557,0557,11035 Mall Circle,Waldorf,MD,20603,-76.922467,38.616009,(301) 705-7440,False,Maryland,Red Lobster,2024-05-20,False
-10571,0571,3501 S Memorial Drive,Greenville,NC,27834,-77.402456,35.567276,(252) 756-4000,False,North Carolina,Red Lobster,2024-05-20,False
-16306,6306,14368 Baltimore AVE,Laurel,MD,20707,-76.861915,39.085801,(301) 490-0191,True,Maryland,Red Lobster,2024-05-20,False
-10265,0265,8905 Annapolis Rd.,Lanham,MD,20706,-76.862884,38.960377,(301) 459-4494,False,Maryland,Red Lobster,2024-05-20,False
-10768,0768,9011 Snowden Square Drive,Columbia,MD,21046,-76.819225,39.183644,(410) 290-1677,True,Maryland,Red Lobster,2024-05-20,False
-16227,6227,3 Restaurant Park Drive,Owings Mills,MD,21117,-76.792754,39.404666,(410) 902-8420,False,Maryland,Red Lobster,2024-05-20,False
-10420,0420,2555 E Market Street,York,PA,17402,-76.676288,39.975256,(717) 757-6624,False,Pennsylvania,Red Lobster,2024-05-20,False
-16360,6360,7063 Arundel Mills BLVD,Hanover,MD,21076,-76.728808,39.154308,(410) 796-2390,False,Maryland,Red Lobster,2024-05-20,False
-10722,0722,304 A Western Blvd.,Jacksonville,NC,28546,-77.381452,34.759963,(910) 353-9454,False,North Carolina,Red Lobster,2024-05-20,False
-10345,0345,6638 Lake Worth Road,Lake Worth,FL,33467,-80.149298,26.617129,(561) 433-1434,False,Florida,Red Lobster,2024-05-20,False
-2018135,8135,410 Bath Road,Kingston,ON,K7M4X6,-76.557992,44.236901,(613) 545-1058,False,,Red Lobster,2024-05-20,True
-10033,0033,2201 Palm Beach Lakes Blvd.,West Palm Beach,FL,33409,-80.096772,26.711779,(561) 686-6237,False,Florida,Red Lobster,2024-05-20,False
-10332,0332,2000 University Dr,Coral Springs,FL,33071,-80.252413,26.256115,(954) 752-6131,False,Florida,Red Lobster,2024-05-20,False
-16329,6329,700 N Congress Ave,Boynton Beach,FL,33426,-80.09003645,26.53377785,(561) 752-8025,False,Florida,Red Lobster,2024-05-20,False
-10398,0398,183 Jennifer Road,Annapolis,MD,21401,-76.544336,38.985139,(410) 266-5010,False,Maryland,Red Lobster,2024-05-20,False
-10447,0447,803 S. University Drive,Plantation,FL,33324,-80.251451,26.11321,(954) 424-0406,False,Florida,Red Lobster,2024-05-20,False
-10634,0634,8019 Honeygo Blvd,Nottingham,MD,21236,-76.468875,39.371301,(410) 931-6372,False,Maryland,Red Lobster,2024-05-20,False
-10675,0675,2100 Richmond Road,Williamsburg,VA,23185,-76.728454,37.299739,(757) 221-8127,True,Virginia,Red Lobster,2024-05-20,False
-10246,0246,1750 W 49th St,Hialeah,FL,33012,-80.318395,25.866103,(305) 557-3088,True,Florida,Red Lobster,2024-05-20,False
-10424,0424,296 N University Drive,Pembroke Pines,FL,33024,-80.248728,26.01143,(954) 432-8500,False,Florida,Red Lobster,2024-05-20,False
-16282,6282,1695 NW 87th AVE,Doral,FL,33172,-80.336297,25.789398,(305) 392-5552,False,Florida,Red Lobster,2024-05-20,False
-16373,6373,11550 SW 88th St,Miami,FL,33176,-80.383414,25.685835,(305) 273-0625,False,Florida,Red Lobster,2024-05-20,False
-16323,6323,3938 State Route 31,Liverpool,NY,13090,-76.239534,43.18469,(315) 652-3964,False,New York,Red Lobster,2024-05-20,False
-10029,0029,5950 N Federal Hwy,Fort Lauderdale,FL,33308,-80.108687,26.20169,(954) 491-3030,False,Florida,Red Lobster,2024-05-20,False
-16285,6285,2900 Oakwood Blvd.,Hollywood,FL,33020,-80.162905,26.03781,(954) 924-1550,False,Florida,Red Lobster,2024-05-20,False
-10240,0240,2090 Lincoln Highway East,Lancaster,PA,17602,-76.235958,40.030397,(717) 291-1147,False,Pennsylvania,Red Lobster,2024-05-20,False
-10464,0464,13300 Biscayne Blvd.,North Miami,FL,33181,-80.161721,25.898081,(305) 895-6095,False,Florida,Red Lobster,2024-05-20,False
-16279,6279,12580 Jefferson Ave,Newport News,VA,23602,-76.513765,37.13159,(757) 989-6423,True,Virginia,Red Lobster,2024-05-20,False
-10180,0180,1200 Vestal Parkway East,Vestal,NY,13850,-76.029719,42.091433,(607) 754-3787,False,New York,Red Lobster,2024-05-20,False
-10654,0654,20831 State Route 3,Watertown,NY,13601,-75.956673,43.974953,(315) 786-1016,True,New York,Red Lobster,2024-05-20,False
-10417,0417,1046 W Mercury Blvd,Hampton,VA,23666,-76.383699,37.043148,(757) 838-6062,False,Virginia,Red Lobster,2024-05-20,False
-10599,0599,4115 Chesapeake Square Blvd,Chesapeake,VA,23321,-76.410098,36.825436,(757) 465-0627,False,Virginia,Red Lobster,2024-05-20,False
-10218,0218,945 Woodland Road,Wyomissing,PA,19610,-75.967886,40.346638,(610) 376-2905,False,Pennsylvania,Red Lobster,2024-05-20,False
-10445,0445,10 East End Center,Wilkes Barre,PA,18702,-75.851307,41.25015,(570) 825-6122,False,Pennsylvania,Red Lobster,2024-05-20,False
-16252,6252,1502 Scranton-Carbondale Hwy,Scranton,PA,18508,-75.636636,41.470287,(570) 383-6686,False,Pennsylvania,Red Lobster,2024-05-20,False
-10153,0153,709 Independence Blvd.,Virginia Beach,VA,23455,-76.132886,36.863216,(757) 490-1671,False,Virginia,Red Lobster,2024-05-20,False
-2018184,8184,1595 Merivale Road,Nepean,ON,K2G3J4,-75.7338411,45.35220192,(613) 727-0035,False,,Red Lobster,2024-05-20,True
-10789,0789,223 Shoemaker Road,Pottstown,PA,19464,-75.660489,40.25422,(610) 323-0415,False,Pennsylvania,Red Lobster,2024-05-20,False
-10296,0296,821 Lynnhaven Pkwy,Virginia Beach,VA,23452,-76.069832,36.812965,(757) 340-0420,False,Virginia,Red Lobster,2024-05-20,False
-16319,6319,1249 New Churchman's Rd,Newark,DE,19713,-75.661123,39.690237,(302) 456-1792,False,Delaware,Red Lobster,2024-05-20,False
-2018124,8124,1499 St. Laurent Blvd,Ottawa,ON,K1G0Z9,-75.630898,45.413072,(613) 744-7560,False,,Red Lobster,2024-05-20,True
-10496,0496,309 Rocky Run Parkway,Talleyville,DE,19803,-75.549476,39.819559,(302) 479-5582,False,Delaware,Red Lobster,2024-05-20,False
-10252,0252,800 Lehigh Lifestyle Center,Whitehall,PA,18052,-75.479362,40.633583,(610) 264-5541,False,Pennsylvania,Red Lobster,2024-05-20,False
-10489,0489,4573 Commercial DR,New Hartford,NY,13413,-75.316783,43.086148,(315) 768-6156,False,New York,Red Lobster,2024-05-20,False
-10552,0552,271 N Dupont Highway,Dover,DE,19901,-75.518289,39.171021,(302) 734-9122,False,Delaware,Red Lobster,2024-05-20,False
-10615,0615,2314 N Salisbury Blvd,Salisbury,MD,21801,-75.56998,38.398479,(410) 546-6454,False,Maryland,Red Lobster,2024-05-20,False
-10778,0778,425 W. DeKalb Pike,King of Prussia,PA,19406,-75.373462,40.090719,(610) 337-9430,False,Pennsylvania,Red Lobster,2024-05-20,False
-16358,6358,3588 Route 611,Bartonsville,PA,18321,-75.27099,41.00041,(570) 421-2743,False,Pennsylvania,Red Lobster,2024-05-20,False
-10375,0375,1 Baltimore Pike,Springfield,PA,19064,-75.312126,39.923982,(610) 544-0315,False,Pennsylvania,Red Lobster,2024-05-20,False
-10443,0443,640 Cowpath Road,Lansdale,PA,19446,-75.245061,40.24749,(215) 855-5702,False,Pennsylvania,Red Lobster,2024-05-20,False
-10566,0566,1500 Almonesson Road,Woodbury,NJ,08096,-75.100518,39.826174,(856) 232-3849,False,New Jersey,Red Lobster,2024-05-20,False
-10241,0241,9140 Roosevelt Blvd E.,Philadelphia,PA,19115,-75.034374,40.07605,(215) 673-5750,False,Pennsylvania,Red Lobster,2024-05-20,False
-16237,6237,2100 Route 38,Cherry Hill,NJ,08002,-75.021399,39.939728,(856) 321-1701,False,New Jersey,Red Lobster,2024-05-20,False
-10748,0748,3849 South Delsea Drive,Vineland,NJ,08360,-75.039914,39.432645,(856) 825-9600,False,New Jersey,Red Lobster,2024-05-20,False
-10438,0438,3003 Route 130 South,Delran,NJ,08075,-74.962726,40.01236,(856) 461-6202,False,New Jersey,Red Lobster,2024-05-20,False
-10758,0758,2275 E. Lincoln Highway,Langhorne,PA,19047,-74.880147,40.178139,(215) 943-5350,False,Pennsylvania,Red Lobster,2024-05-20,False
-10695,0695,303 Route 10 - Roxbury Township,Ledgewood,NJ,07852,-74.649044,40.873262,(973) 927-3713,True,New Jersey,Red Lobster,2024-05-20,False
-10239,0239,3255 Brunswick Pike,Lawrenceville,NJ,08648,-74.688302,40.290654,(609) 896-1011,True,New Jersey,Red Lobster,2024-05-20,False
-10827,0827,1271 U.S. Route 22,Bridgewater,NJ,08807,-74.580425,40.578733,(908) 722-4447,True,New Jersey,Red Lobster,2024-05-20,False
-10575,0575,4411 Black Horse Pike,Mays Landing,NJ,08330,-74.644008,39.452022,(609) 646-0946,False,New Jersey,Red Lobster,2024-05-20,False
-10663,0663,450 Route 211 E,Middletown,NY,10940,-74.382042,41.454916,(845) 343-3228,False,New York,Red Lobster,2024-05-20,False
-10379,0379,7000 Hadley Rd.,South Plainfield,NJ,07080,-74.432368,40.554236,(908) 561-6015,False,New Jersey,Red Lobster,2024-05-20,False
-10442,0442,2520 US Highway Route 22,Union,NJ,07083,-74.302038,40.689444,(908) 686-8999,False,New Jersey,Red Lobster,2024-05-20,False
-10267,0267,635 U.S. HWY 1,Iselin,NJ,08830,-74.30628,40.558785,(732) 636-6230,False,New Jersey,Red Lobster,2024-05-20,False
-10255,0255,520 Highway 46,Wayne,NJ,07470,-74.241968,40.8938,(973) 785-3114,False,New Jersey,Red Lobster,2024-05-20,False
-10568,0568,1298 Hooper Ave,Toms River,NJ,08753,-74.179343,39.987027,(732) 914-0183,False,New Jersey,Red Lobster,2024-05-20,False
-10302,0302,211 Route 17 S,Paramus,NJ,07652,-74.071514,40.935208,(201) 967-7838,False,New Jersey,Red Lobster,2024-05-20,False
-10692,0692,1 Miron Lane,Kingston,NY,12401,-73.989785,41.960942,(845) 336-5021,True,New York,Red Lobster,2024-05-20,False
-16314,6314,700 Plaza Drive,Secaucus,NJ,07094,-74.046041,40.786373,(201) 583-1902,False,New Jersey,Red Lobster,2024-05-20,False
-10286,0286,198 NY-59,Nanuet,NY,10954,-74.020224,41.100148,(845) 623-4800,True,New York,Red Lobster,2024-05-20,False
-16298,6298,5 Times Square NYC/5,New York,NY,10036,-73.987534,40.755536,(212) 730-6706,False,New York,Red Lobster,2024-05-20,False
-10311,0311,2255 South Road,Poughkeepsie,NY,12601,-73.922106,41.643329,(845) 462-4301,True,New York,Red Lobster,2024-05-20,False
-16228,6228,170 Wolf Road,Colonie,NY,12205,-73.802571,42.722501,(518) 459-1040,False,New York,Red Lobster,2024-05-20,False
-16370,6370,5135 Xavier Drive,Yonkers,NY,10704,-73.85236,40.92709,(914) 965-7190,False,New York,Red Lobster,2024-05-20,False
-16262,6262,455 Gateway Drive,Brooklyn,NY,11239,-73.870081,40.650956,(718) 964-2057,False,New York,Red Lobster,2024-05-20,False
-10351,0351,999 Central Park Ave,Scarsdale,NY,10583,-73.823178,40.990321,(914) 472-6373,True,New York,Red Lobster,2024-05-20,False
-10469,0469,2090 Bartow Avenue,Bronx,NY,10475,-73.82713,40.869064,(718) 671-4223,False,New York,Red Lobster,2024-05-20,False
-10788,0788,750 Upper Glen Street,Queensbury,NY,12804,-73.670063,43.329442,(518) 761-0021,False,New York,Red Lobster,2024-05-20,False
-10374,0374,606 West Sunrise Hwy.,Valley Stream,NY,11581,-73.722242,40.665135,(516) 825-0277,False,New York,Red Lobster,2024-05-20,False
-10264,0264,211 Old Country Rd #217,Carle Place,NY,11514,-73.613478,40.74397,(516) 248-7411,False,New York,Red Lobster,2024-05-20,False
-10792,0792,34 Backus Avenue,Danbury,CT,06810,-73.486014,41.374869,(203) 730-1104,False,Connecticut,Red Lobster,2024-05-20,False
-10313,0313,1 Nevada Street,Hicksville,NY,11801,-73.527669,40.777197,(516) 822-8393,False,New York,Red Lobster,2024-05-20,False
-10614,0614,801 Sunrise Highway,Copiague,NY,11726,-73.408386,40.688852,(631) 842-3640,False,New York,Red Lobster,2024-05-20,False
-16392,6392,1700 The Arches Circle,Deer Park,NY,11729,-73.30932,40.76405,(631) 925-3001,False,New York,Red Lobster,2024-05-20,False
-10865,0865,4485 Main Street,Bridgeport,CT,06606,-73.217485,41.220564,(203) 371-4848,False,Connecticut,Red Lobster,2024-05-20,False
-10217,0217,2220 Nesconset Highway,Stony Brook,NY,11790,-73.124541,40.873787,(631) 689-9060,True,New York,Red Lobster,2024-05-20,False
-16311,6311,5010 Express Drive South,Ronkonkoma,NY,11779,-73.100644,40.813086,(631) 580-2864,False,New York,Red Lobster,2024-05-20,False
-16347,6347,320 Universal Drive North,North Haven,CT,06473,-72.872714,41.353835,(203) 234-8917,False,Connecticut,Red Lobster,2024-05-20,False
-10636,0636,1324 Silas Deane Highway,Wethersfield,CT,06109,-72.654072,41.684529,(860) 257-1115,False,Connecticut,Red Lobster,2024-05-20,False
-10672,0672,1765 Ala Moana Blvd,Honolulu,HI,96815,-157.839178,21.285507,(808) 955-5656,False,Hawaii,Red Lobster,2024-05-20,False
+16327,6327,3400 W. Century Blvd,Inglewood,CA,90303,-118.331162,33.945161,(310) 677-8430,False,California,Red Lobster,2024-06-06,False
+10512,0512,21233 Hawthorne Blvd,Torrance,CA,90503,-118.356513,33.836159,(310) 316-3133,True,California,Red Lobster,2024-06-06,False
+10525,0525,22800 Van Owen Ave,Canoga Park,CA,91307,-118.623884,34.193301,(818) 713-9297,False,California,Red Lobster,2024-06-06,False
+10528,0528,4333 Candlewood Street,Lakewood,CA,90712,-118.141176,33.854216,(562) 634-3474,False,California,Red Lobster,2024-06-06,False
+10651,0651,928 West Huntington Drive,Monrovia,CA,91016,-118.019265,34.139667,(626) 301-9225,False,California,Red Lobster,2024-06-06,False
+10513,0513,17601 East Castleton Street,City of Industry,CA,91748,-117.919565,33.994531,(626) 965-5112,False,California,Red Lobster,2024-06-06,False
+10510,0510,250 Brea Mall Way,Brea,CA,92821,-117.883369,33.915248,(714) 529-0632,False,California,Red Lobster,2024-06-06,False
+10511,0511,27524 The Old Road,Valencia,CA,91355,-118.583112,34.421324,(661) 257-8900,False,California,Red Lobster,2024-06-06,False
+10518,0518,12892 Harbor Blvd,Garden Grove,CA,92840,-117.917384,33.775475,(714) 638-9500,False,California,Red Lobster,2024-06-06,False
+10529,0529,9345 Monte Vista,Montclair,CA,91763,-117.697208,34.08419,(909) 621-4806,True,California,Red Lobster,2024-06-06,False
+10577,0577,1041 W Avenue P,Palmdale,CA,93551,-118.148765,34.605058,(661) 538-9707,False,California,Red Lobster,2024-06-06,False
+16270,6270,4413 E. Mills Circle,Ontario,CA,91764,-117.556613,34.076872,(909) 481-5205,False,California,Red Lobster,2024-06-06,False
+10523,0523,3700 Park Sierra,Riverside,CA,92505,-117.471695,33.903767,(951) 687-2500,False,California,Red Lobster,2024-06-06,False
+10516,0516,195 E. Hospitality Lane,San Bernardino,CA,92408,-117.283787,34.065548,(909) 888-2288,False,California,Red Lobster,2024-06-06,False
+10608,0608,12180 Amargosa Road,Victorville,CA,92392,-117.346139,34.472162,(760) 241-1650,False,California,Red Lobster,2024-06-06,False
+16313,6313,41649 Margarita Rd,Temecula,CA,92591,-117.152718,33.52035,(951) 491-0933,False,California,Red Lobster,2024-06-06,False
+16289,6289,8180 RosedaleHWY,Bakersfield,CA,93312,-119.093109,35.383929,(661) 589-9956,False,California,Red Lobster,2024-06-06,False
+10520,0520,8330 Mira Mesa Blvd,San Diego,CA,92126,-117.144679,32.913153,(858) 549-3557,True,California,Red Lobster,2024-06-06,False
+10519,0519,3780 Sports Arena Blvd.,San Diego,CA,92110,-117.216752,32.754887,(619) 226-1057,False,California,Red Lobster,2024-06-06,False
+16378,6378,72291 Highway 111,Palm Desert,CA,92260,-116.40367,33.72897,(760) 674-5890,False,California,Red Lobster,2024-06-06,False
+16383,6383,598 H Street,Chula Vista,CA,91910,-117.08902,32.63079,(619) 585-1160,False,California,Red Lobster,2024-06-06,False
+10718,0718,1525 S. Bradley Road,Santa Maria,CA,93454,-120.418656,34.933169,(805) 925-5800,False,California,Red Lobster,2024-06-06,False
+10710,0710,1545 S. Mooney Blvd.,Visalia,CA,93277,-119.314468,36.316639,(559) 738-8527,False,California,Red Lobster,2024-06-06,False
+10579,0579,1460 E Shaw Avenue,Fresno,CA,93710,-119.761863,36.809032,(559) 221-9495,False,California,Red Lobster,2024-06-06,False
+10339,0339,200 S. Decatur Blvd.,Las Vegas,NV,89107,-115.206566,36.171686,(702) 877-0212,False,Nevada,Red Lobster,2024-06-06,False
+16239,6239,2325 E Flamingo Road,Las Vegas,NV,89119,-115.120511,36.114299,(702) 892-9055,False,Nevada,Red Lobster,2024-06-06,False
+16333,6333,1521 S Yuma Palms PKWY,Yuma,AZ,85365,-114.601824,32.699756,(928) 329-0104,False,Arizona,Red Lobster,2024-06-06,False
+16257,6257,570 Marks Street,Henderson,NV,89014,-115.036002,36.062392,(702) 933-5307,False,Nevada,Red Lobster,2024-06-06,False
+16391,6391,1870 W Craig Road,North Las Vegas,NV,89031,-115.167133,36.239918,(702) 508-9100,False,Nevada,Red Lobster,2024-06-06,False
+10617,0617,1720 N Main Street,Salinas,CA,93906,-121.654632,36.716187,(831) 443-8724,False,California,Red Lobster,2024-06-06,False
+10335,0335,3000 Sisk Rd,Modesto,CA,95350,-121.04939,37.682415,(209) 529-3033,False,California,Red Lobster,2024-06-06,False
+10383,0383,2040 Aborn Road,San Jose,CA,95121,-121.807636,37.311066,(408) 274-2400,False,California,Red Lobster,2024-06-06,False
+10532,0532,503 E. Calaveras Blvd.,Milpitas,CA,95035,-121.896273,37.433359,(408) 942-0781,False,California,Red Lobster,2024-06-06,False
+10403,0403,39401 Fremont Blvd,Fremont,CA,94538,-121.982484,37.545117,(510) 657-2436,True,California,Red Lobster,2024-06-06,False
+10381,0381,2283 W. March Lane,Stockton,CA,95207,-121.334486,37.986127,(209) 473-2420,False,California,Red Lobster,2024-06-06,False
+10653,0653,4095 Century Blvd,Pittsburg,CA,94565,-121.844,38.007633,(925) 754-6655,False,California,Red Lobster,2024-06-06,False
+10549,0549,1210 El Camino Real,San Bruno,CA,94066,-122.421936,37.638751,(650) 583-3244,False,California,Red Lobster,2024-06-06,False
+10623,0623,1821 AZ-69,Prescott,AZ,86301,-112.43523,34.54955,(928) 778-2717,False,Arizona,Red Lobster,2024-06-06,False
+10857,0857,263 N Red Cliffs Drive,Saint George,UT,84790,-113.554446,37.112329,(435) 656-2811,False,Utah,Red Lobster,2024-06-06,False
+16342,6342,15311 W McDowell Road,Goodyear,AZ,85395,-112.388458,33.464051,(623) 935-9731,False,Arizona,Red Lobster,2024-06-06,False
+16288,6288,13709 West Bell Road,Surprise,AZ,85374,-112.35086,33.638253,(623) 556-8161,False,Arizona,Red Lobster,2024-06-06,False
+10867,0867,7921 West Bell Rd.,Peoria,AZ,85382,-112.229497,33.637705,(623) 487-1570,False,Arizona,Red Lobster,2024-06-06,False
+10693,0693,1180 Admiral Callaghan Lane,Vallejo,CA,94591,-122.214859,38.13518,(707) 644-0167,False,California,Red Lobster,2024-06-06,False
+16218,6218,2810 North 75th Ave.,Phoenix,AZ,85035,-112.221368,33.47877,(623) 245-3020,False,Arizona,Red Lobster,2024-06-06,False
+10727,0727,1525 Travis Blvd.,Fairfield,CA,94533,-122.057634,38.258372,(707) 421-8292,False,California,Red Lobster,2024-06-06,False
+10367,0367,1400 Howe Avenue,Sacramento,CA,95825,-121.414933,38.591092,(916) 921-6011,True,California,Red Lobster,2024-06-06,False
+10323,0323,6231 Sunrise Blvd,Citrus Heights,CA,95610,-121.272031,38.679538,(916) 726-6694,False,California,Red Lobster,2024-06-06,False
+16223,6223,10220 N 28th Drive,Phoenix,AZ,85051,-112.122275,33.579064,(602) 943-1163,False,Arizona,Red Lobster,2024-06-06,False
+10354,0354,4802 E Cactus Road,Scottsdale,AZ,85254,-111.977492,33.598267,(602) 996-5470,False,Arizona,Red Lobster,2024-06-06,False
+16230,6230,7240 West Ray Rd,Chandler,AZ,85226,-111.967799,33.320567,(480) 783-9060,False,Arizona,Red Lobster,2024-06-06,False
+16219,6219,1403 S Alma School Rd,Mesa,AZ,85210,-111.856679,33.387827,(480) 610-8701,False,Arizona,Red Lobster,2024-06-06,False
+16320,6320,3845 S. Gilbert Road,Gilbert,AZ,85297,-111.789066,33.280252,(480) 726-7199,False,Arizona,Red Lobster,2024-06-06,False
+10609,0609,6440 Redwood Drive,Rohnert Park,CA,94928,-122.715018,38.347392,(707) 586-3640,True,California,Red Lobster,2024-06-06,False
+16330,6330,5015 Kietzke LN,Reno,NV,89511,-119.795602,39.476212,(775) 827-1203,False,Nevada,Red Lobster,2024-06-06,False
+10667,0667,6149 E Southern Ave,East Mesa,AZ,85206,-111.698361,33.393434,(480) 830-6877,False,Arizona,Red Lobster,2024-06-06,False
+10845,0845,2500 S. Beulah Blvd.,Flagstaff,AZ,86001,-111.662342,35.176798,(928) 556-9604,False,Arizona,Red Lobster,2024-06-06,False
+10671,0671,2010 Business Lane,Chico,CA,95928,-121.806616,39.726249,(530) 893-5595,True,California,Red Lobster,2024-06-06,False
+16350,6350,11695 N Oracle RD,Oro Valley,AZ,85737,-110.938092,32.41852,(520) 544-7887,True,Arizona,Red Lobster,2024-06-06,False
+10369,0369,5061 North Oracle Road,Tucson,AZ,85704,-110.979231,32.298001,(520) 293-9174,False,Arizona,Red Lobster,2024-06-06,False
+16354,6354,5315 S Calle Santa Cruz,Tucson,AZ,85706,-110.987138,32.155191,(520) 889-3536,False,Arizona,Red Lobster,2024-06-06,False
+10869,0869,5870 E. Broadway Blvd,Tucson,AZ,85711,-110.867764,32.221058,(520) 519-1002,False,Arizona,Red Lobster,2024-06-06,False
+10555,0555,1345 Dana Drive,Redding,CA,96003,-122.346853,40.585187,(530) 222-6191,True,California,Red Lobster,2024-06-06,False
+16244,6244,1261 S. 800 East,Orem,UT,84097,-111.675535,40.273627,(801) 724-3500,False,Utah,Red Lobster,2024-06-06,False
+10613,0613,298 E Winchester Street,Murray,UT,84107,-111.882122,40.632157,(801) 288-2940,False,Utah,Red Lobster,2024-06-06,False
+10589,0589,2294 S 1300 E,Salt Lake City,UT,84106,-111.854071,40.7205,(801) 483-1343,False,Utah,Red Lobster,2024-06-06,False
+10674,0674,979 North 400 West,Layton,UT,84041,-111.974605,41.074321,(801) 546-3522,False,Utah,Red Lobster,2024-06-06,False
+10600,0600,3451 E Main Street,Farmington,NM,87402,-108.159831,36.748798,(505) 325-5222,False,New Mexico,Red Lobster,2024-06-06,False
+10576,0576,2200 Crater Lake Highway,Medford,OR,97504,-122.877797,42.348546,(541) 734-2232,False,Oregon,Red Lobster,2024-06-06,False
+10685,0685,575 24 1/2 Road,Grand Junction,CO,81505,-108.599584,39.088316,(970) 242-2050,False,Colorado,Red Lobster,2024-06-06,False
+16280,6280,10520 Coors Bypass NW,Albuquerque,NM,87114,-106.657566,35.208521,(505) 922-0266,False,New Mexico,Red Lobster,2024-06-06,False
+16259,6259,550 N Milwaukee Street,Boise,ID,83704,-116.284325,43.609629,(208) 672-1188,False,Idaho,Red Lobster,2024-06-06,False
+10291,0291,5555 Montgomery Blvd. NE,Albuquerque,NM,87109,-106.578676,35.131839,(505) 884-4445,False,New Mexico,Red Lobster,2024-06-06,False
+10574,0574,575 S Telshor Blvd,Las Cruces,NM,88011,-106.742498,32.31439,(575) 522-4067,False,New Mexico,Red Lobster,2024-06-06,False
+10887,0887,800 Sunland Park Drive,El Paso,TX,79912,-106.54699,31.81646,(915) 833-5753,False,Texas,Red Lobster,2024-06-06,False
+10478,0478,4450 Rodeo Road,Santa Fe,NM,87507,-106.015778,35.637911,(505) 473-1610,False,New Mexico,Red Lobster,2024-06-06,False
+16214,6214,8401 Gateway Blvd. West,El Paso,TX,79925,-106.383453,31.775424,(915) 781-2202,False,Texas,Red Lobster,2024-06-06,False
+16337,6337,1860 Joe Battle Blvd,El Paso,TX,79936,-106.266803,31.757041,(915) 849-9844,False,Texas,Red Lobster,2024-06-06,False
+16366,6366,1085 Valley River Way,Eugene,OR,97401,-123.102922,44.069808,(541) 343-3811,False,Oregon,Red Lobster,2024-06-06,False
+10673,0673,521 Lancaster Drive N.E.,Salem,OR,97301,-122.98355,44.937196,(503) 375-3411,False,Oregon,Red Lobster,2024-06-06,False
+10708,0708,2625 N. Main,Roswell,NM,88201,-104.522537,33.426568,(575) 622-4818,False,New Mexico,Red Lobster,2024-06-06,False
+10573,0573,240 NW Burnside Road,Gresham,OR,97030,-122.43309,45.509084,(503) 666-1759,False,Oregon,Red Lobster,2024-06-06,False
+10457,0457,10330 SW Greenburg Road,Tigard,OR,97223,-122.775964,45.445605,(503) 624-0499,False,Oregon,Red Lobster,2024-06-06,False
+10482,0482,3306 N Elizabeth Street,Pueblo,CO,81008,-104.614067,38.304234,(719) 544-1000,False,Colorado,Red Lobster,2024-06-06,False
+10364,0364,4925 N Academy Blvd,Colorado Springs,CO,80918,-104.769649,38.902714,(719) 594-9494,False,Colorado,Red Lobster,2024-06-06,False
+16355,6355,3510 New Center PT,Colorado Springs,CO,80922,-104.71891,38.882243,(719) 596-9057,False,Colorado,Red Lobster,2024-06-06,False
+10446,0446,5656 S Wadsworth Blvd,Littleton,CO,80123,-105.090326,39.613701,(303) 978-1416,False,Colorado,Red Lobster,2024-06-06,False
+16331,6331,810 S Wadsworth BLVD,Lakewood,CO,80226,-105.080897,39.703335,(303) 936-5882,True,Colorado,Red Lobster,2024-06-06,False
+10456,0456,8219 NE Vancouver Mall Dr,Vancouver,WA,98662,-122.588275,45.656485,(360) 896-1196,False,Washington,Red Lobster,2024-06-06,False
+10119,0119,4455 Wadsworth Blvd,Wheat Ridge,CO,80033,-105.082058,39.77769,(303) 420-4210,True,Colorado,Red Lobster,2024-06-06,False
+16215,6215,9067 East Westview Rd,Lone Tree,CO,80124,-104.883714,39.565506,(303) 858-0885,True,Colorado,Red Lobster,2024-06-06,False
+10328,0328,1350 West 104th Ave.,Northglenn,CO,80234,-105.003169,39.884511,(303) 457-9298,False,Colorado,Red Lobster,2024-06-06,False
+16235,6235,2177 Ken Pratt Blvd.,Longmont,CO,80501,-105.129068,40.142348,(303) 485-9898,False,Colorado,Red Lobster,2024-06-06,False
+10118,0118,10854 East Alameda Avenue,Aurora,CO,80012,-104.862065,39.710608,(303) 343-6161,False,Colorado,Red Lobster,2024-06-06,False
+10640,0640,1120 Columbia Center Blvd.,Kennewick,WA,99336,-119.222581,46.222701,(509) 735-1190,False,Washington,Red Lobster,2024-06-06,False
+16335,6335,8268 E Northfield Blvd,Denver,CO,80238,-104.892937,39.779352,(303) 307-9955,True,Colorado,Red Lobster,2024-06-06,False
+16334,6334,6139 S Southlands PKWY,Aurora,CO,80016,-104.711699,39.604788,(720) 870-4117,False,Colorado,Red Lobster,2024-06-06,False
+10393,0393,3301 S. College Ave.,Fort Collins,CO,80525,-105.077665,40.541952,(970) 223-3952,False,Colorado,Red Lobster,2024-06-06,False
+10847,0847,2115 Thain Grade,Lewiston,ID,83501,-117.000531,46.400071,(208) 746-9096,True,Idaho,Red Lobster,2024-06-06,False
+10749,0749,2601 North Prince,Clovis,NM,88101,-103.196076,34.424547,(575) 762-0355,False,New Mexico,Red Lobster,2024-06-06,False
+10700,0700,203 Three Rivers Drive,Kelso,WA,98626,-122.899945,46.143258,(360) 414-8118,False,Washington,Red Lobster,2024-06-06,False
+10484,0484,2885 23rd Ave,Greeley,CO,80631,-104.716584,40.391199,(970) 330-6200,False,Colorado,Red Lobster,2024-06-06,False
+10597,0597,905 North First Street,Yakima,WA,98901,-120.510962,46.613854,(509) 575-3640,False,Washington,Red Lobster,2024-06-06,False
+10639,0639,1923 Dell Range Blvd.,Cheyenne,WY,82009,-104.794423,41.159778,(307) 778-2724,False,Wyoming,Red Lobster,2024-06-06,False
+16374,6374,5010 East 2nd Street,Casper,WY,82609,-106.25809014,42.84822088,(307) 266-0070,False,Wyoming,Red Lobster,2024-06-06,False
+10799,0799,4505 Martin Way East,Olympia,WA,98516,-122.825096,47.048123,(360) 493-0393,False,Washington,Red Lobster,2024-06-06,False
+10453,0453,1929 S 72nd Street,Tacoma,WA,98408,-122.461048,47.192218,(253) 474-1262,False,Washington,Red Lobster,2024-06-06,False
+10448,0448,2006 S. 320th Street,Federal Way,WA,98003,-122.307667,47.315612,(253) 941-6162,False,Washington,Red Lobster,2024-06-06,False
+10220,0220,4536 E. University Blvd.,Odessa,TX,79762,-102.330045,31.87885,(432) 367-8926,False,Texas,Red Lobster,2024-06-06,False
+10168,0168,3311 I-40 W,Amarillo,TX,79109,-101.87528,35.190947,(806) 353-9596,False,Texas,Red Lobster,2024-06-06,False
+10169,0169,5034 50th Street,Lubbock,TX,79414,-101.921063,33.549453,(806) 792-4805,False,Texas,Red Lobster,2024-06-06,False
+16352,6352,4703 N Division Street,Spokane,WA,99207,-117.411767,47.700981,(509) 489-2777,False,Washington,Red Lobster,2024-06-06,False
+10834,0834,212 Neider Ave.,Coeur D'Alene,ID,83815,-116.790828,47.70679,(208) 667-3369,False,Idaho,Red Lobster,2024-06-06,False
+10661,0661,2250 King Ave W,Billings,MT,59102,-108.572193,45.754629,(406) 655-0929,False,Montana,Red Lobster,2024-06-06,False
+10649,0649,3208 NW Randall Way,Silverdale,WA,98383,-122.693793,47.66008,(360) 613-0105,True,Washington,Red Lobster,2024-06-06,False
+10481,0481,4231 196th SW,Lynnwood,WA,98036,-122.291144,47.821399,(425) 672-1137,False,Washington,Red Lobster,2024-06-06,False
+10460,0460,120 Disk Drive,Rapid City,SD,57701,-103.212828,44.105279,(605) 348-9717,False,South Dakota,Red Lobster,2024-06-06,False
+10282,0282,1280 S Clack Street,Abilene,TX,79605,-99.78785,32.436434,(325) 695-1191,False,Texas,Red Lobster,2024-06-06,False
+10284,0284,4401 Kemp Blvd.,Wichita Falls,TX,76308,-98.535343,33.863573,(940) 691-2531,False,Texas,Red Lobster,2024-06-06,False
+10320,0320,3112 N.W. Cache Road,Lawton,OK,73505,-98.431554,34.62311,(580) 248-4830,True,Oklahoma,Red Lobster,2024-06-06,False
+10835,0835,121 Second Ave. East,Kearney,NE,68847,-99.084596,40.674328,(308) 237-5805,False,Nebraska,Red Lobster,2024-06-06,False
+10237,0237,4243 NW Expressway Street,Oklahoma City,OK,73116,-97.5957,35.540181,(405) 842-1453,True,Oklahoma,Red Lobster,2024-06-06,False
+10591,0591,2625 W Memorial Rd,Oklahoma City,OK,73134,-97.561909,35.6103,(405) 755-1390,False,Oklahoma,Red Lobster,2024-06-06,False
+10293,0293,1000 SW 74th Street,Oklahoma City,OK,73139,-97.532094,35.390619,(405) 634-3395,False,Oklahoma,Red Lobster,2024-06-06,False
+10357,0357,302 N Interstate Drive,Norman,OK,73072,-97.486654,35.221067,(405) 364-6724,False,Oklahoma,Red Lobster,2024-06-06,False
+2018181,8181,100-6100 MacLeod Trail S.W.,Calgary,AB,T2H0K5,-114.071179,50.998479,(403) 252-8818,False,,Red Lobster,2024-06-06,True
+10734,0734,3430 W. 13th Street,Grand Island,NE,68803,-98.382771,40.931857,(308) 382-8879,False,Nebraska,Red Lobster,2024-06-06,False
+2018177,8177,312 35th Street N.E.,Calgary,AB,T2A6S7,-113.9825877,51.05329115,(403) 248-8111,False,,Red Lobster,2024-06-06,True
+16310,6310,5815 N. Loop 1604 West,San Antonio,TX,78249,-98.601678,29.591658,(210) 694-5912,False,Texas,Red Lobster,2024-06-06,False
+10704,0704,2925 S. 9th Street,Salina,KS,67401,-97.612134,38.78509,(785) 825-0837,True,Kansas,Red Lobster,2024-06-06,False
+10386,0386,1381 S.W. Loop 410,San Antonio,TX,78227,-98.650328,29.420056,(210) 675-4550,False,Texas,Red Lobster,2024-06-06,False
+10361,0361,555 South West Street,Wichita,KS,67213,-97.390143,37.675427,(316) 942-0973,False,Kansas,Red Lobster,2024-06-06,False
+16362,6362,4550 NW Loop 410,San Antonio,TX,78229,-98.573873,29.488993,(210) 731-8091,False,Texas,Red Lobster,2024-06-06,False
+16291,6291,5315 San Dario Avenue,Laredo,TX,78041,-99.503023,27.551829,(956) 791-5667,False,Texas,Red Lobster,2024-06-06,False
+16240,6240,17415 US 281 North,San Antonio,TX,78232,-98.471366,29.602515,(210) 404-9065,False,Texas,Red Lobster,2024-06-06,False
+10421,0421,333 S. Towne East Mall Drive,Wichita,KS,67207,-97.252181,37.682241,(316) 687-9247,False,Kansas,Red Lobster,2024-06-06,False
+16363,6363,7835 Interstate 35 S,San Antonio,TX,78224,-98.53587,29.35063,(210) 921-0192,True,Texas,Red Lobster,2024-06-06,False
+10137,0137,8210 I-H 35 North,San Antonio,TX,78239,-98.396164,29.512806,(210) 653-9522,False,Texas,Red Lobster,2024-06-06,False
+10828,0828,102 E. Hall of Fame Ave.,Stillwater,OK,74075,-97.058223,36.127239,(405) 372-8970,True,Oklahoma,Red Lobster,2024-06-06,False
+10334,0334,4805 S. Hulen Street,Fort Worth,TX,76132,-97.395458,32.676643,(817) 292-7293,False,Texas,Red Lobster,2024-06-06,False
+10538,0538,1001 E Central Texas Expressway,Killeen,TX,76541,-97.731257,31.095518,(254) 526-7335,False,Texas,Red Lobster,2024-06-06,False
+16295,6295,1175 N. Burleson Blvd,Burleson,TX,76028,-97.319836,32.569221,(817) 295-7150,False,Texas,Red Lobster,2024-06-06,False
+10721,0721,435 Shawnee Mall Drive,Shawnee,OK,74804,-96.926927,35.385141,(405) 273-6215,False,Oklahoma,Red Lobster,2024-06-06,False
+10545,0545,7800 Bedford-Euless Road,North Richland Hills,TX,76180,-97.211585,32.833776,(817) 281-7540,False,Texas,Red Lobster,2024-06-06,False
+16349,6349,2801 S I 35 E,Denton,TX,76210,-97.102283,33.183313,(940) 382-6410,False,Texas,Red Lobster,2024-06-06,False
+10468,0468,4233 S. Cooper Street,Arlington,TX,76015,-97.134377,32.678135,(817) 472-5097,False,Texas,Red Lobster,2024-06-06,False
+10844,0844,100 N IH 35,San Marcos,TX,78666,-97.938233,29.868317,(512) 960-4499,False,Texas,Red Lobster,2024-06-06,False
+10314,0314,3815 S. Lamar Blvd.,Austin,TX,78704,-97.789594,30.23761,(512) 447-1824,False,Texas,Red Lobster,2024-06-06,False
+16242,6242,2702 A Parker Road,Round Rock,TX,78681,-97.682375,30.480765,(512) 600-0145,False,Texas,Red Lobster,2024-06-06,False
+10877,0877,4205 W. Airport Freeway,Irving,TX,75062,-97.01012,32.838441,(972) 659-0104,False,Texas,Red Lobster,2024-06-06,False
+10095,0095,109 W. Anderson Lane,Austin,TX,78752,-97.706078,30.34362,(512) 451-6406,False,Texas,Red Lobster,2024-06-06,False
+10882,0882,2497 S Stemmons Freeway,Lewisville,TX,75067,-96.96694,33.002977,(972) 315-6271,False,Texas,Red Lobster,2024-06-06,False
+10508,0508,5925 West Waco Drive,Waco,TX,76710,-97.188074,31.514095,(254) 741-1766,False,Texas,Red Lobster,2024-06-06,False
+16245,6245,3056 Preston Road,Frisco,TX,75034,-96.804832,33.103323,(972) 731-5562,False,Texas,Red Lobster,2024-06-06,False
+10691,0691,603 N Cockrell Hill Road,Duncanville,TX,75116,-96.891944,32.657945,(972) 780-8835,False,Texas,Red Lobster,2024-06-06,False
+10873,0873,9069 Vantage Point Dr.,Dallas,TX,75243,-96.745767,32.917084,(972) 889-8124,True,Texas,Red Lobster,2024-06-06,False
+16332,6332,3600 N HWY 75,Sherman,TX,75090,-96.610274,33.677168,(903) 891-1830,False,Texas,Red Lobster,2024-06-06,False
+16308,6308,3501 Central Expressway,Plano,TX,75023,-96.701789,33.044478,(972) 881-4353,False,Texas,Red Lobster,2024-06-06,False
+10416,0416,3906 Towne Crossing Blvd,Mesquite,TX,75150,-96.630711,32.818547,(972) 613-1444,False,Texas,Red Lobster,2024-06-06,False
+10191,0191,4525 East 51st. Street,Tulsa,OK,74135,-95.925186,36.090346,(918) 496-3323,False,Oklahoma,Red Lobster,2024-06-06,False
+10487,0487,1130 E Century AVE,Bismarck,ND,58503,-100.77401,46.838504,(701) 222-2363,False,North Dakota,Red Lobster,2024-06-06,False
+10436,0436,6728 S Memorial Drive,Tulsa,OK,74133,-95.887024,36.064873,(918) 250-5330,False,Oklahoma,Red Lobster,2024-06-06,False
+10732,0732,7601 Wesley Street,Greenville,TX,75402,-96.109111,33.093574,(903) 454-9691,False,Texas,Red Lobster,2024-06-06,False
+16209,6209,2011 SW Wanamaker Rd,Topeka,KS,66604,-95.762772,39.030356,(785) 271-7302,False,Kansas,Red Lobster,2024-06-06,False
+10406,0406,7404 Zac Lentz Pkwy,Victoria,TX,77904,-96.995815,28.864708,(361) 572-4051,True,Texas,Red Lobster,2024-06-06,False
+10729,0729,225 W. Shawnee,Muskogee,OK,74401,-95.361988,35.769257,(918) 682-1731,False,Oklahoma,Red Lobster,2024-06-06,False
+10414,0414,2707 S 140th Street,West Omaha,NE,68144,-96.133232,41.233418,(402) 330-0162,False,Nebraska,Red Lobster,2024-06-06,False
+16356,6356,7617 N 10th Street,McAllen,TX,78504,-98.218706,26.272383,(956) 682-6877,False,Texas,Red Lobster,2024-06-06,False
+10329,0329,701 West Expressway 83,McAllen,TX,78503,-98.229587,26.188323,(956) 687-7323,False,Texas,Red Lobster,2024-06-06,False
+10163,0163,5825 South Padre Island Drive,Corpus Christi,TX,78412,-97.36597,27.704874,(361) 991-2160,False,Texas,Red Lobster,2024-06-06,False
+10115,0115,330 S. 72nd Street,Omaha,NE,68114,-96.024524,41.256256,(402) 391-5970,False,Nebraska,Red Lobster,2024-06-06,False
+10547,0547,4290 Sergeant Road,Sioux City,IA,51106,-96.353714,42.448851,(712) 274-1023,False,Iowa,Red Lobster,2024-06-06,False
+10779,0779,3040 Dial Drive,Council Bluffs,IA,51501,-95.85016,41.229767,(712) 366-5911,True,Iowa,Red Lobster,2024-06-06,False
+10305,0305,3901 W 41st Street,Sioux Falls,SD,57106,-96.77378,43.513939,(605) 361-6952,False,South Dakota,Red Lobster,2024-06-06,False
+2018167,8167,890 Albert Street,Regina,SK,S4R2P5,-104.61822,50.46475652,(306) 522-2224,False,,Red Lobster,2024-06-06,True
+10343,0343,1500 WSW Loop 323,Tyler,TX,75701,-95.318003,32.303015,(903) 561-7760,True,Texas,Red Lobster,2024-06-06,False
+16364,6364,10700 Parallel PKWY,Kansas City,KS,66109,-94.82745,39.12897,(913) 328-0025,True,Kansas,Red Lobster,2024-06-06,False
+16384,6384,14904 W 119TH ST,Olathe,KS,66062,-94.758922,38.913274,(913) 764-1503,True,Kansas,Red Lobster,2024-06-06,False
+16256,6256,25408 Bell Patna,Katy,TX,77494,-95.813618,29.777535,(281) 644-6030,False,Texas,Red Lobster,2024-06-06,False
+10310,0310,3131 S Rangeline Rd.,Joplin,MO,64801,-94.477658,37.055553,(417) 782-2199,False,Missouri,Red Lobster,2024-06-06,False
+16278,6278,9475 Metcalf Avenue,Overland Park,KS,66212,-94.666951,38.957165,(913) 385-7971,False,Kansas,Red Lobster,2024-06-06,False
+10263,0263,4101 Frederick Ave.,Saint Joseph,MO,64506,-94.795011,39.777573,(816) 232-5011,False,Missouri,Red Lobster,2024-06-06,False
+16372,6372,2944 Interstate 45 N,Conroe,TX,77303,-95.48192,30.34625,(936) 756-7391,False,Texas,Red Lobster,2024-06-06,False
+10864,0864,2760 S. Highway 6,Houston,TX,77082,-95.644993,29.729803,(281) 597-9015,False,Texas,Red Lobster,2024-06-06,False
+10488,0488,1075 FM 802,Brownsville,TX,78521,-97.503849,25.949849,(956) 544-2614,False,Texas,Red Lobster,2024-06-06,False
+10605,0605,450 NW Barry Road,Kansas City,MO,64155,-94.585296,39.246818,(816) 468-6116,False,Missouri,Red Lobster,2024-06-06,False
+16284,6284,18446 Interstate 45 S,Shenandoah,TX,77384,-95.453878,30.188233,(936) 271-2700,False,Texas,Red Lobster,2024-06-06,False
+16225,6225,7401 Rogers Ave.,Fort Smith,AR,72903,-94.350365,35.353101,(479) 452-9243,False,Arkansas,Red Lobster,2024-06-06,False
+10315,0315,3515 McCann Rd.,Longview,TX,75605,-94.754864,32.540416,(903) 757-6939,True,Texas,Red Lobster,2024-06-06,False
+2018168,8168,4111 Calgary Trail South,Edmonton,AB,T6J6S6,-113.4956173,53.47732697,(780) 436-8510,False,,Red Lobster,2024-06-06,True
+10841,0841,13232 NW Freeway,Houston,TX,77040,-95.501333,29.847504,(713) 462-6659,False,Texas,Red Lobster,2024-06-06,False
+2018166,8166,10111 171st Street,Edmonton,AB,T5S1S6,-113.61608,53.54172,(780) 484-0660,False,,Red Lobster,2024-06-06,True
+10840,0840,302 FM 1960 RD W,Houston,TX,77090,-95.433317,30.020631,(281) 440-6028,True,Texas,Red Lobster,2024-06-06,False
+16365,6365,670 NW Blue Parkway,Lees Summit,MO,64086,-94.401889,38.926289,(816) 347-0638,False,Missouri,Red Lobster,2024-06-06,False
+10060,0060,4328 Noland Rd,Independence,MO,64055,-94.415896,39.041366,(816) 373-0769,False,Missouri,Red Lobster,2024-06-06,False
+16346,6346,1710 S 46th ST,Rogers,AR,72758,-94.183696,36.316335,(479) 636-1648,False,Arkansas,Red Lobster,2024-06-06,False
+10402,0402,3885 N Shiloh Drive,Fayetteville,AR,72703,-94.145854,36.122274,(479) 442-2317,False,Arkansas,Red Lobster,2024-06-06,False
+16316,6316,20414 US Highway 59 N,Humble,TX,77338,-95.263783,30.011774,(281) 964-4400,False,Texas,Red Lobster,2024-06-06,False
+2018170,8170,2501 8th Street East,Saskatoon,SK,S7H0V4,-106.617986,52.11495,(306) 373-8333,False,,Red Lobster,2024-06-06,True
+10876,0876,1919 S. First Street,Lufkin,TX,75901,-94.726532,31.310667,(936) 634-1155,True,Texas,Red Lobster,2024-06-06,False
+10408,0408,104 HWY 332 W,Lake Jackson,TX,77566,-95.456989,29.047859,(979) 297-8580,True,Texas,Red Lobster,2024-06-06,False
+10198,0198,4002 Spencer Highway,Pasadena,TX,77504,-95.183378,29.664664,(713) 941-8147,True,Texas,Red Lobster,2024-06-06,False
+16304,6304,3002 Saint Michael DR,Texarkana,TX,75503,-94.078564,33.461284,(903) 223-5335,False,Texas,Red Lobster,2024-06-06,False
+10356,0356,888 W. Bay Area Blvd.,Webster,TX,77598,-95.137215,29.543473,(281) 338-2518,False,Texas,Red Lobster,2024-06-06,False
+16232,6232,3559 Shepherd of The Hills Expressway,Branson,MO,65616,-93.288113,36.652172,(417) 337-5988,False,Missouri,Red Lobster,2024-06-06,False
+10063,0063,2141 S. Glenstone Ave,Springfield,MO,65804,-93.263082,37.175128,(417) 883-2245,False,Missouri,Red Lobster,2024-06-06,False
+10664,0664,2968 E Texas St.,Bossier City,LA,71111,-93.703323,32.52829,(318) 741-3618,True,Louisiana,Red Lobster,2024-06-06,False
+10309,0309,4215 13th Ave S,Fargo,ND,58103,-96.852838,46.862328,(701) 282-8983,False,North Dakota,Red Lobster,2024-06-06,False
+10796,0796,3838 Westown Parkway,West Des Moines,IA,50266,-93.756371,41.594949,(515) 226-2150,False,Iowa,Red Lobster,2024-06-06,False
+10697,0697,4500 Central Avenue,Hot Springs,AR,71913,-93.07889,34.451361,(501) 525-7613,False,Arkansas,Red Lobster,2024-06-06,False
+10747,0747,1100 Buckeye Ave.,Ames,IA,50010,-93.610906,42.013072,(515) 232-2922,False,Iowa,Red Lobster,2024-06-06,False
+10641,0641,2675 32nd Avenue South,Grand Forks,ND,58201,-97.066139,47.888936,(701) 772-8770,True,North Dakota,Red Lobster,2024-06-06,False
+10684,0684,1890 E Madison Ave,Mankato,MN,56001,-93.950089,44.167272,(507) 208-7207,False,Minnesota,Red Lobster,2024-06-06,False
+10202,0202,8407 W. Markham Street,Little Rock,AR,72205,-92.367337,34.75273,(501) 224-0940,False,Arkansas,Red Lobster,2024-06-06,False
+16390,6390,1110 Interstate 70 DR SW,Columbia,MO,65203,-92.354936,38.964323,(573) 445-8324,False,Missouri,Red Lobster,2024-06-06,False
+10733,0733,3519 Country Club Drive,Jefferson City,MO,65109,-92.250102,38.583473,(573) 635-6737,True,Missouri,Red Lobster,2024-06-06,False
+10319,0319,3707 McCain Blvd,North Little Rock,AR,72116,-92.230131,34.792929,(501) 753-4000,False,Arkansas,Red Lobster,2024-06-06,False
+10493,0493,2920 W. Division Street,Saint Cloud,MN,56301,-94.193994,45.552754,(320) 253-6682,False,Minnesota,Red Lobster,2024-06-06,False
+10728,0728,3000 Pines Mall Drive,Pine Bluff,AR,71601,-91.970512,34.208389,(870) 535-5036,False,Arkansas,Red Lobster,2024-06-06,False
+10543,0543,4601 Pecanland Mall Drive,Monroe,LA,71203,-92.06355,32.49685,(318) 361-0158,False,Louisiana,Red Lobster,2024-06-06,False
+16267,6267,941 East San Marnan,Waterloo,IA,50702,-92.337431,42.458201,(319) 800-6677,True,Iowa,Red Lobster,2024-06-06,False
+10281,0281,1301 County Road 42 West,Burnsville,MN,55306,-93.297407,44.745919,(952) 435-2552,False,Minnesota,Red Lobster,2024-06-06,False
+10157,0157,8900 Golden Valley Road,Golden Valley,MN,55427,-93.393499,44.985231,(763) 546-7300,False,Minnesota,Red Lobster,2024-06-06,False
+16251,6251,12515 Elm Creek Blvd. N,Maple Grove,MN,55369,-93.439276,45.093755,(763) 494-4646,False,Minnesota,Red Lobster,2024-06-06,False
+10249,0249,1951 American Blvd West,Bloomington,MN,55431,-93.304367,44.85814,(952) 888-8102,False,Minnesota,Red Lobster,2024-06-06,False
+10224,0224,8500 Hwy. 47,Minneapolis,MN,55433,-93.26569,45.125081,(763) 786-7667,False,Minnesota,Red Lobster,2024-06-06,False
+10154,0154,2330 Prior Avenue,Roseville,MN,55113,-93.18154,45.011016,(651) 636-9800,False,Minnesota,Red Lobster,2024-06-06,False
+2018157,8157,1540 Portage Ave,Winnipeg,MB,R3G0W9,-97.201096,49.880169,(204) 783-9434,False,,Red Lobster,2024-06-06,True
+10283,0283,2925 White Bear Ave.,Maplewood,MN,55109,-93.018882,45.028626,(651) 770-8825,False,Minnesota,Red Lobster,2024-06-06,False
+16369,6369,1280 Highway 14 SW,Rochester,MN,55902,-92.481315,44.004839,(507) 288-0688,False,Minnesota,Red Lobster,2024-06-06,False
+16326,6326,8350 3rd ST N,Oakdale,MN,55128,-92.935467,44.951029,(651) 264-0151,False,Minnesota,Red Lobster,2024-06-06,False
+16258,6258,2671 2nd Street,Coralville,IA,52241,-91.607429,41.688758,(319) 338-6400,False,Iowa,Red Lobster,2024-06-06,False
+10870,0870,163 Collins Rd NE,Cedar Rapids,IA,52402,-91.628711,42.027264,(319) 395-0450,False,Iowa,Red Lobster,2024-06-06,False
+16371,6371,2642 RED WOLF BLVD,Jonesboro,AR,72401,-90.66863,35.81089,(870) 932-1829,False,Arkansas,Red Lobster,2024-06-06,False
+16261,6261,17204 Chesterfield Airport Rd,Chesterfield,MO,63005,-90.595644,38.667875,(636) 536-0899,False,Missouri,Red Lobster,2024-06-06,False
+10181,0181,4101 Veterans Memorial Pkwy,Saint Peters,MO,63376,-90.572403,38.795002,(636) 928-1161,False,Missouri,Red Lobster,2024-06-06,False
+10061,0061,12235 Saint Charles Rock Rd,Bridgeton,MO,63044,-90.426456,38.752019,(314) 291-8680,False,Missouri,Red Lobster,2024-06-06,False
+10056,0056,5733 S. Lindbergh Blvd.,Saint Louis,MO,63123,-90.349902,38.522143,(314) 487-7744,False,Missouri,Red Lobster,2024-06-06,False
+16324,6324,2381 Maplewood Commons Drive,Maplewood,MO,63143,-90.333067,38.617927,(314) 647-5257,False,Missouri,Red Lobster,2024-06-06,False
+10380,0380,170 E. Beltline Parkway,Alton,IL,62002,-90.173422,38.921113,(618) 465-6554,False,Illinois,Red Lobster,2024-06-06,False
+10133,0133,3420 East Kimberly Road,Davenport,IA,52807,-90.522832,41.551191,(563) 359-7185,False,Iowa,Red Lobster,2024-06-06,False
+10546,0546,3333 State Road 16,La Crosse,WI,54601,-91.202706,43.867184,(608) 781-0300,True,Wisconsin,Red Lobster,2024-06-06,False
+16204,6204,110 Ludwig Drive,Fairview Heights,IL,62208,-89.991756,38.600522,(618) 397-9251,False,Illinois,Red Lobster,2024-06-06,False
+10370,0370,1019 W. Clairemont Ave.,Eau Claire,WI,54701,-91.514472,44.792097,(715) 833-0184,False,Wisconsin,Red Lobster,2024-06-06,False
+16368,6368,6051 Bluebonnet Blvd,Baton Rouge,LA,70836,-91.087207,30.393282,(225) 763-9701,False,Louisiana,Red Lobster,2024-06-06,False
+16322,6322,6535 Airways Blvd,Southaven,MS,38671,-89.99082,34.955989,(662) 536-1960,False,Mississippi,Red Lobster,2024-06-06,False
+16216,6216,8161 Highway 64,Memphis,TN,38133,-89.790301,35.203966,(901) 387-0056,False,Tennessee,Red Lobster,2024-06-06,False
+16341,6341,7750 Winchester RD,Memphis,TN,38125,-89.804925,35.049915,(901) 759-9045,True,Tennessee,Red Lobster,2024-06-06,False
+10707,0707,3269 William Street,Cape Girardeau,MO,63703,-89.577996,37.30214,(573) 339-0445,False,Missouri,Red Lobster,2024-06-06,False
+10630,0630,301 S Lake Avenue,Duluth,MN,55802,-92.096612,46.783978,(218) 722-7390,False,Minnesota,Red Lobster,2024-06-06,False
+16217,6217,6357 I 55 N,Jackson,MS,39213,-90.14682,32.397556,(601) 977-8884,True,Mississippi,Red Lobster,2024-06-06,False
+10248,0248,2696 South Dirksen Parkway,Springfield,IL,62703,-89.606593,39.766863,(217) 529-6900,False,Illinois,Red Lobster,2024-06-06,False
+10473,0473,4625 N Sterling Ave,Peoria,IL,61615,-89.632188,40.744427,(309) 686-7716,False,Illinois,Red Lobster,2024-06-06,False
+10621,0621,2900 W Deyoung ST,Marion,IL,62959,-88.975301,37.745385,(618) 993-6996,False,Illinois,Red Lobster,2024-06-06,False
+16269,6269,997 S. State Route 51,Forsyth,IL,62535,-88.956211,39.920576,(217) 875-3196,False,Illinois,Red Lobster,2024-06-06,False
+10738,0738,4381 Venture Drive,Peru,IL,61354,-89.126268,41.362988,(815) 223-8571,False,Illinois,Red Lobster,2024-06-06,False
+10130,0130,714 Eldorado Road,Bloomington,IL,61704,-88.951818,40.471759,(309) 663-9405,False,Illinois,Red Lobster,2024-06-06,False
+10719,0719,123 Stonebrook Place,Jackson,TN,38305,-88.856498,35.68558,(731) 664-8655,False,Tennessee,Red Lobster,2024-06-06,False
+10485,0485,5151 Hinkleville RD,Paducah,KY,42001,-88.691137,37.075994,(270) 443-5804,False,Kentucky,Red Lobster,2024-06-06,False
+10377,0377,4502 East Towne Blvd.,Madison,WI,53704,-89.307206,43.128002,(608) 244-3530,False,Wisconsin,Red Lobster,2024-06-06,False
+10186,0186,5827 E State St,Rockford,IL,61108,-89.002919,42.265778,(815) 397-5682,False,Illinois,Red Lobster,2024-06-06,False
+10688,0688,895 Barnes Crossing Road,Tupelo,MS,38804,-88.703845,34.315021,(662) 844-5422,False,Mississippi,Red Lobster,2024-06-06,False
+10858,0858,4670 Hardy Street,Hattiesburg,MS,39402,-89.360791,31.323238,(601) 268-9136,True,Mississippi,Red Lobster,2024-06-06,False
+16226,6226,1901 N Prospect Ave.,Champaign,IL,61822,-88.258566,40.138427,(217) 355-2577,False,Illinois,Red Lobster,2024-06-06,False
+16299,6299,902 Commons Dr,Geneva,IL,60134,-88.341379,41.896477,(630) 845-0092,False,Illinois,Red Lobster,2024-06-06,False
+10762,0762,201 S. Frontage Road,Meridian,MS,39301,-88.674646,32.364139,(601) 483-9194,False,Mississippi,Red Lobster,2024-06-06,False
+10340,0340,701 Spring Hill Ring Road,West Dundee,IL,60118,-88.289608,42.102205,(847) 428-0820,False,Illinois,Red Lobster,2024-06-06,False
+16234,6234,1036 N Route 59,Aurora,IL,60504,-88.206402,41.774124,(630) 898-5782,False,Illinois,Red Lobster,2024-06-06,False
+10578,0578,2950 Plainfield Road,Joliet,IL,60435,-88.160665,41.578046,(815) 439-1339,False,Illinois,Red Lobster,2024-06-06,False
+16253,6253,209 South Weber Road,Bolingbrook,IL,60490,-88.123269,41.693239,(630) 679-9192,False,Illinois,Red Lobster,2024-06-06,False
+10322,0322,391 West Army Trail Road,Bloomingdale,IL,60108,-88.115593,41.939933,(630) 529-0097,True,Illinois,Red Lobster,2024-06-06,False
+10492,0492,3001 Finley Road,Downers Grove,IL,60515,-88.024275,41.833018,(630) 515-0565,False,Illinois,Red Lobster,2024-06-06,False
+16236,6236,800 E Golf Road,Schaumburg,IL,60173,-88.0593,42.050655,(847) 843-2743,False,Illinois,Red Lobster,2024-06-06,False
+10494,0494,1604 N State Route 50,Bourbonnais,IL,60914,-87.850639,41.174248,(815) 932-0090,False,Illinois,Red Lobster,2024-06-06,False
+16357,6357,3897 Promenade Parkway,D'Iberville,MS,39540,-88.9018,30.45486,(228) 392-1391,True,Mississippi,Red Lobster,2024-06-06,False
+10287,0287,14750 S LaGrange Rd,Orland Park,IL,60462,-87.854321,41.621649,(708) 460-3313,False,Illinois,Red Lobster,2024-06-06,False
+10556,0556,3217 Vermillion Street,Danville,IL,61832,-87.629445,40.176383,(217) 431-8484,True,Illinois,Red Lobster,2024-06-06,False
+16212,6212,6230 Grand Ave.,Gurnee,IL,60031,-87.956277,42.384429,(847) 856-0432,False,Illinois,Red Lobster,2024-06-06,False
+10587,0587,1200 N Casaloma Drive,Appleton,WI,54913,-88.475518,44.272432,(920) 749-0644,False,Wisconsin,Red Lobster,2024-06-06,False
+10058,0058,4605 Bellemeade Ave,Evansville,IN,47714,-87.494396,37.967293,(812) 477-9227,False,Indiana,Red Lobster,2024-06-06,False
+10274,0274,4401 N Cumberland Ave,Norridge,IL,60706,-87.836081,41.959923,(708) 456-7966,False,Illinois,Red Lobster,2024-06-06,False
+10158,0158,9500 Southwest Highway,Oak Lawn,IL,60453,-87.769779,41.718982,(708) 636-1019,False,Illinois,Red Lobster,2024-06-06,False
+10150,0150,2801 North Mayfair Road,Wauwatosa,WI,53222,-88.048662,43.06927,(414) 771-6320,True,Wisconsin,Red Lobster,2024-06-06,False
+10139,0139,3915 W 211th St,Matteson,IL,60443,-87.711973,41.50562,(708) 481-8510,False,Illinois,Red Lobster,2024-06-06,False
+10146,0146,4645 South 76th Street,Greenfield,WI,53220,-88.009003,42.960496,(414) 281-4030,False,Wisconsin,Red Lobster,2024-06-06,False
+10277,0277,5201 S. Pulaski Road,Chicago,IL,60632,-87.72264,41.798357,(773) 284-7000,False,Illinois,Red Lobster,2024-06-06,False
+10070,0070,3407 South U.S. Hwy 41,Terre Haute,IN,47802,-87.417078,39.426444,(812) 234-7727,False,Indiana,Red Lobster,2024-06-06,False
+10474,0474,243 Cox Creek Parkway,Florence,AL,35630,-87.630136,34.834093,(256) 764-3766,False,Alabama,Red Lobster,2024-06-06,False
+10582,0582,3301 W Touhy Avenue,Lincolnwood,IL,60712,-87.712466,42.01151,(847) 674-0238,False,Illinois,Red Lobster,2024-06-06,False
+16381,6381,2800 S GREEN BAY RD,Mount Pleasant,WI,53406,-87.854313,42.698898,(262) 598-9184,False,Wisconsin,Red Lobster,2024-06-06,False
+10184,0184,9311 Calumet Avenue,Munster,IN,46321,-87.508283,41.544181,(219) 836-1394,False,Indiana,Red Lobster,2024-06-06,False
+10476,0476,2838 Wilma Rudolph Blvd.,Clarksville,TN,37040,-87.292841,36.590376,(931) 645-9872,False,Tennessee,Red Lobster,2024-06-06,False
+10347,0347,3410 Frederica Street,Owensboro,KY,42301,-87.11934,37.737987,(270) 926-4044,False,Kentucky,Red Lobster,2024-06-06,False
+10266,0266,1450 E 82nd Ave,Merrillville,IN,46410,-87.318893,41.470387,(219) 769-0500,False,Indiana,Red Lobster,2024-06-06,False
+10155,0155,1251 Lombardi Access Road,Ashwaubenon,WI,54304,-88.073895,44.506451,(920) 497-1505,False,Wisconsin,Red Lobster,2024-06-06,False
+10298,0298,2620 McFarland Blvd. E,Tuscaloosa,AL,35405,-87.526679,33.185058,(205) 553-8810,False,Alabama,Red Lobster,2024-06-06,False
+10040,0040,3941 Airport Blvd.,Mobile,AL,36608,-88.146059,30.67551,(251) 342-1660,True,Alabama,Red Lobster,2024-06-06,False
+16375,6375,120 S CREASY LN,Lafayette,IN,47905,-86.840208,40.416915,(765) 446-0381,False,Indiana,Red Lobster,2024-06-06,False
+10679,0679,2027 Beltline Road S.W.,Decatur,AL,35601,-87.019778,34.577786,(256) 306-0092,True,Alabama,Red Lobster,2024-06-06,False
+10620,0620,1718 Galleria Blvd,Franklin,TN,37067,-86.810277,35.964494,(615) 771-7577,False,Tennessee,Red Lobster,2024-06-06,False
+10610,0610,4353 Franklin Street,Michigan City,IN,46360,-86.894596,41.675425,(219) 879-1328,False,Indiana,Red Lobster,2024-06-06,False
+10045,0045,1814 Gallatin Pike N,Madison,TN,37115,-86.697825,36.299433,(615) 859-3434,False,Tennessee,Red Lobster,2024-06-06,False
+10365,0365,5259 Hickory Hollow Pkwy,Antioch,TN,37013,-86.657066,36.047347,(615) 731-0141,False,Tennessee,Red Lobster,2024-06-06,False
+10878,0878,2617 E 3rd Street,Bloomington,IN,47401,-86.499227,39.164708,(812) 332-9712,False,Indiana,Red Lobster,2024-06-06,False
+16348,6348,401 S Mount Juliet RD,Mount Juliet,TN,37122,-86.512841,36.167818,(615) 758-9910,False,Tennessee,Red Lobster,2024-06-06,False
+10349,0349,2525 Scottsville Road,Bowling Green,KY,42104,-86.426203,36.951249,(270) 782-9500,False,Kentucky,Red Lobster,2024-06-06,False
+16260,6260,10189 E. US Highway 36,Avon,IN,46123,-86.342578,39.763144,(317) 271-4906,False,Indiana,Red Lobster,2024-06-06,False
+10159,0159,1818 University Drive N.W.,Huntsville,AL,35801,-86.599212,34.741256,(256) 533-2880,True,Alabama,Red Lobster,2024-06-06,False
+10604,0604,1745 Old Fort Parkway,Murfreesboro,TN,37129,-86.419664,35.845299,(615) 896-9499,False,Tennessee,Red Lobster,2024-06-06,False
+10046,0046,1030 Montgomery Highway - S.,Vestavia Hills,AL,35216,-86.789863,33.438595,(205) 822-7240,False,Alabama,Red Lobster,2024-06-06,False
+10082,0082,690 East Thompson Road,Indianapolis,IN,46227,-86.145915,39.693859,(317) 786-9201,False,Indiana,Red Lobster,2024-06-06,False
+16376,6376,3525 ROOSEVELT BLVD,Birmingham,AL,35235,-86.635552,33.605695,(205) 800-8935,False,Alabama,Red Lobster,2024-06-06,False
+10297,0297,1900 S. Reed Rd,Kokomo,IN,46902,-86.107153,40.464014,(765) 456-3831,False,Indiana,Red Lobster,2024-06-06,False
+10371,0371,6410 E. 82nd Street,Indianapolis,IN,46250,-86.0573,39.905943,(317) 842-8871,False,Indiana,Red Lobster,2024-06-06,False
+10097,0097,1752 N. Shadeland Ave,Indianapolis,IN,46219,-86.046368,39.791849,(317) 352-1679,True,Indiana,Red Lobster,2024-06-06,False
+10843,0843,1947 N. Jackson Street,Tullahoma,TN,37388,-86.234022,35.386,(931) 393-4030,False,Tennessee,Red Lobster,2024-06-06,False
+16287,6287,3930 N Main ST,Mishawaka,IN,46545,-86.181667,41.697467,(574) 255-6306,False,Indiana,Red Lobster,2024-06-06,False
+10585,0585,2000 25th Street,Columbus,IN,47201,-85.902621,39.223426,(812) 375-1733,False,Indiana,Red Lobster,2024-06-06,False
+16297,6297,2020 N Dixie ave,Elizabethtown,KY,42701,-85.890235,37.739008,(270) 765-3339,False,Kentucky,Red Lobster,2024-06-06,False
+10678,0678,2923 U.S. 41 West,Marquette,MI,49855,-87.453338,46.548851,(906) 228-2211,False,Michigan,Red Lobster,2024-06-06,False
+10039,0039,5110 N 9th Ave,Pensacola,FL,32504,-87.210282,30.475715,(850) 477-7667,False,Florida,Red Lobster,2024-06-06,False
+10619,0619,951 E lewis and Clark Parkway,Clarksville,IN,47129,-85.761823,38.317432,(812) 285-0444,False,Indiana,Red Lobster,2024-06-06,False
+10648,0648,3009 Brittany Court,Elkhart,IN,46514,-85.972503,41.729088,(574) 264-4115,True,Indiana,Red Lobster,2024-06-06,False
+16254,6254,1681 Sternberg Road,Muskegon,MI,49444,-86.20376,43.153432,(231) 798-9586,False,Michigan,Red Lobster,2024-06-06,False
+10563,0563,4639 Outer Loop,Louisville,KY,40219,-85.676982,38.138421,(502) 964-9647,False,Kentucky,Red Lobster,2024-06-06,False
+10894,0894,986 Breckenridge Lane,Saint Matthews,KY,40207,-85.639614,38.232368,(502) 899-3334,False,Kentucky,Red Lobster,2024-06-06,False
+10344,0344,5806 Scatterfield Road,Anderson,IN,46013,-85.652047,40.056878,(765) 643-7663,False,Indiana,Red Lobster,2024-06-06,False
+10292,0292,1725 Rainbow Drive,Gadsden,AL,35901,-86.007628,33.980538,(256) 543-2086,False,Alabama,Red Lobster,2024-06-06,False
+10731,0731,1410 Interstate Drive,Cookeville,TN,38501,-85.512161,36.137405,(931) 520-8422,False,Tennessee,Red Lobster,2024-06-06,False
+16243,6243,3464 River Towne Point Circle,Grandville,MI,49418,-85.749648,42.883149,(616) 406-1190,False,Michigan,Red Lobster,2024-06-06,False
+10387,0387,300 Eastdale Circle,Montgomery,AL,36117,-86.207504,32.38266,(334) 277-0780,False,Alabama,Red Lobster,2024-06-06,False
+10136,0136,223 West McGalliard Road,Muncie,IN,47303,-85.388754,40.218504,(765) 288-6768,False,Indiana,Red Lobster,2024-06-06,False
+10152,0152,6535 S Westnedge Avenue,Portage,MI,49002,-85.588786,42.221557,(269) 323-1329,False,Michigan,Red Lobster,2024-06-06,False
+10559,0559,515 Quintard Drive,Oxford,AL,36203,-85.82708,33.616743,(256) 835-2013,False,Alabama,Red Lobster,2024-06-06,False
+10458,0458,326 Miracle Strip PKWY SW,Fort Walton Beach,FL,32548,-86.634881,30.405559,(850) 664-2700,False,Florida,Red Lobster,2024-06-06,False
+10129,0129,3920 28th Street. S.E.,Kentwood,MI,49512,-85.570841,42.912078,(616) 949-9190,False,Michigan,Red Lobster,2024-06-06,False
+10076,0076,4825 Coldwater Road,Fort Wayne,IN,46825,-85.13637,41.1235,(260) 483-2181,False,Indiana,Red Lobster,2024-06-06,False
+10275,0275,2565 Capitol Ave. S.W.,Battle Creek,MI,49015,-85.198199,42.264555,(269) 968-1448,False,Michigan,Red Lobster,2024-06-06,False
+10285,0285,2131 Northgate Mall Lane,Chattanooga,TN,37415,-85.240675,35.133107,(423) 870-2371,False,Tennessee,Red Lobster,2024-06-06,False
+10891,0891,2691 North U.S. 31 South,Traverse City,MI,49684,-85.646941,44.727365,(231) 933-8741,False,Michigan,Red Lobster,2024-06-06,False
+10883,0883,2200 Bams Drive,Chattanooga,TN,37421,-85.157513,35.038913,(423) 490-3488,False,Tennessee,Red Lobster,2024-06-06,False
+10850,0850,5400 National Road East,Richmond,IN,47374,-84.828453,39.832954,(765) 966-8646,False,Indiana,Red Lobster,2024-06-06,False
+10273,0273,700 Shorter Ave NW,Rome,GA,30165,-85.201539,34.2662,(706) 234-0581,False,Georgia,Red Lobster,2024-06-06,False
+10185,0185,7921 Dream Street,Florence,KY,41042,-84.642335,38.98928,(859) 371-7151,False,Kentucky,Red Lobster,2024-06-06,False
+10782,0782,901 W. Bridge Rd,Dalton,GA,30720,-85.003491,34.759885,(706) 279-3601,False,Georgia,Red Lobster,2024-06-06,False
+10539,0539,1805 Opelika Road,Auburn,AL,36830,-85.44322,32.626841,(334) 821-4474,True,Alabama,Red Lobster,2024-06-06,False
+10110,0110,3564 Springdale Road,Cincinnati,OH,45251,-84.595917,39.249728,(513) 385-8151,False,Ohio,Red Lobster,2024-06-06,False
+16276,6276,320 Cincinnati Mills Drive,Cincinnati,OH,45240,-84.522774,39.302668,(513) 671-6777,False,Ohio,Red Lobster,2024-06-06,False
+10188,0188,2550 Nicholasville Road,Lexington,KY,40503,-84.519795,37.998457,(859) 276-1422,False,Kentucky,Red Lobster,2024-06-06,False
+16379,6379,1848 Alysheba Way,Lexington,KY,40509,-84.41856,38.01903,(859) 263-0307,False,Kentucky,Red Lobster,2024-06-06,False
+10232,0232,8220 Montgomery Road,Cincinnati,OH,45236,-84.366353,39.205449,(513) 984-2740,False,Ohio,Red Lobster,2024-06-06,False
+10690,0690,4062 E. Bluegrass Road,Mount Pleasant,MI,48858,-84.766218,43.574891,(989) 772-5622,False,Michigan,Red Lobster,2024-06-06,False
+10288,0288,616 Ohio Pike,Cincinnati,OH,45245,-84.294369,39.066072,(513) 752-3167,False,Ohio,Red Lobster,2024-06-06,False
+10889,0889,375 Cherokee Place,Cartersville,GA,30121,-84.782083,34.172678,(770) 383-9888,False,Georgia,Red Lobster,2024-06-06,False
+10669,0669,828 Eastern Bypass,Richmond,KY,40475,-84.281514,37.730813,(859) 623-3503,False,Kentucky,Red Lobster,2024-06-06,False
+10201,0201,3130 East Saginaw Street,Lansing,MI,48912,-84.50706,42.740329,(517) 351-0610,False,Michigan,Red Lobster,2024-06-06,False
+10038,0038,8200 N Springboro Pike,Miamisburg,OH,45342,-84.225113,39.631446,(937) 433-0940,False,Ohio,Red Lobster,2024-06-06,False
+10223,0223,2400 Shirley Drive,Jackson,MI,49202,-84.429753,42.276904,(517) 787-7820,False,Michigan,Red Lobster,2024-06-06,False
+10706,0706,991 E. Ash Street,Piqua,OH,45356,-84.223446,40.150625,(937) 773-9845,False,Ohio,Red Lobster,2024-06-06,False
+10271,0271,3116 Montgomery Highway,Dothan,AL,36303,-85.4271,31.252124,(334) 793-6262,False,Alabama,Red Lobster,2024-06-06,False
+16286,6286,6500 Miller LN,Dayton,OH,45414,-84.191466,39.842562,(937) 264-2811,False,Ohio,Red Lobster,2024-06-06,False
+10498,0498,3100 Bill Arp RD,Douglasville,GA,30135,-84.76362,33.720136,(770) 949-8996,False,Georgia,Red Lobster,2024-06-06,False
+10035,0035,1425 13th Street,Columbus,GA,31901,-84.971098,32.471537,(706) 324-7101,False,Georgia,Red Lobster,2024-06-06,False
+10895,0895,990 Bullsboro Drive,Newnan,GA,30265,-84.745557,33.397441,(770) 252-4111,False,Georgia,Red Lobster,2024-06-06,False
+16325,6325,2679 Adams Farm Dr,Columbus,GA,31909,-84.948228,32.544401,(706) 321-0110,False,Georgia,Red Lobster,2024-06-06,False
+16315,6315,910 E 23rd ST,Panama City,FL,32405,-85.64546,30.188812,(850) 785-5566,False,Florida,Red Lobster,2024-06-06,False
+10698,0698,2803 N. Fairfield Road,Beavercreek,OH,45431,-84.052805,39.771407,(937) 429-1800,False,Ohio,Red Lobster,2024-06-06,False
+10702,0702,359 S. Illinois Ave.,Oak Ridge,TN,37830,-84.254361,36.006934,(865) 481-3330,False,Tennessee,Red Lobster,2024-06-06,False
+16250,6250,1805 East-West Connector S.W.,Austell,GA,30106,-84.605468,33.853563,(770) 745-7111,False,Georgia,Red Lobster,2024-06-06,False
+10433,0433,2626 George Busbee Pkwy,Kennesaw,GA,30144,-84.566817,34.014832,(770) 425-2524,False,Georgia,Red Lobster,2024-06-06,False
+10544,0544,2150 Harding Hwy,Lima,OH,45804,-84.065442,40.730405,(419) 229-9073,False,Ohio,Red Lobster,2024-06-06,False
+16229,6229,1405 Riverstone Parkway,Canton,GA,30114,-84.477093,34.249962,(770) 345-8311,False,Georgia,Red Lobster,2024-06-06,False
+10683,0683,1420 S. Main ST,Adrian,MI,49221,-84.043761,41.876083,(517) 263-3811,False,Michigan,Red Lobster,2024-06-06,False
+10392,0392,2579 Cobb Parkway,Smyrna,GA,30080,-84.474353,33.889831,(770) 952-5736,False,Georgia,Red Lobster,2024-06-06,False
+16296,6296,3360 Camp Creek Parkway,Atlanta,GA,30344,-84.499993,33.657053,(404) 494-9170,False,Georgia,Red Lobster,2024-06-06,False
+10868,0868,1898 W. First Street,Springfield,OH,45504,-83.839493,39.941968,(937) 323-8051,False,Ohio,Red Lobster,2024-06-06,False
+10047,0047,8040 Kingston Pike,Knoxville,TN,37919,-84.048593,35.923975,(865) 693-4651,False,Tennessee,Red Lobster,2024-06-06,False
+10331,0331,1050 Holcomb Bridge Rd,Roswell,GA,30076,-84.329465,34.02459,(770) 998-8573,True,Georgia,Red Lobster,2024-06-06,False
+10253,0253,305 Merchant Dr,Knoxville,TN,37912,-83.974893,36.010055,(865) 689-2410,False,Tennessee,Red Lobster,2024-06-06,False
+10055,0055,6550 Tara Blvd,Jonesboro,GA,30236,-84.371308,33.575636,(770) 968-8910,False,Georgia,Red Lobster,2024-06-06,False
+10091,0091,3937 Lavista Road,Tucker,GA,30084,-84.255628,33.844654,(770) 934-2645,False,Georgia,Red Lobster,2024-06-06,False
+10049,0049,2522 Candler Rd,Decatur,GA,30032,-84.273561,33.71644,(404) 243-4121,False,Georgia,Red Lobster,2024-06-06,False
+10160,0160,4141 Bay Road,Saginaw,MI,48603,-83.976333,43.467439,(989) 793-5250,False,Michigan,Red Lobster,2024-06-06,False
+10122,0122,1422 Reynolds Road,Maumee,OH,43537,-83.664173,41.583511,(419) 893-9494,False,Ohio,Red Lobster,2024-06-06,False
+10397,0397,2055 Pleasant Hill Road,Duluth,GA,30096,-84.132797,33.955505,(770) 476-8376,False,Georgia,Red Lobster,2024-06-06,False
+10580,0580,2340 Tiffin Avenue,Findlay,OH,45840,-83.596301,41.055942,(419) 425-5832,False,Ohio,Red Lobster,2024-06-06,False
+10109,0109,4990 Monroe St,Toledo,OH,43623,-83.640917,41.698349,(419) 473-3135,False,Ohio,Red Lobster,2024-06-06,False
+16302,6302,1846 Jonesboro RD,McDonough,GA,30253,-84.216381,33.464913,(770) 898-2980,False,Georgia,Red Lobster,2024-06-06,False
+10260,0260,2420 Carpenter Road,Ann Arbor,MI,48108,-83.68141,42.251412,(734) 971-4412,False,Michigan,Red Lobster,2024-06-06,False
+10687,0687,4109 Wilder Road,Bay City,MI,48706,-83.889825,43.624053,(989) 667-9333,False,Michigan,Red Lobster,2024-06-06,False
+10192,0192,4417 West Pierson Road,Flint,MI,48504,-83.768902,43.060015,(810) 732-4910,False,Michigan,Red Lobster,2024-06-06,False
+10607,0607,4001 Highway 78 W,Snellville,GA,30039,-84.068996,33.83873,(770) 985-9336,False,Georgia,Red Lobster,2024-06-06,False
+16233,6233,3230 Buford Drive,Buford,GA,30519,-83.990079,34.065028,(678) 482-1777,False,Georgia,Red Lobster,2024-06-06,False
+16238,6238,1560 Dogwood Drive,Conyers,GA,30013,-83.994277,33.647906,(770) 922-5111,False,Georgia,Red Lobster,2024-06-06,False
+10612,0612,1707 Browns Bridge Road,Gainesville,GA,30501,-83.844655,34.284369,(770) 536-5222,False,Georgia,Red Lobster,2024-06-06,False
+16275,6275,1600 Parkway,Sevierville,TN,37862,-83.57329,35.834237,(865) 774-7077,False,Tennessee,Red Lobster,2024-06-06,False
+10389,0389,27760 Novi Road,Novi,MI,48377,-83.475221,42.490567,(248) 349-8470,False,Michigan,Red Lobster,2024-06-06,False
+10836,0836,1553 N. Dixie Hghway,Monroe,MI,48162,-83.353943,41.928775,(734) 289-6242,False,Michigan,Red Lobster,2024-06-06,False
+10125,0125,5774 North Wayne Road,Westland,MI,48185,-83.38799,42.32589,(734) 326-7655,False,Michigan,Red Lobster,2024-06-06,False
+10434,0434,29980 Plymouth Road,Livonia,MI,48150,-83.338182,42.369666,(734) 427-0537,False,Michigan,Red Lobster,2024-06-06,False
+16271,6271,1520 Georgesville Road,Columbus,OH,43228,-83.125219,39.920212,(614) 870-1409,False,Ohio,Red Lobster,2024-06-06,False
+16213,6213,479 Telegraph Road,Waterford,MI,48328,-83.326927,42.647459,(248) 682-5146,False,Michigan,Red Lobster,2024-06-06,False
+10124,0124,6850 North Telegraph Road,Dearborn Heights,MI,48127,-83.272306,42.338216,(313) 562-4605,False,Michigan,Red Lobster,2024-06-06,False
+16351,6351,6091 Sawmill RD,Dublin,OH,43017,-83.092408,40.090232,(614) 210-0358,False,Ohio,Red Lobster,2024-06-06,False
+10560,0560,1318 Mount Vernon Avenue,Marion,OH,43302,-83.094223,40.581381,(740) 389-1174,False,Ohio,Red Lobster,2024-06-06,False
+10470,0470,13999 Eureka Road,Southgate,MI,48195,-83.194304,42.198862,(734) 285-0011,False,Michigan,Red Lobster,2024-06-06,False
+16265,6265,1270 Polaris Parkway,Columbus,OH,43240,-82.985524,40.14233,(614) 433-7175,False,Ohio,Red Lobster,2024-06-06,False
+10705,0705,1079 N. Bridge Street,Chillicothe,OH,45601,-82.97572,39.35906,(740) 901-0799,False,Ohio,Red Lobster,2024-06-06,False
+10497,0497,2825 S Rochester Road,Rochester Hills,MI,48307,-83.131083,42.639144,(248) 299-8090,False,Michigan,Red Lobster,2024-06-06,False
+10131,0131,101 Twelve Mile Rd,Madison Heights,MI,48071,-83.107465,42.504264,(248) 542-1140,False,Michigan,Red Lobster,2024-06-06,False
+10081,0081,2147 S. Hamilton Road,Columbus,OH,43232,-82.880173,39.930867,(614) 864-3160,False,Ohio,Red Lobster,2024-06-06,False
+10132,0132,25901 Hoover Road,Warren,MI,48089,-83.007027,42.484896,(586) 759-0010,False,Michigan,Red Lobster,2024-06-06,False
+10401,0401,13800 Hall Road,Sterling Heights,MI,48313,-82.98986,42.626261,(586) 247-6250,False,Michigan,Red Lobster,2024-06-06,False
+2018101,8101,6575 Tecumseh Rd. East,Windsor,ON,N8T1E7,-82.948409,42.311039,(519) 948-7677,False,,Red Lobster,2024-06-06,True
+10036,0036,1956 W. Broad Street,Athens,GA,30606,-83.403052,33.951873,(706) 549-5376,True,Georgia,Red Lobster,2024-06-06,False
+10048,0048,2077 Riverside Drive,Macon,GA,31204,-83.644794,32.857617,(478) 746-3263,False,Georgia,Red Lobster,2024-06-06,False
+10874,0874,1359 Sam Nunn Blvd.,Perry,GA,31069,-83.739833,32.46695,(478) 988-8612,False,Georgia,Red Lobster,2024-06-06,False
+10017,0017,2583 North Monroe St.,Tallahassee,FL,32303,-84.296381,30.476362,(850) 385-1136,False,Florida,Red Lobster,2024-06-06,False
+10553,0553,1515 River Valley Circle North,Lancaster,OH,43130,-82.624243,39.732418,(740) 681-9433,False,Ohio,Red Lobster,2024-06-06,False
+10423,0423,4016 Milan Road,Sandusky,OH,44870,-82.674977,41.419936,(419) 625-1122,False,Ohio,Red Lobster,2024-06-06,False
+10227,0227,2322 West 4th Street,Mansfield,OH,44906,-82.59852,40.774338,(419) 747-4700,False,Ohio,Red Lobster,2024-06-06,False
+10548,0548,909 Hebron Road,Heath,OH,43056,-82.447162,40.026801,(740) 522-4593,False,Ohio,Red Lobster,2024-06-06,False
+10411,0411,200 10th Street,Huntington,WV,25701,-82.442105,38.423478,(304) 529-4042,False,West Virginia,Red Lobster,2024-06-06,False
+16272,6272,4220 24th Avenue,Fort Gratiot,MI,48059,-82.455555,43.032342,(810) 385-8773,True,Michigan,Red Lobster,2024-06-06,False
+10739,0739,101 S. Virginia Ave.,Tifton,GA,31794,-83.52671,31.456944,(229) 386-2011,False,Georgia,Red Lobster,2024-06-06,False
+16294,6294,139 Tunnel RD,Asheville,NC,28805,-82.531116,35.591873,(828) 350-7773,False,North Carolina,Red Lobster,2024-06-06,False
+10312,0312,1909 N Roan Street,Johnson City,TN,37601,-82.37413,36.337581,(423) 282-4099,False,Tennessee,Red Lobster,2024-06-06,False
+10179,0179,3426 Clemson Blvd,Anderson,SC,29621,-82.671334,34.547995,(864) 224-8709,False,South Carolina,Red Lobster,2024-06-06,False
+10632,0632,6935 Midway Mall,Elyria,OH,44035,-82.114969,41.398313,(440) 324-2244,False,Ohio,Red Lobster,2024-06-06,False
+10606,0606,755 Zane Street,Zanesville,OH,43701,-82.001703,39.948225,(740) 453-2323,False,Ohio,Red Lobster,2024-06-06,False
+10665,0665,2105 Veterans Blvd,Dublin,GA,31021,-82.954424,32.542188,(478) 275-9510,True,Georgia,Red Lobster,2024-06-06,False
+10766,0766,3805 Burbank Road.,Wooster,OH,44691,-81.943466,40.846116,(330) 345-4005,False,Ohio,Red Lobster,2024-06-06,False
+16317,6317,3167 Linden Drive,Bristol,VA,24202,-82.126335,36.629083,(276) 669-9110,False,Virginia,Red Lobster,2024-06-06,False
+10171,0171,1940 Wade Hampton Blvd,Greenville,SC,29615,-82.35986,34.879145,(864) 268-1474,False,South Carolina,Red Lobster,2024-06-06,False
+16328,6328,25615 Brookpark Rd,North Olmsted,OH,44070,-81.904615,41.418186,(440) 801-1409,False,Ohio,Red Lobster,2024-06-06,False
+16312,6312,17227 Southpark Center,Strongsville,OH,44136,-81.821028,41.31139,(440) 572-0717,False,Ohio,Red Lobster,2024-06-06,False
+10595,0595,1179 N Saint Augustine Road,Valdosta,GA,31601,-83.320764,30.840549,(229) 244-7587,False,Georgia,Red Lobster,2024-06-06,False
+10116,0116,7607 Day Drive,Parma,OH,44129,-81.736726,41.379973,(440) 888-0990,False,Ohio,Red Lobster,2024-06-06,False
+16300,6300,101 Cross Terrace Blvd,Charleston,WV,25309,-81.716881,38.317486,(304) 746-0744,False,West Virginia,Red Lobster,2024-06-06,False
+10324,0324,3901 Medina Road,Akron,OH,44333,-81.640209,41.136475,(330) 666-0727,False,Ohio,Red Lobster,2024-06-06,False
+10716,0716,3705 Murdock Avenue,Parkersburg,WV,26101,-81.547343,39.297161,(304) 422-1852,False,West Virginia,Red Lobster,2024-06-06,False
+10724,0724,1616 By-Pass 72 N.E.,Greenwood,SC,29649,-82.158293,34.216991,(864) 942-9885,False,South Carolina,Red Lobster,2024-06-06,False
+16203,6203,170 E Blackstock Road,Spartanburg,SC,29301,-81.989631,34.930791,(864) 576-8418,False,South Carolina,Red Lobster,2024-06-06,False
+10126,0126,1090 Graham Road,Cuyahoga Falls,OH,44224,-81.474266,41.162479,(330) 929-9129,False,Ohio,Red Lobster,2024-06-06,False
+10564,0564,255 Graff Road SE,New Philadelphia,OH,44663,-81.444511,40.479913,(330) 339-3535,False,Ohio,Red Lobster,2024-06-06,False
+10121,0121,4600 Belden Village ST NW,Canton,OH,44718,-81.433871,40.856007,(330) 492-0458,False,Ohio,Red Lobster,2024-06-06,False
+10243,0243,7744 Reynolds Rd,Mentor,OH,44060,-81.378994,41.660708,(440) 946-6677,False,Ohio,Red Lobster,2024-06-06,False
+10290,0290,2847 Washington Road,Augusta,GA,30909,-82.035536,33.511517,(706) 737-4314,False,Georgia,Red Lobster,2024-06-06,False
+10174,0174,440 Walton Way,Augusta,GA,30901,-81.961314,33.465149,(706) 724-1438,False,Georgia,Red Lobster,2024-06-06,False
+2018116,8116,667 Wellington Road South,London,ON,N6C4R4,-81.228088,42.948944,(519) 668-0220,False,,Red Lobster,2024-06-06,True
+10459,0459,1846 US-70 SE,Hickory,NC,28602,-81.307315,35.70675,(828) 327-6113,False,North Carolina,Red Lobster,2024-06-06,False
+16201,6201,50740 Valley Center Blvd,Saint Clairsville,OH,43950,-80.870624,40.074039,(740) 699-0344,False,Ohio,Red Lobster,2024-06-06,False
+10540,0540,950 Aiken Mall Drive,Aiken,SC,29803,-81.711865,33.508069,(803) 648-4320,False,South Carolina,Red Lobster,2024-06-06,False
+10769,0769,2847 W. US Highway 90,Lake City,FL,32055,-82.678931,30.180347,(386) 758-0044,False,Florida,Red Lobster,2024-06-06,False
+10366,0366,5701 Youngstown-Warren Rd,Niles,OH,44446,-80.749084,41.210296,(330) 544-1321,False,Ohio,Red Lobster,2024-06-06,False
+10863,0863,3013 N Ridge RD E,Ashtabula,OH,44004,-80.757092,41.877856,(440) 998-4944,False,Ohio,Red Lobster,2024-06-06,False
+10737,0737,200 N. New Hope Road,Gastonia,NC,28054,-81.150993,35.264623,(704) 868-3884,False,North Carolina,Red Lobster,2024-06-06,False
+10353,0353,1410 Boardman-Poland Rd,Youngstown,OH,44514,-80.629043,41.024789,(330) 758-0979,False,Ohio,Red Lobster,2024-06-06,False
+10712,0712,1145 Glenway Drive,Statesville,NC,28625,-80.86896,35.809227,(704) 881-0712,False,North Carolina,Red Lobster,2024-06-06,False
+10642,0642,3370 Shenango Valley Freeway,Hermitage,PA,16148,-80.447522,41.23071,(724) 342-1788,False,Pennsylvania,Red Lobster,2024-06-06,False
+10861,0861,6910 W. Newberry Road,Gainesville,FL,32605,-82.416861,29.660533,(352) 331-2670,True,Florida,Red Lobster,2024-06-06,False
+10601,0601,9415 Pineville-Matthews Road,Pineville,NC,28134,-80.876961,35.086654,(704) 541-0021,False,North Carolina,Red Lobster,2024-06-06,False
+2018118,8118,1732 King Street East,Kitchener,ON,N2G2P1,-80.460375,43.437973,(519) 743-1430,False,,Red Lobster,2024-06-06,True
+10172,0172,1270 Knox Abbott Drive,Cayce,SC,29033,-81.072268,33.979211,(803) 796-1048,False,South Carolina,Red Lobster,2024-06-06,False
+16290,6290,1005 Trinity CIR,Washington,PA,15301,-80.223556,40.184853,(724) 229-4071,False,Pennsylvania,Red Lobster,2024-06-06,False
+16241,6241,8012 Concord Mills BLVD,Concord,NC,28027,-80.715791,35.370791,(704) 659-0566,False,North Carolina,Red Lobster,2024-06-06,False
+10853,0853,75 Peppers FRY RD NW,Christiansburg,VA,24073,-80.425176,37.163877,(540) 381-3760,False,Virginia,Red Lobster,2024-06-06,False
+2018158,8158,1600 LaSalle Blvd,Sudbury,ON,P3A1Z7,-80.937954,46.522161,(705) 560-9825,False,,Red Lobster,2024-06-06,True
+10554,0554,16736 Conneaut Lake Road,Meadville,PA,16335,-80.201386,41.623555,(814) 724-1205,False,Pennsylvania,Red Lobster,2024-06-06,False
+16382,6382,9801 INDEPENDENCE POINTE PKWY,Matthews,NC,28105,-80.71356,35.1335,(704) 708-4439,False,North Carolina,Red Lobster,2024-06-06,False
+16305,6305,6150 Robinson Center Drive,Pittsburgh,PA,15205,-80.160474,40.451322,(412) 809-0482,False,Pennsylvania,Red Lobster,2024-06-06,False
+2018129,8129,67 King George Road,Brantford,ON,N3R5K2,-80.275103,43.165687,(519) 759-7121,False,,Red Lobster,2024-06-06,True
+16301,6301,10136 Two Notch Road,Columbia,SC,29229,-80.881544,34.117178,(803) 462-1755,False,South Carolina,Red Lobster,2024-06-06,False
+16220,6220,8909 US Highway 19,Port Richey,FL,34668,-82.714174,28.28686,(727) 859-9600,False,Florida,Red Lobster,2024-06-06,False
+10696,0696,2328 Commercial Way,Spring Hill,FL,34606,-82.621411,28.466152,(352) 686-5207,False,Florida,Red Lobster,2024-06-06,False
+10430,0430,2040 Edinboro Road,Erie,PA,16509,-80.098519,42.064749,(814) 868-7506,True,Pennsylvania,Red Lobster,2024-06-06,False
+10348,0348,26320 U.S. 19th North,Clearwater,FL,33761,-82.734928,28.011788,(727) 799-3816,False,Florida,Red Lobster,2024-06-06,False
+10454,0454,10500 E Ulmerton Road,Largo,FL,33771,-82.782462,27.894048,(727) 581-5272,True,Florida,Red Lobster,2024-06-06,False
+10229,0229,4766 McKnight Road,Pittsburgh,PA,15237,-80.004236,40.519385,(412) 367-2998,False,Pennsylvania,Red Lobster,2024-06-06,False
+16338,6338,1512 University Town Centre Dr,Morgantown,WV,26501,-80.005415,39.65536,(304) 598-2201,False,West Virginia,Red Lobster,2024-06-06,False
+10655,0655,104 Moraine Pointe,Butler,PA,16001,-79.951176,40.877619,(724) 285-8220,False,Pennsylvania,Red Lobster,2024-06-06,False
+10193,0193,259 Clairton Blvd.,Pittsburgh,PA,15236,-79.951934,40.33835,(412) 653-3552,False,Pennsylvania,Red Lobster,2024-06-06,False
+16206,6206,1690 Westbrook Plaza Drive,Winston Salem,NC,27103,-80.306053,36.068619,(336) 768-3110,False,North Carolina,Red Lobster,2024-06-06,False
+10352,0352,3393 SW College Road,Ocala,FL,34474,-82.178981,29.156929,(352) 237-1291,False,Florida,Red Lobster,2024-06-06,False
+10019,0019,6151 34th Street N.,Saint Petersburg,FL,33714,-82.679211,27.827823,(727) 527-7302,False,Florida,Red Lobster,2024-06-06,False
+16343,6343,13090 City Station Drive,Jacksonville,FL,32218,-81.64402,30.47528,(904) 696-2061,True,Florida,Red Lobster,2024-06-06,False
+10257,0257,32 Blanding Blvd,Orange Park,FL,32073,-81.740129,30.187926,(904) 272-6357,False,Florida,Red Lobster,2024-06-06,False
+10173,0173,11 W Montgomery Cross Roads,Savannah,GA,31406,-81.123256,31.998179,(912) 927-1450,False,Georgia,Red Lobster,2024-06-06,False
+10330,0330,11601 N. Dale Mabry,Tampa,FL,33618,-82.503252,28.054484,(813) 962-8187,False,Florida,Red Lobster,2024-06-06,False
+10230,0230,3941 William Penn Highway,Monroeville,PA,15146,-79.775312,40.43842,(412) 372-5591,False,Pennsylvania,Red Lobster,2024-06-06,False
+10569,0569,515 W Main Street,Uniontown,PA,15401,-79.742062,39.907839,(724) 438-2852,False,Pennsylvania,Red Lobster,2024-06-06,False
+10028,0028,2625 East Busch Blvd.,Tampa,FL,33612,-82.429316,28.032137,(813) 933-4093,True,Florida,Red Lobster,2024-06-06,False
+16292,6292,416 Commerce Center Drive,Jacksonville,FL,32225,-81.550976,30.32982,(904) 727-7460,True,Florida,Red Lobster,2024-06-06,False
+2018103,8103,2423 Fairview Street,Burlington,ON,L7R2E4,-79.797868,43.347158,(905) 637-3454,False,,Red Lobster,2024-06-06,True
+16249,6249,17021 Palm Pointe DR,Tampa,FL,33647,-82.379959,28.117557,(813) 866-0052,True,Florida,Red Lobster,2024-06-06,False
+10385,0385,8720 Baymeadows Road,Jacksonville,FL,32256,-81.577615,30.220267,(904) 731-3600,True,Florida,Red Lobster,2024-06-06,False
+16345,6345,3830 Wedgewood Lane,The Villages,FL,32162,-82.024132,28.927985,(352) 751-1482,False,Florida,Red Lobster,2024-06-06,False
+2018111,8111,368 Queen Street E.,Brampton,ON,L6V1C3,-79.741881,43.702507,(905) 459-6334,False,,Red Lobster,2024-06-06,True
+10027,0027,5711 14th Street West,Bradenton,FL,34207,-82.574963,27.440017,(941) 756-1814,False,Florida,Red Lobster,2024-06-06,False
+10746,0746,1034 Broad Street,Sumter,SC,29150,-80.374775,33.947463,(803) 773-6323,False,South Carolina,Red Lobster,2024-06-06,False
+10425,0425,2604 West Brandon Blvd,Brandon,FL,33511,-82.325425,27.940883,(813) 654-0010,False,Florida,Red Lobster,2024-06-06,False
+2018105,8105,790 Burnhamthorpe Rd. W.,Mississauga,ON,L5C3X3,-79.654686,43.576593,(905) 848-8477,False,,Red Lobster,2024-06-06,True
+10449,0449,5080 RT 30 E,Greensburg,PA,15601,-79.491902,40.300833,(724) 834-6692,False,Pennsylvania,Red Lobster,2024-06-06,False
+10862,0862,4415 W. Wendover Ave.,Greensboro,NC,27407,-79.897362,36.054931,(336) 292-3527,False,North Carolina,Red Lobster,2024-06-06,False
+2018119,8119,319 Bayfield Street,Barrie,ON,L4M3C2,-79.700115,44.401048,(705) 728-2401,False,,Red Lobster,2024-06-06,True
+2018183,8183,1790 The Queensway,Etobicoke,ON,M9C5H5,-79.557397,43.614358,(416) 620-9990,False,,Red Lobster,2024-06-06,True
+10480,0480,10010 US Highway 441,Leesburg,FL,34788,-81.790658,28.82365,(352) 728-2400,True,Florida,Red Lobster,2024-06-06,False
+2018155,8155,3200 Dufferin Street,Toronto,ON,M6A2T3,-79.455731,43.718295,(416) 785-7930,False,,Red Lobster,2024-06-06,True
+10745,0745,295 E Fairmount Avenue,Lakewood,NY,14750,-79.305306,42.098966,(716) 763-6992,True,New York,Red Lobster,2024-06-06,False
+2018115,8115,7291 Yonge Street,Thornhill,ON,L3T2A9,-79.421984,43.806055,(905) 731-3550,False,,Red Lobster,2024-06-06,True
+2018176,8176,20 Dundas Street West,Toronto,ON,M5G2C2,-79.381361,43.656317,(416) 348-8938,False,,Red Lobster,2024-06-06,True
+16208,6208,3706 North Road 98,Lakeland,FL,33809,-81.974458,28.089431,(863) 815-0774,False,Florida,Red Lobster,2024-06-06,False
+2018104,8104,3252 Sheppard Ave. East,Scarborough,ON,M1T3K3,-79.315002,43.777237,(416) 491-2507,False,,Red Lobster,2024-06-06,True
+16340,6340,2475 S Highway 27,Clermont,FL,34711,-81.73667,28.53723,(352) 243-4620,False,Florida,Red Lobster,2024-06-06,False
+16377,6377,1726 Glidewell Dr,Burlington,NC,27215,-79.51764,36.06748,(336) 584-9969,True,North Carolina,Red Lobster,2024-06-06,False
+2018126,8126,6220 Lundy's Lane,Niagara Falls,ON,L2G1T6,-79.097882,43.089375,(905) 357-1303,False,,Red Lobster,2024-06-06,True
+10486,0486,2540 David H McLeod BLVD,Florence,SC,29501,-79.830847,34.188167,(843) 661-7130,False,South Carolina,Red Lobster,2024-06-06,False
+10372,0372,3425 Candlers Mountain Rd,Lynchburg,VA,24502,-79.174295,37.366078,(434) 847-0178,False,Virginia,Red Lobster,2024-06-06,False
+16263,6263,7780 W Irlo Bronson Memorial HWY,Kissimmee,FL,34747,-81.597258,28.339203,(321) 677-0191,False,Florida,Red Lobster,2024-06-06,False
+10860,0860,1477 Greenville Ave,Staunton,VA,24401,-79.065011,38.122963,(540) 887-7582,False,Virginia,Red Lobster,2024-06-06,False
+16207,6207,230 Cypress Garden Blvd.,Winter Haven,FL,33880,-81.725042,28.003523,(863) 294-8844,False,Florida,Red Lobster,2024-06-06,False
+10479,0479,1331 Tamiami Trail,Port Charlotte,FL,33948,-82.146585,27.011825,(941) 625-7745,False,Florida,Red Lobster,2024-06-06,False
+10885,0885,7373 W Colonial Drive,Orlando,FL,32818,-81.480361,28.55267,(407) 295-2791,True,Florida,Red Lobster,2024-06-06,False
+10259,0259,2460 Mall Drive,North Charleston,SC,29406,-80.014275,32.876671,(843) 554-9621,False,South Carolina,Red Lobster,2024-06-06,False
+16222,6222,340 West SR 436,Altamonte Springs,FL,32714,-81.395488,28.661269,(407) 682-3636,True,Florida,Red Lobster,2024-06-06,False
+10848,0848,20 Towne Center Circle,Sanford,FL,32771,-81.335666,28.807221,(407) 320-0888,True,Florida,Red Lobster,2024-06-06,False
+10643,0643,525 Galleria Drive,Johnstown,PA,15904,-78.836397,40.297769,(814) 266-8825,False,Pennsylvania,Red Lobster,2024-06-06,False
+10108,0108,5936 International Drive,Orlando,FL,32819,-81.46158,28.461685,(407) 351-9313,False,Florida,Red Lobster,2024-06-06,False
+10435,0435,5690 Irlo Bronson Memorial Hwy,Kissimmee,FL,34746,-81.513111,28.3321,(407) 396-6997,False,Florida,Red Lobster,2024-06-06,False
+16303,6303,9892 International dr,Orlando,FL,32819,-81.461533,28.424529,(407) 363-0399,False,Florida,Red Lobster,2024-06-06,False
+10426,0426,3701 McKinley Parkway,Buffalo,NY,14219,-78.808781,42.788145,(716) 823-2901,True,New York,Red Lobster,2024-06-06,False
+10307,0307,4010 Maple RD,Amherst,NY,14226,-78.814081,42.991304,(716) 837-0202,True,New York,Red Lobster,2024-06-06,False
+10736,0736,813 E. Dubois Avenue,Du Bois,PA,15801,-78.738301,41.124772,(814) 371-8242,False,Pennsylvania,Red Lobster,2024-06-06,False
+2018114,8114,311 King Street W.,Oshawa,ON,L1J2J8,-78.874994,43.894888,(905) 434-1143,False,,Red Lobster,2024-06-06,True
+10838,0838,8003 Golden Sky Lane,Orlando,FL,32809,-81.393282,28.450049,(407) 438-6627,True,Florida,Red Lobster,2024-06-06,False
+10083,0083,4010 West Vine Street,Kissimmee,FL,34741,-81.443035,28.303885,(407) 846-3513,True,Florida,Red Lobster,2024-06-06,False
+10899,0899,3552 E. Colonial Drive,Orlando,FL,32803,-81.33997,28.552975,(407) 896-3657,True,Florida,Red Lobster,2024-06-06,False
+10071,0071,2625 West International Speedway,Daytona Beach,FL,32114,-81.081753,29.17566,(386) 255-7596,False,Florida,Red Lobster,2024-06-06,False
+10686,0686,2121 E Market Street,Harrisonburg,VA,22801,-78.839786,38.424682,(540) 564-2719,False,Virginia,Red Lobster,2024-06-06,False
+10228,0228,7540 Transit Road,Williamsville,NY,14221,-78.697615,42.97378,(716) 634-9195,True,New York,Red Lobster,2024-06-06,False
+10412,0412,3162 S Atlantic Ave.,Daytona Beach Shores,FL,32118,-80.975178,29.160712,(386) 756-1550,True,Florida,Red Lobster,2024-06-06,False
+16246,6246,617 N. Alafaya Trail,Orlando,FL,32828,-81.205624,28.554509,(407) 249-4141,False,Florida,Red Lobster,2024-06-06,False
+10210,0210,4416 Chapel Hill Blvd,Durham,NC,27707,-78.972941,35.964604,(919) 493-3566,True,North Carolina,Red Lobster,2024-06-06,False
+10611,0611,721 US 27,Sebring,FL,33870,-81.484032,27.489785,(863) 382-2200,False,Florida,Red Lobster,2024-06-06,False
+10079,0079,3801 Cleveland Ave,Fort Myers,FL,33901,-81.871419,26.607003,(239) 936-8216,False,Florida,Red Lobster,2024-06-06,False
+10455,0455,3329 Pleasant Valley Blvd.,Altoona,PA,16602,-78.400933,40.482648,(814) 942-6288,False,Pennsylvania,Red Lobster,2024-06-06,False
+10256,0256,533 N McPherson Church Rd,Fayetteville,NC,28303,-78.955299,35.07708,(910) 864-3113,False,North Carolina,Red Lobster,2024-06-06,False
+10598,0598,1805 Walnut Street,Cary,NC,27518,-78.74311,35.761003,(919) 851-6806,True,North Carolina,Red Lobster,2024-06-06,False
+2018134,8134,870 Lansdowne Street W.,Peterborough,ON,K9J1Z7,-78.339746,44.283443,(705) 876-1840,False,,Red Lobster,2024-06-06,True
+16321,6321,2400 S. Pleasant Valley Rd,Winchester,VA,22601,-78.174407,39.155331,(540) 722-9490,False,Virginia,Red Lobster,2024-06-06,False
+10318,0318,4408 Old Wake Forest Road,Raleigh,NC,27609,-78.610643,35.841072,(919) 872-5608,False,North Carolina,Red Lobster,2024-06-06,False
+10075,0075,215 E Merritt Island Causeway,Merritt Island,FL,32952,-80.695781,28.356564,(321) 453-3520,False,Florida,Red Lobster,2024-06-06,False
+16318,6318,1230 N Retail CT,Myrtle Beach,SC,29577,-78.920439,33.705935,(843) 445-9786,False,South Carolina,Red Lobster,2024-06-06,False
+16221,6221,1670 N Atherton Street,State College,PA,16803,-77.896004,40.80751,(814) 867-3867,False,Pennsylvania,Red Lobster,2024-06-06,False
+10725,0725,10000 Hwy. 17 N.,Myrtle Beach,SC,29572,-78.778384,33.785414,(843) 497-7761,True,South Carolina,Red Lobster,2024-06-06,False
+16205,6205,2355 W. New Haven Ave.,Melbourne,FL,32904,-80.660889,28.078153,(321) 676-5111,False,Florida,Red Lobster,2024-06-06,False
+10625,0625,1681 Wesel Blvd.,Hagerstown,MD,21740,-77.76239,39.630211,(301) 791-6051,False,Maryland,Red Lobster,2024-06-06,False
+10410,0410,1515 W Ridge Rd,Rochester,NY,14615,-77.668067,43.204948,(585) 663-8360,False,New York,Red Lobster,2024-06-06,False
+10550,0550,935 Wayne Ave,Chambersburg,PA,17201,-77.653014,39.914268,(717) 263-6008,False,Pennsylvania,Red Lobster,2024-06-06,False
+10189,0189,655 Jefferson Rd,Rochester,NY,14623,-77.625194,43.086424,(585) 424-2060,True,New York,Red Lobster,2024-06-06,False
+10647,0647,7505 Broken Branch Lane,Manassas,VA,20109,-77.51493,38.791624,(703) 335-2553,False,Virginia,Red Lobster,2024-06-06,False
+16211,6211,1020 W Patrick Street,Frederick,MD,21703,-77.439821,39.416041,(301) 846-9474,False,Maryland,Red Lobster,2024-06-06,False
+16283,6283,13236 Rittenhouse Drive,Midlothian,VA,23112,-77.640431,37.41617,(804) 744-1607,False,Virginia,Red Lobster,2024-06-06,False
+10572,0572,3109 Spotsylvania Mall Drive,Fredericksburg,VA,22407,-77.517694,38.292771,(540) 786-1949,False,Virginia,Red Lobster,2024-06-06,False
+16255,6255,21065 Dulles Town Center,Sterling,VA,20166,-77.424071,39.028366,(571) 434-8815,False,Virginia,Red Lobster,2024-06-06,False
+10551,0551,1010 N Wesleyan Blvd,Rocky Mount,NC,27804,-77.810352,35.970887,(252) 937-2190,True,North Carolina,Red Lobster,2024-06-06,False
+10251,0251,8009 W Broad St,Richmond,VA,23294,-77.530844,37.625104,(804) 747-9490,False,Virginia,Red Lobster,2024-06-06,False
+10730,0730,6401 Darter Court,Fort Pierce,FL,34945,-80.390619,27.414328,(772) 461-4336,False,Florida,Red Lobster,2024-06-06,False
+10231,0231,10325 Fairfax Blvd,Fairfax,VA,22030,-77.30093,38.859884,(703) 691-1011,False,Virginia,Red Lobster,2024-06-06,False
+16231,6231,2544 Prince William Parkway,Woodbridge,VA,22192,-77.288687,38.652336,(703) 491-4337,False,Virginia,Red Lobster,2024-06-06,False
+10200,0200,15700 Shady Grove RD,Gaithersburg,MD,20877,-77.187318,39.113517,(301) 840-0380,True,Maryland,Red Lobster,2024-06-06,False
+16339,6339,4415 S Laburnum Ave,Richmond,VA,23231,-77.357885,37.52974,(804) 226-1416,False,Virginia,Red Lobster,2024-06-06,False
+10645,0645,119 Temple Lake Drive,Colonial Heights,VA,23834,-77.385759,37.25371,(804) 520-6820,True,Virginia,Red Lobster,2024-06-06,False
+10235,0235,555 S. Van Dorn Street,Alexandria,VA,22304,-77.134578,38.805156,(703) 370-9422,False,Virginia,Red Lobster,2024-06-06,False
+10644,0644,1951 E. Third Street,Williamsport,PA,17701,-76.961908,41.248595,(570) 323-0423,False,Pennsylvania,Red Lobster,2024-06-06,False
+10461,0461,3544 NW Federal Hwy,Jensen Beach,FL,34957,-80.27262,27.244492,(772) 692-3277,True,Florida,Red Lobster,2024-06-06,False
+10195,0195,4711 Carlisle Pike,Mechanicsburg,PA,17050,-76.963666,40.237913,(717) 763-1760,False,Pennsylvania,Red Lobster,2024-06-06,False
+10798,0798,407 Eisenhower Drive,Hanover,PA,17331,-76.98036,39.82464,(717) 637-2858,False,Pennsylvania,Red Lobster,2024-06-06,False
+10616,0616,3328 Chambers Road S.,Horseheads,NY,14845,-76.877909,42.161034,(607) 796-5434,False,New York,Red Lobster,2024-06-06,False
+16293,6293,8533 Georgia Ave,Silver Spring,MD,20910,-77.027158,38.996092,(301) 588-3299,True,Maryland,Red Lobster,2024-06-06,False
+10396,0396,4300 Jonestown Road,Harrisburg,PA,17109,-76.820234,40.299593,(717) 657-1978,False,Pennsylvania,Red Lobster,2024-06-06,False
+10142,0142,5051 Auth Way,Suitland,MD,20746,-76.920892,38.826331,(301) 423-3715,False,Maryland,Red Lobster,2024-06-06,False
+10557,0557,11035 Mall Circle,Waldorf,MD,20603,-76.922467,38.616009,(301) 705-7440,False,Maryland,Red Lobster,2024-06-06,False
+10571,0571,3501 S Memorial Drive,Greenville,NC,27834,-77.402456,35.567276,(252) 756-4000,False,North Carolina,Red Lobster,2024-06-06,False
+16306,6306,14368 Baltimore AVE,Laurel,MD,20707,-76.861915,39.085801,(301) 490-0191,True,Maryland,Red Lobster,2024-06-06,False
+10265,0265,8905 Annapolis Rd.,Lanham,MD,20706,-76.862884,38.960377,(301) 459-4494,False,Maryland,Red Lobster,2024-06-06,False
+10768,0768,9011 Snowden Square Drive,Columbia,MD,21046,-76.819225,39.183644,(410) 290-1677,True,Maryland,Red Lobster,2024-06-06,False
+16227,6227,3 Restaurant Park Drive,Owings Mills,MD,21117,-76.792754,39.404666,(410) 902-8420,False,Maryland,Red Lobster,2024-06-06,False
+10420,0420,2555 E Market Street,York,PA,17402,-76.676288,39.975256,(717) 757-6624,False,Pennsylvania,Red Lobster,2024-06-06,False
+16360,6360,7063 Arundel Mills BLVD,Hanover,MD,21076,-76.728808,39.154308,(410) 796-2390,False,Maryland,Red Lobster,2024-06-06,False
+10722,0722,304 A Western Blvd.,Jacksonville,NC,28546,-77.381452,34.759963,(910) 353-9454,False,North Carolina,Red Lobster,2024-06-06,False
+10345,0345,6638 Lake Worth Road,Lake Worth,FL,33467,-80.149298,26.617129,(561) 433-1434,False,Florida,Red Lobster,2024-06-06,False
+2018135,8135,410 Bath Road,Kingston,ON,K7M4X6,-76.557992,44.236901,(613) 545-1058,False,,Red Lobster,2024-06-06,True
+10033,0033,2201 Palm Beach Lakes Blvd.,West Palm Beach,FL,33409,-80.096772,26.711779,(561) 686-6237,False,Florida,Red Lobster,2024-06-06,False
+10332,0332,2000 University Dr,Coral Springs,FL,33071,-80.252413,26.256115,(954) 752-6131,False,Florida,Red Lobster,2024-06-06,False
+16329,6329,700 N Congress Ave,Boynton Beach,FL,33426,-80.09003645,26.53377785,(561) 752-8025,False,Florida,Red Lobster,2024-06-06,False
+10398,0398,183 Jennifer Road,Annapolis,MD,21401,-76.544336,38.985139,(410) 266-5010,False,Maryland,Red Lobster,2024-06-06,False
+10447,0447,803 S. University Drive,Plantation,FL,33324,-80.251451,26.11321,(954) 424-0406,False,Florida,Red Lobster,2024-06-06,False
+10634,0634,8019 Honeygo Blvd,Nottingham,MD,21236,-76.468875,39.371301,(410) 931-6372,False,Maryland,Red Lobster,2024-06-06,False
+10675,0675,2100 Richmond Road,Williamsburg,VA,23185,-76.728454,37.299739,(757) 221-8127,True,Virginia,Red Lobster,2024-06-06,False
+10246,0246,1750 W 49th St,Hialeah,FL,33012,-80.318395,25.866103,(305) 557-3088,True,Florida,Red Lobster,2024-06-06,False
+10424,0424,296 N University Drive,Pembroke Pines,FL,33024,-80.248728,26.01143,(954) 432-8500,False,Florida,Red Lobster,2024-06-06,False
+16282,6282,1695 NW 87th AVE,Doral,FL,33172,-80.336297,25.789398,(305) 392-5552,False,Florida,Red Lobster,2024-06-06,False
+16373,6373,11550 SW 88th St,Miami,FL,33176,-80.383414,25.685835,(305) 273-0625,False,Florida,Red Lobster,2024-06-06,False
+16323,6323,3938 State Route 31,Liverpool,NY,13090,-76.239534,43.18469,(315) 652-3964,False,New York,Red Lobster,2024-06-06,False
+10029,0029,5950 N Federal Hwy,Fort Lauderdale,FL,33308,-80.108687,26.20169,(954) 491-3030,False,Florida,Red Lobster,2024-06-06,False
+16285,6285,2900 Oakwood Blvd.,Hollywood,FL,33020,-80.162905,26.03781,(954) 924-1550,False,Florida,Red Lobster,2024-06-06,False
+10240,0240,2090 Lincoln Highway East,Lancaster,PA,17602,-76.235958,40.030397,(717) 291-1147,False,Pennsylvania,Red Lobster,2024-06-06,False
+10464,0464,13300 Biscayne Blvd.,North Miami,FL,33181,-80.161721,25.898081,(305) 895-6095,False,Florida,Red Lobster,2024-06-06,False
+16279,6279,12580 Jefferson Ave,Newport News,VA,23602,-76.513765,37.13159,(757) 989-6423,True,Virginia,Red Lobster,2024-06-06,False
+10180,0180,1200 Vestal Parkway East,Vestal,NY,13850,-76.029719,42.091433,(607) 754-3787,False,New York,Red Lobster,2024-06-06,False
+10654,0654,20831 State Route 3,Watertown,NY,13601,-75.956673,43.974953,(315) 786-1016,True,New York,Red Lobster,2024-06-06,False
+10417,0417,1046 W Mercury Blvd,Hampton,VA,23666,-76.383699,37.043148,(757) 838-6062,False,Virginia,Red Lobster,2024-06-06,False
+10599,0599,4115 Chesapeake Square Blvd,Chesapeake,VA,23321,-76.410098,36.825436,(757) 465-0627,False,Virginia,Red Lobster,2024-06-06,False
+10218,0218,945 Woodland Road,Wyomissing,PA,19610,-75.967886,40.346638,(610) 376-2905,False,Pennsylvania,Red Lobster,2024-06-06,False
+10445,0445,10 East End Center,Wilkes Barre,PA,18702,-75.851307,41.25015,(570) 825-6122,False,Pennsylvania,Red Lobster,2024-06-06,False
+16252,6252,1502 Scranton-Carbondale Hwy,Scranton,PA,18508,-75.636636,41.470287,(570) 383-6686,False,Pennsylvania,Red Lobster,2024-06-06,False
+10153,0153,709 Independence Blvd.,Virginia Beach,VA,23455,-76.132886,36.863216,(757) 490-1671,False,Virginia,Red Lobster,2024-06-06,False
+2018184,8184,1595 Merivale Road,Nepean,ON,K2G3J4,-75.7338411,45.35220192,(613) 727-0035,False,,Red Lobster,2024-06-06,True
+10789,0789,223 Shoemaker Road,Pottstown,PA,19464,-75.660489,40.25422,(610) 323-0415,False,Pennsylvania,Red Lobster,2024-06-06,False
+10296,0296,821 Lynnhaven Pkwy,Virginia Beach,VA,23452,-76.069832,36.812965,(757) 340-0420,False,Virginia,Red Lobster,2024-06-06,False
+16319,6319,1249 New Churchman's Rd,Newark,DE,19713,-75.661123,39.690237,(302) 456-1792,False,Delaware,Red Lobster,2024-06-06,False
+2018124,8124,1499 St. Laurent Blvd,Ottawa,ON,K1G0Z9,-75.630898,45.413072,(613) 744-7560,False,,Red Lobster,2024-06-06,True
+10496,0496,309 Rocky Run Parkway,Talleyville,DE,19803,-75.549476,39.819559,(302) 479-5582,False,Delaware,Red Lobster,2024-06-06,False
+10252,0252,800 Lehigh Lifestyle Center,Whitehall,PA,18052,-75.479362,40.633583,(610) 264-5541,False,Pennsylvania,Red Lobster,2024-06-06,False
+10489,0489,4573 Commercial DR,New Hartford,NY,13413,-75.316783,43.086148,(315) 768-6156,False,New York,Red Lobster,2024-06-06,False
+10552,0552,271 N Dupont Highway,Dover,DE,19901,-75.518289,39.171021,(302) 734-9122,False,Delaware,Red Lobster,2024-06-06,False
+10615,0615,2314 N Salisbury Blvd,Salisbury,MD,21801,-75.56998,38.398479,(410) 546-6454,False,Maryland,Red Lobster,2024-06-06,False
+10778,0778,425 W. DeKalb Pike,King of Prussia,PA,19406,-75.373462,40.090719,(610) 337-9430,False,Pennsylvania,Red Lobster,2024-06-06,False
+16358,6358,3588 Route 611,Bartonsville,PA,18321,-75.27099,41.00041,(570) 421-2743,False,Pennsylvania,Red Lobster,2024-06-06,False
+10375,0375,1 Baltimore Pike,Springfield,PA,19064,-75.312126,39.923982,(610) 544-0315,False,Pennsylvania,Red Lobster,2024-06-06,False
+10443,0443,640 Cowpath Road,Lansdale,PA,19446,-75.245061,40.24749,(215) 855-5702,False,Pennsylvania,Red Lobster,2024-06-06,False
+10566,0566,1500 Almonesson Road,Woodbury,NJ,08096,-75.100518,39.826174,(856) 232-3849,False,New Jersey,Red Lobster,2024-06-06,False
+10241,0241,9140 Roosevelt Blvd E.,Philadelphia,PA,19115,-75.034374,40.07605,(215) 673-5750,False,Pennsylvania,Red Lobster,2024-06-06,False
+16237,6237,2100 Route 38,Cherry Hill,NJ,08002,-75.021399,39.939728,(856) 321-1701,False,New Jersey,Red Lobster,2024-06-06,False
+10748,0748,3849 South Delsea Drive,Vineland,NJ,08360,-75.039914,39.432645,(856) 825-9600,False,New Jersey,Red Lobster,2024-06-06,False
+10438,0438,3003 Route 130 South,Delran,NJ,08075,-74.962726,40.01236,(856) 461-6202,False,New Jersey,Red Lobster,2024-06-06,False
+10758,0758,2275 E. Lincoln Highway,Langhorne,PA,19047,-74.880147,40.178139,(215) 943-5350,False,Pennsylvania,Red Lobster,2024-06-06,False
+10695,0695,303 Route 10 - Roxbury Township,Ledgewood,NJ,07852,-74.649044,40.873262,(973) 927-3713,True,New Jersey,Red Lobster,2024-06-06,False
+10239,0239,3255 Brunswick Pike,Lawrenceville,NJ,08648,-74.688302,40.290654,(609) 896-1011,True,New Jersey,Red Lobster,2024-06-06,False
+10827,0827,1271 U.S. Route 22,Bridgewater,NJ,08807,-74.580425,40.578733,(908) 722-4447,True,New Jersey,Red Lobster,2024-06-06,False
+10575,0575,4411 Black Horse Pike,Mays Landing,NJ,08330,-74.644008,39.452022,(609) 646-0946,False,New Jersey,Red Lobster,2024-06-06,False
+10663,0663,450 Route 211 E,Middletown,NY,10940,-74.382042,41.454916,(845) 343-3228,False,New York,Red Lobster,2024-06-06,False
+10379,0379,7000 Hadley Rd.,South Plainfield,NJ,07080,-74.432368,40.554236,(908) 561-6015,False,New Jersey,Red Lobster,2024-06-06,False
+10442,0442,2520 US Highway Route 22,Union,NJ,07083,-74.302038,40.689444,(908) 686-8999,False,New Jersey,Red Lobster,2024-06-06,False
+10267,0267,635 U.S. HWY 1,Iselin,NJ,08830,-74.30628,40.558785,(732) 636-6230,False,New Jersey,Red Lobster,2024-06-06,False
+10255,0255,520 Highway 46,Wayne,NJ,07470,-74.241968,40.8938,(973) 785-3114,False,New Jersey,Red Lobster,2024-06-06,False
+10568,0568,1298 Hooper Ave,Toms River,NJ,08753,-74.179343,39.987027,(732) 914-0183,False,New Jersey,Red Lobster,2024-06-06,False
+10302,0302,211 Route 17 S,Paramus,NJ,07652,-74.071514,40.935208,(201) 967-7838,False,New Jersey,Red Lobster,2024-06-06,False
+10692,0692,1 Miron Lane,Kingston,NY,12401,-73.989785,41.960942,(845) 336-5021,True,New York,Red Lobster,2024-06-06,False
+16314,6314,700 Plaza Drive,Secaucus,NJ,07094,-74.046041,40.786373,(201) 583-1902,False,New Jersey,Red Lobster,2024-06-06,False
+10286,0286,198 NY-59,Nanuet,NY,10954,-74.020224,41.100148,(845) 623-4800,True,New York,Red Lobster,2024-06-06,False
+16298,6298,5 Times Square NYC/5,New York,NY,10036,-73.987534,40.755536,(212) 730-6706,False,New York,Red Lobster,2024-06-06,False
+10311,0311,2255 South Road,Poughkeepsie,NY,12601,-73.922106,41.643329,(845) 462-4301,True,New York,Red Lobster,2024-06-06,False
+16228,6228,170 Wolf Road,Colonie,NY,12205,-73.802571,42.722501,(518) 459-1040,False,New York,Red Lobster,2024-06-06,False
+16370,6370,5135 Xavier Drive,Yonkers,NY,10704,-73.85236,40.92709,(914) 965-7190,False,New York,Red Lobster,2024-06-06,False
+16262,6262,455 Gateway Drive,Brooklyn,NY,11239,-73.870081,40.650956,(718) 964-2057,False,New York,Red Lobster,2024-06-06,False
+10351,0351,999 Central Park Ave,Scarsdale,NY,10583,-73.823178,40.990321,(914) 472-6373,True,New York,Red Lobster,2024-06-06,False
+10469,0469,2090 Bartow Avenue,Bronx,NY,10475,-73.82713,40.869064,(718) 671-4223,False,New York,Red Lobster,2024-06-06,False
+10788,0788,750 Upper Glen Street,Queensbury,NY,12804,-73.670063,43.329442,(518) 761-0021,False,New York,Red Lobster,2024-06-06,False
+10374,0374,606 West Sunrise Hwy.,Valley Stream,NY,11581,-73.722242,40.665135,(516) 825-0277,False,New York,Red Lobster,2024-06-06,False
+10264,0264,211 Old Country Rd #217,Carle Place,NY,11514,-73.613478,40.74397,(516) 248-7411,False,New York,Red Lobster,2024-06-06,False
+10792,0792,34 Backus Avenue,Danbury,CT,06810,-73.486014,41.374869,(203) 730-1104,False,Connecticut,Red Lobster,2024-06-06,False
+10313,0313,1 Nevada Street,Hicksville,NY,11801,-73.527669,40.777197,(516) 822-8393,False,New York,Red Lobster,2024-06-06,False
+10614,0614,801 Sunrise Highway,Copiague,NY,11726,-73.408386,40.688852,(631) 842-3640,False,New York,Red Lobster,2024-06-06,False
+16392,6392,1700 The Arches Circle,Deer Park,NY,11729,-73.30932,40.76405,(631) 925-3001,False,New York,Red Lobster,2024-06-06,False
+10865,0865,4485 Main Street,Bridgeport,CT,06606,-73.217485,41.220564,(203) 371-4848,False,Connecticut,Red Lobster,2024-06-06,False
+10217,0217,2220 Nesconset Highway,Stony Brook,NY,11790,-73.124541,40.873787,(631) 689-9060,True,New York,Red Lobster,2024-06-06,False
+16311,6311,5010 Express Drive South,Ronkonkoma,NY,11779,-73.100644,40.813086,(631) 580-2864,False,New York,Red Lobster,2024-06-06,False
+16347,6347,320 Universal Drive North,North Haven,CT,06473,-72.872714,41.353835,(203) 234-8917,False,Connecticut,Red Lobster,2024-06-06,False
+10636,0636,1324 Silas Deane Highway,Wethersfield,CT,06109,-72.654072,41.684529,(860) 257-1115,False,Connecticut,Red Lobster,2024-06-06,False
+10672,0672,1765 Ala Moana Blvd,Honolulu,HI,96815,-157.839178,21.285507,(808) 955-5656,False,Hawaii,Red Lobster,2024-06-06,False

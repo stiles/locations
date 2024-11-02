@@ -14,7 +14,7 @@ An expanding collection of data scrapers designed to gather location details on 
 | Beauty Products           |     2 |  3,013 |
 | Casual Dining             |     4 |  3,567 |
 | Clothing & Accessories    |     3 |    620 |
-| Coffee Shops & Desserts   |     4 | 21,733 |
+| Coffee Shops & Desserts   |     5 | 22,788 |
 | Electronics & Appliances  |     1 |    526 |
 | Entertainment  |     2 |    868 |
 | Fast Food & Quick Service |    20 | 92,484 |
@@ -26,7 +26,7 @@ An expanding collection of data scrapers designed to gather location details on 
 | Retail Stores             |    20 | 64,340 |
 | Shoes & Accessories       |     1 |    439 |
 | Specialty Foods           |     5 |   1856 |
-| **Total collected**               |    **76** | **201,588** |
+| **Total collected**               |    **76** | **202,643** |
 
 ### All the companies 
 
@@ -52,6 +52,7 @@ An expanding collection of data scrapers designed to gather location details on 
 | [Costco](https://github.com/stiles/locations/tree/main/costco)                         | Retail Stores             |       588 |
 | [California Pizza Kitchen](https://github.com/stiles/locations/tree/main/cpk)          | Casual Dining             |       121 |
 | [Cracker Barrel](https://github.com/stiles/locations/tree/main/cracker-barrel)         | Casual Dining             |       662 |
+| [Crumbl](https://github.com/stiles/locations/tree/main/crumbl)         | Coffee Shops & Desert             |       1,717 |
 | [Culver's](https://github.com/stiles/locations/tree/main/culvers)           | Fast Food & Quick Service |     794 |
 | [CVS](https://github.com/stiles/locations/tree/main/cvs)                               | Retail Stores             |     9,333 |
 | [Del Taco](https://github.com/stiles/locations/tree/main/del-taco)                     | Fast Food & Quick Service |       328 |
