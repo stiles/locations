@@ -52,7 +52,7 @@ An expanding collection of data scrapers designed to gather location details on 
 | [Costco](https://github.com/stiles/locations/tree/main/costco)                         | Retail Stores             |       588 |
 | [California Pizza Kitchen](https://github.com/stiles/locations/tree/main/cpk)          | Casual Dining             |       121 |
 | [Cracker Barrel](https://github.com/stiles/locations/tree/main/cracker-barrel)         | Casual Dining             |       662 |
-| [Crumbl](https://github.com/stiles/locations/tree/main/crumbl)         | Coffee Shops & Desert             |       1,717 |
+| [Crumbl](https://github.com/stiles/locations/tree/main/crumbl)         | Coffee Shops & Dessert             |       1,717 |
 | [Culver's](https://github.com/stiles/locations/tree/main/culvers)           | Fast Food & Quick Service |     794 |
 | [CVS](https://github.com/stiles/locations/tree/main/cvs)                               | Retail Stores             |     9,333 |
 | [Del Taco](https://github.com/stiles/locations/tree/main/del-taco)                     | Fast Food & Quick Service |       328 |
