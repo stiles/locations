@@ -1,0 +1,21 @@
+id,store,address,city,state,zip,lat,lng,phone,state_name,brand,updated
+292,KING TACO #1,1118 Cypress Ave,Los Angeles,CA,90065,34.10748,-118.22577,(323) 223-2595,California,King Taco,2024-11-16
+294,KING TACO #2, 4504 East 3rd Street,Los Angeles,CA,90022,34.033048,-118.168814,(323) 264-4067,California,King Taco,2024-11-16
+296,KING TACO #6A,1951 S. San Pedro Street,Los Angeles,CA,90011,34.026618,-118.258624,(213) 747-3176,California,King Taco,2024-11-16
+887,KING TACO #6B,645 E. Washington Blvd.,Los Angeles,CA,90015,34.02826,-118.25745,(213) 747-9915,California,King Taco,2024-11-16
+890,KING TACO #8,2904 N. Broadway Ave,Los Angeles,CA,90031,34.07367,-118.21142,(323) 222-8500,California,King Taco,2024-11-16
+893,KING TACO #9,2400 E. Cesar Chavez Ave,Los Angeles,CA,90033,34.04667,-118.20750,(323) 264-3940,California,King Taco,2024-11-16
+896,KING TACO #10,2020 W. Pico Boulevard,Los Angeles,CA,90006,34.04695,-118.28209,,California,King Taco,2024-11-16
+899,KING TACO #11,10420 E Garvey Ave,El Monte,CA,91733,34.06279,-118.04452,(626) 448-5150,California,King Taco,2024-11-16
+902,KING TACO #12,5729 Atlantic Blvd.,Maywood,CA,90270,33.98848,-118.18565,(323) 560-1245,California,King Taco,2024-11-16
+905,KING TACO #15,4300 E. Olympic Blvd,Los Angeles,CA,90023,34.01878,-118.17966,(323) 264-9051,California,King Taco,2024-11-16
+908,KING TACO #18,14318 Ramona Blvd.,Baldwin Park,CA,91706,34.08591,-117.96186,(626) 962-5995,California,King Taco,2024-11-16
+911,KING TACO #20,3900 North Peck Road,El Monte,CA,91732,34.07637,-118.02136,(626) 350-5698,California,King Taco,2024-11-16
+914,KING TACO #21,45 N. Arroyo Parkway,Pasadena,CA,91103,34.14497,-118.14786,(626) 792-0405,California,King Taco,2024-11-16
+920,KING TACO #24,12102 Long Beach Blvd,Lynwood,CA,90262,33.91812,-118.20903,(310) 884-9984,California,King Taco,2024-11-16
+923,KING TACO #25,6722 Rosemead Blvd,Pico Rivera,CA,90660,33.98422,-118.09596,(562) 942-8177,California,King Taco,2024-11-16
+926,KING TACO #26,7623 Pacific Boulevard,Walnut Park,CA,90255,33.97033,-118.22545,(323) 584-9975,California,King Taco,2024-11-16
+929,KING TACO #27,1841 Long Beach Blvd.,Long Beach,CA,90806,33.79084,-118.18983,(562) 218-9118,California,King Taco,2024-11-16
+932,KING TACO #28,406 N. Mountain Ave.,Ontario,CA,91762,34.06739,-117.66980,(909) 933-9150,California,King Taco,2024-11-16
+935,KING TACO #29,117 E. Broadway,Glendale,CA,91205,34.14665,-118.25405,(818) 409-0172,California,King Taco,2024-11-16
+537,KING TACO #30,15916 Lakewood Blvd.,Bellflower,CA,90706,33.888682,-118.14228,(562) 925-1048,California,King Taco,2024-11-16

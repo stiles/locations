@@ -17,7 +17,7 @@ An expanding collection of data scrapers designed to gather location details on 
 | Coffee Shops & Desserts   |     5 | 22,788 |
 | Electronics & Appliances  |     1 |    526 |
 | Entertainment  |     2 |    868 |
-| Fast Food & Quick Service |    20 | 92,484 |
+| Fast Food & Quick Service |    21 | 92,505 |
 | Food & Beverage           |     2 |    236 |
 | Frozen Yogurt             |     3 |    529 |
 | Home Improvement          |     1 |  2,002 |
@@ -26,7 +26,7 @@ An expanding collection of data scrapers designed to gather location details on 
 | Retail Stores             |    20 | 64,340 |
 | Shoes & Accessories       |     1 |    439 |
 | Specialty Foods           |     5 |   1856 |
-| **Total collected**               |    **76** | **202,643** |
+| **Total collected**               |    **76** | **202,664** |
 
 ### All the companies 
 
@@ -74,6 +74,7 @@ An expanding collection of data scrapers designed to gather location details on 
 | [Jared](https://github.com/stiles/locations/tree/main/jared)                           | Jewelry                   |       234 |
 | [JCPenney](https://github.com/stiles/locations/tree/main/jcpenney)                     | Retail Stores             |       663 |
 | [Kentucky Fried Chicken](https://github.com/stiles/locations/tree/main/kfc)            | Fast Food & Quick Service |     4,276 |
+| [King Taco](https://github.com/stiles/locations/tree/main/king-taco)            | Fast Food & Quick Service |     21 |
 | [Krispy Kreme](https://github.com/stiles/locations/tree/main/krispy-kreme)             | Coffee Shops & Desserts   |     4,646 |
 | [Kroger](https://github.com/stiles/locations/tree/main/kroger)                         | Retail Stores             |     1,244 |
 | [Kung Fu Tea](https://github.com/stiles/locations/tree/main/kung-fu-tea)               | Coffee Shops & Desserts   |       425 |
