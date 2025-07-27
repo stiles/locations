@@ -5,3 +5,112 @@
 2025-07-27 13:24:36,079 - src.utils.config - WARNING - No configuration found for company: dunkin-donuts
 2025-07-27 13:24:36,079 - src.utils.config - WARNING - No configuration found for company: krispy-kreme
 2025-07-27 13:24:36,079 - src.utils.config - WARNING - No configuration found for company: crumbl
+2025-07-27 13:48:13,008 - root - INFO - Logging initialized at DEBUG level
+2025-07-27 13:48:13,010 - src.utils.config - INFO - Loaded 3 company configurations
+2025-07-27 13:48:13,888 - src.scrapers.registry - DEBUG - Scraper module not found for starbucks
+2025-07-27 13:48:13,889 - src.scrapers.registry - DEBUG - Scraper module not found for in-n-out
+2025-07-27 13:48:13,889 - src.scrapers.registry - DEBUG - Scraper module not found for trader-joes
+2025-07-27 13:48:13,889 - src.scrapers.registry - INFO - Discovered 0 scrapers
+2025-07-27 13:48:13,889 - src.scrapers.registry - INFO - Processing in-n-out (1/1)
+2025-07-27 13:48:13,889 - src.scrapers.registry - WARNING - Scraper not implemented for in-n-out
+2025-07-27 13:48:57,593 - root - INFO - Logging initialized at DEBUG level
+2025-07-27 13:48:57,595 - src.utils.config - INFO - Loaded 3 company configurations
+2025-07-27 13:48:57,932 - src.scrapers.registry - DEBUG - Scraper module not found for starbucks
+2025-07-27 13:48:58,132 - src.scrapers.registry - DEBUG - Registered scraper: in-n-out -> InNOutScraper
+2025-07-27 13:48:58,132 - src.scrapers.registry - DEBUG - Scraper module not found for trader-joes
+2025-07-27 13:48:58,132 - src.scrapers.registry - INFO - Discovered 1 scrapers
+2025-07-27 13:48:58,132 - src.scrapers.registry - INFO - Processing in-n-out (1/1)
+2025-07-27 13:48:58,132 - src.scrapers.registry - INFO - Starting scraper for in-n-out
+2025-07-27 13:48:58,134 - src.core.base_scraper - ERROR - Error scraping in-n-out: No module named 'usaddress'
+2025-07-27 13:48:58,134 - src.scrapers.registry - INFO - Completed in-n-out in 0.00s
+2025-07-27 13:49:17,600 - root - INFO - Logging initialized at INFO level
+2025-07-27 13:49:17,602 - src.utils.config - INFO - Loaded 3 company configurations
+2025-07-27 13:49:17,954 - src.scrapers.registry - INFO - Discovered 1 scrapers
+2025-07-27 13:49:17,954 - src.scrapers.registry - INFO - Processing in-n-out (1/1)
+2025-07-27 13:49:17,954 - src.scrapers.registry - INFO - Starting scraper for in-n-out
+2025-07-27 13:49:18,409 - src.core.base_scraper - INFO - Starting scrape for in-n-out
+2025-07-27 13:49:19,417 - src.core.base_scraper - ERROR - Error scraping in-n-out: Expected file path name or file-like object, got <class 'bytes'> type
+2025-07-27 13:49:19,418 - src.scrapers.registry - INFO - Completed in-n-out in 1.46s
+2025-07-27 13:49:34,374 - root - INFO - Logging initialized at INFO level
+2025-07-27 13:49:34,376 - src.utils.config - INFO - Loaded 3 company configurations
+2025-07-27 13:49:34,721 - src.scrapers.registry - INFO - Discovered 1 scrapers
+2025-07-27 13:49:34,721 - src.scrapers.registry - INFO - Processing in-n-out (1/1)
+2025-07-27 13:49:34,721 - src.scrapers.registry - INFO - Starting scraper for in-n-out
+2025-07-27 13:49:34,871 - src.core.base_scraper - INFO - Starting scrape for in-n-out
+2025-07-27 13:49:36,587 - src.core.base_scraper - ERROR - Error scraping in-n-out: An error occurred (ExpiredToken) when calling the PutObject operation: The provided token has expired.
+2025-07-27 13:49:36,592 - src.scrapers.registry - INFO - Completed in-n-out in 1.87s
+2025-07-27 13:55:23,932 - root - INFO - Logging initialized at INFO level
+2025-07-27 13:55:23,934 - src.utils.config - INFO - Loaded 3 company configurations
+2025-07-27 13:55:24,284 - src.scrapers.registry - INFO - Discovered 1 scrapers
+2025-07-27 13:55:24,285 - src.scrapers.registry - INFO - Processing in-n-out (1/1)
+2025-07-27 13:55:24,285 - src.scrapers.registry - INFO - Starting scraper for in-n-out
+2025-07-27 13:55:24,436 - src.core.base_scraper - INFO - Starting scrape for in-n-out
+2025-07-27 13:55:26,036 - src.core.data_processor - INFO - Processing data for in-n-out
+2025-07-27 13:55:26,059 - src.core.data_processor - INFO - Processed 423 locations for in-n-out
+2025-07-27 13:55:26,281 - src.core.base_scraper - ERROR - Error scraping in-n-out: writing to an open file handle is not yet supported; instead, write to a BytesIO instance and then read bytes from that to write to the file handle
+2025-07-27 13:55:26,283 - src.scrapers.registry - INFO - Completed in-n-out in 2.00s
+2025-07-27 13:55:51,221 - root - INFO - Logging initialized at INFO level
+2025-07-27 13:55:51,222 - src.utils.config - INFO - Loaded 3 company configurations
+2025-07-27 13:55:51,568 - src.scrapers.registry - INFO - Discovered 1 scrapers
+2025-07-27 13:55:51,568 - src.scrapers.registry - INFO - Processing in-n-out (1/1)
+2025-07-27 13:55:51,568 - src.scrapers.registry - INFO - Starting scraper for in-n-out
+2025-07-27 13:55:51,718 - src.core.base_scraper - INFO - Starting scrape for in-n-out
+2025-07-27 13:55:53,165 - src.core.data_processor - INFO - Processing data for in-n-out
+2025-07-27 13:55:53,180 - src.core.data_processor - INFO - Processed 423 locations for in-n-out
+2025-07-27 13:55:53,469 - pyogrio._io - INFO - Created 423 records
+2025-07-27 13:55:54,216 - src.core.base_scraper - ERROR - Error scraping in-n-out: Object of type int64 is not JSON serializable
+2025-07-27 13:55:54,220 - src.scrapers.registry - INFO - Completed in-n-out in 2.65s
+2025-07-27 13:56:20,963 - root - INFO - Logging initialized at INFO level
+2025-07-27 13:56:20,965 - src.utils.config - INFO - Loaded 3 company configurations
+2025-07-27 13:56:21,306 - src.scrapers.registry - INFO - Discovered 1 scrapers
+2025-07-27 13:56:21,306 - src.scrapers.registry - INFO - Processing in-n-out (1/1)
+2025-07-27 13:56:21,306 - src.scrapers.registry - INFO - Starting scraper for in-n-out
+2025-07-27 13:56:21,450 - src.core.base_scraper - INFO - Starting scrape for in-n-out
+2025-07-27 13:56:22,951 - src.core.data_processor - INFO - Processing data for in-n-out
+2025-07-27 13:56:22,967 - src.core.data_processor - INFO - Processed 423 locations for in-n-out
+2025-07-27 13:56:23,138 - pyogrio._io - INFO - Created 423 records
+2025-07-27 13:56:23,840 - src.scrapers.registry - INFO - Completed in-n-out in 2.53s
+2025-07-27 14:00:13,138 - root - INFO - Logging initialized at INFO level
+2025-07-27 14:00:13,140 - src.utils.config - INFO - Loaded 3 company configurations
+2025-07-27 14:00:13,508 - src.scrapers.registry - INFO - Discovered 2 scrapers
+2025-07-27 14:00:13,508 - src.scrapers.registry - INFO - Processing starbucks (1/1)
+2025-07-27 14:00:13,508 - src.scrapers.registry - INFO - Starting scraper for starbucks
+2025-07-27 14:00:13,651 - src.core.base_scraper - INFO - Starting scrape for starbucks
+2025-07-27 14:01:51,917 - src.core.base_scraper - ERROR - Error scraping starbucks: No stores found from any ZIP code
+2025-07-27 14:01:51,922 - src.scrapers.registry - INFO - Completed starbucks in 98.41s
+2025-07-27 14:04:01,391 - root - INFO - Logging initialized at INFO level
+2025-07-27 14:04:01,393 - src.utils.config - INFO - Loaded 3 company configurations
+2025-07-27 14:04:01,763 - src.scrapers.registry - INFO - Discovered 3 scrapers
+2025-07-27 14:04:01,763 - src.scrapers.registry - INFO - Processing trader-joes (1/1)
+2025-07-27 14:04:01,763 - src.scrapers.registry - INFO - Starting scraper for trader-joes
+2025-07-27 14:04:01,914 - src.core.base_scraper - INFO - Starting scrape for trader-joes
+2025-07-27 14:04:05,961 - src.core.data_processor - INFO - Processing data for trader-joes
+2025-07-27 14:04:05,990 - src.core.data_processor - INFO - Processed 623 locations for trader-joes
+2025-07-27 14:04:06,169 - pyogrio._io - INFO - Created 623 records
+2025-07-27 14:04:06,659 - src.scrapers.registry - INFO - Completed trader-joes in 4.90s
+2025-07-27 14:04:19,738 - root - INFO - Logging initialized at INFO level
+2025-07-27 14:04:19,739 - src.utils.config - INFO - Loaded 3 company configurations
+2025-07-27 14:04:34,312 - root - INFO - Logging initialized at INFO level
+2025-07-27 14:04:34,314 - src.utils.config - INFO - Loaded 3 company configurations
+2025-07-27 14:04:34,663 - src.scrapers.registry - INFO - Discovered 3 scrapers
+2025-07-27 14:04:34,663 - src.scrapers.registry - INFO - Processing mcdonalds (1/7)
+2025-07-27 14:04:34,663 - src.scrapers.registry - WARNING - Scraper not implemented for mcdonalds
+2025-07-27 14:04:34,663 - src.scrapers.registry - INFO - Processing in-n-out (2/7)
+2025-07-27 14:04:34,663 - src.scrapers.registry - INFO - Starting scraper for in-n-out
+2025-07-27 14:04:34,806 - src.core.base_scraper - INFO - Starting scrape for in-n-out
+2025-07-27 14:04:36,524 - src.core.data_processor - INFO - Processing data for in-n-out
+2025-07-27 14:04:36,545 - src.core.data_processor - INFO - Processed 423 locations for in-n-out
+2025-07-27 14:04:36,683 - pyogrio._io - INFO - Created 423 records
+2025-07-27 14:04:37,183 - src.scrapers.registry - INFO - Completed in-n-out in 2.52s
+2025-07-27 14:04:38,190 - src.scrapers.registry - INFO - Processing chipotle (3/7)
+2025-07-27 14:04:38,190 - src.scrapers.registry - WARNING - Scraper not implemented for chipotle
+2025-07-27 14:04:38,190 - src.scrapers.registry - INFO - Processing chick-fil-a (4/7)
+2025-07-27 14:04:38,190 - src.scrapers.registry - WARNING - Scraper not implemented for chick-fil-a
+2025-07-27 14:04:38,190 - src.scrapers.registry - INFO - Processing taco-bell (5/7)
+2025-07-27 14:04:38,191 - src.scrapers.registry - WARNING - Scraper not implemented for taco-bell
+2025-07-27 14:04:38,191 - src.scrapers.registry - INFO - Processing kfc (6/7)
+2025-07-27 14:04:38,191 - src.scrapers.registry - WARNING - Scraper not implemented for kfc
+2025-07-27 14:04:38,191 - src.scrapers.registry - INFO - Processing subway (7/7)
+2025-07-27 14:04:38,191 - src.scrapers.registry - WARNING - Scraper not implemented for subway
+2025-07-27 14:04:49,383 - root - INFO - Logging initialized at INFO level
+2025-07-27 14:04:49,385 - src.utils.config - INFO - Loaded 3 company configurations

@@ -3,7 +3,7 @@ import pandas as pd
 import geopandas as gpd
 import os
 import json
-from io import StringIO
+from io import StringIO, BytesIO
 from typing import Dict, List
 from datetime import datetime
 import logging
@@ -15,13 +15,16 @@ class S3Storage:
     
     def __init__(self, bucket_name: str = None):
         self.bucket_name = bucket_name or os.getenv('LOCATIONS_S3_BUCKET')
+        self.s3_prefix = "locations/"  # Base path within bucket
         if not self.bucket_name:
             logger.warning("S3 bucket not configured, using local storage fallback")
             self.use_local = True
         else:
             self.use_local = False
             try:
-                self.s3_client = boto3.client('s3')
+                # Use specific AWS profile
+                session = boto3.Session(profile_name='haekeo')
+                self.s3_client = session.client('s3')
             except Exception as e:
                 logger.warning(f"S3 client initialization failed: {e}, using local storage")
                 self.use_local = True
@@ -32,7 +35,7 @@ class S3Storage:
             return self._save_local_processed_data(df, company, timestamp)
             
         urls = {}
-        base_path = f"processed/{company}/{timestamp}"
+        base_path = f"{self.s3_prefix}processed/{company}/{timestamp}"
         
         # Save CSV
         csv_key = f"{base_path}/locations.csv"
@@ -55,8 +58,9 @@ class S3Storage:
                 crs='EPSG:4326'
             )
             geojson_key = f"{base_path}/locations.geojson"
-            geojson_buffer = StringIO()
+            geojson_buffer = BytesIO()
             gdf.to_file(geojson_buffer, driver='GeoJSON')
+            geojson_buffer.seek(0)  # Reset buffer position
             self.s3_client.put_object(
                 Bucket=self.bucket_name,
                 Key=geojson_key,
@@ -80,8 +84,8 @@ class S3Storage:
         metadata = {
             "company": company,
             "timestamp": timestamp,
-            "record_count": len(df),
-            "geocoded_count": len(geocoded_df),
+            "record_count": int(len(df)),
+            "geocoded_count": int(len(geocoded_df)),
             "columns": list(df.columns),
             "data_quality": self._calculate_quality_metrics(df)
         }
@@ -89,7 +93,7 @@ class S3Storage:
         self.s3_client.put_object(
             Bucket=self.bucket_name,
             Key=metadata_key,
-            Body=json.dumps(metadata, indent=2),
+            Body=json.dumps(metadata, indent=2, default=str),
             ContentType='application/json'
         )
         urls['metadata'] = f"s3://{self.bucket_name}/{metadata_key}"
@@ -132,14 +136,14 @@ class S3Storage:
         metadata = {
             "company": company,
             "timestamp": timestamp,
-            "record_count": len(df),
-            "geocoded_count": len(geocoded_df),
+            "record_count": int(len(df)),
+            "geocoded_count": int(len(geocoded_df)),
             "columns": list(df.columns),
             "data_quality": self._calculate_quality_metrics(df)
         }
         metadata_path = f"{base_dir}/metadata.json"
         with open(metadata_path, 'w') as f:
-            json.dump(metadata, f, indent=2)
+            json.dump(metadata, f, indent=2, default=str)
         urls['metadata'] = metadata_path
         
         return urls
@@ -153,7 +157,7 @@ class S3Storage:
             data.to_json(raw_path, orient='records', indent=2)
             return raw_path
         else:
-            raw_key = f"raw/{company}/{timestamp}/raw_data.json"
+            raw_key = f"{self.s3_prefix}raw/{company}/{timestamp}/raw_data.json"
             raw_json = data.to_json(orient='records', indent=2)
             self.s3_client.put_object(
                 Bucket=self.bucket_name,
@@ -181,7 +185,7 @@ class S3Storage:
                 if os.path.exists(csv_path):
                     return pd.read_csv(csv_path)
             else:
-                key = f"processed/{company}/latest/locations.csv"
+                key = f"{self.s3_prefix}processed/{company}/latest/locations.csv"
                 obj = self.s3_client.get_object(Bucket=self.bucket_name, Key=key)
                 return pd.read_csv(obj['Body'])
         except Exception as e:
@@ -198,10 +202,10 @@ class S3Storage:
         geocoded = df.dropna(subset=['latitude', 'longitude'])
         
         return {
-            "total_locations": total_locations,
-            "geocoded_locations": len(geocoded),
-            "geocoding_rate": len(geocoded) / total_locations if total_locations > 0 else 0,
-            "states_covered": df['state'].nunique() if 'state' in df.columns else 0,
-            "missing_addresses": df['address'].isna().sum() if 'address' in df.columns else 0,
-            "missing_cities": df['city'].isna().sum() if 'city' in df.columns else 0
+            "total_locations": int(total_locations),
+            "geocoded_locations": int(len(geocoded)),
+            "geocoding_rate": float(len(geocoded) / total_locations if total_locations > 0 else 0),
+            "states_covered": int(df['state'].nunique() if 'state' in df.columns else 0),
+            "missing_addresses": int(df['address'].isna().sum() if 'address' in df.columns else 0),
+            "missing_cities": int(df['city'].isna().sum() if 'city' in df.columns else 0)
         } 

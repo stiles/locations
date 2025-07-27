@@ -10,9 +10,10 @@ tqdm>=4.64.0
 PyYAML>=6.0
 click>=8.1.0
 
-# Geocoding
+# Geocoding and geo utilities
 geopy>=2.3.0
 usaddress>=0.5.10
+us>=3.1.0
 
 # AWS/Cloud storage (optional)
 boto3>=1.26.0

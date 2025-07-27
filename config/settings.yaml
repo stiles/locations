@@ -1,5 +1,5 @@
 storage:
-  s3_bucket: ""  # Set via environment variable LOCATIONS_S3_BUCKET
+  s3_bucket: "stilesdata.com"  # S3 bucket for location data
   local_cache_dir: "data/cache"
   retention_days: 90
 
