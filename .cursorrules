@@ -1,0 +1,116 @@
+# Style guide for writing documentation (no ai-speak)
+
+## Language rules
+
+- **Avoid generic buzzwords** like:  
+  `robust`, `powerful`, `intelligent`, `cutting-edge`, `game-changing`, `leverages`, `seamlessly`, `state-of-the-art`, `AI-powered`, `robustly handles`, `delightful`, `empowers developers`, `enterprise-grade`, `next-generation`, `revolutionary`
+
+- **Don't anthropomorphize code**  
+  Code doesn't "understand", "know", "think", "decide", "learn", or "remember". Just say what it does.  
+  ✅ "Parses shapefiles into GeoJSON"  
+  🚫 "Intelligently understands shapefiles"
+
+- **Be factual, not promotional**  
+  Describe what the tool does, not how awesome it is.  
+  ✅ "Parses shapefiles into GeoJSON"  
+  🚫 "A powerful tool that effortlessly parses shapefiles"
+
+- **Use plain verbs over abstractions**  
+  ✅ "Reads a config file"  
+  🚫 "Leverages configuration-driven logic"
+
+- **No Oxford commas**  
+  Lists should be like: "parses files, flattens keys and writes output"
+
+- **Use present tense**  
+  ✅ "This script fetches rainfall data"  
+  🚫 "This script has been designed to fetch..." or "This script will fetch..."
+
+- **No filler words or hedging**  
+  Avoid: "simply", "just", "easily", "quickly", "obviously", "of course"
+
+## Formatting rules
+
+- **Use sentence case for ALL headings**  
+  Capitalize only the first word and proper nouns in all markdown headings.  
+  ✅ `## Configuration management`  
+  ✅ `### GitHub Actions automation`  
+  ✅ `#### Data versioning strategy`  
+  ✅ `## Install dependencies`  
+  🚫 `## Configuration Management`  
+  🚫 `### GitHub Actions Automation`  
+  🚫 `#### Data Versioning Strategy`
+
+- **Avoid unnecessary adjectives in section headers**  
+  ✅ `## Usage`  
+  🚫 `## Simple usage` or `## Easy-to-use interface`
+
+- **Don't thank the user**  
+  Skip phrases like "Thanks for checking this out" — that belongs in `CONTRIBUTING.md` if anywhere.
+
+- **No emojis unless labeling something informal or making a joke**  
+  Keep the tone straight and functional.
+
+- **Use code blocks for commands, not inline code**  
+  ✅ 
+  ```bash
+  git clone https://github.com/user/repo.git
+  cd repo
+  ```
+  🚫 Run `git clone https://github.com/user/repo.git` and then `cd repo`
+
+## Tone rules
+
+- **Prefer "you can" over "the user can"**  
+  It's friendlier and more direct.
+
+- **No filler intros**  
+  Don't start with:  
+  > "In today's data-driven world, managing spatial information has become more important than ever…"  
+  Just get to the point.
+
+- **Don't refer to "you", "your", or "the user" in code comments**  
+  Code comments should describe what the code does, not address readers.
+
+- **Remove any clues that code was written with AI assistance**  
+  No "Here's a script that...", "This implementation...", or other AI-speak in documentation.
+
+## File-specific rules
+
+- **README files**: Follow all above rules, focus on what the tool does and how to use it
+- **Code comments**: Be factual, don't address the reader, describe functionality
+- **Commit messages**: Use imperative mood ("Add feature" not "Added feature")
+- **Documentation**: No apologetic language ("This might not be perfect but...")
+
+## Good example
+
+```md
+# flight_tracer
+
+Command-line tool for tracing commercial flights using Flightradar24 data.
+
+## Install
+
+Clone the repo and install dependencies:
+
+```bash
+git clone https://github.com/user/flight_tracer.git
+cd flight_tracer
+pip install -r requirements.txt
+```
+
+## Usage
+
+Run with a flight number and date:
+
+```bash
+python trace.py --flight AA100 --date 2025-07-10
+```
+
+This saves a GeoJSON of the flight path and a PNG map to the `visuals/` directory.
+
+## Output
+
+- **GeoJSON**: `visuals/flight_path_AA100.geojson`
+- **Map**: `visuals/flight_map_AA100.png`
+``` 

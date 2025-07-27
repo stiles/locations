@@ -1,0 +1,31 @@
+storage:
+  s3_bucket: ""  # Set via environment variable LOCATIONS_S3_BUCKET
+  local_cache_dir: "data/cache"
+  retention_days: 90
+
+geocoding:
+  service: "nominatim"
+  rate_limit: 1.0
+  timeout: 10
+  fallback_service: ""  # Can be set to "google" if API key available
+
+data_processing:
+  required_columns: ["name", "address", "city", "state"]
+  geocoding_threshold: 0.8  # minimum geocoding success rate
+  max_locations_per_company: 50000
+
+logging:
+  level: "INFO"
+  format: "%(asctime)s - %(name)s - %(levelname)s - %(message)s"
+  file: "logs/locations.log"
+
+automation:
+  schedule: "weekly"  # daily, weekly, monthly
+  error_threshold: 0.1  # fail if >10% of companies fail
+  notification_email: ""  # Set via environment variable
+
+# Development settings
+development:
+  test_mode: false
+  dry_run: false
+  sample_size: null  # Set to number to limit scraping for testing 

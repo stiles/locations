@@ -1,0 +1,7 @@
+2025-07-27 13:24:25,816 - root - INFO - Logging initialized at INFO level
+2025-07-27 13:24:25,819 - src.utils.config - INFO - Loaded 3 company configurations
+2025-07-27 13:24:36,077 - root - INFO - Logging initialized at INFO level
+2025-07-27 13:24:36,079 - src.utils.config - INFO - Loaded 3 company configurations
+2025-07-27 13:24:36,079 - src.utils.config - WARNING - No configuration found for company: dunkin-donuts
+2025-07-27 13:24:36,079 - src.utils.config - WARNING - No configuration found for company: krispy-kreme
+2025-07-27 13:24:36,079 - src.utils.config - WARNING - No configuration found for company: crumbl

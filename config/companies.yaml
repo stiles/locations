@@ -1,0 +1,65 @@
+companies:
+  starbucks:
+    name: "Starbucks"
+    category: "Coffee Shops & Desserts"
+    scraper_class: "StarbucksScraper"
+    api_endpoint: "https://store-locator.starbucks.com/api/locations"
+    rate_limit: 0.5
+    timeout: 45
+    headers:
+      User-Agent: "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36"
+      Accept: "application/json"
+    pagination:
+      enabled: true
+      page_size: 100
+      
+  in-n-out:
+    name: "In-N-Out Burger"
+    category: "Fast Food & Quick Service"
+    scraper_class: "InNOutScraper"
+    base_url: "https://locations.in-n-out.com/"
+    rate_limit: 1.0
+    timeout: 30
+    headers:
+      User-Agent: "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36"
+    retry_attempts: 3
+    
+  trader-joes:
+    name: "Trader Joe's"
+    category: "Grocery & Supermarkets"
+    scraper_class: "TraderJoesScraper"
+    api_endpoint: "https://www.traderjoes.com/api/locations"
+    rate_limit: 1.0
+    timeout: 30
+    headers:
+      User-Agent: "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7)"
+      Accept: "application/json"
+    retry_attempts: 3
+
+categories:
+  "Fast Food & Quick Service":
+    - "mcdonalds"
+    - "in-n-out"
+    - "chipotle"
+    - "chick-fil-a"
+    - "taco-bell"
+    - "kfc"
+    - "subway"
+    
+  "Coffee Shops & Desserts":
+    - "starbucks"
+    - "dunkin-donuts"
+    - "krispy-kreme"
+    - "crumbl"
+    
+  "Grocery & Supermarkets":
+    - "trader-joes"
+    - "costco"
+    - "kroger"
+    - "safeway"
+    
+  "Retail Stores":
+    - "home-depot"
+    - "cvs"
+    - "walgreens"
+    - "dollar-general" 
