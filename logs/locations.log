@@ -114,3 +114,27 @@
 2025-07-27 14:04:38,191 - src.scrapers.registry - WARNING - Scraper not implemented for subway
 2025-07-27 14:04:49,383 - root - INFO - Logging initialized at INFO level
 2025-07-27 14:04:49,385 - src.utils.config - INFO - Loaded 3 company configurations
+2025-07-27 14:21:09,694 - root - INFO - Logging initialized at INFO level
+2025-07-27 14:21:09,697 - src.utils.config - INFO - Loaded 3 company configurations
+2025-07-27 14:21:24,695 - root - INFO - Logging initialized at INFO level
+2025-07-27 14:21:24,697 - src.utils.config - INFO - Loaded 3 company configurations
+2025-07-27 14:21:32,940 - src.scrapers.registry - INFO - Discovered 3 scrapers
+2025-07-27 14:21:32,941 - src.scrapers.registry - INFO - Processing in-n-out (1/1)
+2025-07-27 14:21:32,941 - src.scrapers.registry - INFO - Starting scraper for in-n-out
+2025-07-27 14:21:33,231 - src.core.storage - WARNING - S3 bucket not configured, using local storage fallback
+2025-07-27 14:21:33,231 - src.core.base_scraper - INFO - Starting scrape for in-n-out
+2025-07-27 14:21:34,607 - src.core.data_processor - INFO - Processing data for in-n-out
+2025-07-27 14:21:34,620 - src.core.data_processor - INFO - Processed 423 locations for in-n-out
+2025-07-27 14:21:35,610 - pyogrio._io - INFO - Created 423 records
+2025-07-27 14:21:35,614 - src.scrapers.registry - INFO - Completed in-n-out in 2.67s
+2025-07-27 14:23:45,291 - root - INFO - Logging initialized at INFO level
+2025-07-27 14:23:45,293 - src.utils.config - INFO - Loaded 3 company configurations
+2025-07-27 14:23:45,467 - src.scrapers.registry - INFO - Discovered 3 scrapers
+2025-07-27 14:23:45,467 - src.scrapers.registry - INFO - Processing in-n-out (1/1)
+2025-07-27 14:23:45,467 - src.scrapers.registry - INFO - Starting scraper for in-n-out
+2025-07-27 14:23:45,549 - src.core.storage - INFO - S3 storage initialized with bucket: stilesdata.com
+2025-07-27 14:23:45,549 - src.core.base_scraper - INFO - Starting scrape for in-n-out
+2025-07-27 14:23:47,323 - src.core.data_processor - INFO - Processing data for in-n-out
+2025-07-27 14:23:47,344 - src.core.data_processor - INFO - Processed 423 locations for in-n-out
+2025-07-27 14:23:47,465 - pyogrio._io - INFO - Created 423 records
+2025-07-27 14:23:48,010 - src.scrapers.registry - INFO - Completed in-n-out in 2.54s

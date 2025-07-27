@@ -14,7 +14,12 @@ class S3Storage:
     """Handles S3 storage operations for location data"""
     
     def __init__(self, bucket_name: str = None):
-        self.bucket_name = bucket_name or os.getenv('LOCATIONS_S3_BUCKET')
+        # Try bucket_name parameter, then environment variable, then config file
+        self.bucket_name = (
+            bucket_name or 
+            os.getenv('LOCATIONS_S3_BUCKET') or
+            self._get_bucket_from_config()
+        )
         self.s3_prefix = "locations/"  # Base path within bucket
         if not self.bucket_name:
             logger.warning("S3 bucket not configured, using local storage fallback")
@@ -25,9 +30,20 @@ class S3Storage:
                 # Use specific AWS profile
                 session = boto3.Session(profile_name='haekeo')
                 self.s3_client = session.client('s3')
+                logger.info(f"S3 storage initialized with bucket: {self.bucket_name}")
             except Exception as e:
                 logger.warning(f"S3 client initialization failed: {e}, using local storage")
                 self.use_local = True
+    
+    def _get_bucket_from_config(self) -> str:
+        """Get S3 bucket from configuration file"""
+        try:
+            from src.utils.config import config
+            settings = config.load_settings()
+            return settings.get('storage', {}).get('s3_bucket', '')
+        except Exception as e:
+            logger.debug(f"Could not load bucket from config: {e}")
+            return ''
         
     def save_processed_data(self, df: pd.DataFrame, company: str, timestamp: str) -> Dict[str, str]:
         """Save processed data in multiple formats"""

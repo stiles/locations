@@ -1,8 +1,93 @@
-.ipynb_checkpoints
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+share/python-wheels/
+*.egg-info/
+.installed.cfg
+*.egg
+MANIFEST
+
+# Virtual environments
+.env
+.venv
+env/
+venv/
+ENV/
+env.bak/
+venv.bak/
+.virtualenv/
+
+# uv
+.uv/
+uv.lock
+
+# IDEs
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# Testing
+.coverage
+.coverage.*
+coverage.xml
+*.cover
+.hypothesis/
+.pytest_cache/
+htmlcov/
+
+# Jupyter
+.ipynb_checkpoints/
+*.ipynb_checkpoints
+
+# OS
 .DS_Store
-_drafts/
-_template/
-_drafts
-_template
-__reference
-__reference/
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+
+# Logs
+*.log
+logs/
+
+# Data files (keep structure, not content)
+data/
+!data/.gitignore
+!data/cache/.gitignore
+
+# Converted notebooks (temporary)
+notebooks_as_py/
+
+# Temporary files
+tmp/
+temp/
+*.tmp
+*.bak
+
+# AWS credentials (security)
+.aws/
+aws-credentials.*
+
+# Environment variables
+.env.local
+.env.production
+.env.staging
