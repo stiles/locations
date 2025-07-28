@@ -52,21 +52,90 @@ class DataProcessor:
         """Standardize column names and add metadata"""
         df = df.copy()
         
+        # Define standard column mapping
+        column_mapping = {
+            # Store identifier variations
+            'storenumber': 'store_id',
+            'store_number': 'store_id', 
+            'storeId': 'store_id',
+            'id': 'store_id',
+            
+            # Address variations
+            'streetaddress': 'address',
+            'address1': 'address',
+            'street_address': 'address',
+            'streetAddressLine1': 'address',
+            
+            # ZIP code variations  
+            'zipcode': 'zip_code',
+            'zip': 'zip_code',
+            'postal_code': 'zip_code',
+            'postalCode': 'zip_code',
+            
+            # Phone variations
+            'phone_number': 'phone',
+            'telephone': 'phone',
+            
+            # Coordinate variations
+            'lat': 'latitude',
+            'lng': 'longitude',
+            'lon': 'longitude'
+        }
+        
+        # Apply column mapping
+        df = df.rename(columns=column_mapping)
+        
+        # Ensure required columns exist with proper defaults
+        required_columns = {
+            'name': '',
+            'address': '',
+            'city': '', 
+            'state': '',
+            'zip_code': '',
+            'latitude': None,
+            'longitude': None
+        }
+        
+        for col, default_value in required_columns.items():
+            if col not in df.columns:
+                df[col] = default_value
+        
+        # Clean and standardize data
+        if 'state' in df.columns:
+            df['state'] = df['state'].astype(str).str.upper().str.strip()
+            
+        if 'zip_code' in df.columns:
+            # Ensure 5-digit ZIP codes
+            df['zip_code'] = df['zip_code'].astype(str).str.strip().str[:5]
+            
+        # Clean phone numbers
+        if 'phone' in df.columns:
+            df['phone'] = df['phone'].astype(str).str.replace(r'[^\d]', '', regex=True)
+            df['phone'] = df['phone'].replace('', None)
+        
         # Add metadata columns
         df['company'] = company_name
         df['scraped_date'] = pd.Timestamp.now().strftime("%Y-%m-%d")
         
-        # Standardize state abbreviations
-        if 'state' in df.columns:
-            df['state'] = df['state'].str.upper()
-        
-        # Create unique identifier
+        # Create unique identifier using standardized columns
         df['location_id'] = df.apply(
             lambda row: f"{company_name}_{hash(str(row.get('address', '')) + '_' + str(row.get('city', '')) + '_' + str(row.get('state', '')))}",
             axis=1
         )
         
-        return df
+        # Reorder columns to standard format
+        standard_order = [
+            'location_id', 'company', 'store_id', 'name', 
+            'address', 'address2', 'city', 'state', 'zip_code',
+            'phone', 'latitude', 'longitude', 'scraped_date'
+        ]
+        
+        # Keep existing columns that aren't in standard order at the end
+        existing_cols = [col for col in standard_order if col in df.columns]
+        extra_cols = [col for col in df.columns if col not in standard_order]
+        final_columns = existing_cols + extra_cols
+        
+        return df[final_columns]
         
     def create_geodataframe(self, df: pd.DataFrame) -> gpd.GeoDataFrame:
         """Convert DataFrame to GeoDataFrame with Point geometries"""

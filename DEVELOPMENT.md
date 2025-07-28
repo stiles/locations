@@ -25,7 +25,7 @@ uv sync --dev                                    # Install dependencies
 make help
 
 # Activate virtual environment  
-uv shell
+source .venv/bin/activate  # OR use 'uv run <command>'
 
 # Run tests
 make test

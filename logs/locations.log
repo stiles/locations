@@ -138,3 +138,663 @@
 2025-07-27 14:23:47,344 - src.core.data_processor - INFO - Processed 423 locations for in-n-out
 2025-07-27 14:23:47,465 - pyogrio._io - INFO - Created 423 records
 2025-07-27 14:23:48,010 - src.scrapers.registry - INFO - Completed in-n-out in 2.54s
+2025-07-27 17:05:26,042 - root - INFO - Logging initialized at INFO level
+2025-07-27 17:05:26,045 - src.utils.config - INFO - Loaded 4 company configurations
+2025-07-27 17:05:36,753 - root - INFO - Logging initialized at INFO level
+2025-07-27 17:05:36,755 - src.utils.config - INFO - Loaded 4 company configurations
+2025-07-27 17:05:37,326 - src.scrapers.registry - INFO - Discovered 4 scrapers
+2025-07-27 17:05:37,326 - src.scrapers.registry - INFO - Processing barnes-and-noble (1/1)
+2025-07-27 17:05:37,326 - src.scrapers.registry - INFO - Starting scraper for barnes-and-noble
+2025-07-27 17:05:37,510 - src.core.storage - INFO - S3 storage initialized with bucket: stilesdata.com
+2025-07-27 17:05:37,510 - src.core.base_scraper - INFO - Starting scrape for barnes-and-noble
+2025-07-27 17:06:34,674 - root - INFO - Logging initialized at INFO level
+2025-07-27 17:06:34,676 - src.utils.config - INFO - Loaded 4 company configurations
+2025-07-27 17:06:34,851 - src.scrapers.registry - INFO - Discovered 4 scrapers
+2025-07-27 17:06:34,851 - src.scrapers.registry - INFO - Processing barnes-and-noble (1/1)
+2025-07-27 17:06:34,851 - src.scrapers.registry - INFO - Starting scraper for barnes-and-noble
+2025-07-27 17:06:34,934 - src.core.storage - INFO - S3 storage initialized with bucket: stilesdata.com
+2025-07-27 17:06:34,934 - src.core.base_scraper - INFO - Starting scrape for barnes-and-noble
+2025-07-27 17:07:03,319 - src.core.data_processor - INFO - Processing data for barnes-and-noble
+2025-07-27 17:07:03,326 - src.core.data_processor - INFO - Processed 134 locations for barnes-and-noble
+2025-07-27 17:07:03,512 - pyogrio._io - INFO - Created 134 records
+2025-07-27 17:07:03,880 - src.scrapers.registry - INFO - Completed barnes-and-noble in 29.03s
+2025-07-27 17:08:32,366 - root - INFO - Logging initialized at INFO level
+2025-07-27 17:08:32,368 - src.utils.config - INFO - Loaded 4 company configurations
+2025-07-27 17:08:32,548 - src.scrapers.registry - INFO - Discovered 4 scrapers
+2025-07-27 17:08:32,549 - src.scrapers.registry - INFO - Processing barnes-and-noble (1/1)
+2025-07-27 17:08:32,549 - src.scrapers.registry - INFO - Starting scraper for barnes-and-noble
+2025-07-27 17:08:32,631 - src.core.storage - INFO - S3 storage initialized with bucket: stilesdata.com
+2025-07-27 17:08:32,631 - src.core.base_scraper - INFO - Starting scrape for barnes-and-noble
+2025-07-27 17:59:30,406 - root - INFO - Logging initialized at INFO level
+2025-07-27 17:59:30,408 - src.utils.config - INFO - Loaded 4 company configurations
+2025-07-27 17:59:30,591 - src.scrapers.registry - INFO - Discovered 4 scrapers
+2025-07-27 17:59:30,591 - src.scrapers.registry - INFO - Processing in-n-out (1/1)
+2025-07-27 17:59:30,591 - src.scrapers.registry - INFO - Starting scraper for in-n-out
+2025-07-27 17:59:30,677 - src.core.storage - INFO - S3 storage initialized with bucket: stilesdata.com
+2025-07-27 17:59:30,677 - src.core.base_scraper - INFO - Starting scrape for in-n-out
+2025-07-27 17:59:31,129 - src.core.data_processor - INFO - Processing data for barnes-and-noble
+2025-07-27 17:59:31,142 - src.core.data_processor - INFO - Processed 569 locations for barnes-and-noble
+2025-07-27 17:59:31,326 - pyogrio._io - INFO - Created 569 records
+2025-07-27 17:59:31,906 - src.scrapers.registry - INFO - Completed barnes-and-noble in 3059.36s
+2025-07-27 17:59:32,862 - src.core.data_processor - INFO - Processing data for in-n-out
+2025-07-27 17:59:32,872 - src.core.data_processor - INFO - Processed 423 locations for in-n-out
+2025-07-27 17:59:32,989 - pyogrio._io - INFO - Created 423 records
+2025-07-27 17:59:33,481 - src.scrapers.registry - INFO - Completed in-n-out in 2.89s
+2025-07-27 18:04:41,473 - root - INFO - Logging initialized at INFO level
+2025-07-27 18:04:41,476 - src.utils.config - INFO - Loaded 5 company configurations
+2025-07-27 18:04:48,155 - root - INFO - Logging initialized at INFO level
+2025-07-27 18:04:48,157 - src.utils.config - INFO - Loaded 5 company configurations
+2025-07-27 18:04:48,349 - src.scrapers.registry - INFO - Discovered 5 scrapers
+2025-07-27 18:04:48,349 - src.scrapers.registry - INFO - Processing cvs (1/1)
+2025-07-27 18:04:48,349 - src.scrapers.registry - INFO - Starting scraper for cvs
+2025-07-27 18:04:48,443 - src.core.storage - INFO - S3 storage initialized with bucket: stilesdata.com
+2025-07-27 18:04:48,443 - src.core.base_scraper - INFO - Starting scrape for cvs
+2025-07-27 18:07:16,630 - src.core.data_processor - INFO - Processing data for cvs
+2025-07-27 18:07:16,977 - src.core.data_processor - INFO - Processed 1 locations for cvs
+2025-07-27 18:07:17,083 - pyogrio._io - INFO - Created 1 records
+2025-07-27 18:07:17,389 - src.scrapers.registry - INFO - Completed cvs in 149.04s
+2025-07-27 18:12:56,716 - root - INFO - Logging initialized at INFO level
+2025-07-27 18:12:56,718 - src.utils.config - INFO - Loaded 5 company configurations
+2025-07-27 18:12:56,892 - src.scrapers.registry - INFO - Discovered 5 scrapers
+2025-07-27 18:12:56,892 - src.scrapers.registry - INFO - Processing cvs (1/1)
+2025-07-27 18:12:56,892 - src.scrapers.registry - INFO - Starting scraper for cvs
+2025-07-27 18:12:56,974 - src.core.storage - INFO - S3 storage initialized with bucket: stilesdata.com
+2025-07-27 18:12:56,974 - src.core.base_scraper - INFO - Starting scrape for cvs
+2025-07-27 18:15:24,274 - src.core.data_processor - INFO - Processing data for cvs
+2025-07-27 18:15:24,364 - src.core.data_processor - INFO - Processed 3982 locations for cvs
+2025-07-27 18:15:25,335 - pyogrio._io - INFO - Created 3,982 records
+2025-07-27 18:15:28,303 - src.scrapers.registry - INFO - Completed cvs in 151.41s
+2025-07-27 18:23:33,875 - root - INFO - Logging initialized at INFO level
+2025-07-27 18:23:33,878 - src.utils.config - INFO - Loaded 6 company configurations
+2025-07-27 18:23:45,972 - root - INFO - Logging initialized at INFO level
+2025-07-27 18:23:45,975 - src.utils.config - INFO - Loaded 6 company configurations
+2025-07-27 18:23:46,150 - src.scrapers.registry - INFO - Discovered 6 scrapers
+2025-07-27 18:23:46,151 - src.scrapers.registry - INFO - Processing king-taco (1/1)
+2025-07-27 18:23:46,151 - src.scrapers.registry - INFO - Starting scraper for king-taco
+2025-07-27 18:23:46,236 - src.core.storage - INFO - S3 storage initialized with bucket: stilesdata.com
+2025-07-27 18:23:46,236 - src.core.base_scraper - INFO - Starting scrape for king-taco
+2025-07-27 18:23:47,793 - src.core.data_processor - INFO - Processing data for king-taco
+2025-07-27 18:23:47,796 - src.core.data_processor - INFO - Processed 22 locations for king-taco
+2025-07-27 18:23:47,890 - pyogrio._io - INFO - Created 22 records
+2025-07-27 18:23:48,144 - src.scrapers.registry - INFO - Completed king-taco in 1.99s
+2025-07-27 18:28:06,972 - root - INFO - Logging initialized at INFO level
+2025-07-27 18:28:06,975 - src.utils.config - INFO - Loaded 7 company configurations
+2025-07-27 18:28:07,513 - src.scrapers.registry - INFO - Discovered 7 scrapers
+2025-07-27 18:28:07,513 - src.scrapers.registry - INFO - Processing buc-ees (1/1)
+2025-07-27 18:28:07,513 - src.scrapers.registry - INFO - Starting scraper for buc-ees
+2025-07-27 18:28:07,611 - src.core.storage - INFO - S3 storage initialized with bucket: stilesdata.com
+2025-07-27 18:28:07,611 - src.core.base_scraper - INFO - Starting scrape for buc-ees
+2025-07-27 18:28:08,890 - src.core.data_processor - INFO - Processing data for buc-ees
+2025-07-27 18:28:34,991 - urllib3.connectionpool - WARNING - Retrying (Retry(total=1, connect=None, read=None, redirect=None, status=None)) after connection broken by 'ReadTimeoutError("HTTPSConnectionPool(host='nominatim.openstreetmap.org', port=443): Read timed out. (read timeout=1)")': /search?q=801+N+Brooks%2BBrazoria%2BTexas%2B77422%2C+Brazoria%2C+TX&format=json&limit=1
+2025-07-27 18:29:04,241 - urllib3.connectionpool - WARNING - Retrying (Retry(total=1, connect=None, read=None, redirect=None, status=None)) after connection broken by 'ReadTimeoutError("HTTPSConnectionPool(host='nominatim.openstreetmap.org', port=443): Read timed out. (read timeout=1)")': /search?q=10484+US+59+Road%2BWharton%2BTexas%2B77488%2C+Wharton%2C+TX&format=json&limit=1
+2025-07-27 18:29:05,153 - src.core.data_processor - INFO - Processed 54 locations for buc-ees
+2025-07-27 18:29:05,644 - src.scrapers.registry - INFO - Completed buc-ees in 58.13s
+2025-07-27 18:30:55,494 - root - INFO - Logging initialized at INFO level
+2025-07-27 18:30:55,497 - src.utils.config - INFO - Loaded 8 company configurations
+2025-07-27 18:30:55,699 - src.scrapers.registry - INFO - Discovered 8 scrapers
+2025-07-27 18:30:55,699 - src.scrapers.registry - INFO - Processing wahoos (1/1)
+2025-07-27 18:30:55,699 - src.scrapers.registry - INFO - Starting scraper for wahoos
+2025-07-27 18:30:55,779 - src.core.storage - INFO - S3 storage initialized with bucket: stilesdata.com
+2025-07-27 18:30:55,779 - src.core.base_scraper - INFO - Starting scrape for wahoos
+2025-07-27 18:30:59,861 - src.core.data_processor - INFO - Processing data for wahoos
+2025-07-27 18:30:59,870 - src.core.data_processor - INFO - Processed 44 locations for wahoos
+2025-07-27 18:30:59,992 - pyogrio._io - INFO - Created 44 records
+2025-07-27 18:31:00,329 - src.scrapers.registry - INFO - Completed wahoos in 4.63s
+2025-07-27 18:35:32,800 - root - INFO - Logging initialized at INFO level
+2025-07-27 18:35:32,804 - src.utils.config - INFO - Loaded 9 company configurations
+2025-07-27 18:35:33,010 - src.scrapers.registry - INFO - Discovered 9 scrapers
+2025-07-27 18:35:33,010 - src.scrapers.registry - INFO - Processing au-bon-pain (1/1)
+2025-07-27 18:35:33,011 - src.scrapers.registry - INFO - Starting scraper for au-bon-pain
+2025-07-27 18:35:33,090 - src.core.storage - INFO - S3 storage initialized with bucket: stilesdata.com
+2025-07-27 18:35:33,090 - src.core.base_scraper - INFO - Starting scrape for au-bon-pain
+2025-07-27 18:35:34,159 - src.core.data_processor - INFO - Processing data for au-bon-pain
+2025-07-27 18:35:36,170 - urllib3.connectionpool - WARNING - Retrying (Retry(total=1, connect=None, read=None, redirect=None, status=None)) after connection broken by 'ReadTimeoutError("HTTPSConnectionPool(host='nominatim.openstreetmap.org', port=443): Read timed out. (read timeout=1)")': /search?q=Cannon+House+Office+Building+27+Independence+Ave+Room+192%2C%2C+Washington%2C+DC&format=json&limit=1
+2025-07-27 18:35:39,199 - urllib3.connectionpool - WARNING - Retrying (Retry(total=1, connect=None, read=None, redirect=None, status=None)) after connection broken by 'ReadTimeoutError("HTTPSConnectionPool(host='nominatim.openstreetmap.org', port=443): Read timed out. (read timeout=1)")': /search?q=11760+Bird+Road%2C%2C+Miami%2C+FL&format=json&limit=1
+2025-07-27 18:35:41,968 - urllib3.connectionpool - WARNING - Retrying (Retry(total=1, connect=None, read=None, redirect=None, status=None)) after connection broken by 'ReadTimeoutError("HTTPSConnectionPool(host='nominatim.openstreetmap.org', port=443): Read timed out. (read timeout=1)")': /search?q=Terminal+D44%2C%2C+Miami%2C+FL&format=json&limit=1
+2025-07-27 18:35:43,064 - urllib3.connectionpool - WARNING - Retrying (Retry(total=0, connect=None, read=None, redirect=None, status=None)) after connection broken by 'ReadTimeoutError("HTTPSConnectionPool(host='nominatim.openstreetmap.org', port=443): Read timed out. (read timeout=1)")': /search?q=Terminal+D44%2C%2C+Miami%2C+FL&format=json&limit=1
+2025-07-27 18:35:44,931 - urllib3.connectionpool - WARNING - Retrying (Retry(total=1, connect=None, read=None, redirect=None, status=None)) after connection broken by 'ReadTimeoutError("HTTPSConnectionPool(host='nominatim.openstreetmap.org', port=443): Read timed out. (read timeout=1)")': /search?q=Terminal+G%2C%2C+Miami%2C+FL&format=json&limit=1
+2025-07-27 18:35:46,067 - urllib3.connectionpool - WARNING - Retrying (Retry(total=0, connect=None, read=None, redirect=None, status=None)) after connection broken by 'ReadTimeoutError("HTTPSConnectionPool(host='nominatim.openstreetmap.org', port=443): Read timed out. (read timeout=1)")': /search?q=Terminal+G%2C%2C+Miami%2C+FL&format=json&limit=1
+2025-07-27 18:35:49,127 - urllib3.connectionpool - WARNING - Retrying (Retry(total=1, connect=None, read=None, redirect=None, status=None)) after connection broken by 'ReadTimeoutError("HTTPSConnectionPool(host='nominatim.openstreetmap.org', port=443): Read timed out. (read timeout=1)")': /search?q=Terminal+A%2C%2C+Miami%2C+FL&format=json&limit=1
+2025-07-27 18:35:50,249 - urllib3.connectionpool - WARNING - Retrying (Retry(total=0, connect=None, read=None, redirect=None, status=None)) after connection broken by 'ReadTimeoutError("HTTPSConnectionPool(host='nominatim.openstreetmap.org', port=443): Read timed out. (read timeout=1)")': /search?q=Terminal+A%2C%2C+Miami%2C+FL&format=json&limit=1
+2025-07-27 18:35:51,344 - geopy - WARNING - RateLimiter caught an error, retrying (0/2 tries). Called with (*('Terminal A,, Miami, FL',), **{}).
+Traceback (most recent call last):
+  File "/Users/mstiles/github/locations/.venv/lib/python3.10/site-packages/urllib3/connectionpool.py", line 534, in _make_request
+    response = conn.getresponse()
+  File "/Users/mstiles/github/locations/.venv/lib/python3.10/site-packages/urllib3/connection.py", line 565, in getresponse
+    httplib_response = super().getresponse()
+  File "/Users/mstiles/.local/share/uv/python/cpython-3.10.18-macos-aarch64-none/lib/python3.10/http/client.py", line 1375, in getresponse
+    response.begin()
+  File "/Users/mstiles/.local/share/uv/python/cpython-3.10.18-macos-aarch64-none/lib/python3.10/http/client.py", line 318, in begin
+    version, status, reason = self._read_status()
+  File "/Users/mstiles/.local/share/uv/python/cpython-3.10.18-macos-aarch64-none/lib/python3.10/http/client.py", line 279, in _read_status
+    line = str(self.fp.readline(_MAXLINE + 1), "iso-8859-1")
+  File "/Users/mstiles/.local/share/uv/python/cpython-3.10.18-macos-aarch64-none/lib/python3.10/socket.py", line 717, in readinto
+    return self._sock.recv_into(b)
+  File "/Users/mstiles/.local/share/uv/python/cpython-3.10.18-macos-aarch64-none/lib/python3.10/ssl.py", line 1307, in recv_into
+    return self.read(nbytes, buffer)
+  File "/Users/mstiles/.local/share/uv/python/cpython-3.10.18-macos-aarch64-none/lib/python3.10/ssl.py", line 1163, in read
+    return self._sslobj.read(len, buffer)
+TimeoutError: The read operation timed out
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "/Users/mstiles/github/locations/.venv/lib/python3.10/site-packages/urllib3/connectionpool.py", line 787, in urlopen
+    response = self._make_request(
+  File "/Users/mstiles/github/locations/.venv/lib/python3.10/site-packages/urllib3/connectionpool.py", line 536, in _make_request
+    self._raise_timeout(err=e, url=url, timeout_value=read_timeout)
+  File "/Users/mstiles/github/locations/.venv/lib/python3.10/site-packages/urllib3/connectionpool.py", line 367, in _raise_timeout
+    raise ReadTimeoutError(
+urllib3.exceptions.ReadTimeoutError: HTTPSConnectionPool(host='nominatim.openstreetmap.org', port=443): Read timed out. (read timeout=1)
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "/Users/mstiles/github/locations/.venv/lib/python3.10/site-packages/requests/adapters.py", line 667, in send
+    resp = conn.urlopen(
+  File "/Users/mstiles/github/locations/.venv/lib/python3.10/site-packages/urllib3/connectionpool.py", line 871, in urlopen
+    return self.urlopen(
+  File "/Users/mstiles/github/locations/.venv/lib/python3.10/site-packages/urllib3/connectionpool.py", line 871, in urlopen
+    return self.urlopen(
+  File "/Users/mstiles/github/locations/.venv/lib/python3.10/site-packages/urllib3/connectionpool.py", line 841, in urlopen
+    retries = retries.increment(
+  File "/Users/mstiles/github/locations/.venv/lib/python3.10/site-packages/urllib3/util/retry.py", line 519, in increment
+    raise MaxRetryError(_pool, url, reason) from reason  # type: ignore[arg-type]
+urllib3.exceptions.MaxRetryError: HTTPSConnectionPool(host='nominatim.openstreetmap.org', port=443): Max retries exceeded with url: /search?q=Terminal+A%2C%2C+Miami%2C+FL&format=json&limit=1 (Caused by ReadTimeoutError("HTTPSConnectionPool(host='nominatim.openstreetmap.org', port=443): Read timed out. (read timeout=1)"))
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/Users/mstiles/github/locations/.venv/lib/python3.10/site-packages/geopy/adapters.py", line 482, in _request
+    resp = self.session.get(url, timeout=timeout, headers=headers)
+  File "/Users/mstiles/github/locations/.venv/lib/python3.10/site-packages/requests/sessions.py", line 602, in get
+    return self.request("GET", url, **kwargs)
+  File "/Users/mstiles/github/locations/.venv/lib/python3.10/site-packages/requests/sessions.py", line 589, in request
+    resp = self.send(prep, **send_kwargs)
+  File "/Users/mstiles/github/locations/.venv/lib/python3.10/site-packages/requests/sessions.py", line 703, in send
+    r = adapter.send(request, **kwargs)
+  File "/Users/mstiles/github/locations/.venv/lib/python3.10/site-packages/requests/adapters.py", line 700, in send
+    raise ConnectionError(e, request=request)
+requests.exceptions.ConnectionError: HTTPSConnectionPool(host='nominatim.openstreetmap.org', port=443): Max retries exceeded with url: /search?q=Terminal+A%2C%2C+Miami%2C+FL&format=json&limit=1 (Caused by ReadTimeoutError("HTTPSConnectionPool(host='nominatim.openstreetmap.org', port=443): Read timed out. (read timeout=1)"))
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/Users/mstiles/github/locations/.venv/lib/python3.10/site-packages/geopy/extra/rate_limiter.py", line 136, in _retries_gen
+    yield i  # Run the function.
+  File "/Users/mstiles/github/locations/.venv/lib/python3.10/site-packages/geopy/extra/rate_limiter.py", line 274, in __call__
+    res = self.func(*args, **kwargs)
+  File "/Users/mstiles/github/locations/.venv/lib/python3.10/site-packages/geopy/geocoders/nominatim.py", line 297, in geocode
+    return self._call_geocoder(url, callback, timeout=timeout)
+  File "/Users/mstiles/github/locations/.venv/lib/python3.10/site-packages/geopy/geocoders/base.py", line 368, in _call_geocoder
+    result = self.adapter.get_json(url, timeout=timeout, headers=req_headers)
+  File "/Users/mstiles/github/locations/.venv/lib/python3.10/site-packages/geopy/adapters.py", line 472, in get_json
+    resp = self._request(url, timeout=timeout, headers=headers)
+  File "/Users/mstiles/github/locations/.venv/lib/python3.10/site-packages/geopy/adapters.py", line 494, in _request
+    raise GeocoderUnavailable(message)
+geopy.exc.GeocoderUnavailable: HTTPSConnectionPool(host='nominatim.openstreetmap.org', port=443): Max retries exceeded with url: /search?q=Terminal+A%2C%2C+Miami%2C+FL&format=json&limit=1 (Caused by ReadTimeoutError("HTTPSConnectionPool(host='nominatim.openstreetmap.org', port=443): Read timed out. (read timeout=1)"))
+2025-07-27 18:35:57,508 - urllib3.connectionpool - WARNING - Retrying (Retry(total=1, connect=None, read=None, redirect=None, status=None)) after connection broken by 'ReadTimeoutError("HTTPSConnectionPool(host='nominatim.openstreetmap.org', port=443): Read timed out. (read timeout=1)")': /search?q=Terminal+A%2C%2C+Miami%2C+FL&format=json&limit=1
+2025-07-27 18:35:58,644 - urllib3.connectionpool - WARNING - Retrying (Retry(total=0, connect=None, read=None, redirect=None, status=None)) after connection broken by 'ReadTimeoutError("HTTPSConnectionPool(host='nominatim.openstreetmap.org', port=443): Read timed out. (read timeout=1)")': /search?q=Terminal+A%2C%2C+Miami%2C+FL&format=json&limit=1
+2025-07-27 18:35:59,739 - geopy - WARNING - RateLimiter caught an error, retrying (1/2 tries). Called with (*('Terminal A,, Miami, FL',), **{}).
+Traceback (most recent call last):
+  File "/Users/mstiles/github/locations/.venv/lib/python3.10/site-packages/urllib3/connectionpool.py", line 534, in _make_request
+    response = conn.getresponse()
+  File "/Users/mstiles/github/locations/.venv/lib/python3.10/site-packages/urllib3/connection.py", line 565, in getresponse
+    httplib_response = super().getresponse()
+  File "/Users/mstiles/.local/share/uv/python/cpython-3.10.18-macos-aarch64-none/lib/python3.10/http/client.py", line 1375, in getresponse
+    response.begin()
+  File "/Users/mstiles/.local/share/uv/python/cpython-3.10.18-macos-aarch64-none/lib/python3.10/http/client.py", line 318, in begin
+    version, status, reason = self._read_status()
+  File "/Users/mstiles/.local/share/uv/python/cpython-3.10.18-macos-aarch64-none/lib/python3.10/http/client.py", line 279, in _read_status
+    line = str(self.fp.readline(_MAXLINE + 1), "iso-8859-1")
+  File "/Users/mstiles/.local/share/uv/python/cpython-3.10.18-macos-aarch64-none/lib/python3.10/socket.py", line 717, in readinto
+    return self._sock.recv_into(b)
+  File "/Users/mstiles/.local/share/uv/python/cpython-3.10.18-macos-aarch64-none/lib/python3.10/ssl.py", line 1307, in recv_into
+    return self.read(nbytes, buffer)
+  File "/Users/mstiles/.local/share/uv/python/cpython-3.10.18-macos-aarch64-none/lib/python3.10/ssl.py", line 1163, in read
+    return self._sslobj.read(len, buffer)
+TimeoutError: The read operation timed out
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "/Users/mstiles/github/locations/.venv/lib/python3.10/site-packages/urllib3/connectionpool.py", line 787, in urlopen
+    response = self._make_request(
+  File "/Users/mstiles/github/locations/.venv/lib/python3.10/site-packages/urllib3/connectionpool.py", line 536, in _make_request
+    self._raise_timeout(err=e, url=url, timeout_value=read_timeout)
+  File "/Users/mstiles/github/locations/.venv/lib/python3.10/site-packages/urllib3/connectionpool.py", line 367, in _raise_timeout
+    raise ReadTimeoutError(
+urllib3.exceptions.ReadTimeoutError: HTTPSConnectionPool(host='nominatim.openstreetmap.org', port=443): Read timed out. (read timeout=1)
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "/Users/mstiles/github/locations/.venv/lib/python3.10/site-packages/requests/adapters.py", line 667, in send
+    resp = conn.urlopen(
+  File "/Users/mstiles/github/locations/.venv/lib/python3.10/site-packages/urllib3/connectionpool.py", line 871, in urlopen
+    return self.urlopen(
+  File "/Users/mstiles/github/locations/.venv/lib/python3.10/site-packages/urllib3/connectionpool.py", line 871, in urlopen
+    return self.urlopen(
+  File "/Users/mstiles/github/locations/.venv/lib/python3.10/site-packages/urllib3/connectionpool.py", line 841, in urlopen
+    retries = retries.increment(
+  File "/Users/mstiles/github/locations/.venv/lib/python3.10/site-packages/urllib3/util/retry.py", line 519, in increment
+    raise MaxRetryError(_pool, url, reason) from reason  # type: ignore[arg-type]
+urllib3.exceptions.MaxRetryError: HTTPSConnectionPool(host='nominatim.openstreetmap.org', port=443): Max retries exceeded with url: /search?q=Terminal+A%2C%2C+Miami%2C+FL&format=json&limit=1 (Caused by ReadTimeoutError("HTTPSConnectionPool(host='nominatim.openstreetmap.org', port=443): Read timed out. (read timeout=1)"))
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/Users/mstiles/github/locations/.venv/lib/python3.10/site-packages/geopy/adapters.py", line 482, in _request
+    resp = self.session.get(url, timeout=timeout, headers=headers)
+  File "/Users/mstiles/github/locations/.venv/lib/python3.10/site-packages/requests/sessions.py", line 602, in get
+    return self.request("GET", url, **kwargs)
+  File "/Users/mstiles/github/locations/.venv/lib/python3.10/site-packages/requests/sessions.py", line 589, in request
+    resp = self.send(prep, **send_kwargs)
+  File "/Users/mstiles/github/locations/.venv/lib/python3.10/site-packages/requests/sessions.py", line 703, in send
+    r = adapter.send(request, **kwargs)
+  File "/Users/mstiles/github/locations/.venv/lib/python3.10/site-packages/requests/adapters.py", line 700, in send
+    raise ConnectionError(e, request=request)
+requests.exceptions.ConnectionError: HTTPSConnectionPool(host='nominatim.openstreetmap.org', port=443): Max retries exceeded with url: /search?q=Terminal+A%2C%2C+Miami%2C+FL&format=json&limit=1 (Caused by ReadTimeoutError("HTTPSConnectionPool(host='nominatim.openstreetmap.org', port=443): Read timed out. (read timeout=1)"))
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/Users/mstiles/github/locations/.venv/lib/python3.10/site-packages/geopy/extra/rate_limiter.py", line 136, in _retries_gen
+    yield i  # Run the function.
+  File "/Users/mstiles/github/locations/.venv/lib/python3.10/site-packages/geopy/extra/rate_limiter.py", line 274, in __call__
+    res = self.func(*args, **kwargs)
+  File "/Users/mstiles/github/locations/.venv/lib/python3.10/site-packages/geopy/geocoders/nominatim.py", line 297, in geocode
+    return self._call_geocoder(url, callback, timeout=timeout)
+  File "/Users/mstiles/github/locations/.venv/lib/python3.10/site-packages/geopy/geocoders/base.py", line 368, in _call_geocoder
+    result = self.adapter.get_json(url, timeout=timeout, headers=req_headers)
+  File "/Users/mstiles/github/locations/.venv/lib/python3.10/site-packages/geopy/adapters.py", line 472, in get_json
+    resp = self._request(url, timeout=timeout, headers=headers)
+  File "/Users/mstiles/github/locations/.venv/lib/python3.10/site-packages/geopy/adapters.py", line 494, in _request
+    raise GeocoderUnavailable(message)
+geopy.exc.GeocoderUnavailable: HTTPSConnectionPool(host='nominatim.openstreetmap.org', port=443): Max retries exceeded with url: /search?q=Terminal+A%2C%2C+Miami%2C+FL&format=json&limit=1 (Caused by ReadTimeoutError("HTTPSConnectionPool(host='nominatim.openstreetmap.org', port=443): Read timed out. (read timeout=1)"))
+2025-07-27 18:36:05,897 - urllib3.connectionpool - WARNING - Retrying (Retry(total=1, connect=None, read=None, redirect=None, status=None)) after connection broken by 'ReadTimeoutError("HTTPSConnectionPool(host='nominatim.openstreetmap.org', port=443): Read timed out. (read timeout=1)")': /search?q=Terminal+A%2C%2C+Miami%2C+FL&format=json&limit=1
+2025-07-27 18:36:07,026 - urllib3.connectionpool - WARNING - Retrying (Retry(total=0, connect=None, read=None, redirect=None, status=None)) after connection broken by 'ReadTimeoutError("HTTPSConnectionPool(host='nominatim.openstreetmap.org', port=443): Read timed out. (read timeout=1)")': /search?q=Terminal+A%2C%2C+Miami%2C+FL&format=json&limit=1
+2025-07-27 18:36:08,117 - geopy - WARNING - RateLimiter swallowed an error after 2 retries. Called with (*('Terminal A,, Miami, FL',), **{}).
+Traceback (most recent call last):
+  File "/Users/mstiles/github/locations/.venv/lib/python3.10/site-packages/urllib3/connectionpool.py", line 534, in _make_request
+    response = conn.getresponse()
+  File "/Users/mstiles/github/locations/.venv/lib/python3.10/site-packages/urllib3/connection.py", line 565, in getresponse
+    httplib_response = super().getresponse()
+  File "/Users/mstiles/.local/share/uv/python/cpython-3.10.18-macos-aarch64-none/lib/python3.10/http/client.py", line 1375, in getresponse
+    response.begin()
+  File "/Users/mstiles/.local/share/uv/python/cpython-3.10.18-macos-aarch64-none/lib/python3.10/http/client.py", line 318, in begin
+    version, status, reason = self._read_status()
+  File "/Users/mstiles/.local/share/uv/python/cpython-3.10.18-macos-aarch64-none/lib/python3.10/http/client.py", line 279, in _read_status
+    line = str(self.fp.readline(_MAXLINE + 1), "iso-8859-1")
+  File "/Users/mstiles/.local/share/uv/python/cpython-3.10.18-macos-aarch64-none/lib/python3.10/socket.py", line 717, in readinto
+    return self._sock.recv_into(b)
+  File "/Users/mstiles/.local/share/uv/python/cpython-3.10.18-macos-aarch64-none/lib/python3.10/ssl.py", line 1307, in recv_into
+    return self.read(nbytes, buffer)
+  File "/Users/mstiles/.local/share/uv/python/cpython-3.10.18-macos-aarch64-none/lib/python3.10/ssl.py", line 1163, in read
+    return self._sslobj.read(len, buffer)
+TimeoutError: The read operation timed out
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "/Users/mstiles/github/locations/.venv/lib/python3.10/site-packages/urllib3/connectionpool.py", line 787, in urlopen
+    response = self._make_request(
+  File "/Users/mstiles/github/locations/.venv/lib/python3.10/site-packages/urllib3/connectionpool.py", line 536, in _make_request
+    self._raise_timeout(err=e, url=url, timeout_value=read_timeout)
+  File "/Users/mstiles/github/locations/.venv/lib/python3.10/site-packages/urllib3/connectionpool.py", line 367, in _raise_timeout
+    raise ReadTimeoutError(
+urllib3.exceptions.ReadTimeoutError: HTTPSConnectionPool(host='nominatim.openstreetmap.org', port=443): Read timed out. (read timeout=1)
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "/Users/mstiles/github/locations/.venv/lib/python3.10/site-packages/requests/adapters.py", line 667, in send
+    resp = conn.urlopen(
+  File "/Users/mstiles/github/locations/.venv/lib/python3.10/site-packages/urllib3/connectionpool.py", line 871, in urlopen
+    return self.urlopen(
+  File "/Users/mstiles/github/locations/.venv/lib/python3.10/site-packages/urllib3/connectionpool.py", line 871, in urlopen
+    return self.urlopen(
+  File "/Users/mstiles/github/locations/.venv/lib/python3.10/site-packages/urllib3/connectionpool.py", line 841, in urlopen
+    retries = retries.increment(
+  File "/Users/mstiles/github/locations/.venv/lib/python3.10/site-packages/urllib3/util/retry.py", line 519, in increment
+    raise MaxRetryError(_pool, url, reason) from reason  # type: ignore[arg-type]
+urllib3.exceptions.MaxRetryError: HTTPSConnectionPool(host='nominatim.openstreetmap.org', port=443): Max retries exceeded with url: /search?q=Terminal+A%2C%2C+Miami%2C+FL&format=json&limit=1 (Caused by ReadTimeoutError("HTTPSConnectionPool(host='nominatim.openstreetmap.org', port=443): Read timed out. (read timeout=1)"))
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/Users/mstiles/github/locations/.venv/lib/python3.10/site-packages/geopy/adapters.py", line 482, in _request
+    resp = self.session.get(url, timeout=timeout, headers=headers)
+  File "/Users/mstiles/github/locations/.venv/lib/python3.10/site-packages/requests/sessions.py", line 602, in get
+    return self.request("GET", url, **kwargs)
+  File "/Users/mstiles/github/locations/.venv/lib/python3.10/site-packages/requests/sessions.py", line 589, in request
+    resp = self.send(prep, **send_kwargs)
+  File "/Users/mstiles/github/locations/.venv/lib/python3.10/site-packages/requests/sessions.py", line 703, in send
+    r = adapter.send(request, **kwargs)
+  File "/Users/mstiles/github/locations/.venv/lib/python3.10/site-packages/requests/adapters.py", line 700, in send
+    raise ConnectionError(e, request=request)
+requests.exceptions.ConnectionError: HTTPSConnectionPool(host='nominatim.openstreetmap.org', port=443): Max retries exceeded with url: /search?q=Terminal+A%2C%2C+Miami%2C+FL&format=json&limit=1 (Caused by ReadTimeoutError("HTTPSConnectionPool(host='nominatim.openstreetmap.org', port=443): Read timed out. (read timeout=1)"))
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/Users/mstiles/github/locations/.venv/lib/python3.10/site-packages/geopy/extra/rate_limiter.py", line 274, in __call__
+    res = self.func(*args, **kwargs)
+  File "/Users/mstiles/github/locations/.venv/lib/python3.10/site-packages/geopy/geocoders/nominatim.py", line 297, in geocode
+    return self._call_geocoder(url, callback, timeout=timeout)
+  File "/Users/mstiles/github/locations/.venv/lib/python3.10/site-packages/geopy/geocoders/base.py", line 368, in _call_geocoder
+    result = self.adapter.get_json(url, timeout=timeout, headers=req_headers)
+  File "/Users/mstiles/github/locations/.venv/lib/python3.10/site-packages/geopy/adapters.py", line 472, in get_json
+    resp = self._request(url, timeout=timeout, headers=headers)
+  File "/Users/mstiles/github/locations/.venv/lib/python3.10/site-packages/geopy/adapters.py", line 494, in _request
+    raise GeocoderUnavailable(message)
+geopy.exc.GeocoderUnavailable: HTTPSConnectionPool(host='nominatim.openstreetmap.org', port=443): Max retries exceeded with url: /search?q=Terminal+A%2C%2C+Miami%2C+FL&format=json&limit=1 (Caused by ReadTimeoutError("HTTPSConnectionPool(host='nominatim.openstreetmap.org', port=443): Read timed out. (read timeout=1)"))
+2025-07-27 18:36:10,126 - urllib3.connectionpool - WARNING - Retrying (Retry(total=1, connect=None, read=None, redirect=None, status=None)) after connection broken by 'ReadTimeoutError("HTTPSConnectionPool(host='nominatim.openstreetmap.org', port=443): Read timed out. (read timeout=1)")': /search?q=5145+N.+California%2C%2C+Chicago%2C+IL&format=json&limit=1
+2025-07-27 18:36:14,086 - urllib3.connectionpool - WARNING - Retrying (Retry(total=1, connect=None, read=None, redirect=None, status=None)) after connection broken by 'ReadTimeoutError("HTTPSConnectionPool(host='nominatim.openstreetmap.org', port=443): Read timed out. (read timeout=1)")': /search?q=125+Hesburgh+Center+Notre+Dame+Ave.%2C%2C+Notre+Dame%2C+IN&format=json&limit=1
+2025-07-27 18:36:15,182 - urllib3.connectionpool - WARNING - Retrying (Retry(total=0, connect=None, read=None, redirect=None, status=None)) after connection broken by 'ReadTimeoutError("HTTPSConnectionPool(host='nominatim.openstreetmap.org', port=443): Read timed out. (read timeout=1)")': /search?q=125+Hesburgh+Center+Notre+Dame+Ave.%2C%2C+Notre+Dame%2C+IN&format=json&limit=1
+2025-07-27 18:36:16,282 - geopy - WARNING - RateLimiter caught an error, retrying (0/2 tries). Called with (*('125 Hesburgh Center Notre Dame Ave.,, Notre Dame, IN',), **{}).
+Traceback (most recent call last):
+  File "/Users/mstiles/github/locations/.venv/lib/python3.10/site-packages/urllib3/connectionpool.py", line 534, in _make_request
+    response = conn.getresponse()
+  File "/Users/mstiles/github/locations/.venv/lib/python3.10/site-packages/urllib3/connection.py", line 565, in getresponse
+    httplib_response = super().getresponse()
+  File "/Users/mstiles/.local/share/uv/python/cpython-3.10.18-macos-aarch64-none/lib/python3.10/http/client.py", line 1375, in getresponse
+    response.begin()
+  File "/Users/mstiles/.local/share/uv/python/cpython-3.10.18-macos-aarch64-none/lib/python3.10/http/client.py", line 318, in begin
+    version, status, reason = self._read_status()
+  File "/Users/mstiles/.local/share/uv/python/cpython-3.10.18-macos-aarch64-none/lib/python3.10/http/client.py", line 279, in _read_status
+    line = str(self.fp.readline(_MAXLINE + 1), "iso-8859-1")
+  File "/Users/mstiles/.local/share/uv/python/cpython-3.10.18-macos-aarch64-none/lib/python3.10/socket.py", line 717, in readinto
+    return self._sock.recv_into(b)
+  File "/Users/mstiles/.local/share/uv/python/cpython-3.10.18-macos-aarch64-none/lib/python3.10/ssl.py", line 1307, in recv_into
+    return self.read(nbytes, buffer)
+  File "/Users/mstiles/.local/share/uv/python/cpython-3.10.18-macos-aarch64-none/lib/python3.10/ssl.py", line 1163, in read
+    return self._sslobj.read(len, buffer)
+TimeoutError: The read operation timed out
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "/Users/mstiles/github/locations/.venv/lib/python3.10/site-packages/urllib3/connectionpool.py", line 787, in urlopen
+    response = self._make_request(
+  File "/Users/mstiles/github/locations/.venv/lib/python3.10/site-packages/urllib3/connectionpool.py", line 536, in _make_request
+    self._raise_timeout(err=e, url=url, timeout_value=read_timeout)
+  File "/Users/mstiles/github/locations/.venv/lib/python3.10/site-packages/urllib3/connectionpool.py", line 367, in _raise_timeout
+    raise ReadTimeoutError(
+urllib3.exceptions.ReadTimeoutError: HTTPSConnectionPool(host='nominatim.openstreetmap.org', port=443): Read timed out. (read timeout=1)
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "/Users/mstiles/github/locations/.venv/lib/python3.10/site-packages/requests/adapters.py", line 667, in send
+    resp = conn.urlopen(
+  File "/Users/mstiles/github/locations/.venv/lib/python3.10/site-packages/urllib3/connectionpool.py", line 871, in urlopen
+    return self.urlopen(
+  File "/Users/mstiles/github/locations/.venv/lib/python3.10/site-packages/urllib3/connectionpool.py", line 871, in urlopen
+    return self.urlopen(
+  File "/Users/mstiles/github/locations/.venv/lib/python3.10/site-packages/urllib3/connectionpool.py", line 841, in urlopen
+    retries = retries.increment(
+  File "/Users/mstiles/github/locations/.venv/lib/python3.10/site-packages/urllib3/util/retry.py", line 519, in increment
+    raise MaxRetryError(_pool, url, reason) from reason  # type: ignore[arg-type]
+urllib3.exceptions.MaxRetryError: HTTPSConnectionPool(host='nominatim.openstreetmap.org', port=443): Max retries exceeded with url: /search?q=125+Hesburgh+Center+Notre+Dame+Ave.%2C%2C+Notre+Dame%2C+IN&format=json&limit=1 (Caused by ReadTimeoutError("HTTPSConnectionPool(host='nominatim.openstreetmap.org', port=443): Read timed out. (read timeout=1)"))
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/Users/mstiles/github/locations/.venv/lib/python3.10/site-packages/geopy/adapters.py", line 482, in _request
+    resp = self.session.get(url, timeout=timeout, headers=headers)
+  File "/Users/mstiles/github/locations/.venv/lib/python3.10/site-packages/requests/sessions.py", line 602, in get
+    return self.request("GET", url, **kwargs)
+  File "/Users/mstiles/github/locations/.venv/lib/python3.10/site-packages/requests/sessions.py", line 589, in request
+    resp = self.send(prep, **send_kwargs)
+  File "/Users/mstiles/github/locations/.venv/lib/python3.10/site-packages/requests/sessions.py", line 703, in send
+    r = adapter.send(request, **kwargs)
+  File "/Users/mstiles/github/locations/.venv/lib/python3.10/site-packages/requests/adapters.py", line 700, in send
+    raise ConnectionError(e, request=request)
+requests.exceptions.ConnectionError: HTTPSConnectionPool(host='nominatim.openstreetmap.org', port=443): Max retries exceeded with url: /search?q=125+Hesburgh+Center+Notre+Dame+Ave.%2C%2C+Notre+Dame%2C+IN&format=json&limit=1 (Caused by ReadTimeoutError("HTTPSConnectionPool(host='nominatim.openstreetmap.org', port=443): Read timed out. (read timeout=1)"))
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/Users/mstiles/github/locations/.venv/lib/python3.10/site-packages/geopy/extra/rate_limiter.py", line 136, in _retries_gen
+    yield i  # Run the function.
+  File "/Users/mstiles/github/locations/.venv/lib/python3.10/site-packages/geopy/extra/rate_limiter.py", line 274, in __call__
+    res = self.func(*args, **kwargs)
+  File "/Users/mstiles/github/locations/.venv/lib/python3.10/site-packages/geopy/geocoders/nominatim.py", line 297, in geocode
+    return self._call_geocoder(url, callback, timeout=timeout)
+  File "/Users/mstiles/github/locations/.venv/lib/python3.10/site-packages/geopy/geocoders/base.py", line 368, in _call_geocoder
+    result = self.adapter.get_json(url, timeout=timeout, headers=req_headers)
+  File "/Users/mstiles/github/locations/.venv/lib/python3.10/site-packages/geopy/adapters.py", line 472, in get_json
+    resp = self._request(url, timeout=timeout, headers=headers)
+  File "/Users/mstiles/github/locations/.venv/lib/python3.10/site-packages/geopy/adapters.py", line 494, in _request
+    raise GeocoderUnavailable(message)
+geopy.exc.GeocoderUnavailable: HTTPSConnectionPool(host='nominatim.openstreetmap.org', port=443): Max retries exceeded with url: /search?q=125+Hesburgh+Center+Notre+Dame+Ave.%2C%2C+Notre+Dame%2C+IN&format=json&limit=1 (Caused by ReadTimeoutError("HTTPSConnectionPool(host='nominatim.openstreetmap.org', port=443): Read timed out. (read timeout=1)"))
+2025-07-27 18:36:22,380 - urllib3.connectionpool - WARNING - Retrying (Retry(total=1, connect=None, read=None, redirect=None, status=None)) after connection broken by 'ReadTimeoutError("HTTPSConnectionPool(host='nominatim.openstreetmap.org', port=443): Read timed out. (read timeout=1)")': /search?q=125+Hesburgh+Center+Notre+Dame+Ave.%2C%2C+Notre+Dame%2C+IN&format=json&limit=1
+2025-07-27 18:36:23,474 - urllib3.connectionpool - WARNING - Retrying (Retry(total=0, connect=None, read=None, redirect=None, status=None)) after connection broken by 'ReadTimeoutError("HTTPSConnectionPool(host='nominatim.openstreetmap.org', port=443): Read timed out. (read timeout=1)")': /search?q=125+Hesburgh+Center+Notre+Dame+Ave.%2C%2C+Notre+Dame%2C+IN&format=json&limit=1
+2025-07-27 18:36:24,574 - geopy - WARNING - RateLimiter caught an error, retrying (1/2 tries). Called with (*('125 Hesburgh Center Notre Dame Ave.,, Notre Dame, IN',), **{}).
+Traceback (most recent call last):
+  File "/Users/mstiles/github/locations/.venv/lib/python3.10/site-packages/urllib3/connectionpool.py", line 534, in _make_request
+    response = conn.getresponse()
+  File "/Users/mstiles/github/locations/.venv/lib/python3.10/site-packages/urllib3/connection.py", line 565, in getresponse
+    httplib_response = super().getresponse()
+  File "/Users/mstiles/.local/share/uv/python/cpython-3.10.18-macos-aarch64-none/lib/python3.10/http/client.py", line 1375, in getresponse
+    response.begin()
+  File "/Users/mstiles/.local/share/uv/python/cpython-3.10.18-macos-aarch64-none/lib/python3.10/http/client.py", line 318, in begin
+    version, status, reason = self._read_status()
+  File "/Users/mstiles/.local/share/uv/python/cpython-3.10.18-macos-aarch64-none/lib/python3.10/http/client.py", line 279, in _read_status
+    line = str(self.fp.readline(_MAXLINE + 1), "iso-8859-1")
+  File "/Users/mstiles/.local/share/uv/python/cpython-3.10.18-macos-aarch64-none/lib/python3.10/socket.py", line 717, in readinto
+    return self._sock.recv_into(b)
+  File "/Users/mstiles/.local/share/uv/python/cpython-3.10.18-macos-aarch64-none/lib/python3.10/ssl.py", line 1307, in recv_into
+    return self.read(nbytes, buffer)
+  File "/Users/mstiles/.local/share/uv/python/cpython-3.10.18-macos-aarch64-none/lib/python3.10/ssl.py", line 1163, in read
+    return self._sslobj.read(len, buffer)
+TimeoutError: The read operation timed out
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "/Users/mstiles/github/locations/.venv/lib/python3.10/site-packages/urllib3/connectionpool.py", line 787, in urlopen
+    response = self._make_request(
+  File "/Users/mstiles/github/locations/.venv/lib/python3.10/site-packages/urllib3/connectionpool.py", line 536, in _make_request
+    self._raise_timeout(err=e, url=url, timeout_value=read_timeout)
+  File "/Users/mstiles/github/locations/.venv/lib/python3.10/site-packages/urllib3/connectionpool.py", line 367, in _raise_timeout
+    raise ReadTimeoutError(
+urllib3.exceptions.ReadTimeoutError: HTTPSConnectionPool(host='nominatim.openstreetmap.org', port=443): Read timed out. (read timeout=1)
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "/Users/mstiles/github/locations/.venv/lib/python3.10/site-packages/requests/adapters.py", line 667, in send
+    resp = conn.urlopen(
+  File "/Users/mstiles/github/locations/.venv/lib/python3.10/site-packages/urllib3/connectionpool.py", line 871, in urlopen
+    return self.urlopen(
+  File "/Users/mstiles/github/locations/.venv/lib/python3.10/site-packages/urllib3/connectionpool.py", line 871, in urlopen
+    return self.urlopen(
+  File "/Users/mstiles/github/locations/.venv/lib/python3.10/site-packages/urllib3/connectionpool.py", line 841, in urlopen
+    retries = retries.increment(
+  File "/Users/mstiles/github/locations/.venv/lib/python3.10/site-packages/urllib3/util/retry.py", line 519, in increment
+    raise MaxRetryError(_pool, url, reason) from reason  # type: ignore[arg-type]
+urllib3.exceptions.MaxRetryError: HTTPSConnectionPool(host='nominatim.openstreetmap.org', port=443): Max retries exceeded with url: /search?q=125+Hesburgh+Center+Notre+Dame+Ave.%2C%2C+Notre+Dame%2C+IN&format=json&limit=1 (Caused by ReadTimeoutError("HTTPSConnectionPool(host='nominatim.openstreetmap.org', port=443): Read timed out. (read timeout=1)"))
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/Users/mstiles/github/locations/.venv/lib/python3.10/site-packages/geopy/adapters.py", line 482, in _request
+    resp = self.session.get(url, timeout=timeout, headers=headers)
+  File "/Users/mstiles/github/locations/.venv/lib/python3.10/site-packages/requests/sessions.py", line 602, in get
+    return self.request("GET", url, **kwargs)
+  File "/Users/mstiles/github/locations/.venv/lib/python3.10/site-packages/requests/sessions.py", line 589, in request
+    resp = self.send(prep, **send_kwargs)
+  File "/Users/mstiles/github/locations/.venv/lib/python3.10/site-packages/requests/sessions.py", line 703, in send
+    r = adapter.send(request, **kwargs)
+  File "/Users/mstiles/github/locations/.venv/lib/python3.10/site-packages/requests/adapters.py", line 700, in send
+    raise ConnectionError(e, request=request)
+requests.exceptions.ConnectionError: HTTPSConnectionPool(host='nominatim.openstreetmap.org', port=443): Max retries exceeded with url: /search?q=125+Hesburgh+Center+Notre+Dame+Ave.%2C%2C+Notre+Dame%2C+IN&format=json&limit=1 (Caused by ReadTimeoutError("HTTPSConnectionPool(host='nominatim.openstreetmap.org', port=443): Read timed out. (read timeout=1)"))
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/Users/mstiles/github/locations/.venv/lib/python3.10/site-packages/geopy/extra/rate_limiter.py", line 136, in _retries_gen
+    yield i  # Run the function.
+  File "/Users/mstiles/github/locations/.venv/lib/python3.10/site-packages/geopy/extra/rate_limiter.py", line 274, in __call__
+    res = self.func(*args, **kwargs)
+  File "/Users/mstiles/github/locations/.venv/lib/python3.10/site-packages/geopy/geocoders/nominatim.py", line 297, in geocode
+    return self._call_geocoder(url, callback, timeout=timeout)
+  File "/Users/mstiles/github/locations/.venv/lib/python3.10/site-packages/geopy/geocoders/base.py", line 368, in _call_geocoder
+    result = self.adapter.get_json(url, timeout=timeout, headers=req_headers)
+  File "/Users/mstiles/github/locations/.venv/lib/python3.10/site-packages/geopy/adapters.py", line 472, in get_json
+    resp = self._request(url, timeout=timeout, headers=headers)
+  File "/Users/mstiles/github/locations/.venv/lib/python3.10/site-packages/geopy/adapters.py", line 494, in _request
+    raise GeocoderUnavailable(message)
+geopy.exc.GeocoderUnavailable: HTTPSConnectionPool(host='nominatim.openstreetmap.org', port=443): Max retries exceeded with url: /search?q=125+Hesburgh+Center+Notre+Dame+Ave.%2C%2C+Notre+Dame%2C+IN&format=json&limit=1 (Caused by ReadTimeoutError("HTTPSConnectionPool(host='nominatim.openstreetmap.org', port=443): Read timed out. (read timeout=1)"))
+2025-07-27 18:36:30,677 - urllib3.connectionpool - WARNING - Retrying (Retry(total=1, connect=None, read=None, redirect=None, status=None)) after connection broken by 'ReadTimeoutError("HTTPSConnectionPool(host='nominatim.openstreetmap.org', port=443): Read timed out. (read timeout=1)")': /search?q=125+Hesburgh+Center+Notre+Dame+Ave.%2C%2C+Notre+Dame%2C+IN&format=json&limit=1
+2025-07-27 18:36:31,772 - urllib3.connectionpool - WARNING - Retrying (Retry(total=0, connect=None, read=None, redirect=None, status=None)) after connection broken by 'ReadTimeoutError("HTTPSConnectionPool(host='nominatim.openstreetmap.org', port=443): Read timed out. (read timeout=1)")': /search?q=125+Hesburgh+Center+Notre+Dame+Ave.%2C%2C+Notre+Dame%2C+IN&format=json&limit=1
+2025-07-27 18:36:32,874 - geopy - WARNING - RateLimiter swallowed an error after 2 retries. Called with (*('125 Hesburgh Center Notre Dame Ave.,, Notre Dame, IN',), **{}).
+Traceback (most recent call last):
+  File "/Users/mstiles/github/locations/.venv/lib/python3.10/site-packages/urllib3/connectionpool.py", line 534, in _make_request
+    response = conn.getresponse()
+  File "/Users/mstiles/github/locations/.venv/lib/python3.10/site-packages/urllib3/connection.py", line 565, in getresponse
+    httplib_response = super().getresponse()
+  File "/Users/mstiles/.local/share/uv/python/cpython-3.10.18-macos-aarch64-none/lib/python3.10/http/client.py", line 1375, in getresponse
+    response.begin()
+  File "/Users/mstiles/.local/share/uv/python/cpython-3.10.18-macos-aarch64-none/lib/python3.10/http/client.py", line 318, in begin
+    version, status, reason = self._read_status()
+  File "/Users/mstiles/.local/share/uv/python/cpython-3.10.18-macos-aarch64-none/lib/python3.10/http/client.py", line 279, in _read_status
+    line = str(self.fp.readline(_MAXLINE + 1), "iso-8859-1")
+  File "/Users/mstiles/.local/share/uv/python/cpython-3.10.18-macos-aarch64-none/lib/python3.10/socket.py", line 717, in readinto
+    return self._sock.recv_into(b)
+  File "/Users/mstiles/.local/share/uv/python/cpython-3.10.18-macos-aarch64-none/lib/python3.10/ssl.py", line 1307, in recv_into
+    return self.read(nbytes, buffer)
+  File "/Users/mstiles/.local/share/uv/python/cpython-3.10.18-macos-aarch64-none/lib/python3.10/ssl.py", line 1163, in read
+    return self._sslobj.read(len, buffer)
+TimeoutError: The read operation timed out
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "/Users/mstiles/github/locations/.venv/lib/python3.10/site-packages/urllib3/connectionpool.py", line 787, in urlopen
+    response = self._make_request(
+  File "/Users/mstiles/github/locations/.venv/lib/python3.10/site-packages/urllib3/connectionpool.py", line 536, in _make_request
+    self._raise_timeout(err=e, url=url, timeout_value=read_timeout)
+  File "/Users/mstiles/github/locations/.venv/lib/python3.10/site-packages/urllib3/connectionpool.py", line 367, in _raise_timeout
+    raise ReadTimeoutError(
+urllib3.exceptions.ReadTimeoutError: HTTPSConnectionPool(host='nominatim.openstreetmap.org', port=443): Read timed out. (read timeout=1)
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "/Users/mstiles/github/locations/.venv/lib/python3.10/site-packages/requests/adapters.py", line 667, in send
+    resp = conn.urlopen(
+  File "/Users/mstiles/github/locations/.venv/lib/python3.10/site-packages/urllib3/connectionpool.py", line 871, in urlopen
+    return self.urlopen(
+  File "/Users/mstiles/github/locations/.venv/lib/python3.10/site-packages/urllib3/connectionpool.py", line 871, in urlopen
+    return self.urlopen(
+  File "/Users/mstiles/github/locations/.venv/lib/python3.10/site-packages/urllib3/connectionpool.py", line 841, in urlopen
+    retries = retries.increment(
+  File "/Users/mstiles/github/locations/.venv/lib/python3.10/site-packages/urllib3/util/retry.py", line 519, in increment
+    raise MaxRetryError(_pool, url, reason) from reason  # type: ignore[arg-type]
+urllib3.exceptions.MaxRetryError: HTTPSConnectionPool(host='nominatim.openstreetmap.org', port=443): Max retries exceeded with url: /search?q=125+Hesburgh+Center+Notre+Dame+Ave.%2C%2C+Notre+Dame%2C+IN&format=json&limit=1 (Caused by ReadTimeoutError("HTTPSConnectionPool(host='nominatim.openstreetmap.org', port=443): Read timed out. (read timeout=1)"))
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/Users/mstiles/github/locations/.venv/lib/python3.10/site-packages/geopy/adapters.py", line 482, in _request
+    resp = self.session.get(url, timeout=timeout, headers=headers)
+  File "/Users/mstiles/github/locations/.venv/lib/python3.10/site-packages/requests/sessions.py", line 602, in get
+    return self.request("GET", url, **kwargs)
+  File "/Users/mstiles/github/locations/.venv/lib/python3.10/site-packages/requests/sessions.py", line 589, in request
+    resp = self.send(prep, **send_kwargs)
+  File "/Users/mstiles/github/locations/.venv/lib/python3.10/site-packages/requests/sessions.py", line 703, in send
+    r = adapter.send(request, **kwargs)
+  File "/Users/mstiles/github/locations/.venv/lib/python3.10/site-packages/requests/adapters.py", line 700, in send
+    raise ConnectionError(e, request=request)
+requests.exceptions.ConnectionError: HTTPSConnectionPool(host='nominatim.openstreetmap.org', port=443): Max retries exceeded with url: /search?q=125+Hesburgh+Center+Notre+Dame+Ave.%2C%2C+Notre+Dame%2C+IN&format=json&limit=1 (Caused by ReadTimeoutError("HTTPSConnectionPool(host='nominatim.openstreetmap.org', port=443): Read timed out. (read timeout=1)"))
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/Users/mstiles/github/locations/.venv/lib/python3.10/site-packages/geopy/extra/rate_limiter.py", line 274, in __call__
+    res = self.func(*args, **kwargs)
+  File "/Users/mstiles/github/locations/.venv/lib/python3.10/site-packages/geopy/geocoders/nominatim.py", line 297, in geocode
+    return self._call_geocoder(url, callback, timeout=timeout)
+  File "/Users/mstiles/github/locations/.venv/lib/python3.10/site-packages/geopy/geocoders/base.py", line 368, in _call_geocoder
+    result = self.adapter.get_json(url, timeout=timeout, headers=req_headers)
+  File "/Users/mstiles/github/locations/.venv/lib/python3.10/site-packages/geopy/adapters.py", line 472, in get_json
+    resp = self._request(url, timeout=timeout, headers=headers)
+  File "/Users/mstiles/github/locations/.venv/lib/python3.10/site-packages/geopy/adapters.py", line 494, in _request
+    raise GeocoderUnavailable(message)
+geopy.exc.GeocoderUnavailable: HTTPSConnectionPool(host='nominatim.openstreetmap.org', port=443): Max retries exceeded with url: /search?q=125+Hesburgh+Center+Notre+Dame+Ave.%2C%2C+Notre+Dame%2C+IN&format=json&limit=1 (Caused by ReadTimeoutError("HTTPSConnectionPool(host='nominatim.openstreetmap.org', port=443): Read timed out. (read timeout=1)"))
+2025-07-27 18:36:50,951 - urllib3.connectionpool - WARNING - Retrying (Retry(total=1, connect=None, read=None, redirect=None, status=None)) after connection broken by 'ReadTimeoutError("HTTPSConnectionPool(host='nominatim.openstreetmap.org', port=443): Read timed out. (read timeout=1)")': /search?q=301+West+Main+St.%2C%2C+Richmond%2C+VA&format=json&limit=1
+2025-07-27 18:36:51,884 - src.core.data_processor - INFO - Processed 32 locations for au-bon-pain
+2025-07-27 18:36:52,216 - pyogrio._io - INFO - Created 19 records
+2025-07-27 18:36:52,478 - src.scrapers.registry - INFO - Completed au-bon-pain in 79.47s
+2025-07-27 18:38:23,935 - root - INFO - Logging initialized at INFO level
+2025-07-27 18:38:23,939 - src.utils.config - INFO - Loaded 10 company configurations
+2025-07-27 18:38:24,140 - src.scrapers.registry - INFO - Discovered 10 scrapers
+2025-07-27 18:38:24,140 - src.scrapers.registry - INFO - Processing superior-grocers (1/1)
+2025-07-27 18:38:24,141 - src.scrapers.registry - INFO - Starting scraper for superior-grocers
+2025-07-27 18:38:24,221 - src.core.storage - INFO - S3 storage initialized with bucket: stilesdata.com
+2025-07-27 18:38:24,221 - src.core.base_scraper - INFO - Starting scrape for superior-grocers
+2025-07-27 18:40:17,940 - src.core.data_processor - INFO - Processing data for superior-grocers
+2025-07-27 18:40:17,945 - src.core.data_processor - INFO - Processed 74 locations for superior-grocers
+2025-07-27 18:40:18,052 - pyogrio._io - INFO - Created 74 records
+2025-07-27 18:40:18,389 - src.scrapers.registry - INFO - Completed superior-grocers in 114.25s
+2025-07-27 19:24:30,649 - root - INFO - Logging initialized at INFO level
+2025-07-27 19:24:30,653 - src.utils.config - INFO - Loaded 10 company configurations
+2025-07-27 19:24:30,856 - src.scrapers.registry - INFO - Discovered 10 scrapers
+2025-07-27 19:24:30,856 - src.scrapers.registry - INFO - Processing superior-grocers (1/1)
+2025-07-27 19:24:30,856 - src.scrapers.registry - INFO - Starting scraper for superior-grocers
+2025-07-27 19:24:30,939 - src.core.storage - INFO - S3 storage initialized with bucket: stilesdata.com
+2025-07-27 19:24:30,940 - src.core.base_scraper - INFO - Starting scrape for superior-grocers
+2025-07-27 19:25:40,310 - src.core.data_processor - INFO - Processing data for superior-grocers
+2025-07-27 19:25:40,316 - src.core.data_processor - INFO - Processed 74 locations for superior-grocers
+2025-07-27 19:25:40,420 - pyogrio._io - INFO - Created 74 records
+2025-07-27 19:25:40,757 - src.scrapers.registry - INFO - Completed superior-grocers in 69.90s
+2025-07-27 19:27:12,636 - root - INFO - Logging initialized at INFO level
+2025-07-27 19:27:12,641 - src.utils.config - INFO - Loaded 11 company configurations
+2025-07-27 19:27:12,855 - src.scrapers.registry - INFO - Discovered 11 scrapers
+2025-07-27 19:27:12,855 - src.scrapers.registry - INFO - Processing hmart (1/1)
+2025-07-27 19:27:12,855 - src.scrapers.registry - INFO - Starting scraper for hmart
+2025-07-27 19:27:12,939 - src.core.storage - INFO - S3 storage initialized with bucket: stilesdata.com
+2025-07-27 19:27:12,939 - src.core.base_scraper - INFO - Starting scrape for hmart
+2025-07-27 19:27:13,223 - src.core.base_scraper - ERROR - Error scraping hmart: Could not find expected script tags with store data
+2025-07-27 19:27:13,223 - src.scrapers.registry - INFO - Completed hmart in 0.37s
+2025-07-27 19:27:53,695 - root - INFO - Logging initialized at INFO level
+2025-07-27 19:27:53,700 - src.utils.config - INFO - Loaded 11 company configurations
+2025-07-27 19:27:53,909 - src.scrapers.registry - INFO - Discovered 11 scrapers
+2025-07-27 19:27:53,910 - src.scrapers.registry - INFO - Processing hmart (1/1)
+2025-07-27 19:27:53,910 - src.scrapers.registry - INFO - Starting scraper for hmart
+2025-07-27 19:27:53,995 - src.core.storage - INFO - S3 storage initialized with bucket: stilesdata.com
+2025-07-27 19:27:53,995 - src.core.base_scraper - INFO - Starting scrape for hmart
+2025-07-27 19:27:54,113 - src.core.base_scraper - ERROR - Error scraping hmart: Could not find expected script tags with store data
+2025-07-27 19:27:54,113 - src.scrapers.registry - INFO - Completed hmart in 0.20s
+2025-07-27 19:30:46,251 - root - INFO - Logging initialized at INFO level
+2025-07-27 19:30:46,255 - src.utils.config - INFO - Loaded 12 company configurations
+2025-07-27 19:30:46,472 - src.scrapers.registry - INFO - Discovered 12 scrapers
+2025-07-27 19:30:46,472 - src.scrapers.registry - INFO - Processing pinkberry (1/1)
+2025-07-27 19:30:46,472 - src.scrapers.registry - INFO - Starting scraper for pinkberry
+2025-07-27 19:30:46,557 - src.core.storage - INFO - S3 storage initialized with bucket: stilesdata.com
+2025-07-27 19:30:46,557 - src.core.base_scraper - INFO - Starting scrape for pinkberry
+2025-07-27 19:30:47,151 - src.core.base_scraper - ERROR - Error scraping pinkberry: Missing essential location data: ['name/store_name', 'address/streetaddress', 'city', 'state']
+2025-07-27 19:30:47,152 - src.scrapers.registry - INFO - Completed pinkberry in 0.68s
+2025-07-27 19:31:28,638 - root - INFO - Logging initialized at INFO level
+2025-07-27 19:31:28,642 - src.utils.config - INFO - Loaded 12 company configurations
+2025-07-27 19:31:28,848 - src.scrapers.registry - INFO - Discovered 12 scrapers
+2025-07-27 19:31:28,848 - src.scrapers.registry - INFO - Processing pinkberry (1/1)
+2025-07-27 19:31:28,848 - src.scrapers.registry - INFO - Starting scraper for pinkberry
+2025-07-27 19:31:28,931 - src.core.storage - INFO - S3 storage initialized with bucket: stilesdata.com
+2025-07-27 19:31:28,931 - src.core.base_scraper - INFO - Starting scrape for pinkberry
+2025-07-27 19:31:29,416 - src.core.base_scraper - ERROR - Error scraping pinkberry: Missing essential location data: ['name/store_name', 'address/streetaddress', 'city', 'state']
+2025-07-27 19:31:29,417 - src.scrapers.registry - INFO - Completed pinkberry in 0.57s
+2025-07-27 19:31:55,716 - root - INFO - Logging initialized at INFO level
+2025-07-27 19:31:55,721 - src.utils.config - INFO - Loaded 12 company configurations
+2025-07-27 19:31:55,927 - src.scrapers.registry - INFO - Discovered 12 scrapers
+2025-07-27 19:31:55,927 - src.scrapers.registry - INFO - Processing pinkberry (1/1)
+2025-07-27 19:31:55,927 - src.scrapers.registry - INFO - Starting scraper for pinkberry
+2025-07-27 19:31:56,010 - src.core.storage - INFO - S3 storage initialized with bucket: stilesdata.com
+2025-07-27 19:31:56,010 - src.core.base_scraper - INFO - Starting scrape for pinkberry
+2025-07-27 19:31:57,105 - src.core.data_processor - INFO - Processing data for pinkberry
+2025-07-27 19:31:57,111 - src.core.data_processor - INFO - Processed 70 locations for pinkberry
+2025-07-27 19:31:57,208 - pyogrio._io - INFO - Created 70 records
+2025-07-27 19:31:57,555 - src.scrapers.registry - INFO - Completed pinkberry in 1.63s

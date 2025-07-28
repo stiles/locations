@@ -35,9 +35,114 @@ companies:
       User-Agent: "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7)"
       Accept: "application/json"
     retry_attempts: 3
+    
+  barnes-and-noble:
+    name: "Barnes & Noble"
+    category: "Retail Stores"
+    scraper_class: "BarnesAndNobleScraper"
+    base_url: "https://stores.barnesandnoble.com/_next/data/q_Dn38wVXgIqr66gMVyVY/index.json"
+    rate_limit: 1.0
+    timeout: 30
+    headers:
+      User-Agent: "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36"
+      Accept: "*/*"
+      Referer: "https://stores.barnesandnoble.com/"
+    retry_attempts: 3
+    
+  cvs:
+    name: "CVS Pharmacy"
+    category: "Pharmacy & Health"
+    scraper_class: "CVSScraper"
+    api_endpoint: "https://www.cvs.com/api/locator/v2/stores/search"
+    rate_limit: 1.0
+    timeout: 30
+    headers:
+      User-Agent: "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36"
+      authority: "www.cvs.com"
+      x-api-key: "k6DnPo1puMOQmAhSCiRGYvzMYOSFu903"
+    retry_attempts: 3
+    
+  king-taco:
+    name: "King Taco"
+    category: "Fast Food & Quick Service"
+    scraper_class: "KingTacoScraper"
+    api_endpoint: "https://kingtaco.com/wp-admin/admin-ajax.php"
+    rate_limit: 0.5
+    timeout: 30
+    headers:
+      User-Agent: "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
+    retry_attempts: 3
+    
+  buc-ees:
+    name: "Buc-ee's"
+    category: "Retail Stores"
+    scraper_class: "BucEesScraper"
+    base_url: "https://buc-ees.com/locations/"
+    rate_limit: 1.0
+    timeout: 30
+    headers:
+      User-Agent: "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
+    retry_attempts: 3
+    
+  wahoos:
+    name: "Wahoo's"
+    category: "Specialty Foods"
+    scraper_class: "WahoosScraper"
+    api_endpoint: "https://www.wahoos.com/wp-admin/admin-ajax.php"
+    rate_limit: 1.0
+    timeout: 30
+    headers:
+      User-Agent: "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36"
+      authority: "www.wahoos.com"
+    retry_attempts: 3
+    
+  au-bon-pain:
+    name: "Au Bon Pain"
+    category: "Coffee Shops & Desserts"
+    scraper_class: "AuBonPainScraper"
+    base_url: "https://www.aubonpain.com/stores/all-stores"
+    rate_limit: 1.0
+    timeout: 30
+    headers:
+      User-Agent: "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
+    retry_attempts: 3
+    
+  superior-grocers:
+    name: "Superior Grocers"
+    category: "Grocery & Supermarkets"
+    scraper_class: "SuperiorGrocersScraper"
+    base_url: "https://superiorgrocers.com/locations/"
+    rate_limit: 2.0  # Slower rate for individual page scraping
+    timeout: 30
+    headers:
+      User-Agent: "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
+    retry_attempts: 3
+    
+  hmart:
+    name: "Hmart"
+    category: "Grocery & Supermarkets"
+    scraper_class: "HmartScraper"
+    base_url: "https://www.hmart.com/stores"
+    rate_limit: 1.0
+    timeout: 30
+    headers:
+      User-Agent: "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
+    retry_attempts: 3
+    
+  pinkberry:
+    name: "Pinkberry"
+    category: "Coffee Shops & Desserts"
+    scraper_class: "PinkberryScraper"
+    api_endpoint: "https://locator.kahalamgmt.com/locator/index.php"
+    rate_limit: 1.0
+    timeout: 30
+    headers:
+      User-Agent: "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
+    retry_attempts: 3
 
 categories:
   "Fast Food & Quick Service":
+    - "king-taco"
     - "mcdonalds"
     - "in-n-out"
     - "chipotle"
@@ -47,19 +152,30 @@ categories:
     - "subway"
     
   "Coffee Shops & Desserts":
+    - "au-bon-pain"
+    - "pinkberry"
     - "starbucks"
     - "dunkin-donuts"
     - "krispy-kreme"
     - "crumbl"
     
   "Grocery & Supermarkets":
+    - "hmart"
+    - "superior-grocers"
     - "trader-joes"
     - "costco"
     - "kroger"
     - "safeway"
     
   "Retail Stores":
+    - "barnes-and-noble"
+    - "buc-ees"
     - "home-depot"
-    - "cvs"
     - "walgreens"
-    - "dollar-general" 
+    - "dollar-general"
+    
+  "Pharmacy & Health":
+    - "cvs"
+    
+  "Specialty Foods":
+    - "wahoos" 

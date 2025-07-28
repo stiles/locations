@@ -73,7 +73,11 @@ venv: ## Create virtual environment with uv
 	uv venv
 
 shell: ## Activate virtual environment
-	uv shell
+	@echo "To activate the virtual environment, run:"
+	@echo "  source .venv/bin/activate  # macOS/Linux"
+	@echo "  .venv\\Scripts\\activate     # Windows"
+	@echo ""
+	@echo "Or use 'uv run <command>' to run commands in the environment"
 
 # Utility commands
 convert-notebooks: ## Convert notebooks to Python files for analysis

@@ -29,26 +29,49 @@ class BaseScraper(ABC):
         """Implement company-specific scraping logic
         
         Returns:
-            pd.DataFrame: Raw location data with at minimum:
+            pd.DataFrame: Raw location data with location information.
+            Column names will be standardized by DataProcessor.
+            
+            Common column variations that will be standardized:
+                - store_id: storenumber, storeId, id
+                - address: streetaddress, address1, street_address  
+                - zip_code: zipcode, zip, postal_code
+                - phone: phone_number, telephone
+                - latitude/longitude: lat/lng, lat/lon
+                
+            Minimum required information (any column name variation):
                 - name: Location name
-                - address: Full address
-                - city: City name
+                - address: Street address
+                - city: City name  
                 - state: State abbreviation
-                - zip_code: ZIP code
-                - latitude: Latitude (if available)
-                - longitude: Longitude (if available)
         """
         pass
     
     def validate_data(self, data: pd.DataFrame) -> None:
-        """Validate scraped data meets minimum requirements"""
-        required_columns = ['name', 'address', 'city', 'state']
-        missing_columns = set(required_columns) - set(data.columns)
-        if missing_columns:
-            raise ValueError(f"Missing required columns: {missing_columns}")
-            
+        """Validate scraped data has minimum required information
+        Note: Column names will be standardized after this validation"""
         if len(data) == 0:
             raise ValueError("No locations found")
+            
+        # Check for essential location data (flexible column names)
+        name_cols = ['name', 'store_name', 'location_name']
+        address_cols = ['address', 'streetaddress', 'address1', 'street_address']  
+        city_cols = ['city']
+        state_cols = ['state']
+        
+        has_name = any(col in data.columns for col in name_cols)
+        has_address = any(col in data.columns for col in address_cols)
+        has_city = any(col in data.columns for col in city_cols)
+        has_state = any(col in data.columns for col in state_cols)
+        
+        missing = []
+        if not has_name: missing.append("name/store_name")
+        if not has_address: missing.append("address/streetaddress")  
+        if not has_city: missing.append("city")
+        if not has_state: missing.append("state")
+        
+        if missing:
+            raise ValueError(f"Missing essential location data: {missing}")
             
     def run(self) -> Dict:
         """Standard workflow: scrape → validate → process → store → return summary"""

@@ -87,7 +87,7 @@ def main():
         print("   • Run 'make help' to see available commands")
         print("   • Run 'make dry-run' to test scrapers")
         print("   • Run 'make scrape COMPANY=in-n-out' to test a working scraper")
-        print("   • Run 'uv shell' to activate the virtual environment")
+        print("   • Run 'source .venv/bin/activate' to activate the virtual environment")
         print("\n🚀 Ready to start scraping!")
     else:
         print("❌ Setup encountered errors. Please check the output above.")
