@@ -140,24 +140,216 @@ companies:
       User-Agent: "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
     retry_attempts: 3
 
+  menchies:
+    name: "Menchie's Frozen Yogurt"
+    category: "Coffee Shops & Desserts"
+    scraper_class: "MenchiesScraper"
+    base_url: "https://www.menchies.com/find-a-store/"
+    rate_limit: 1.0
+    timeout: 30
+    headers:
+      User-Agent: "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36"
+    retry_attempts: 3
+
+  tcby:
+    name: "TCBY"
+    category: "Coffee Shops & Desserts"
+    scraper_class: "TcbyScraper"
+    api_endpoint: "https://www.tcby.com/api/geo/"
+    rate_limit: 0.5
+    timeout: 30
+    headers:
+      User-Agent: "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36"
+    retry_attempts: 3
+
+  shipley-donuts:
+    name: "Shipley Do-nuts"
+    category: "Coffee Shops & Desserts"
+    scraper_class: "ShipleyDonutsScraper"
+    base_url: "https://shipleydonuts.com/locations/"
+    rate_limit: 1.0
+    timeout: 30
+    headers:
+      User-Agent: "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36"
+    retry_attempts: 3
+
+  pollo-tropical:
+    name: "Pollo Tropical"
+    category: "Fast Food & Quick Service"
+    scraper_class: "PolloTropicalScraper"
+    api_endpoint: "https://olo.pollotropical.com/api/vendors/search/FL"
+    rate_limit: 1.0
+    timeout: 30
+    headers:
+      User-Agent: "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36"
+      accept: "application/json, */*"
+      x-olo-request: "1"
+    retry_attempts: 3
+
+  kung-fu-tea:
+    name: "Kung Fu Tea"
+    category: "Coffee Shops & Desserts" 
+    scraper_class: "KungFuTeaScraper"
+    api_endpoint: "https://api.storepoint.co/v1/15dcedfc240d49/locations?rq"
+    rate_limit: 1.0
+    timeout: 30
+    headers:
+      User-Agent: "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36"
+    retry_attempts: 3
+
+  crumbl:
+    name: "Crumbl Cookies"
+    category: "Coffee Shops & Desserts"
+    scraper_class: "CrumblScraper"
+    api_endpoint: "https://crumblcookies.com/_next/data/V67rG5TouMkXfSOJ11uDw/en-US/stores.json"
+    rate_limit: 1.0
+    timeout: 30
+    headers:
+      User-Agent: "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36"
+    retry_attempts: 3
+
+  hollister:
+    name: "Hollister"
+    category: "Clothing & Accessories"
+    scraper_class: "HollisterScraper"
+    api_endpoint: "https://www.hollisterco.com/api/ecomm/h-us/storelocator/search"
+    rate_limit: 0.5
+    timeout: 30
+    headers:
+      User-Agent: "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36"
+      accept: "application/json, text/javascript, */*; q=0.01"
+    retry_attempts: 3
+
+  nike-stores:
+    name: "Nike Stores"
+    category: "Clothing & Accessories"
+    scraper_class: "NikeStoresScraper"
+    api_endpoint: "https://api.nike.com/store/store_locations/v1"
+    rate_limit: 1.0
+    timeout: 30
+    headers:
+      User-Agent: "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36"
+      content-type: "application/json; charset=UTF-8"
+      authority: "api.nike.com"
+    retry_attempts: 3
+
+  ranch-99:
+    name: "99 Ranch Market"
+    category: "Specialty Foods"
+    scraper_class: "Ranch99Scraper"
+    api_endpoint: "https://api.awsprod.99ranch.com/store/web/nearby/stores"
+    rate_limit: 1.0
+    timeout: 30
+    headers:
+      User-Agent: "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36"
+      Accept: "application/json"
+      time-zone: "America/Los_Angeles"
+    retry_attempts: 3
+
+  meijer:
+    name: "Meijer"
+    category: "Grocery Stores"
+    scraper_class: "MeijerScraper"
+    api_endpoint: "https://www.meijer.com/bin/meijer/store/search"
+    rate_limit: 0.1
+    timeout: 5
+    headers:
+      User-Agent: "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36"
+      accept: "application/json, text/plain, */*"
+      referer: "https://www.meijer.com/shopping/store-finder.html"
+    retry_attempts: 5
+
+  nordstrom:
+    name: "Nordstrom"
+    category: "Clothing & Accessories"
+    scraper_class: "NordstromScraper"
+    api_endpoint: "https://api.nordstrom.com/v2/store/postalcode"
+    rate_limit: 0.1
+    timeout: 30
+    headers:
+      User-Agent: "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36"
+      authority: "api.nordstrom.com"
+    retry_attempts: 3
+
+  autozone:
+    name: "AutoZone"
+    category: "Automotive & Parts"
+    scraper_class: "AutoZoneScraper"
+    api_endpoint: "https://liveapi.yext.com/v2/accounts/me/locations/geosearch"
+    rate_limit: 0.1
+    timeout: 30
+    headers:
+      User-Agent: "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36"
+      authority: "liveapi.yext.com"
+      accept: "application/json, text/plain, */*"
+    retry_attempts: 3
+
+  dollar-general:
+    name: "Dollar General"
+    category: "Retail Stores"
+    scraper_class: "DollarGeneralScraper"
+    api_endpoint: "https://www.dollargeneral.com/bin/omni/pickup/storeSearchInventory"
+    rate_limit: 0.1
+    timeout: 30
+    headers:
+      User-Agent: "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36"
+      authority: "www.dollargeneral.com"
+    retry_attempts: 3
+
+  wendys:
+    name: "Wendy's"
+    category: "Fast Food & Quick Service"
+    scraper_class: "WendysScraper"
+    api_endpoint: "https://api.app.prd.wendys.digital/web-client-gateway/LocationServices/rest/nearbyLocations"
+    rate_limit: 0.5
+    timeout: 30
+    headers:
+      User-Agent: "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36"
+      authority: "api.app.prd.wendys.digital"
+      accept: "application/json"
+      content-type: "application/json"
+      origin: "https://order.wendys.com"
+      referer: "https://order.wendys.com/"
+    retry_attempts: 3
+
+  cinemark:
+    name: "Cinemark Theaters"
+    category: "Entertainment"
+    scraper_class: "CinemarkScraper"
+    base_url: "https://www.cinemark.com/full-theatre-list"
+    rate_limit: 0.5
+    timeout: 30
+    headers:
+      User-Agent: "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36"
+    retry_attempts: 3
+
 categories:
   "Fast Food & Quick Service":
     - "king-taco"
+    - "pollo-tropical"
+    - "wendys"
     - "mcdonalds"
     - "in-n-out"
     - "chipotle"
     - "chick-fil-a"
     - "taco-bell"
+    
+  "Entertainment":
+    - "cinemark"
     - "kfc"
     - "subway"
     
   "Coffee Shops & Desserts":
     - "au-bon-pain"
+    - "crumbl"
+    - "kung-fu-tea"
+    - "menchies"
     - "pinkberry"
+    - "shipley-donuts"
     - "starbucks"
+    - "tcby"
     - "dunkin-donuts"
     - "krispy-kreme"
-    - "crumbl"
     
   "Grocery & Supermarkets":
     - "hmart"
@@ -177,5 +369,17 @@ categories:
   "Pharmacy & Health":
     - "cvs"
     
+  "Grocery Stores":
+    - "meijer"
+    
   "Specialty Foods":
-    - "wahoos" 
+    - "ranch-99"
+    - "wahoos"
+    
+  "Automotive & Parts":
+    - "autozone"
+    
+  "Clothing & Accessories":
+    - "hollister"
+    - "nike-stores"
+    - "nordstrom" 

@@ -7,6 +7,73 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ## [Unreleased]
 
+## [2.0.0-alpha-batch5] - 2025-01-27
+
+### Added: Major Progress Session
+- **Pollo Tropical** scraper (122 locations) - Olo API platform integration
+- **Kung Fu Tea** scraper (395 locations) - StorePoint API platform  
+- **Nike Stores** scraper (892 locations) - Official Nike API endpoint 🔥
+- **99 Ranch Market** scraper (65 locations) - POST API call pattern
+- **Meijer** scraper (270 locations) - Regional grocery chain, Midwest ZIP iteration
+- New "Grocery Stores" category in company configurations
+- Enhanced POST API call pattern support for JSON payloads
+
+### Fixed
+- Improved column mapping validation in DataProcessor
+- Enhanced error handling for POST requests in BaseScraper
+- File naming conventions for Python modules (ranch_99.py)
+
+### Blocked
+- **Hollister**: Store locator API endpoints changed/removed (400 Bad Request)
+- **Crumbl Cookies**: Next.js build ID requires dynamic extraction (404 errors)
+
+### Metrics
+- **Total Working Scrapers**: 14 companies (18.4% of 76)
+- **Total Locations**: 3,086+ successfully processed
+- **Session Efficiency**: 5 scrapers converted in rapid succession
+- **New Patterns**: Official brand APIs, ethnic grocery chains, POST requests
+- **Conversion Success Rate**: 67% (14/21 attempted)
+
+### Proven Architecture Patterns
+1. **Single API Call**: In-N-Out, King Taco, Trader Joe's, Nike Stores
+2. **ZIP Code Iteration**: Barnes & Noble, CVS, Meijer
+3. **HTML Page Scraping**: Buc-ee's, Au Bon Pain
+4. **WordPress AJAX**: Wahoo's (with nonce extraction)
+5. **Individual Page Scraping**: Superior Grocers
+6. **Inline JavaScript JSON**: Pinkberry
+7. **POST API Calls**: 99 Ranch Market, Pollo Tropical, Kung Fu Tea
+
+## [2.0.0-alpha-batch4] - 2025-01-27
+
+### Added: Website Modernization Analysis Session
+- **BLOCKED_COMPANIES.md**: Comprehensive documentation of modernization challenges
+- **Company Configuration**: Added Menchies, TCBY, and Shipley Donuts to config system
+- **Modernization Patterns**: Identified 3 major website evolution trends
+
+### Website Modernization Challenges Identified
+- **Menchies**: HTML parsing → WordPress + Google Maps integration
+- **TCBY**: State API iteration → Complete API deprecation (404s)
+- **Shipley Donuts**: Inline JavaScript JSON → Next.js/React SSR
+
+### Enhanced Documentation
+- **Blocked Companies Tracking**: Systematic categorization by issue type (🚫 🔄 🔍 ⏸️)
+- **Technical Investigation Notes**: Detailed analysis for future research
+- **Success Rate Tracking**: Real-time metrics and completion status
+- **Priority Classification**: Based on dataset size and technical complexity
+
+### Key Insights
+- **Website Evolution Impact**: 64% success rate for conversion attempts (9/14)
+- **Modern Framework Migration**: React, Next.js, WordPress integrations increasingly common
+- **API Deprecation Trend**: Some companies removing public location APIs entirely
+- **Architecture Resilience**: Core framework handles all challenges gracefully
+
+### Metrics Update
+- **Total Working Scrapers**: 9 companies ✅ (unchanged - focus on analysis)
+- **Total Locations**: 1,342+ successfully processed
+- **Blocked/Challenging**: 5 companies documented (6.6% of total)
+- **Remaining Targets**: 62 companies (81.6% of total)
+- **Architecture Validation**: Complete across 6 proven patterns ✅
+
 ## [2.0.0-alpha-batch3] - 2025-01-27
 
 ### Added: Batch Conversion Session 3

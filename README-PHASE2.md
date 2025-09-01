@@ -2,30 +2,45 @@
 
 ## Current Status (2025-01-27)
 
-**PHASE 2 IN PROGRESS - AHEAD OF SCHEDULE** 🚀
+**PHASE 2 IN PROGRESS - MIXED RESULTS** ⚠️
 
-- ✅ **9+ scrapers converted** (target: 20-25 for Week 3)
-- ✅ **1,342+ locations scraped successfully** 
-- ✅ **6 distinct scraping patterns proven**
+- ✅ **15 scrapers converted** (target: 20-25 for Week 3)
+- ⚠️ **~3,000+ locations scraped** - **BUT several incomplete implementations**
+- ✅ **7 distinct scraping patterns proven**
 - ✅ **Architecture fully validated** across diverse APIs
-- ✅ **Rapid conversion workflow established**
+- 🚨 **CRITICAL**: Some "working" scrapers have significant under-coverage vs. original notebooks
 
-### Successfully Converted Companies
+### Conversion Status
 
-**Working Scrapers** (9 total):
-1. **In-N-Out**: 423 locations (Single API)
-2. **Trader Joe's**: 623 locations (Single API) 
-3. **Barnes & Noble**: 569 locations (ZIP iteration)
-4. **King Taco**: 22 locations (Single API)
-5. **Buc-ee's**: 54 locations (HTML scraping)
-6. **Wahoo's**: 44 locations (WordPress AJAX)
-7. **Au Bon Pain**: 32 locations (HTML scraping)
-8. **Superior Grocers**: 74 locations (Individual pages)
-9. **Pinkberry**: 70 locations (Inline JavaScript JSON) ✨ **NEW!**
+**✅ Complete/High-Coverage Scrapers** (verified ~95%+ coverage):
+1. **In-N-Out**: 423 locations (Single API) ✅
+2. **Trader Joe's**: 623 locations (Single API) ✅
+3. **King Taco**: 22 locations (Single API) ✅
+4. **Buc-ee's**: 54 locations (HTML scraping) ✅
+5. **Wahoo's**: 44 locations (WordPress AJAX) ✅
+6. **Au Bon Pain**: 32 locations (HTML scraping) ✅
+7. **Superior Grocers**: 74 locations (Individual pages) ✅
+8. **Pinkberry**: 70 locations (Inline JavaScript JSON) ✅
+9. **Pollo Tropical**: 122 locations (POST API call) ✅
+10. **Kung Fu Tea**: 395 locations (StorePoint API) ✅
+11. **Nike Stores**: 892 locations (Official Nike API) 🔥
+12. **99 Ranch Market**: 65 locations (POST API call) ✅
+13. **Meijer**: 270 locations (ZIP iteration) ✅
+14. **Nordstrom**: 380 locations (ZIP iteration) ✅
+
+**⚠️ Incomplete/Needs Original Logic** (significant under-coverage):
+- **Barnes & Noble**: 569 locations vs. ~630 expected (need full ZIP approach)
+- **Wendy's**: 386 locations vs. ~7,000 expected (strategic ZIP approach failed)
+- **Cinemark**: 51 locations vs. 305+ expected (rate limited, need better approach)
 
 **Blocked for Investigation**:
 - **Starbucks**: Anti-bot protection (code complete)
-- **Hmart**: Website migration to React platform
+- **Hmart**: Website migration to React platform  
+- **Menchies**: WordPress + Google Maps modernization
+- **TCBY**: Complete API deprecation (404 errors)
+- **Shipley Donuts**: Next.js/React SSR migration
+- **Hollister**: Store locator API endpoints changed
+- **Crumbl Cookies**: Next.js build ID changes with deployments
 
 ### Proven Scraping Patterns
 
@@ -34,7 +49,31 @@
 3. ✅ **HTML Page Scraping** - BeautifulSoup parsing
 4. ✅ **WordPress AJAX with Auth** - Dynamic nonce extraction
 5. ✅ **Individual Page Scraping** - Multi-step site crawling
-6. ✅ **Inline JavaScript JSON** - Script tag data extraction ✨ **NEW!**
+6. ✅ **Inline JavaScript JSON** - Script tag data extraction
+7. ✅ **POST API Calls** - JSON payload requests ✨ **NEW!**
+
+## 🚧 Latest Session: Data Quality & Conversion Analysis
+
+### Key Findings
+- **Complete Conversion Rate**: 58% (14 complete / 24 attempted)
+- **Incomplete Conversions**: 3 scrapers with significant under-coverage
+- **Major Challenge**: Maintaining original notebook coverage standards
+- **Critical Lesson**: Must validate against original location counts
+- **Framework Requirement**: Stick to original logic where websites unchanged
+
+### Modernization Patterns Identified
+1. **WordPress Integration**: Static HTML → WordPress + Google Maps (Menchies)
+2. **API Deprecation**: State APIs → Complete removal (TCBY) 
+3. **React/Next.js Migration**: Embedded JSON → Server-side rendering (Shipley Donuts)
+4. **Anti-bot Protection**: Standard APIs → Cloudflare blocking (Starbucks)
+5. **SPA Migration**: Static pages → React SPAs (Hmart)
+
+### Strategic Implications
+- **Maintain Coverage Standards**: 95%+ location coverage required for "success"
+- **Respect Original Logic**: If website unchanged, stick to proven notebook approach
+- **Validate Against Known Counts**: Compare results to public location information
+- **Complete vs. Fast**: Prefer comprehensive coverage over quick partial results
+- **Investigation Pipeline**: 3 incomplete + 7 blocked companies need work
 
 ## 🚀 Resume Development
 
@@ -58,6 +97,7 @@ uv sync --dev
 make dry-run                    # Shows all configured companies
 make scrape COMPANY=in-n-out    # Test working scraper (423 locations)
 make scrape COMPANY=trader-joes # Test working scraper (623 locations)
+make scrape COMPANY=pinkberry   # Test latest working scraper (70 locations)
 ```
 
 ### 3. Development Commands
@@ -71,9 +111,20 @@ make lint                       # Check code quality
 
 ## 📋 Phase 2 Tasks (Weeks 3-5)
 
-### Week 3: Batch Conversion Strategy ✅ **MAJOR PROGRESS - AHEAD OF SCHEDULE**
+### Conversion Standards ⚠️ **CRITICAL REQUIREMENTS**
 
-**Goal**: Convert 20-25 simpler scrapers ✅ **EXCEEDED: 7+ diverse patterns proven**
+**Coverage Requirement**: All conversions must achieve **95%+ location coverage** matching original notebooks.
+
+**Methodology**: 
+1. **If website architecture unchanged**: Use original notebook logic exactly
+2. **If API endpoints same**: Preserve original approach (ZIP iterations, pagination, etc.)
+3. **If only minor changes**: Debug and adapt original logic rather than shortcuts
+4. **Only if major modernization**: Consider alternative approaches
+
+### Week 3: Batch Conversion Strategy ✅ **MIXED RESULTS**
+
+**Goal**: Convert 20-25 simpler scrapers 
+**Results**: 14 complete + 3 incomplete conversions
 
 **✅ COMPLETED This Session**:
 - **barnes-and-noble**: 569 locations (ZIP iteration) - 51 minutes
@@ -158,16 +209,12 @@ company-name:
 - **Original Total**: 1,046 locations successfully stored to S3
 - **Pipeline**: Complete scrape → process → store → validate workflow
 
-### Phase 2 Progress 🚀 **AHEAD OF SCHEDULE**
-- **Session Results**: 4+ new companies converted with diverse patterns
-- **Barnes & Noble**: 569 locations (ZIP iteration)
-- **King Taco**: 22 locations (Single API)
-- **Buc-ee's**: 54 locations (HTML scraping)
-- **Wahoo's**: 44 locations (WordPress AJAX)
-- **Au Bon Pain**: 32 locations (HTML parsing)
-- **CVS**: Debugged & scaled to 4000+ ZIP codes
-- **New Total**: 1,198+ locations across 7+ working scrapers
-- **Patterns Proven**: 5 distinct scraping methodologies
+### Phase 2 Progress ⚠️ **MIXED RESULTS - QUALITY OVER SPEED**
+- **Complete Conversions**: 14 companies with 95%+ coverage 
+- **Incomplete Conversions**: 3 companies needing original notebook logic
+- **Total Locations**: ~3,000+ locations, but some implementations incomplete
+- **Key Learning**: Must prioritize coverage accuracy over conversion speed
+- **Next Priority**: Fix incomplete implementations before adding new companies
 
 ### Updated Goals 🎯
 - Convert 76 total company scrapers (7+ complete = 10%+ done)

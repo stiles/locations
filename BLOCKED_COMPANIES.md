@@ -29,6 +29,54 @@ Companies that need further investigation or have technical challenges preventin
 - **Action Needed**: Reverse engineer new API or find alternative endpoint
 - **Priority**: Medium (moderate dataset, investigation time)
 
+### 🔄 Menchies (Website Modernization)  
+- **Issue**: Store locator migrated to dynamic JavaScript/WordPress integration
+- **Pattern**: Was HTML parsing (`div.loc-info`), now dynamic loading
+- **Status**: Original HTML structure no longer exists
+- **Expected**: ~30 locations
+- **Action Needed**: Investigate WordPress API or Google Maps integration
+- **Priority**: Low (small dataset)
+
+### 🔄 TCBY (API Deprecation)
+- **Issue**: State-by-state API endpoints no longer exist
+- **Pattern**: Was state iteration (`/api/geo/{state}/`), now 404 errors
+- **Status**: Original API completely removed
+- **Expected**: ~50 locations
+- **Action Needed**: Find new store locator or API endpoints
+- **Priority**: Low (small dataset)
+
+### 🔄 Shipley Donuts (Next.js Migration)
+- **Issue**: Website migrated to Next.js/React with server-side rendering
+- **Pattern**: Was inline JavaScript JSON (`locations_meta`), now SSR
+- **Status**: Original embedded JSON pattern no longer works
+- **Expected**: ~320 locations
+- **Action Needed**: Investigate Next.js API routes or client-side data loading
+- **Priority**: Medium (moderate dataset)
+
+### 🔄 Hollister (API Modernization)
+- **Issue**: Store locator API endpoints changed or removed
+- **Pattern**: Was ZIP iteration with search radius API
+- **Status**: Original API returns 400 Bad Request errors
+- **Expected**: ~104 locations
+- **Action Needed**: Find new store locator API or alternative endpoints
+- **Priority**: Low (small dataset)
+
+### 🔄 Crumbl Cookies (Next.js Build ID Change)
+- **Issue**: Next.js static data API requires dynamic build ID
+- **Pattern**: Was Next.js static data endpoint with hardcoded build ID
+- **Status**: Build ID changes with each deployment, causing 404 errors
+- **Expected**: ~610 locations
+- **Action Needed**: Dynamic build ID extraction or alternative API discovery
+- **Priority**: Medium (significant dataset)
+
+### 🚫 Wendy's (Anti-bot Protection)
+- **Issue**: API returns 403 Forbidden errors with rapid ZIP code iteration
+- **Pattern**: ZIP code iteration with location search API
+- **Status**: Worked in original notebook (6,160 locations), now blocked by bot detection
+- **Expected**: ~6,160 locations (based on original notebook results)
+- **Action Needed**: Investigate slower rate limiting, proxy rotation, or headers modification
+- **Priority**: High (large dataset, originally successful)
+
 ---
 
 ## Investigation Notes
@@ -58,12 +106,13 @@ Companies that need further investigation or have technical challenges preventin
 ## Success Rate Tracking
 
 **Total Target**: 76 companies  
-**Successfully Converted**: 8 companies (10.5%)  
-**Blocked/Challenging**: 2 companies (2.6%)  
-**Remaining**: 66 companies (86.8%)
+**Successfully Converted**: 14 companies (18.4%)  
+**Blocked/Challenging**: 8 companies (10.5%)  
+**Remaining**: 54 companies (71.1%)
 
-**Success Patterns Proven**: 5 distinct scraping methodologies  
-**Architecture Validation**: Complete ✅
+**Success Patterns Proven**: 7 distinct scraping methodologies  
+**Architecture Validation**: Complete ✅  
+**Total Locations Processed**: 3,086+ locations
 
 ---
 
