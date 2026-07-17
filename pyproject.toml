@@ -1,0 +1,36 @@
+[project]
+name = "locations"
+version = "0.1.0"
+description = "Scrapers that collect the locations of popular retail chains and restaurants"
+requires-python = ">=3.13"
+dependencies = [
+    "aiohttp",
+    "altair",
+    "altair-stiles",
+    "beautifulsoup4",
+    "black",
+    "circlify",
+    "fiona",
+    "geopandas",
+    "html5lib",
+    "ipympl",
+    "jenkspy",
+    "jupyter-black",
+    "jupyterlab",
+    "lxml",
+    "matplotlib",
+    "numpy",
+    "openpyxl",
+    "pandas",
+    "pyarrow",
+    "pyogrio",
+    "requests",
+    "rtree",
+    "scikit-learn",
+    "squarify",
+    "tqdm",
+    "us",
+    "usaddress",
+    "vega-datasets",
+    "xlrd",
+]

@@ -23,10 +23,10 @@ An expanding collection of data scrapers designed to gather location details on 
 | Home Improvement          |     1 |  2,002 |
 | Jewelry                   |     1 |    234 |
 | Pet Supplies              |     1 |    121 |
-| Retail Stores             |    20 | 64,340 |
+| Retail Stores             |    21 | 66,315 |
 | Shoes & Accessories       |     1 |    439 |
 | Specialty Foods           |     5 |   1856 |
-| **Total collected**               |    **76** | **202,664** |
+| **Total collected**               |    **77** | **204,639** |
 
 ### All the companies 
 
@@ -62,6 +62,7 @@ An expanding collection of data scrapers designed to gather location details on 
 | [Dunkin Donuts](https://github.com/stiles/locations/tree/main/dunkin-donuts)           | Fast Food & Quick Service |     9,538 |
 | [El Pollo Loco](https://github.com/stiles/locations/tree/main/el-pollo-loco)           | Fast Food & Quick Service |       500 |
 | [Family Dollar](https://github.com/stiles/locations/tree/main/family-dollar)                     | Retail Stores |       8,389 |
+| [Five Below](https://github.com/stiles/locations/tree/main/five-below)                     | Retail Stores |       1,975 |
 | [Ford dealers](https://github.com/stiles/locations/tree/main/ford)           | Automotive |       2,901 |
 | [Forever 21](https://github.com/stiles/locations/tree/main/forever-21)                               | Retail Stores             |     380 |
 | [Giant Food Stores](https://github.com/stiles/locations/tree/main/giant)               | Food & Beverage           |       165 |
@@ -125,17 +126,13 @@ This repository serves as a non-commercial project to practice data scraping ski
 
 ### Prerequisites
 
-Before you begin, ensure you have the following installed on your system:
-- Python 3.10
-- [Jupyter Lab](https://jupyter.org/install)
+Before you begin, ensure you have [`uv`](https://docs.astral.sh/uv/getting-started/installation/) installed on your system. It manages Python versions, the virtual environment and dependencies for this repo.
 
-We recommend using a virtual environment for Python projects. For this repo, [`pipenv`](https://pipenv.pypa.io/en/latest/) is the chosen manager.
-
-### Getting Started
+### Getting started
 
 Follow these steps to prepare your environment:
 
-#### 1. **Clone the repo**
+#### 1. Clone the repo
 
 First, clone this repository to your local machine and navigate into it using your terminal:
 
@@ -144,30 +141,22 @@ git clone <repository-url>
 cd <repository-name>
 ```
 
-#### 2. **Create a virtual environment**
-Inside the repository directory, initiate a virtual environment using pipenv:
+#### 2. Install dependencies
 
+Inside the repository directory, run:
+
+```bash
+uv sync
 ```
-pipenv shell
-```
 
-This command creates a virtual environment and activates it.
-
-#### 3. Install dependencies
-
-Install the required dependencies, including [Pandas](https://pandas.pydata.org/), [Geopandas](https://geopandas.org/en/stable/) and others, with the following command:
-
-```
-pipenv install
-```
+This command creates a virtual environment at `.venv` and installs the required dependencies, including [Pandas](https://pandas.pydata.org/), [Geopandas](https://geopandas.org/en/stable/) and others.
 
 ### Launching Jupyter Lab
 
 With your environment set up and dependencies installed, you are ready to start working with the notebooks:
 
-
-```
-jupyter lab
+```bash
+uv run jupyter lab
 ```
 
 This command launches Jupyter Lab in your browser, where you can open, edit and run the notebooks.

@@ -1,5 +1,7 @@
 .ipynb_checkpoints
 .DS_Store
+.venv/
+__pycache__/
 _drafts/
 _template/
 _drafts
